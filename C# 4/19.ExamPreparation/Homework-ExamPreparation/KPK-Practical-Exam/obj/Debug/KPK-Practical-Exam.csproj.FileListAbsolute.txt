@@ -1,0 +1,14 @@
+C:\NAKOV\High-Quality-Programming-Code-Course\2013\19. Exam-Preparation\KPK-Practical-Exam\bin\Debug\KPK-Practical-Exam.exe
+C:\NAKOV\High-Quality-Programming-Code-Course\2013\19. Exam-Preparation\KPK-Practical-Exam\bin\Debug\KPK-Practical-Exam.pdb
+C:\NAKOV\High-Quality-Programming-Code-Course\2013\19. Exam-Preparation\KPK-Practical-Exam\bin\Debug\PowerCollections.dll
+C:\NAKOV\High-Quality-Programming-Code-Course\2013\19. Exam-Preparation\KPK-Practical-Exam\bin\Debug\PowerCollections.xml
+C:\NAKOV\High-Quality-Programming-Code-Course\2013\19. Exam-Preparation\KPK-Practical-Exam\obj\Debug\KPK-Practical-Exam.csprojResolveAssemblyReference.cache
+C:\NAKOV\High-Quality-Programming-Code-Course\2013\19. Exam-Preparation\KPK-Practical-Exam\obj\Debug\KPK-Practical-Exam.exe
+C:\NAKOV\High-Quality-Programming-Code-Course\2013\19. Exam-Preparation\KPK-Practical-Exam\obj\Debug\KPK-Practical-Exam.pdb
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\KPK-Practical-Exam\obj\Debug\KPK-Practical-Exam.exe
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\KPK-Practical-Exam\obj\Debug\KPK-Practical-Exam.pdb
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\KPK-Practical-Exam\bin\Debug\KPK-Practical-Exam.exe
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\KPK-Practical-Exam\bin\Debug\KPK-Practical-Exam.pdb
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\KPK-Practical-Exam\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\KPK-Practical-Exam\bin\Debug\PowerCollections.xml
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\KPK-Practical-Exam\obj\Debug\KPK-Practical-Exam.csprojResolveAssemblyReference.cache

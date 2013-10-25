@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\Homework-NamingIdentifiers\Minesweeper\bin\Debug\Minesweeper.exe
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\Homework-NamingIdentifiers\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\Homework-NamingIdentifiers\Minesweeper\obj\Debug\Minesweeper.exe
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\Homework-NamingIdentifiers\Minesweeper\obj\Debug\Minesweeper.pdb

@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StringExtensions</name>
+    </assembly>
+    <members>
+        <member name="T:Telerik.ILS.Common.StringExtensions">
+            <summary>
+            Contains extension methods of string.
+            </summary>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            Create hash function of string.
+            </summary>
+            <param name="input">String for which is looking hash function.</param>
+            <returns>Hash code of input string.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Check if answer is positive or doesn't.
+            </summary>
+            <param name="input">Check if string is positive(e.g. true, ok, "1", yes).</param>
+            <returns>True if input string is positive word and False in other cases.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToShort(System.String)">
+            <summary>
+            Convert string to short data type.
+            </summary>
+            <param name="input">String that will be converted to short.</param>
+            <returns>Number as short data type.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToInteger(System.String)">
+            <summary>
+            Convert string to integer data type.
+            </summary>
+            <param name="input">String that will be converted to integer.</param>
+            <returns>Number as integer data type.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToLong(System.String)">
+            <summary>
+            Convert string to long data type.
+            </summary>
+            <param name="input">String that will be converted to long.</param>
+            <returns>Number as long data type.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Convert string to DateTime type.
+            </summary>
+            <param name="input">String that will be converted to DateTime.</param>
+            <returns>New DateTime.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Make first letter of string in upper case.
+            </summary>
+            <param name="input">String that will be changed first letter.</param>
+            <returns>New string with upper case first letter.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Find string between two other strings.
+            </summary>
+            <param name="input">String where be searched.</param>
+            <param name="startString">Substring from where start searching.</param>
+            <param name="endString">Substring where stop searching.</param>
+            <param name="startFrom">Optional: from where to start searching. Default is zero.</param>
+            <returns>New string located between startString and endString.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            Convert string from cyrillic to latin.
+            </summary>
+            <param name="input">String that will be converted.</param>
+            <returns>New string with latin letters.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            Convert string from latin to cyrillic.
+            </summary>
+            <param name="input">String that will be converted.</param>
+            <returns>New string with cyrillic letters.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            Remove invalid characters from string and make it valid.
+            </summary>
+            <param name="input">String that will be validated.</param>
+            <returns>New string with valid characters only.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Validated file name.
+            </summary>
+            <param name="input">String that will be validated.</param>
+            <returns>New string in valid for file name format.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Find first characters of string.
+            </summary>
+            <param name="input">String where will be searched.</param>
+            <param name="charsCount">Number of chars from zero which we want to get.</param>
+            <returns>Substring from zero to charsCount.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            Find file extension from file name.
+            </summary>
+            <param name="fileName">File name is string.</param>
+            <returns>File extension as string.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToContentType(System.String)">
+            <summary>
+            Find content type from file extension.
+            </summary>
+            <param name="fileExtension">File extension as string(e.g. jpg, doc).</param>
+            <returns>File content(e.g. image/jpeg, application/msword).</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Make deep copy of string and convert it to byte array.
+            </summary>
+            <param name="input">String that will be converted to bytes array.</param>
+            <returns>New bytes array with content bytes of input string.</returns>
+            <see cref="!:System.Buffer.BlockCopy()"/>
+        </member>
+    </members>
+</doc>

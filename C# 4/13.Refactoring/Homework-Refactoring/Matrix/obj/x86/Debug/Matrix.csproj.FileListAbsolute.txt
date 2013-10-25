@@ -1,0 +1,9 @@
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\12. Refactoring-Demo-Homework\obj\x86\Debug\GameFifteen.exe
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\12. Refactoring-Demo-Homework\bin\Debug\GameFifteen.exe
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\12. Refactoring-Demo-Homework\bin\Debug\GameFifteen.pdb
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\12. Refactoring-Demo-Homework\obj\x86\Debug\GameFifteen.pdb
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\12. Refactoring-Demo-Homework\obj\x86\Debug\Matrix.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\Homework-Refactoring\Homework-Refactoring\Matrix\obj\x86\Debug\GameFifteen.exe
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\Homework-Refactoring\Homework-Refactoring\Matrix\obj\x86\Debug\GameFifteen.pdb
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\Homework-Refactoring\Matrix\obj\x86\Debug\GameFifteen.exe
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\Homework-Refactoring\Matrix\obj\x86\Debug\GameFifteen.pdb

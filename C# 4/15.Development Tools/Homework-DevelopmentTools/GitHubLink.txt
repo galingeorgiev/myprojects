@@ -1,0 +1,6 @@
+Upload anonymously a project to a project hosting site
+(GitHub, Google Code, etc.) and provide a public link to the project.
+The project can be from your homework.
+
+
+https://github.com/AnonymousTelerikStudent/Homework-DevelopmentTools

@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 4\04. Code Documentation and Comments\Homework-DocumentationAndComments\bin\Debug\StringExtensions.dll
+D:\Telerik Academy\Telerik\C# 4\04. Code Documentation and Comments\Homework-DocumentationAndComments\bin\Debug\StringExtensions.pdb
+D:\Telerik Academy\Telerik\C# 4\04. Code Documentation and Comments\Homework-DocumentationAndComments\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\04. Code Documentation and Comments\Homework-DocumentationAndComments\obj\Debug\StringExtensions.dll
+D:\Telerik Academy\Telerik\C# 4\04. Code Documentation and Comments\Homework-DocumentationAndComments\obj\Debug\StringExtensions.pdb
+D:\Telerik Academy\Telerik\C# 4\04. Code Documentation and Comments\Homework-DocumentationAndComments\bin\Debug\StringExtensions.XML

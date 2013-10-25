@@ -1,0 +1,10 @@
+C:\Telerik\2013\High Quality Code\2013\Exam\Events-Problem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Telerik\2013\High Quality Code\2013\Exam\Events-Problem\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Telerik\2013\High Quality Code\2013\Exam\Events-Problem\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Dev\2013\High-Quality Code\2013\Exam\Events-Problem\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Problem\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Problem\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Problem\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Problem\ConsoleApplication1\bin\Debug\PowerCollections.dll
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Problem\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Problem\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

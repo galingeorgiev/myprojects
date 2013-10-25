@@ -1,0 +1,7 @@
+D:\Telerik Academy\Telerik\C# 4\11.Unit-Testing\Homework-UnitTesting\Homework-UnitTesting\SchoolHierarchy.Tests\bin\Debug\SchoolHierarchy.Tests.dll
+D:\Telerik Academy\Telerik\C# 4\11.Unit-Testing\Homework-UnitTesting\Homework-UnitTesting\SchoolHierarchy.Tests\bin\Debug\SchoolHierarchy.Tests.pdb
+D:\Telerik Academy\Telerik\C# 4\11.Unit-Testing\Homework-UnitTesting\Homework-UnitTesting\SchoolHierarchy.Tests\obj\Debug\SchoolHierarchy.Tests.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\11.Unit-Testing\Homework-UnitTesting\Homework-UnitTesting\SchoolHierarchy.Tests\obj\Debug\SchoolHierarchy.Tests.dll
+D:\Telerik Academy\Telerik\C# 4\11.Unit-Testing\Homework-UnitTesting\Homework-UnitTesting\SchoolHierarchy.Tests\obj\Debug\SchoolHierarchy.Tests.pdb
+D:\Telerik Academy\Telerik\C# 4\11.Unit-Testing\Homework-UnitTesting\Homework-UnitTesting\SchoolHierarchy.Tests\bin\Debug\SchoolHierarchy.dll
+D:\Telerik Academy\Telerik\C# 4\11.Unit-Testing\Homework-UnitTesting\Homework-UnitTesting\SchoolHierarchy.Tests\bin\Debug\SchoolHierarchy.pdb

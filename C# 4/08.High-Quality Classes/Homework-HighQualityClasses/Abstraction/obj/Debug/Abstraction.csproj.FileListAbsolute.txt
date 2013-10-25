@@ -1,0 +1,9 @@
+D:\My folder\Telerik Academy\C# 4\Classes\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 4\Classes\Abstraction\bin\Debug\Abstraction.exe
+D:\My folder\Telerik Academy\C# 4\Classes\Abstraction\bin\Debug\Abstraction.pdb
+D:\My folder\Telerik Academy\C# 4\Classes\Abstraction\obj\Debug\Abstraction.exe
+D:\My folder\Telerik Academy\C# 4\Classes\Abstraction\obj\Debug\Abstraction.pdb
+G:\Telerik\Homeworks\Classes\Abstraction\obj\Debug\Abstraction.exe
+G:\Telerik\Homeworks\Classes\Abstraction\obj\Debug\Abstraction.pdb
+D:\Telerik Academy\Telerik\C# 4\08.High-Quality Classes\Homework-HighQualityClasses\Abstraction\obj\Debug\Abstraction.exe
+D:\Telerik Academy\Telerik\C# 4\08.High-Quality Classes\Homework-HighQualityClasses\Abstraction\obj\Debug\Abstraction.pdb

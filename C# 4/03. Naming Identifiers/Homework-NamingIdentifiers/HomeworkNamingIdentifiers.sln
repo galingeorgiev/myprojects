@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.RefactorCSharpCode", "1.RefactorCSharpCode\1.RefactorCSharpCode.csproj", "{D5831245-D36D-4573-99BD-38DB8A760DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.RefactorCSharpCodePartTwo", "2.RefactorCSharpCodePartTwo\2.RefactorCSharpCodePartTwo.csproj", "{2A86F690-7C35-4D75-821A-822B58F6974E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper", "Minesweeper\Minesweeper.csproj", "{B20E8DFD-5F12-4358-849D-1F25806E9052}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RefactorJSCode", "RefactorJSCode\", "{27D94DCE-7232-43EB-96A5-E833AC0E3995}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50329"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5831245-D36D-4573-99BD-38DB8A760DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5831245-D36D-4573-99BD-38DB8A760DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5831245-D36D-4573-99BD-38DB8A760DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5831245-D36D-4573-99BD-38DB8A760DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A86F690-7C35-4D75-821A-822B58F6974E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A86F690-7C35-4D75-821A-822B58F6974E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A86F690-7C35-4D75-821A-822B58F6974E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A86F690-7C35-4D75-821A-822B58F6974E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20E8DFD-5F12-4358-849D-1F25806E9052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20E8DFD-5F12-4358-849D-1F25806E9052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20E8DFD-5F12-4358-849D-1F25806E9052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20E8DFD-5F12-4358-849D-1F25806E9052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D94DCE-7232-43EB-96A5-E833AC0E3995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D94DCE-7232-43EB-96A5-E833AC0E3995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D94DCE-7232-43EB-96A5-E833AC0E3995}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D94DCE-7232-43EB-96A5-E833AC0E3995}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\10. Code-Tuning-and-Optimization-Homework\bin\Debug\SolarSystem.exe
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\10. Code-Tuning-and-Optimization-Homework\bin\Debug\SolarSystem.pdb
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\10. Code-Tuning-and-Optimization-Homework\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\10. Code-Tuning-and-Optimization-Homework\obj\Debug\MainWindow.g.cs
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\10. Code-Tuning-and-Optimization-Homework\obj\Debug\App.g.cs
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\10. Code-Tuning-and-Optimization-Homework\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\10. Code-Tuning-and-Optimization-Homework\obj\Debug\SolarSystem_MarkupCompile.cache
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\10. Code-Tuning-and-Optimization-Homework\obj\Debug\SolarSystem_MarkupCompile.lref
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\10. Code-Tuning-and-Optimization-Homework\obj\Debug\MainWindow.baml
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\10. Code-Tuning-and-Optimization-Homework\obj\Debug\SolarSystem.g.resources
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\10. Code-Tuning-and-Optimization-Homework\obj\Debug\SolarSystem.exe
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\10. Code-Tuning-and-Optimization-Homework\obj\Debug\SolarSystem.pdb
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\obj\Debug\SolarSystem.exe
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\obj\Debug\SolarSystem.pdb
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\bin\Debug\SolarSystem.exe
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\bin\Debug\SolarSystem.pdb
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\obj\Debug\MainWindow.g.cs
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\obj\Debug\App.g.cs
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\obj\Debug\SolarSystem_MarkupCompile.cache
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\obj\Debug\SolarSystem_MarkupCompile.lref
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\obj\Debug\MainWindow.baml
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\obj\Debug\SolarSystem.g.resources
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\SolarSystemOptimaized\bin\Debug\SolarSystem.exe
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\SolarSystemOptimaized\bin\Debug\SolarSystem.pdb
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\SolarSystemOptimaized\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\SolarSystemOptimaized\obj\Debug\MainWindow.g.cs
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\SolarSystemOptimaized\obj\Debug\App.g.cs
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\SolarSystemOptimaized\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\SolarSystemOptimaized\obj\Debug\SolarSystem_MarkupCompile.cache
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\SolarSystemOptimaized\obj\Debug\SolarSystem_MarkupCompile.lref
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\SolarSystemOptimaized\obj\Debug\MainWindow.baml
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\SolarSystemOptimaized\obj\Debug\SolarSystem.g.resources
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\SolarSystemOptimaized\obj\Debug\SolarSystem.exe
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\SolarSystemOptimaized\obj\Debug\SolarSystem.pdb

@@ -1,0 +1,6 @@
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\NumbersPerformanceTest\bin\Debug\NumbersPerformanceTest.exe.config
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\NumbersPerformanceTest\bin\Debug\NumbersPerformanceTest.exe
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\NumbersPerformanceTest\bin\Debug\NumbersPerformanceTest.pdb
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\NumbersPerformanceTest\obj\Debug\NumbersPerformanceTest.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\NumbersPerformanceTest\obj\Debug\NumbersPerformanceTest.exe
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\NumbersPerformanceTest\obj\Debug\NumbersPerformanceTest.pdb

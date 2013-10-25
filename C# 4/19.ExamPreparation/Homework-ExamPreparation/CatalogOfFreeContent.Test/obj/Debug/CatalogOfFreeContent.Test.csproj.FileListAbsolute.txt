@@ -1,0 +1,9 @@
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\CatalogOfFreeContent.Test\bin\Debug\CatalogOfFreeContent.Test.dll
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\CatalogOfFreeContent.Test\bin\Debug\CatalogOfFreeContent.Test.pdb
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\CatalogOfFreeContent.Test\obj\Debug\CatalogOfFreeContent.Test.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\CatalogOfFreeContent.Test\obj\Debug\CatalogOfFreeContent.Test.dll
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\CatalogOfFreeContent.Test\obj\Debug\CatalogOfFreeContent.Test.pdb
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\CatalogOfFreeContent.Test\bin\Debug\KPK-Practical-Exam.exe
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\CatalogOfFreeContent.Test\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\CatalogOfFreeContent.Test\bin\Debug\KPK-Practical-Exam.pdb
+D:\Telerik Academy\Telerik\C# 4\19.ExamPreparation\CatalogOfFreeContent.Test\bin\Debug\PowerCollections.xml

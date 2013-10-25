@@ -1,0 +1,9 @@
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\MathematicOperationsPerformanceTest\obj\Debug\MathematicOperationsPerformanceTest.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\MathematicOperationsPerformanceTest\bin\Debug\MathematicOperationsPerformanceTest.exe.config
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\MathematicOperationsPerformanceTest\bin\Debug\MathematicOperationsPerformanceTest.exe
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\MathematicOperationsPerformanceTest\bin\Debug\MathematicOperationsPerformanceTest.pdb
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\MathematicOperationsPerformanceTest\obj\Debug\MathematicOperationsPerformanceTest.exe
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\MathematicOperationsPerformanceTest\obj\Debug\MathematicOperationsPerformanceTest.pdb
+G:\Telerik\Homeworks\CodeTuning\Performance\MathematicOperationsPerformanceTest\bin\Debug\MathematicOperationsPerformanceTest.exe.config
+G:\Telerik\Homeworks\CodeTuning\Performance\MathematicOperationsPerformanceTest\obj\Debug\MathematicOperationsPerformanceTest.exe
+G:\Telerik\Homeworks\CodeTuning\Performance\MathematicOperationsPerformanceTest\obj\Debug\MathematicOperationsPerformanceTest.pdb

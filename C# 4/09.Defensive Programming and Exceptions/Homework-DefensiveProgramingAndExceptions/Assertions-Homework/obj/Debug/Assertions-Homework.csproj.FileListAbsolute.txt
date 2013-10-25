@@ -1,0 +1,5 @@
+D:\My folder\Telerik Academy\C# 4\Defensive Programming and Exceptions\9. Assertions-and-Exceptions-Homework\Assertions-Homework\bin\Debug\Assertions-Homework.exe
+D:\My folder\Telerik Academy\C# 4\Defensive Programming and Exceptions\9. Assertions-and-Exceptions-Homework\Assertions-Homework\bin\Debug\Assertions-Homework.pdb
+D:\My folder\Telerik Academy\C# 4\Defensive Programming and Exceptions\9. Assertions-and-Exceptions-Homework\Assertions-Homework\obj\Debug\Assertions-Homework.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 4\Defensive Programming and Exceptions\9. Assertions-and-Exceptions-Homework\Assertions-Homework\obj\Debug\Assertions-Homework.exe
+D:\My folder\Telerik Academy\C# 4\Defensive Programming and Exceptions\9. Assertions-and-Exceptions-Homework\Assertions-Homework\obj\Debug\Assertions-Homework.pdb

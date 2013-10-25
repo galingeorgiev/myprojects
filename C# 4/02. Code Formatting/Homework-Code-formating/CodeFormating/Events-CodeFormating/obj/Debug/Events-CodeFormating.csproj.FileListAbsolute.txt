@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\C# 4\02. Code Formatting\Homework-Code-formating\CodeFormating\Events-CodeFormating\bin\Debug\Events-CodeFormating.exe.config
+D:\Telerik Academy\Telerik\C# 4\02. Code Formatting\Homework-Code-formating\CodeFormating\Events-CodeFormating\obj\Debug\Events-CodeFormating.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\02. Code Formatting\Homework-Code-formating\CodeFormating\Events-CodeFormating\bin\Debug\Events-CodeFormating.exe
+D:\Telerik Academy\Telerik\C# 4\02. Code Formatting\Homework-Code-formating\CodeFormating\Events-CodeFormating\bin\Debug\Events-CodeFormating.pdb
+D:\Telerik Academy\Telerik\C# 4\02. Code Formatting\Homework-Code-formating\CodeFormating\Events-CodeFormating\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 4\02. Code Formatting\Homework-Code-formating\CodeFormating\Events-CodeFormating\bin\Debug\PowerCollections.xml
+D:\Telerik Academy\Telerik\C# 4\02. Code Formatting\Homework-Code-formating\CodeFormating\Events-CodeFormating\obj\Debug\Events-CodeFormating.exe
+D:\Telerik Academy\Telerik\C# 4\02. Code Formatting\Homework-Code-formating\CodeFormating\Events-CodeFormating\obj\Debug\Events-CodeFormating.pdb

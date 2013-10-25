@@ -1,0 +1,7 @@
+D:\My folder\Telerik Academy\C# 4\Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+D:\My folder\Telerik Academy\C# 4\Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+D:\My folder\Telerik Academy\C# 4\Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 4\Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+D:\My folder\Telerik Academy\C# 4\Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
+G:\Telerik\Homeworks\Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+G:\Telerik\Homeworks\Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\RefactorCodeIfStat\bin\Debug\RefactorCodeIfStat.exe.config
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\RefactorCodeIfStat\bin\Debug\RefactorCodeIfStat.exe
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\RefactorCodeIfStat\bin\Debug\RefactorCodeIfStat.pdb
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\RefactorCodeIfStat\obj\Debug\RefactorCodeIfStat.exe
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\RefactorCodeIfStat\obj\Debug\RefactorCodeIfStat.pdb

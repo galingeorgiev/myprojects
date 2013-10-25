@@ -1,0 +1,9 @@
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\NumbersPerformanceTest\bin\Debug\NumbersPerformanceTest.exe.config
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\NumbersPerformanceTest\obj\Debug\NumbersPerformanceTest.exe
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\NumbersPerformanceTest\obj\Debug\NumbersPerformanceTest.pdb
+G:\Telerik\Homeworks\CodeTuning\Performance\NumbersPerformanceTest\bin\Debug\NumbersPerformanceTest.exe.config
+G:\Telerik\Homeworks\CodeTuning\Performance\NumbersPerformanceTest\obj\Debug\NumbersPerformanceTest.exe
+G:\Telerik\Homeworks\CodeTuning\Performance\NumbersPerformanceTest\obj\Debug\NumbersPerformanceTest.pdb
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\NumbersPerformanceTest\bin\Debug\NumbersPerformanceTest.exe.config
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\NumbersPerformanceTest\obj\Debug\NumbersPerformanceTest.exe
+D:\Telerik Academy\Telerik\C# 4\10.Code-Tuning-and-Optimization\Homework-CodeTuningAndOptimization\NumbersPerformanceTest\obj\Debug\NumbersPerformanceTest.pdb

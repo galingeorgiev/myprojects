@@ -1,0 +1,9 @@
+D:\My folder\Telerik Academy\C# 4\Methods\7. High-Quality-Methods-Homework\Methods\bin\Debug\Methods.exe
+D:\My folder\Telerik Academy\C# 4\Methods\7. High-Quality-Methods-Homework\Methods\bin\Debug\Methods.pdb
+D:\My folder\Telerik Academy\C# 4\Methods\7. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 4\Methods\7. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.exe
+D:\My folder\Telerik Academy\C# 4\Methods\7. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.pdb
+G:\Telerik\Homeworks\Methods\7. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.exe
+G:\Telerik\Homeworks\Methods\7. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.pdb
+D:\Telerik Academy\Telerik\C# 4\07.High-Quality Methods\Homework-HighQualityMethods\Methods\obj\Debug\Methods.exe
+D:\Telerik Academy\Telerik\C# 4\07.High-Quality Methods\Homework-HighQualityMethods\Methods\obj\Debug\Methods.pdb

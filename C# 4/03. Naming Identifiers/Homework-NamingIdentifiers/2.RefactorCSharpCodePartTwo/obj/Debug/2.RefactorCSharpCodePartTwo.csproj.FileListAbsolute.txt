@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\3. Naming-Identifiers-Homework\2.RefactorCSharpCodePartTwo\bin\Debug\2.RefactorCSharpCodePartTwo.exe.config
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\3. Naming-Identifiers-Homework\2.RefactorCSharpCodePartTwo\bin\Debug\2.RefactorCSharpCodePartTwo.exe
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\3. Naming-Identifiers-Homework\2.RefactorCSharpCodePartTwo\bin\Debug\2.RefactorCSharpCodePartTwo.pdb
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\3. Naming-Identifiers-Homework\2.RefactorCSharpCodePartTwo\obj\Debug\2.RefactorCSharpCodePartTwo.exe
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\3. Naming-Identifiers-Homework\2.RefactorCSharpCodePartTwo\obj\Debug\2.RefactorCSharpCodePartTwo.pdb
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\Homework-NamingIdentifiers\2.RefactorCSharpCodePartTwo\bin\Debug\2.RefactorCSharpCodePartTwo.exe.config
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\Homework-NamingIdentifiers\2.RefactorCSharpCodePartTwo\obj\Debug\2.RefactorCSharpCodePartTwo.exe
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\Homework-NamingIdentifiers\2.RefactorCSharpCodePartTwo\obj\Debug\2.RefactorCSharpCodePartTwo.pdb

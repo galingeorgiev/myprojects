@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 4\15.Development Tools\Homework-DevelopmentTools\Homework-DevelopmentTools\SimpleT4Template\bin\Debug\SimpleT4Template.exe.config
+D:\Telerik Academy\Telerik\C# 4\15.Development Tools\Homework-DevelopmentTools\Homework-DevelopmentTools\SimpleT4Template\bin\Debug\SimpleT4Template.exe
+D:\Telerik Academy\Telerik\C# 4\15.Development Tools\Homework-DevelopmentTools\Homework-DevelopmentTools\SimpleT4Template\bin\Debug\SimpleT4Template.pdb
+D:\Telerik Academy\Telerik\C# 4\15.Development Tools\Homework-DevelopmentTools\Homework-DevelopmentTools\SimpleT4Template\obj\Debug\SimpleT4Template.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\15.Development Tools\Homework-DevelopmentTools\Homework-DevelopmentTools\SimpleT4Template\obj\Debug\SimpleT4Template.exe
+D:\Telerik Academy\Telerik\C# 4\15.Development Tools\Homework-DevelopmentTools\Homework-DevelopmentTools\SimpleT4Template\obj\Debug\SimpleT4Template.pdb

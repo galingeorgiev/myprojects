@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\IfStatements\bin\Debug\IfStatements.exe.config
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\IfStatements\obj\Debug\IfStatements.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\IfStatements\bin\Debug\IfStatements.exe
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\IfStatements\bin\Debug\IfStatements.pdb
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\IfStatements\bin\Debug\StraightLine.exe
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\IfStatements\bin\Debug\StraightLine.pdb
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\IfStatements\obj\Debug\IfStatements.exe
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\IfStatements\obj\Debug\IfStatements.pdb

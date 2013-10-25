@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 4\05.Using Variables, Data, Expressions and Constants\Homework-UingVariables\HomeworkUsingVariables\RefactorCodeTask2\bin\Debug\RefactorCodeTask2.exe.config
+D:\Telerik Academy\Telerik\C# 4\05.Using Variables, Data, Expressions and Constants\Homework-UingVariables\HomeworkUsingVariables\RefactorCodeTask2\obj\Debug\RefactorCodeTask2.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\05.Using Variables, Data, Expressions and Constants\Homework-UingVariables\HomeworkUsingVariables\RefactorCodeTask2\bin\Debug\RefactorCodeTask2.exe
+D:\Telerik Academy\Telerik\C# 4\05.Using Variables, Data, Expressions and Constants\Homework-UingVariables\HomeworkUsingVariables\RefactorCodeTask2\bin\Debug\RefactorCodeTask2.pdb
+D:\Telerik Academy\Telerik\C# 4\05.Using Variables, Data, Expressions and Constants\Homework-UingVariables\HomeworkUsingVariables\RefactorCodeTask2\obj\Debug\RefactorCodeTask2.exe
+D:\Telerik Academy\Telerik\C# 4\05.Using Variables, Data, Expressions and Constants\Homework-UingVariables\HomeworkUsingVariables\RefactorCodeTask2\obj\Debug\RefactorCodeTask2.pdb

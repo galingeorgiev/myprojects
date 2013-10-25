@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\Command.Tests\bin\Debug\Command.Tests.dll
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\Command.Tests\bin\Debug\Command.Tests.pdb
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\Command.Tests\bin\Debug\ConsoleApplication1.exe
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\Command.Tests\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\Command.Tests\bin\Debug\ConsoleApplication1.pdb
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\Command.Tests\obj\Debug\Command.Tests.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\Command.Tests\obj\Debug\Command.Tests.dll
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\Command.Tests\obj\Debug\Command.Tests.pdb

@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 4\16.Design Patterns\Homework-DesignPatterns\Builder\BuilderPatternExample\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+D:\Telerik Academy\Telerik\C# 4\16.Design Patterns\Homework-DesignPatterns\Builder\BuilderPatternExample\BuilderPattern\bin\Debug\BuilderPattern.exe
+D:\Telerik Academy\Telerik\C# 4\16.Design Patterns\Homework-DesignPatterns\Builder\BuilderPatternExample\BuilderPattern\bin\Debug\BuilderPattern.pdb
+D:\Telerik Academy\Telerik\C# 4\16.Design Patterns\Homework-DesignPatterns\Builder\BuilderPatternExample\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\16.Design Patterns\Homework-DesignPatterns\Builder\BuilderPatternExample\BuilderPattern\obj\Debug\BuilderPattern.exe
+D:\Telerik Academy\Telerik\C# 4\16.Design Patterns\Homework-DesignPatterns\Builder\BuilderPatternExample\BuilderPattern\obj\Debug\BuilderPattern.pdb

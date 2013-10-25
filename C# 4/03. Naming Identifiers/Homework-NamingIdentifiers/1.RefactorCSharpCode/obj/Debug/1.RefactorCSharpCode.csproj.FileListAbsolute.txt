@@ -1,0 +1,9 @@
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\1.RefactorCSharpCode\obj\Debug\1.RefactorCSharpCode.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\1.RefactorCSharpCode\bin\Debug\1.RefactorCSharpCode.exe.config
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\1.RefactorCSharpCode\bin\Debug\1.RefactorCSharpCode.exe
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\1.RefactorCSharpCode\bin\Debug\1.RefactorCSharpCode.pdb
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\1.RefactorCSharpCode\obj\Debug\1.RefactorCSharpCode.exe
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\1.RefactorCSharpCode\obj\Debug\1.RefactorCSharpCode.pdb
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\Homework-NamingIdentifiers\1.RefactorCSharpCode\bin\Debug\1.RefactorCSharpCode.exe.config
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\Homework-NamingIdentifiers\1.RefactorCSharpCode\obj\Debug\1.RefactorCSharpCode.exe
+D:\Telerik Academy\Telerik\C# 4\03. Naming Identifiers\Homework-NamingIdentifiers\1.RefactorCSharpCode\obj\Debug\1.RefactorCSharpCode.pdb

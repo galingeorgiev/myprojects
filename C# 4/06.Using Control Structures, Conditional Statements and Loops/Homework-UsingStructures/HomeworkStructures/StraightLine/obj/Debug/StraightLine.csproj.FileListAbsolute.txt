@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\StraightLine\bin\Debug\StraightLine.exe.config
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\StraightLine\obj\Debug\StraightLine.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\StraightLine\bin\Debug\StraightLine.exe
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\StraightLine\bin\Debug\StraightLine.pdb
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\StraightLine\obj\Debug\StraightLine.exe
+D:\Telerik Academy\Telerik\C# 4\06.Using Control Structures, Conditional Statements and Loops\Homework-UsingStructures\HomeworkStructures\StraightLine\obj\Debug\StraightLine.pdb

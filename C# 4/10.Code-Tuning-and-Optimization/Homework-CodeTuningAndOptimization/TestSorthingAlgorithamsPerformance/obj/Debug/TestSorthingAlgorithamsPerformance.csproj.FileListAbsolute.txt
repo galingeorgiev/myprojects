@@ -1,0 +1,9 @@
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\TestSorthingAlgorithamsPerformance\bin\Debug\TestSorthingAlgorithamsPerformance.exe.config
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\TestSorthingAlgorithamsPerformance\bin\Debug\TestSorthingAlgorithamsPerformance.exe
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\TestSorthingAlgorithamsPerformance\bin\Debug\TestSorthingAlgorithamsPerformance.pdb
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\TestSorthingAlgorithamsPerformance\obj\Debug\TestSorthingAlgorithamsPerformance.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\TestSorthingAlgorithamsPerformance\obj\Debug\TestSorthingAlgorithamsPerformance.exe
+D:\My folder\Telerik Academy\C# 4\CodeTuning\Performance\TestSorthingAlgorithamsPerformance\obj\Debug\TestSorthingAlgorithamsPerformance.pdb
+G:\Telerik\Homeworks\CodeTuning\Performance\TestSorthingAlgorithamsPerformance\bin\Debug\TestSorthingAlgorithamsPerformance.exe.config
+G:\Telerik\Homeworks\CodeTuning\Performance\TestSorthingAlgorithamsPerformance\obj\Debug\TestSorthingAlgorithamsPerformance.exe
+G:\Telerik\Homeworks\CodeTuning\Performance\TestSorthingAlgorithamsPerformance\obj\Debug\TestSorthingAlgorithamsPerformance.pdb

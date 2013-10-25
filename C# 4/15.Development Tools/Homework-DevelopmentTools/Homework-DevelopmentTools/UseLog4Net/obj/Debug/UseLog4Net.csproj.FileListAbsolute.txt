@@ -1,0 +1,7 @@
+D:\Telerik Academy\Telerik\C# 4\15.Development Tools\Homework-DevelopmentTools\Homework-DevelopmentTools\UseLog4Net\bin\Debug\UseLog4Net.exe.config
+D:\Telerik Academy\Telerik\C# 4\15.Development Tools\Homework-DevelopmentTools\Homework-DevelopmentTools\UseLog4Net\bin\Debug\UseLog4Net.exe
+D:\Telerik Academy\Telerik\C# 4\15.Development Tools\Homework-DevelopmentTools\Homework-DevelopmentTools\UseLog4Net\bin\Debug\UseLog4Net.pdb
+D:\Telerik Academy\Telerik\C# 4\15.Development Tools\Homework-DevelopmentTools\Homework-DevelopmentTools\UseLog4Net\bin\Debug\log4net.dll
+D:\Telerik Academy\Telerik\C# 4\15.Development Tools\Homework-DevelopmentTools\Homework-DevelopmentTools\UseLog4Net\obj\Debug\UseLog4Net.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\15.Development Tools\Homework-DevelopmentTools\Homework-DevelopmentTools\UseLog4Net\obj\Debug\UseLog4Net.exe
+D:\Telerik Academy\Telerik\C# 4\15.Development Tools\Homework-DevelopmentTools\Homework-DevelopmentTools\UseLog4Net\obj\Debug\UseLog4Net.pdb

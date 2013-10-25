@@ -1,0 +1,7 @@
+D:\My folder\Telerik Academy\C# 4\Classes\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+D:\My folder\Telerik Academy\C# 4\Classes\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+D:\My folder\Telerik Academy\C# 4\Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 4\Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+D:\My folder\Telerik Academy\C# 4\Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb
+G:\Telerik\Homeworks\Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+G:\Telerik\Homeworks\Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb

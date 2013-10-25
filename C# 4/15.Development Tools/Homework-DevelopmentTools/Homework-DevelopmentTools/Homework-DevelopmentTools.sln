@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseLog4Net", "UseLog4Net\UseLog4Net.csproj", "{6439BB0D-3F5F-4078-B0AA-18F2A2E46C22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleT4Template", "SimpleT4Template\SimpleT4Template.csproj", "{EC255D81-D309-4856-9A39-76ACCC4429BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6439BB0D-3F5F-4078-B0AA-18F2A2E46C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6439BB0D-3F5F-4078-B0AA-18F2A2E46C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6439BB0D-3F5F-4078-B0AA-18F2A2E46C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6439BB0D-3F5F-4078-B0AA-18F2A2E46C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC255D81-D309-4856-9A39-76ACCC4429BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC255D81-D309-4856-9A39-76ACCC4429BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC255D81-D309-4856-9A39-76ACCC4429BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC255D81-D309-4856-9A39-76ACCC4429BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

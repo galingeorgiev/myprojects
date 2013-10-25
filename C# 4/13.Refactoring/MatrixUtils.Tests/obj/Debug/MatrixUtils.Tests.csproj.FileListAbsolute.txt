@@ -1,0 +1,7 @@
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\MatrixUtils.Tests\bin\Debug\MatrixUtils.Tests.dll
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\MatrixUtils.Tests\bin\Debug\MatrixUtils.Tests.pdb
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\MatrixUtils.Tests\obj\Debug\MatrixUtils.Tests.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\MatrixUtils.Tests\obj\Debug\MatrixUtils.Tests.dll
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\MatrixUtils.Tests\obj\Debug\MatrixUtils.Tests.pdb
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\MatrixUtils.Tests\bin\Debug\GameFifteen.exe
+D:\Telerik Academy\Telerik\C# 4\13.Refactoring\MatrixUtils.Tests\bin\Debug\GameFifteen.pdb

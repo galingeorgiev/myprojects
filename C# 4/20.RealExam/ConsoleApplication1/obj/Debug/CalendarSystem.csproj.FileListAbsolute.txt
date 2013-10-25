@@ -1,0 +1,7 @@
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\ConsoleApplication1\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Telerik Academy\Telerik\C# 4\21.RealExam\ConsoleApplication1\obj\Debug\CalendarSystem.csprojResolveAssemblyReference.cache

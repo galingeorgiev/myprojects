@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 4\12.Test-Driven-Development\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 4\12.Test-Driven-Development\11. Test-Driven-Development-Demo-Homework\bin\Debug\Poker.exe
+D:\Telerik Academy\Telerik\C# 4\12.Test-Driven-Development\11. Test-Driven-Development-Demo-Homework\bin\Debug\Poker.pdb
+D:\Telerik Academy\Telerik\C# 4\12.Test-Driven-Development\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.exe
+D:\Telerik Academy\Telerik\C# 4\12.Test-Driven-Development\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.pdb
