@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\8.MaxSumOf4Elements\bin\Debug\8.MaxSumOf4Elements.exe.config
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\8.MaxSumOf4Elements\bin\Debug\8.MaxSumOf4Elements.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\8.MaxSumOf4Elements\bin\Debug\8.MaxSumOf4Elements.pdb
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\8.MaxSumOf4Elements\obj\Debug\8.MaxSumOf4Elements.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\8.MaxSumOf4Elements\obj\Debug\8.MaxSumOf4Elements.pdb

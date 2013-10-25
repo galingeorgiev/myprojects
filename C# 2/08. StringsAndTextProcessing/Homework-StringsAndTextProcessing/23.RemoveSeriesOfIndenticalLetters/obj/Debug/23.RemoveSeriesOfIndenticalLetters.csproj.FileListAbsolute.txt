@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\23.RemoveSeriesOfIndenticalLetters\bin\Debug\23.RemoveSeriesOfIndenticalLetters.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\23.RemoveSeriesOfIndenticalLetters\bin\Debug\23.RemoveSeriesOfIndenticalLetters.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\23.RemoveSeriesOfIndenticalLetters\bin\Debug\23.RemoveSeriesOfIndenticalLetters.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\23.RemoveSeriesOfIndenticalLetters\obj\Debug\23.RemoveSeriesOfIndenticalLetters.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\23.RemoveSeriesOfIndenticalLetters\obj\Debug\23.RemoveSeriesOfIndenticalLetters.pdb

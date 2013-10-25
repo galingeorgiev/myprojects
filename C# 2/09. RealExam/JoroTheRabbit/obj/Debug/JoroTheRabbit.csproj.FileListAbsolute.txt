@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\RealExam\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe.config
+D:\Telerik Academy\Telerik\C# 2\RealExam\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe
+D:\Telerik Academy\Telerik\C# 2\RealExam\JoroTheRabbit\bin\Debug\JoroTheRabbit.pdb
+D:\Telerik Academy\Telerik\C# 2\RealExam\JoroTheRabbit\obj\Debug\JoroTheRabbit.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\RealExam\JoroTheRabbit\obj\Debug\JoroTheRabbit.exe
+D:\Telerik Academy\Telerik\C# 2\RealExam\JoroTheRabbit\obj\Debug\JoroTheRabbit.pdb

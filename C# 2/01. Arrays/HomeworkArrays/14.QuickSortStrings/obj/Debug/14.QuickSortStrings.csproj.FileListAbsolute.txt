@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\14.QuickSortStrings\bin\Debug\14.QuickSortStrings.exe.config
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\14.QuickSortStrings\bin\Debug\14.QuickSortStrings.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\14.QuickSortStrings\bin\Debug\14.QuickSortStrings.pdb
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\14.QuickSortStrings\obj\Debug\14.QuickSortStrings.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\14.QuickSortStrings\obj\Debug\14.QuickSortStrings.pdb

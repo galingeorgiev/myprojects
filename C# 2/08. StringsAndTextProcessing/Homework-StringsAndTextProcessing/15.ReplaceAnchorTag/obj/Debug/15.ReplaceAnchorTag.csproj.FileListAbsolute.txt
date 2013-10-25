@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\15.ReplaceAnchorTag\bin\Debug\15.ReplaceAnchorTag.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\15.ReplaceAnchorTag\bin\Debug\15.ReplaceAnchorTag.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\15.ReplaceAnchorTag\bin\Debug\15.ReplaceAnchorTag.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\15.ReplaceAnchorTag\obj\Debug\15.ReplaceAnchorTag.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\15.ReplaceAnchorTag\obj\Debug\15.ReplaceAnchorTag.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\15.ReplaceAnchorTag\obj\Debug\15.ReplaceAnchorTag.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\3.ComparesArraysLexicographically\bin\Debug\3.ComparesArraysLexicographically.exe.config
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\3.ComparesArraysLexicographically\bin\Debug\3.ComparesArraysLexicographically.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\3.ComparesArraysLexicographically\bin\Debug\3.ComparesArraysLexicographically.pdb
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\3.ComparesArraysLexicographically\obj\Debug\3.ComparesArraysLexicographically.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\3.ComparesArraysLexicographically\obj\Debug\3.ComparesArraysLexicographically.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\03.LastDigitLikeText\bin\Debug\03.LastDigitLikeText.exe.config
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\03.LastDigitLikeText\bin\Debug\03.LastDigitLikeText.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\03.LastDigitLikeText\bin\Debug\03.LastDigitLikeText.pdb
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\03.LastDigitLikeText\obj\Debug\03.LastDigitLikeText.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\03.LastDigitLikeText\obj\Debug\03.LastDigitLikeText.pdb

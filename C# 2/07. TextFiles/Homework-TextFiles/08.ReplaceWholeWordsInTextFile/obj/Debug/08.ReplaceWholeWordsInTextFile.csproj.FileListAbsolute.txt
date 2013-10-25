@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\08.ReplaceWholeWordsInTextFile\bin\Debug\08.ReplaceWholeWordsInTextFile.exe.config
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\08.ReplaceWholeWordsInTextFile\bin\Debug\08.ReplaceWholeWordsInTextFile.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\08.ReplaceWholeWordsInTextFile\bin\Debug\08.ReplaceWholeWordsInTextFile.pdb
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\08.ReplaceWholeWordsInTextFile\obj\Debug\08.ReplaceWholeWordsInTextFile.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\08.ReplaceWholeWordsInTextFile\obj\Debug\08.ReplaceWholeWordsInTextFile.pdb
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\08.ReplaceWholeWordsInTextFile\obj\Debug\08.ReplaceWholeWordsInTextFile.csprojResolveAssemblyReference.cache

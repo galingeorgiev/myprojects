@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\04.DownloadFileFromInternetAndCatchException\bin\Debug\04.DownloadFileFromInternetAndCatchException.exe.config
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\04.DownloadFileFromInternetAndCatchException\bin\Debug\04.DownloadFileFromInternetAndCatchException.exe
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\04.DownloadFileFromInternetAndCatchException\bin\Debug\04.DownloadFileFromInternetAndCatchException.pdb
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\04.DownloadFileFromInternetAndCatchException\obj\Debug\04.DownloadFileFromInternetAndCatchException.exe
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\04.DownloadFileFromInternetAndCatchException\obj\Debug\04.DownloadFileFromInternetAndCatchException.pdb

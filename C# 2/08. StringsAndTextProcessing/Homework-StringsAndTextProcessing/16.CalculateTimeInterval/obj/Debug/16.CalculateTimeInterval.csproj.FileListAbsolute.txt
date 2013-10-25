@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\16.CalculateTimeInterval\bin\Debug\16.CalculateTimeInterval.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\16.CalculateTimeInterval\obj\Debug\16.CalculateTimeInterval.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\16.CalculateTimeInterval\bin\Debug\16.CalculateTimeInterval.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\16.CalculateTimeInterval\bin\Debug\16.CalculateTimeInterval.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\16.CalculateTimeInterval\obj\Debug\16.CalculateTimeInterval.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\16.CalculateTimeInterval\obj\Debug\16.CalculateTimeInterval.pdb

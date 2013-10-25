@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\06.SortStrings\bin\Debug\06.SortStrings.exe.config
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\06.SortStrings\bin\Debug\06.SortStrings.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\06.SortStrings\bin\Debug\06.SortStrings.pdb
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\06.SortStrings\obj\Debug\06.SortStrings.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\06.SortStrings\obj\Debug\06.SortStrings.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\06.SortStrings\obj\Debug\06.SortStrings.pdb

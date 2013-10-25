@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\06.FillStringWithSymbols\bin\Debug\06.FillStringWithSymbols.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\06.FillStringWithSymbols\bin\Debug\06.FillStringWithSymbols.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\06.FillStringWithSymbols\bin\Debug\06.FillStringWithSymbols.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\06.FillStringWithSymbols\obj\Debug\06.FillStringWithSymbols.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\06.FillStringWithSymbols\obj\Debug\06.FillStringWithSymbols.pdb

@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\09.SortPartOfArray\bin\Debug\09.SortPartOfArray.exe.config
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\09.SortPartOfArray\obj\Debug\09.SortPartOfArray.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\09.SortPartOfArray\bin\Debug\09.SortPartOfArray.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\09.SortPartOfArray\bin\Debug\09.SortPartOfArray.pdb
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\09.SortPartOfArray\obj\Debug\09.SortPartOfArray.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\09.SortPartOfArray\obj\Debug\09.SortPartOfArray.pdb

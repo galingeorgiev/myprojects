@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\02.ConcatTwoTextFiles\bin\Debug\02.ConcatTwoTextFiles.exe.config
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\02.ConcatTwoTextFiles\bin\Debug\02.ConcatTwoTextFiles.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\02.ConcatTwoTextFiles\bin\Debug\02.ConcatTwoTextFiles.pdb
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\02.ConcatTwoTextFiles\obj\Debug\02.ConcatTwoTextFiles.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\02.ConcatTwoTextFiles\obj\Debug\02.ConcatTwoTextFiles.pdb

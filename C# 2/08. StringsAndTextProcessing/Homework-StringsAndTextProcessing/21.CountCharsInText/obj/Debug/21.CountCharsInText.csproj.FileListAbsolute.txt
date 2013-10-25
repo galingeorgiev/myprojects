@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\21.CountCharsInText\bin\Debug\21.CountCharsInText.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\21.CountCharsInText\bin\Debug\21.CountCharsInText.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\21.CountCharsInText\bin\Debug\21.CountCharsInText.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\21.CountCharsInText\obj\Debug\21.CountCharsInText.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\21.CountCharsInText\obj\Debug\21.CountCharsInText.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\2.ReadAndCompareTwoArrays\bin\Debug\2.ReadAndCompareTwoArrays.exe.config
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\2.ReadAndCompareTwoArrays\bin\Debug\2.ReadAndCompareTwoArrays.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\2.ReadAndCompareTwoArrays\bin\Debug\2.ReadAndCompareTwoArrays.pdb
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\2.ReadAndCompareTwoArrays\obj\Debug\2.ReadAndCompareTwoArrays.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\2.ReadAndCompareTwoArrays\obj\Debug\2.ReadAndCompareTwoArrays.pdb

@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\06.SumNumbersInString\bin\Debug\06.SumNumbersInString.exe.config
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\06.SumNumbersInString\bin\Debug\06.SumNumbersInString.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\06.SumNumbersInString\bin\Debug\06.SumNumbersInString.pdb
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\06.SumNumbersInString\obj\Debug\06.SumNumbersInString.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\06.SumNumbersInString\obj\Debug\06.SumNumbersInString.pdb
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\06.SumNumbersInString\bin\Debug\06.SumNumbersInString.exe.config
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\06.SumNumbersInString\obj\Debug\06.SumNumbersInString.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\06.SumNumbersInString\obj\Debug\06.SumNumbersInString.pdb

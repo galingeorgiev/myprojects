@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\6.MaxSumOfKElements\bin\Debug\6.MaxSumOfKElements.exe.config
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\6.MaxSumOfKElements\bin\Debug\6.MaxSumOfKElements.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\6.MaxSumOfKElements\bin\Debug\6.MaxSumOfKElements.pdb
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\6.MaxSumOfKElements\obj\Debug\6.MaxSumOfKElements.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\6.MaxSumOfKElements\obj\Debug\6.MaxSumOfKElements.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\6.MaxSumOfKElements\obj\Debug\6.MaxSumOfKElements.pdb

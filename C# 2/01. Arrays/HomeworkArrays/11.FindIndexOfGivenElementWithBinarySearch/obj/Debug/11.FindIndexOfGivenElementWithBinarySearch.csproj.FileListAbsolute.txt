@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\11.FindIndexOfGivenElementWithBinarySearch\bin\Debug\11.FindIndexOfGivenElementWithBinarySearch.exe.config
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\11.FindIndexOfGivenElementWithBinarySearch\bin\Debug\11.FindIndexOfGivenElementWithBinarySearch.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\11.FindIndexOfGivenElementWithBinarySearch\bin\Debug\11.FindIndexOfGivenElementWithBinarySearch.pdb
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\11.FindIndexOfGivenElementWithBinarySearch\obj\Debug\11.FindIndexOfGivenElementWithBinarySearch.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\11.FindIndexOfGivenElementWithBinarySearch\obj\Debug\11.FindIndexOfGivenElementWithBinarySearch.pdb

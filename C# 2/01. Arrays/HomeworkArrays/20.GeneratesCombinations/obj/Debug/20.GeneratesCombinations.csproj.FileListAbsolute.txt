@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\20.GeneratesCombinations\bin\Debug\20.GeneratesCombinations.exe.config
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\20.GeneratesCombinations\bin\Debug\20.GeneratesCombinations.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\20.GeneratesCombinations\bin\Debug\20.GeneratesCombinations.pdb
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\20.GeneratesCombinations\obj\Debug\20.GeneratesCombinations.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\20.GeneratesCombinations\obj\Debug\20.GeneratesCombinations.pdb

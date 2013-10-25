@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\03.AddLinesNumbers\bin\Debug\03.AddLinesNumbers.exe.config
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\03.AddLinesNumbers\bin\Debug\03.AddLinesNumbers.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\03.AddLinesNumbers\bin\Debug\03.AddLinesNumbers.pdb
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\03.AddLinesNumbers\obj\Debug\03.AddLinesNumbers.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\03.AddLinesNumbers\obj\Debug\03.AddLinesNumbers.pdb
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\03.AddLinesNumbers\obj\Debug\03.AddLinesNumbers.csprojResolveAssemblyReference.cache

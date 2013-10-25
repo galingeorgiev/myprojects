@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\19.ExtractDatesFromText\bin\Debug\19.ExtractDatesFromText.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\19.ExtractDatesFromText\bin\Debug\19.ExtractDatesFromText.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\19.ExtractDatesFromText\bin\Debug\19.ExtractDatesFromText.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\19.ExtractDatesFromText\obj\Debug\19.ExtractDatesFromText.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\19.ExtractDatesFromText\obj\Debug\19.ExtractDatesFromText.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\19.ExtractDatesFromText\obj\Debug\19.ExtractDatesFromText.csprojResolveAssemblyReference.cache

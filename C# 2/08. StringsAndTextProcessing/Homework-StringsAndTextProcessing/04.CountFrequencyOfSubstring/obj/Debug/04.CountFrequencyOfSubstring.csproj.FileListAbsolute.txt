@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\04.CountFrequencyOfSubstring\bin\Debug\04.CountFrequencyOfSubstring.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\04.CountFrequencyOfSubstring\bin\Debug\04.CountFrequencyOfSubstring.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\04.CountFrequencyOfSubstring\bin\Debug\04.CountFrequencyOfSubstring.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\04.CountFrequencyOfSubstring\obj\Debug\04.CountFrequencyOfSubstring.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\04.CountFrequencyOfSubstring\obj\Debug\04.CountFrequencyOfSubstring.pdb

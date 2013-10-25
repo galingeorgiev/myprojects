@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\04.BinSearchFindNumber\bin\Debug\04.BinSearchFindNumber.exe.config
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\04.BinSearchFindNumber\bin\Debug\04.BinSearchFindNumber.exe
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\04.BinSearchFindNumber\bin\Debug\04.BinSearchFindNumber.pdb
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\04.BinSearchFindNumber\obj\Debug\04.BinSearchFindNumber.exe
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\04.BinSearchFindNumber\obj\Debug\04.BinSearchFindNumber.pdb

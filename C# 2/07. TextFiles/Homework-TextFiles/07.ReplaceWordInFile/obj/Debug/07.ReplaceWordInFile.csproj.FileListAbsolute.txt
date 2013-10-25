@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\07.ReplaceWordInFile\bin\Debug\07.ReplaceWordInFile.exe.config
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\07.ReplaceWordInFile\obj\Debug\07.ReplaceWordInFile.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\07.ReplaceWordInFile\bin\Debug\07.ReplaceWordInFile.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\07.ReplaceWordInFile\bin\Debug\07.ReplaceWordInFile.pdb
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\07.ReplaceWordInFile\obj\Debug\07.ReplaceWordInFile.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\07.ReplaceWordInFile\obj\Debug\07.ReplaceWordInFile.pdb

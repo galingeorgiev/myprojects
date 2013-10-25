@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\22.CountWordsInText\bin\Debug\22.CountWordsInText.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\22.CountWordsInText\bin\Debug\22.CountWordsInText.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\22.CountWordsInText\bin\Debug\22.CountWordsInText.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\22.CountWordsInText\obj\Debug\22.CountWordsInText.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\22.CountWordsInText\obj\Debug\22.CountWordsInText.pdb

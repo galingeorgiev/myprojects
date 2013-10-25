@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\13.ReverseDigits-CalcAverage-SolveEquation\bin\Debug\13.ReverseDigits-CalcAverage-SolveEquation.exe.config
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\13.ReverseDigits-CalcAverage-SolveEquation\obj\Debug\13.ReverseDigits-CalcAverage-SolveEquation.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\13.ReverseDigits-CalcAverage-SolveEquation\bin\Debug\13.ReverseDigits-CalcAverage-SolveEquation.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\13.ReverseDigits-CalcAverage-SolveEquation\bin\Debug\13.ReverseDigits-CalcAverage-SolveEquation.pdb
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\13.ReverseDigits-CalcAverage-SolveEquation\obj\Debug\13.ReverseDigits-CalcAverage-SolveEquation.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\13.ReverseDigits-CalcAverage-SolveEquation\obj\Debug\13.ReverseDigits-CalcAverage-SolveEquation.pdb

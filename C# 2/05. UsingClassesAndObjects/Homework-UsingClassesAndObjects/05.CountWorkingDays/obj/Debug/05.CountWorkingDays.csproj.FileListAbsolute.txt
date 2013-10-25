@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\05.CountWorkingDays\bin\Debug\05.CountWorkingDays.exe.config
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\05.CountWorkingDays\obj\Debug\05.CountWorkingDays.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\05.CountWorkingDays\bin\Debug\05.CountWorkingDays.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\05.CountWorkingDays\bin\Debug\05.CountWorkingDays.pdb
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\05.CountWorkingDays\obj\Debug\05.CountWorkingDays.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\05.CountWorkingDays\obj\Debug\05.CountWorkingDays.pdb
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\05.CountWorkingDays\bin\Debug\05.CountWorkingDays.exe.config
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\05.CountWorkingDays\obj\Debug\05.CountWorkingDays.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\05.CountWorkingDays\obj\Debug\05.CountWorkingDays.pdb
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\05.CountWorkingDays\bin\Debug\05.CountWorkingDays.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\05.CountWorkingDays\bin\Debug\05.CountWorkingDays.pdb
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\05.CountWorkingDays\obj\Debug\05.CountWorkingDays.csprojResolveAssemblyReference.cache

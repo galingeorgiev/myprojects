@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\16.ElementsWithSumS-NotStraight\bin\Debug\16.ElementsWithSumS-NotStraight.exe.config
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\16.ElementsWithSumS-NotStraight\bin\Debug\16.ElementsWithSumS-NotStraight.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\16.ElementsWithSumS-NotStraight\bin\Debug\16.ElementsWithSumS-NotStraight.pdb
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\16.ElementsWithSumS-NotStraight\obj\Debug\16.ElementsWithSumS-NotStraight.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\16.ElementsWithSumS-NotStraight\obj\Debug\16.ElementsWithSumS-NotStraight.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\16.ElementsWithSumS-NotStraight\obj\Debug\16.ElementsWithSumS-NotStraight.pdb

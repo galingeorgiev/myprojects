@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\13.CountWordsInFile\bin\Debug\13.CountWordsInFile.exe.config
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\13.CountWordsInFile\bin\Debug\13.CountWordsInFile.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\13.CountWordsInFile\bin\Debug\13.CountWordsInFile.pdb
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\13.CountWordsInFile\obj\Debug\13.CountWordsInFile.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\13.CountWordsInFile\obj\Debug\13.CountWordsInFile.pdb
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\13.CountWordsInFile\obj\Debug\13.CountWordsInFile.csprojResolveAssemblyReference.cache

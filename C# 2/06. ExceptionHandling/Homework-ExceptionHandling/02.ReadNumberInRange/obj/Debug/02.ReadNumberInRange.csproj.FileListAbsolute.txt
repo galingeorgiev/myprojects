@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\02.ReadNumberInRange\bin\Debug\02.ReadNumberInRange.exe.config
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\02.ReadNumberInRange\obj\Debug\02.ReadNumberInRange.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\02.ReadNumberInRange\bin\Debug\02.ReadNumberInRange.exe
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\02.ReadNumberInRange\bin\Debug\02.ReadNumberInRange.pdb
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\02.ReadNumberInRange\obj\Debug\02.ReadNumberInRange.exe
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\02.ReadNumberInRange\obj\Debug\02.ReadNumberInRange.pdb

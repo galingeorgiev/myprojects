@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\01.PrintMyName\bin\Debug\01.PrintMyName.exe.config
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\01.PrintMyName\bin\Debug\01.PrintMyName.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\01.PrintMyName\bin\Debug\01.PrintMyName.pdb
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\01.PrintMyName\obj\Debug\01.PrintMyName.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\01.PrintMyName\obj\Debug\01.PrintMyName.pdb
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\01.PrintMyName\obj\Debug\01.PrintMyName.csprojResolveAssemblyReference.cache

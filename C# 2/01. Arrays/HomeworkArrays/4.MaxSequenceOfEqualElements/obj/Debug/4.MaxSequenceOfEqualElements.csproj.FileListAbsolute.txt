@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\4.MaxSequenceOfEqualElements\bin\Debug\4.MaxSequenceOfEqualElements.exe.config
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\4.MaxSequenceOfEqualElements\bin\Debug\4.MaxSequenceOfEqualElements.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\4.MaxSequenceOfEqualElements\bin\Debug\4.MaxSequenceOfEqualElements.pdb
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\4.MaxSequenceOfEqualElements\obj\Debug\4.MaxSequenceOfEqualElements.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\4.MaxSequenceOfEqualElements\obj\Debug\4.MaxSequenceOfEqualElements.pdb

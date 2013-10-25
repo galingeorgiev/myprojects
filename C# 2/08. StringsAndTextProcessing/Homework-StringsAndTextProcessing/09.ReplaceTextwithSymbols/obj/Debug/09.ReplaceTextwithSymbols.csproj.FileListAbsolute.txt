@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\09.ReplaceTextwithSymbols\bin\Debug\09.ReplaceTextwithSymbols.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\09.ReplaceTextwithSymbols\bin\Debug\09.ReplaceTextwithSymbols.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\09.ReplaceTextwithSymbols\bin\Debug\09.ReplaceTextwithSymbols.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\09.ReplaceTextwithSymbols\obj\Debug\09.ReplaceTextwithSymbols.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\09.ReplaceTextwithSymbols\obj\Debug\09.ReplaceTextwithSymbols.pdb

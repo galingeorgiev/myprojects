@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\12.AlphabetArray\bin\Debug\12.AlphabetArray.exe.config
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\12.AlphabetArray\bin\Debug\12.AlphabetArray.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\12.AlphabetArray\bin\Debug\12.AlphabetArray.pdb
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\12.AlphabetArray\obj\Debug\12.AlphabetArray.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\12.AlphabetArray\obj\Debug\12.AlphabetArray.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\04.CountNumberAppearsInArray\bin\Debug\04.CountNumberAppearsInArray.exe.config
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\04.CountNumberAppearsInArray\bin\Debug\04.CountNumberAppearsInArray.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\04.CountNumberAppearsInArray\bin\Debug\04.CountNumberAppearsInArray.pdb
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\04.CountNumberAppearsInArray\obj\Debug\04.CountNumberAppearsInArray.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\04.CountNumberAppearsInArray\obj\Debug\04.CountNumberAppearsInArray.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\10.DeleteXMLTagsFromFile\bin\Debug\10.DeleteXMLTagsFromFile.exe.config
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\10.DeleteXMLTagsFromFile\bin\Debug\10.DeleteXMLTagsFromFile.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\10.DeleteXMLTagsFromFile\bin\Debug\10.DeleteXMLTagsFromFile.pdb
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\10.DeleteXMLTagsFromFile\obj\Debug\10.DeleteXMLTagsFromFile.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\10.DeleteXMLTagsFromFile\obj\Debug\10.DeleteXMLTagsFromFile.pdb

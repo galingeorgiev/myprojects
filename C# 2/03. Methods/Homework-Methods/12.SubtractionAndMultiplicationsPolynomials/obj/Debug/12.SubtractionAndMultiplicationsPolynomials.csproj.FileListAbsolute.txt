@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\12.SubtractionAndMultiplicationsPolynomials\bin\Debug\12.SubtractionAndMultiplicationsPolynomials.exe.config
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\12.SubtractionAndMultiplicationsPolynomials\bin\Debug\12.SubtractionAndMultiplicationsPolynomials.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\12.SubtractionAndMultiplicationsPolynomials\bin\Debug\12.SubtractionAndMultiplicationsPolynomials.pdb
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\12.SubtractionAndMultiplicationsPolynomials\obj\Debug\12.SubtractionAndMultiplicationsPolynomials.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\12.SubtractionAndMultiplicationsPolynomials\obj\Debug\12.SubtractionAndMultiplicationsPolynomials.pdb

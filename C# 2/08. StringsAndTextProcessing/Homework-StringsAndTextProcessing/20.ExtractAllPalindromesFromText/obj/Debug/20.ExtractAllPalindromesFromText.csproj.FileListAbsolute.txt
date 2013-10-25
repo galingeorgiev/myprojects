@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\20.ExtractAllPalindromesFromText\bin\Debug\20.ExtractAllPalindromesFromText.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\20.ExtractAllPalindromesFromText\obj\Debug\20.ExtractAllPalindromesFromText.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\20.ExtractAllPalindromesFromText\bin\Debug\20.ExtractAllPalindromesFromText.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\20.ExtractAllPalindromesFromText\bin\Debug\20.ExtractAllPalindromesFromText.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\20.ExtractAllPalindromesFromText\obj\Debug\20.ExtractAllPalindromesFromText.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\20.ExtractAllPalindromesFromText\obj\Debug\20.ExtractAllPalindromesFromText.pdb

@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\21.GenerateCombinations\bin\Debug\21.GenerateCombinations.exe.config
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\21.GenerateCombinations\bin\Debug\21.GenerateCombinations.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\21.GenerateCombinations\bin\Debug\21.GenerateCombinations.pdb
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\21.GenerateCombinations\obj\Debug\21.GenerateCombinations.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\21.GenerateCombinations\obj\Debug\21.GenerateCombinations.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\21.GenerateCombinations\obj\Debug\21.GenerateCombinations.pdb

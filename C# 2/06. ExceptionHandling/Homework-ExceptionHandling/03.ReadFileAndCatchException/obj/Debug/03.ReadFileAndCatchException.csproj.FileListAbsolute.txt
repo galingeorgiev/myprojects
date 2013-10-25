@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\03.ReadFileAndCatchException\bin\Debug\03.ReadFileAndCatchException.exe.config
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\03.ReadFileAndCatchException\bin\Debug\03.ReadFileAndCatchException.exe
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\03.ReadFileAndCatchException\bin\Debug\03.ReadFileAndCatchException.pdb
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\03.ReadFileAndCatchException\obj\Debug\03.ReadFileAndCatchException.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\03.ReadFileAndCatchException\obj\Debug\03.ReadFileAndCatchException.exe
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\03.ReadFileAndCatchException\obj\Debug\03.ReadFileAndCatchException.pdb

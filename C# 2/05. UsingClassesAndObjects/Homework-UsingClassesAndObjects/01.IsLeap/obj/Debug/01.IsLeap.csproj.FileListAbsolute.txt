@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\01.IsLeap\bin\Debug\01.IsLeap.exe.config
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\01.IsLeap\bin\Debug\01.IsLeap.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\01.IsLeap\bin\Debug\01.IsLeap.pdb
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\01.IsLeap\obj\Debug\01.IsLeap.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\01.IsLeap\obj\Debug\01.IsLeap.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\01.IsLeap\obj\Debug\01.IsLeap.pdb
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\01.IsLeap\bin\Debug\01.IsLeap.exe.config
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\01.IsLeap\obj\Debug\01.IsLeap.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\01.IsLeap\obj\Debug\01.IsLeap.pdb
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\01.IsLeap\bin\Debug\01.IsLeap.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\01.IsLeap\bin\Debug\01.IsLeap.pdb
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\01.IsLeap\obj\Debug\01.IsLeap.csprojResolveAssemblyReference.cache

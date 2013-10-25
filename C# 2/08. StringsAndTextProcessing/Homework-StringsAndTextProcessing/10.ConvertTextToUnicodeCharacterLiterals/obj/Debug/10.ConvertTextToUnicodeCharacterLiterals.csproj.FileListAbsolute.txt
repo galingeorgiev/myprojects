@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\10.ConvertTextToUnicodeCharacterLiterals\bin\Debug\10.ConvertTextToUnicodeCharacterLiterals.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\10.ConvertTextToUnicodeCharacterLiterals\bin\Debug\10.ConvertTextToUnicodeCharacterLiterals.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\10.ConvertTextToUnicodeCharacterLiterals\bin\Debug\10.ConvertTextToUnicodeCharacterLiterals.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\10.ConvertTextToUnicodeCharacterLiterals\obj\Debug\10.ConvertTextToUnicodeCharacterLiterals.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\10.ConvertTextToUnicodeCharacterLiterals\obj\Debug\10.ConvertTextToUnicodeCharacterLiterals.pdb

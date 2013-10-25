@@ -1,0 +1,9 @@
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\04.TriangelSurface\bin\Debug\04.TriangelSurface.exe.config
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\04.TriangelSurface\obj\Debug\04.TriangelSurface.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\04.TriangelSurface\bin\Debug\04.TriangelSurface.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\04.TriangelSurface\bin\Debug\04.TriangelSurface.pdb
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\04.TriangelSurface\obj\Debug\04.TriangelSurface.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\04.TriangelSurface\obj\Debug\04.TriangelSurface.pdb
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\04.TriangelSurface\bin\Debug\04.TriangelSurface.exe.config
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\04.TriangelSurface\obj\Debug\04.TriangelSurface.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\04.TriangelSurface\obj\Debug\04.TriangelSurface.pdb

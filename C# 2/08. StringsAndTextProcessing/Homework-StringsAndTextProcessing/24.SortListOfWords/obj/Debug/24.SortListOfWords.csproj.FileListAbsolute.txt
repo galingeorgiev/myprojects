@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\24.SortListOfWords\bin\Debug\24.SortListOfWords.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\24.SortListOfWords\obj\Debug\24.SortListOfWords.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\24.SortListOfWords\bin\Debug\24.SortListOfWords.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\24.SortListOfWords\bin\Debug\24.SortListOfWords.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\24.SortListOfWords\obj\Debug\24.SortListOfWords.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\24.SortListOfWords\obj\Debug\24.SortListOfWords.pdb

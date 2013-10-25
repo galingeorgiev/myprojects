@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\12.DeleteAllWordsFromList\bin\Debug\12.DeleteAllWordsFromList.exe.config
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\12.DeleteAllWordsFromList\bin\Debug\12.DeleteAllWordsFromList.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\12.DeleteAllWordsFromList\bin\Debug\12.DeleteAllWordsFromList.pdb
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\12.DeleteAllWordsFromList\obj\Debug\12.DeleteAllWordsFromList.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\12.DeleteAllWordsFromList\obj\Debug\12.DeleteAllWordsFromList.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\12.DeleteAllWordsFromList\obj\Debug\12.DeleteAllWordsFromList.pdb

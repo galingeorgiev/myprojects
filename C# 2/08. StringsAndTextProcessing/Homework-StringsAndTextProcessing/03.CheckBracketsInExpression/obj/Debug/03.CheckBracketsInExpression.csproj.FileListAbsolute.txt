@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\03.CheckBracketsInExpression\bin\Debug\03.CheckBracketsInExpression.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\03.CheckBracketsInExpression\bin\Debug\03.CheckBracketsInExpression.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\03.CheckBracketsInExpression\bin\Debug\03.CheckBracketsInExpression.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\03.CheckBracketsInExpression\obj\Debug\03.CheckBracketsInExpression.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\03.CheckBracketsInExpression\obj\Debug\03.CheckBracketsInExpression.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\03.CheckBracketsInExpression\obj\Debug\03.CheckBracketsInExpression.csprojResolveAssemblyReference.cache

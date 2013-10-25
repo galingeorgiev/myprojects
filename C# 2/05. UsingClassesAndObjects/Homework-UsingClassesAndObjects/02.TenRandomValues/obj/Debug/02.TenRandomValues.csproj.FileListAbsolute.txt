@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.exe.config
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.pdb
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\02.TenRandomValues\obj\Debug\02.TenRandomValues.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Hmework-UsingClassesAndObjects\02.TenRandomValues\obj\Debug\02.TenRandomValues.pdb
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.exe.config
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\02.TenRandomValues\obj\Debug\02.TenRandomValues.exe
+D:\Telerik Academy\Telerik\C# 2\5.UsingClassesAndObjects\Homework-UsingClassesAndObjects\02.TenRandomValues\obj\Debug\02.TenRandomValues.pdb

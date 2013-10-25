@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\05.FindMatrixWithMaxSum\bin\Debug\05.FindMatrixWithMaxSum.exe.config
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\05.FindMatrixWithMaxSum\bin\Debug\05.FindMatrixWithMaxSum.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\05.FindMatrixWithMaxSum\bin\Debug\05.FindMatrixWithMaxSum.pdb
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\05.FindMatrixWithMaxSum\obj\Debug\05.FindMatrixWithMaxSum.exe
+D:\Telerik Academy\Telerik\C# 2\7.TextFiles\Homework-TextFiles\05.FindMatrixWithMaxSum\obj\Debug\05.FindMatrixWithMaxSum.pdb

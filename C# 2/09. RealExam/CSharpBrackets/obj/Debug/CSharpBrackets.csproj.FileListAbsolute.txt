@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\RealExam\CSharpBrackets\bin\Debug\CSharpBrackets.exe.config
+D:\Telerik Academy\Telerik\C# 2\RealExam\CSharpBrackets\bin\Debug\CSharpBrackets.exe
+D:\Telerik Academy\Telerik\C# 2\RealExam\CSharpBrackets\bin\Debug\CSharpBrackets.pdb
+D:\Telerik Academy\Telerik\C# 2\RealExam\CSharpBrackets\obj\Debug\CSharpBrackets.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\RealExam\CSharpBrackets\obj\Debug\CSharpBrackets.exe
+D:\Telerik Academy\Telerik\C# 2\RealExam\CSharpBrackets\obj\Debug\CSharpBrackets.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\01.CalculateSquareRoot\bin\Debug\01.CalculateSquareRoot.exe.config
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\01.CalculateSquareRoot\bin\Debug\01.CalculateSquareRoot.exe
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\01.CalculateSquareRoot\bin\Debug\01.CalculateSquareRoot.pdb
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\01.CalculateSquareRoot\obj\Debug\01.CalculateSquareRoot.exe
+D:\Telerik Academy\Telerik\C# 2\6.ExceptionHandling\Homework-ExceptionHandling\01.CalculateSquareRoot\obj\Debug\01.CalculateSquareRoot.pdb

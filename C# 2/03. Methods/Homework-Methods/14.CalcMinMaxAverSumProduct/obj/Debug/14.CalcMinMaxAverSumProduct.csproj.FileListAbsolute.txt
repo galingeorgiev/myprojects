@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\14.CalcMinMaxAverSumProduct\bin\Debug\14.CalcMinMaxAverSumProduct.exe.config
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\14.CalcMinMaxAverSumProduct\bin\Debug\14.CalcMinMaxAverSumProduct.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\14.CalcMinMaxAverSumProduct\bin\Debug\14.CalcMinMaxAverSumProduct.pdb
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\14.CalcMinMaxAverSumProduct\obj\Debug\14.CalcMinMaxAverSumProduct.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\14.CalcMinMaxAverSumProduct\obj\Debug\14.CalcMinMaxAverSumProduct.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\14.CalcMinMaxAverSumProduct\obj\Debug\14.CalcMinMaxAverSumProduct.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\18.ExtractAllEmailsFromText\bin\Debug\18.ExtractAllEmailsFromText.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\18.ExtractAllEmailsFromText\bin\Debug\18.ExtractAllEmailsFromText.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\18.ExtractAllEmailsFromText\bin\Debug\18.ExtractAllEmailsFromText.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\18.ExtractAllEmailsFromText\obj\Debug\18.ExtractAllEmailsFromText.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\18.ExtractAllEmailsFromText\obj\Debug\18.ExtractAllEmailsFromText.pdb

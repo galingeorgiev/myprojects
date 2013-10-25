@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\RealExam\Tests\bin\Debug\Tests.exe.config
+D:\Telerik Academy\Telerik\C# 2\RealExam\Tests\bin\Debug\Tests.exe
+D:\Telerik Academy\Telerik\C# 2\RealExam\Tests\bin\Debug\Tests.pdb
+D:\Telerik Academy\Telerik\C# 2\RealExam\Tests\obj\Debug\Tests.exe
+D:\Telerik Academy\Telerik\C# 2\RealExam\Tests\obj\Debug\Tests.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\02.SquareWithMaxSum\bin\Debug\02.SquareWithMaxSum.exe.config
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\02.SquareWithMaxSum\bin\Debug\02.SquareWithMaxSum.exe
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\02.SquareWithMaxSum\bin\Debug\02.SquareWithMaxSum.pdb
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\02.SquareWithMaxSum\obj\Debug\02.SquareWithMaxSum.exe
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\02.SquareWithMaxSum\obj\Debug\02.SquareWithMaxSum.pdb

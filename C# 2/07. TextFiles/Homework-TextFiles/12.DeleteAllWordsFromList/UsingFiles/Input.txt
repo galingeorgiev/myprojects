@@ -1,0 +1,4 @@
+You  about this crazy thing called computer programming that will allow you to create  own software and now..you're really curious.
+This  contains tutorials on a variety of computer programming topics including what computer programming is, computer programming concepts.
+Test  knowledge of this  with  Introduction to computer programming quiz
+When you are ready to actually  a computer programming language, check out our Java tutorials.

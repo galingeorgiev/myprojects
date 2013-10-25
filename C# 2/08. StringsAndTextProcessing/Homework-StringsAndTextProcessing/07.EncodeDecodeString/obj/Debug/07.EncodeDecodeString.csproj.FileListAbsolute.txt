@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\07.EncodeDecodeString\bin\Debug\07.EncodeDecodeString.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\07.EncodeDecodeString\bin\Debug\07.EncodeDecodeString.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\07.EncodeDecodeString\bin\Debug\07.EncodeDecodeString.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\07.EncodeDecodeString\obj\Debug\07.EncodeDecodeString.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\07.EncodeDecodeString\obj\Debug\07.EncodeDecodeString.pdb

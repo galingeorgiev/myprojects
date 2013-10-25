@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\02.GetMax\bin\Debug\02.GetMax.exe.config
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\02.GetMax\bin\Debug\02.GetMax.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\02.GetMax\bin\Debug\02.GetMax.pdb
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\02.GetMax\obj\Debug\02.GetMax.exe
+D:\Telerik Academy\Telerik\C# 2\3.Methods\Homework-Methods\02.GetMax\obj\Debug\02.GetMax.pdb

@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\03.FindLongestSequence\bin\Debug\03.FindLongestSequence.exe.config
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\03.FindLongestSequence\obj\Debug\03.FindLongestSequence.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\03.FindLongestSequence\bin\Debug\03.FindLongestSequence.exe
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\03.FindLongestSequence\bin\Debug\03.FindLongestSequence.pdb
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\03.FindLongestSequence\obj\Debug\03.FindLongestSequence.exe
+D:\Telerik Academy\Telerik\C# 2\2.Arrays - Multidimensional\Homework-MultidimensionalArrays\03.FindLongestSequence\obj\Debug\03.FindLongestSequence.pdb

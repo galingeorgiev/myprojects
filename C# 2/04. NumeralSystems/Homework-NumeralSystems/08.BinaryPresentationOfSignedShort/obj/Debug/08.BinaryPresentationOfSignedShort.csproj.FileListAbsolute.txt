@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\4.NumeralSystems\Homework-NumeralSystems\08.BinaryPresentationOfSignedShort\bin\Debug\08.BinaryPresentationOfSignedShort.exe.config
+D:\Telerik Academy\Telerik\C# 2\4.NumeralSystems\Homework-NumeralSystems\08.BinaryPresentationOfSignedShort\bin\Debug\08.BinaryPresentationOfSignedShort.exe
+D:\Telerik Academy\Telerik\C# 2\4.NumeralSystems\Homework-NumeralSystems\08.BinaryPresentationOfSignedShort\bin\Debug\08.BinaryPresentationOfSignedShort.pdb
+D:\Telerik Academy\Telerik\C# 2\4.NumeralSystems\Homework-NumeralSystems\08.BinaryPresentationOfSignedShort\obj\Debug\08.BinaryPresentationOfSignedShort.exe
+D:\Telerik Academy\Telerik\C# 2\4.NumeralSystems\Homework-NumeralSystems\08.BinaryPresentationOfSignedShort\obj\Debug\08.BinaryPresentationOfSignedShort.pdb

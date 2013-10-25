@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\08.FindSentencesWithGivenWord\bin\Debug\08.FindSentencesWithGivenWord.exe.config
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\08.FindSentencesWithGivenWord\bin\Debug\08.FindSentencesWithGivenWord.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\08.FindSentencesWithGivenWord\bin\Debug\08.FindSentencesWithGivenWord.pdb
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\08.FindSentencesWithGivenWord\obj\Debug\08.FindSentencesWithGivenWord.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\08.FindSentencesWithGivenWord\obj\Debug\08.FindSentencesWithGivenWord.exe
+D:\Telerik Academy\Telerik\C# 2\8.StringsAndTextProcessing\Homework-StringsAndTextProcessing\08.FindSentencesWithGivenWord\obj\Debug\08.FindSentencesWithGivenWord.pdb

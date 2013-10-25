@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\15.EratosthenesAlgorithmForPrimeNumbers\bin\Debug\15.EratosthenesAlgorithmForPrimeNumbers.exe.config
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\15.EratosthenesAlgorithmForPrimeNumbers\bin\Debug\15.EratosthenesAlgorithmForPrimeNumbers.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\15.EratosthenesAlgorithmForPrimeNumbers\bin\Debug\15.EratosthenesAlgorithmForPrimeNumbers.pdb
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\15.EratosthenesAlgorithmForPrimeNumbers\obj\Debug\15.EratosthenesAlgorithmForPrimeNumbers.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\15.EratosthenesAlgorithmForPrimeNumbers\obj\Debug\15.EratosthenesAlgorithmForPrimeNumbers.pdb

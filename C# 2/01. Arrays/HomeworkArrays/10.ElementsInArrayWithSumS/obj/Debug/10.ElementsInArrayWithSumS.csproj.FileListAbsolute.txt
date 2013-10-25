@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\10.ElementsInArrayWithSumS\bin\Debug\10.ElementsInArrayWithSumS.exe.config
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\10.ElementsInArrayWithSumS\bin\Debug\10.ElementsInArrayWithSumS.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\10.ElementsInArrayWithSumS\bin\Debug\10.ElementsInArrayWithSumS.pdb
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\10.ElementsInArrayWithSumS\obj\Debug\10.ElementsInArrayWithSumS.exe
+D:\Telerik Academy\Telerik\C# 2\1.Arrays\HomeworkArrays\10.ElementsInArrayWithSumS\obj\Debug\10.ElementsInArrayWithSumS.pdb
