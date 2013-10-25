@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\Events\bin\Debug\_6.Events.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\Events\bin\Debug\_6.Events.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\Events\obj\x86\Debug\6. Events Example.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\Events\obj\x86\Debug\_6.Events.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\Events\obj\x86\Debug\_6.Events.pdb

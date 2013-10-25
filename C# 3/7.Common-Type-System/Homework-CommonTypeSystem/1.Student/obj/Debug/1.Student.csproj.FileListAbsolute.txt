@@ -1,0 +1,7 @@
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-CommonTypeSystem\1.Student\bin\Debug\1.Student.exe.config
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\1.Student\bin\Debug\1.Student.exe.config
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\1.Student\bin\Debug\1.Student.exe
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\1.Student\bin\Debug\1.Student.pdb
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\1.Student\obj\Debug\1.Student.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\1.Student\obj\Debug\1.Student.exe
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\1.Student\obj\Debug\1.Student.pdb

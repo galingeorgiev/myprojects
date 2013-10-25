@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\AnonymousMethods\bin\Debug\_4.AnonymousMethods.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\AnonymousMethods\bin\Debug\_4.AnonymousMethods.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\AnonymousMethods\obj\x86\Debug\4. Anonymous Methods.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\AnonymousMethods\obj\x86\Debug\_4.AnonymousMethods.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\AnonymousMethods\obj\x86\Debug\_4.AnonymousMethods.pdb

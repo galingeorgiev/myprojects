@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\9.MyTestWithEvents\bin\Debug\9.MyTestWithEvents.exe.config
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\9.MyTestWithEvents\bin\Debug\9.MyTestWithEvents.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\9.MyTestWithEvents\bin\Debug\9.MyTestWithEvents.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\9.MyTestWithEvents\obj\Debug\9.MyTestWithEvents.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\9.MyTestWithEvents\obj\Debug\9.MyTestWithEvents.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\9.MyTestWithEvents\obj\Debug\9.MyTestWithEvents.pdb

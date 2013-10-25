@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\GenericList\bin\Debug\GenericList.exe.config
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\GenericList\bin\Debug\GenericList.exe
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\GenericList\bin\Debug\GenericList.pdb
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\GenericList\obj\Debug\GenericList.exe
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\GenericList\obj\Debug\GenericList.pdb

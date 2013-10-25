@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\3.InvalidRangeException\bin\Debug\3.InvalidRangeException.exe.config
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\3.InvalidRangeException\bin\Debug\3.InvalidRangeException.exe
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\3.InvalidRangeException\bin\Debug\3.InvalidRangeException.pdb
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\3.InvalidRangeException\obj\Debug\3.InvalidRangeException.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\3.InvalidRangeException\obj\Debug\3.InvalidRangeException.exe
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\3.InvalidRangeException\obj\Debug\3.InvalidRangeException.pdb

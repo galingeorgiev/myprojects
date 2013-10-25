@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe.config
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.pdb
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.exe
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.pdb
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\Homework-ExamPreparation\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe.config
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\Homework-ExamPreparation\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.exe
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\Homework-ExamPreparation\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.pdb
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\Homework-ExamPreparation\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\Homework-ExamPreparation\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.pdb
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\Homework-ExamPreparation\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\AboutPhone\obj\Debug\AboutPhone.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\AboutPhone\bin\Debug\AboutPhone.dll
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\AboutPhone\bin\Debug\AboutPhone.pdb
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\AboutPhone\obj\Debug\AboutPhone.dll
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\AboutPhone\obj\Debug\AboutPhone.pdb

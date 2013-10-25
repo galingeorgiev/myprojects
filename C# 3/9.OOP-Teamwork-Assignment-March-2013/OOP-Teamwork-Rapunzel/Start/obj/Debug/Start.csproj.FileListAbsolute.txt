@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Rapunzel\OOP-Teamwork-Rapunzel\Start\bin\Debug\Start.exe.config
+C:\Users\User\Desktop\Rapunzel\OOP-Teamwork-Rapunzel\Start\bin\Debug\Start.exe
+C:\Users\User\Desktop\Rapunzel\OOP-Teamwork-Rapunzel\Start\bin\Debug\Start.pdb
+C:\Users\User\Desktop\Rapunzel\OOP-Teamwork-Rapunzel\Start\bin\Debug\VirtualShop.dll
+C:\Users\User\Desktop\Rapunzel\OOP-Teamwork-Rapunzel\Start\bin\Debug\VirtualShop.pdb
+C:\Users\User\Desktop\Rapunzel\OOP-Teamwork-Rapunzel\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Rapunzel\OOP-Teamwork-Rapunzel\Start\obj\Debug\Start.exe
+C:\Users\User\Desktop\Rapunzel\OOP-Teamwork-Rapunzel\Start\obj\Debug\Start.pdb
+D:\Telerik Academy\Telerik\C# 3\9.OOP-Teamwork-Assignment-March-2013\OOP-Teamwork-Rapunzel\Start\bin\Debug\Start.exe.config
+D:\Telerik Academy\Telerik\C# 3\9.OOP-Teamwork-Assignment-March-2013\OOP-Teamwork-Rapunzel\Start\obj\Debug\Start.exe
+D:\Telerik Academy\Telerik\C# 3\9.OOP-Teamwork-Assignment-March-2013\OOP-Teamwork-Rapunzel\Start\obj\Debug\Start.pdb

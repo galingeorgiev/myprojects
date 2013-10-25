@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\2.BankSystem\bin\Debug\2.BankSystem.exe.config
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\2.BankSystem\bin\Debug\2.BankSystem.exe
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\2.BankSystem\bin\Debug\2.BankSystem.pdb
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\2.BankSystem\obj\Debug\2.BankSystem.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\2.BankSystem\obj\Debug\2.BankSystem.exe
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\2.BankSystem\obj\Debug\2.BankSystem.pdb

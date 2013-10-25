@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\DocumentSystem-Solution\bin\Debug\DocumentSystem.exe
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\DocumentSystem-Solution\bin\Debug\DocumentSystem.pdb
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\DocumentSystem-Solution\obj\Debug\DocumentSystem.exe
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\DocumentSystem-Solution\obj\Debug\DocumentSystem.pdb

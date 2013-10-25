@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Defining-Classes-Part-II-Demos\Custom-Attributes\bin\Debug\_1.CustomAttributesDemo.exe
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Defining-Classes-Part-II-Demos\Custom-Attributes\bin\Debug\_1.CustomAttributesDemo.pdb
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Defining-Classes-Part-II-Demos\Custom-Attributes\obj\x86\Debug\10. Custom Attributes.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Defining-Classes-Part-II-Demos\Custom-Attributes\obj\x86\Debug\_1.CustomAttributesDemo.exe
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Defining-Classes-Part-II-Demos\Custom-Attributes\obj\x86\Debug\_1.CustomAttributesDemo.pdb

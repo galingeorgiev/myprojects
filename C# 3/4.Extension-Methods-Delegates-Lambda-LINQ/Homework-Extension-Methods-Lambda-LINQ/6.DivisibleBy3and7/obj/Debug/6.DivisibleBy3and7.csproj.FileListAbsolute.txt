@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\6.DivisibleBy3and7\bin\Debug\6.DivisibleBy3and7.exe.config
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\6.DivisibleBy3and7\bin\Debug\6.DivisibleBy3and7.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\6.DivisibleBy3and7\bin\Debug\6.DivisibleBy3and7.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\6.DivisibleBy3and7\obj\Debug\6.DivisibleBy3and7.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\6.DivisibleBy3and7\obj\Debug\6.DivisibleBy3and7.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\6.DivisibleBy3and7\obj\Debug\6.DivisibleBy3and7.csprojResolveAssemblyReference.cache

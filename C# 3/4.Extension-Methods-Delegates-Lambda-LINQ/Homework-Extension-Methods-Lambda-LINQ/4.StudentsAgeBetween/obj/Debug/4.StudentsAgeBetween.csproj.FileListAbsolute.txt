@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\4.StudentsAgeBetween\bin\Debug\4.StudentsAgeBetween.exe.config
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\4.StudentsAgeBetween\obj\Debug\4.StudentsAgeBetween.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\4.StudentsAgeBetween\bin\Debug\4.StudentsAgeBetween.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\4.StudentsAgeBetween\bin\Debug\4.StudentsAgeBetween.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\4.StudentsAgeBetween\obj\Debug\4.StudentsAgeBetween.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\4.StudentsAgeBetween\obj\Debug\4.StudentsAgeBetween.pdb

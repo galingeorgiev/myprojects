@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\Point3D\bin\Debug\Point3D.exe.config
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\Point3D\obj\Debug\Point3D.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\Point3D\bin\Debug\Point3D.exe
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\Point3D\bin\Debug\Point3D.pdb
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\Point3D\obj\Debug\Point3D.exe
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\Point3D\obj\Debug\Point3D.pdb

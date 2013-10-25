@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\MulticastDelegates\bin\Debug\_2.MulticastDelegates.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\MulticastDelegates\bin\Debug\_2.MulticastDelegates.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\MulticastDelegates\obj\x86\Debug\2. Multicast Delegates.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\MulticastDelegates\obj\x86\Debug\_2.MulticastDelegates.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\MulticastDelegates\obj\x86\Debug\_2.MulticastDelegates.pdb

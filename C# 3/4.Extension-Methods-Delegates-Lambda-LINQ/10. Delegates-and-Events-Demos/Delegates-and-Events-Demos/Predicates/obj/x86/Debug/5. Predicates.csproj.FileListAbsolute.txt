@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\Predicates\bin\Debug\_5.Predicates.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\Predicates\bin\Debug\_5.Predicates.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\Predicates\obj\x86\Debug\_5.Predicates.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\Predicates\obj\x86\Debug\_5.Predicates.pdb

@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\5.SortStudents\bin\Debug\5.SortStudents.exe.config
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\5.SortStudents\bin\Debug\5.SortStudents.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\5.SortStudents\bin\Debug\5.SortStudents.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\5.SortStudents\bin\Debug\3.StudantsNames.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\5.SortStudents\bin\Debug\3.StudantsNames.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\5.SortStudents\obj\Debug\5.SortStudents.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\5.SortStudents\obj\Debug\5.SortStudents.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\5.SortStudents\obj\Debug\5.SortStudents.pdb

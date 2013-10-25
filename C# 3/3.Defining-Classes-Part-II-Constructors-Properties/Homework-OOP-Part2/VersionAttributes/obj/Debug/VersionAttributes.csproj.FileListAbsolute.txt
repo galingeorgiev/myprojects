@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\VersionAttributes\bin\Debug\VersionAttributes.exe.config
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\VersionAttributes\bin\Debug\VersionAttributes.exe
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\VersionAttributes\bin\Debug\VersionAttributes.pdb
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\VersionAttributes\obj\Debug\VersionAttributes.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\VersionAttributes\obj\Debug\VersionAttributes.exe
+D:\Telerik Academy\Telerik\C# 3\3.Defining-Classes-Part-II-Constructors-Properties\Homework-OOP-Part2\VersionAttributes\obj\Debug\VersionAttributes.pdb

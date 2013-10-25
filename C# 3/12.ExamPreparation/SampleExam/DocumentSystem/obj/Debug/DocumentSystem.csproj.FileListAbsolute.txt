@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 3\12.ExamPreparation\SampleExam\DocumentSystem\bin\Debug\DocumentSystem.exe.config
+D:\Telerik Academy\Telerik\C# 3\12.ExamPreparation\SampleExam\DocumentSystem\obj\Debug\DocumentSystem.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\12.ExamPreparation\SampleExam\DocumentSystem\bin\Debug\DocumentSystem.exe
+D:\Telerik Academy\Telerik\C# 3\12.ExamPreparation\SampleExam\DocumentSystem\bin\Debug\DocumentSystem.pdb
+D:\Telerik Academy\Telerik\C# 3\12.ExamPreparation\SampleExam\DocumentSystem\obj\Debug\DocumentSystem.exe
+D:\Telerik Academy\Telerik\C# 3\12.ExamPreparation\SampleExam\DocumentSystem\obj\Debug\DocumentSystem.pdb

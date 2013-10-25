@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\TestConsoleApp\bin\Debug\AboutPhone.dll
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\TestConsoleApp\bin\Debug\AboutPhone.pdb
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\TestConsoleApp\obj\Debug\TestConsoleApp.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\TestConsoleApp\obj\Debug\TestConsoleApp.pdb

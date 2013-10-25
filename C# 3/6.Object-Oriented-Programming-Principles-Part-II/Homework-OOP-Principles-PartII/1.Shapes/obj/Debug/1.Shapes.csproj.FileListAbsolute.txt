@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\1.Shapes\bin\Debug\1.Shapes.exe.config
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\1.Shapes\bin\Debug\1.Shapes.exe
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\1.Shapes\bin\Debug\1.Shapes.pdb
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\1.Shapes\obj\Debug\1.Shapes.exe
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\1.Shapes\obj\Debug\1.Shapes.pdb
+D:\Telerik Academy\Telerik\C# 3\6.Object-Oriented-Programming-Principles-Part-II\Homework-OOP-Principles-PartII\1.Shapes\obj\Debug\1.Shapes.csprojResolveAssemblyReference.cache

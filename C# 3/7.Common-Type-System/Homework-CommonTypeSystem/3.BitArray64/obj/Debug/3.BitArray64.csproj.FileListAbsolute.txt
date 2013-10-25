@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\3.BitArray64\bin\Debug\3.BitArray64.exe.config
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\3.BitArray64\obj\Debug\3.BitArray64.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\3.BitArray64\bin\Debug\3.BitArray64.exe
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\3.BitArray64\bin\Debug\3.BitArray64.pdb
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\3.BitArray64\obj\Debug\3.BitArray64.exe
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\3.BitArray64\obj\Debug\3.BitArray64.pdb

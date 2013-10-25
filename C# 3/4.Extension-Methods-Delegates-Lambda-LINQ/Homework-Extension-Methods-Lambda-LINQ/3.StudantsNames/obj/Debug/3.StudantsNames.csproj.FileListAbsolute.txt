@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\3.StudantsNames\bin\Debug\3.StudantsNames.exe.config
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\3.StudantsNames\bin\Debug\3.StudantsNames.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\3.StudantsNames\bin\Debug\3.StudantsNames.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\3.StudantsNames\obj\Debug\3.StudantsNames.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\3.StudantsNames\obj\Debug\3.StudantsNames.pdb

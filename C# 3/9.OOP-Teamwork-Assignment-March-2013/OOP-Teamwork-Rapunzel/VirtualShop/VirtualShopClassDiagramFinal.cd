@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VirtualShop.Ads" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAABAAAAAAABAAAABQAAABAAIAAAAAAAAAAAEA=</HashCode>
+      <FileName>Ads.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.AdsStock" Collapsed="true">
+    <Position X="2.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAEAAGAAA=</HashCode>
+      <FileName>AdsStock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.AlgorithmOfEGN" Collapsed="true">
+    <Position X="4.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AlgorithmOfEGN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.CreateProduct" Collapsed="true">
+    <Position X="2.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAEA=</HashCode>
+      <FileName>CreateProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.Customer">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAABAAgAAAAAAAQAQAAAAFAQAAAQAAEAAAAAE=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.CustomerCorporate">
+    <Position X="8.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEEAAAAAAAAAQAAEAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerCorporate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VirtualShop.CustomerExperience" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerExperience.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VirtualShop.CustomerIndividual">
+    <Position X="8.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEEAAAAAAAAAQAAEAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerIndividual.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VirtualShop.DrawConsoleUI" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMBAAABAAAAAAAAQxIAYgEABAAAAACAAAAAAAQACAA=</HashCode>
+      <FileName>DrawConsoleUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.DrinksProductsBuilder">
+    <Position X="3.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAgAAAAAAgAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrinksProductsBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.FoodsProductsBuilder">
+    <Position X="1.25" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAgAAAAAAgAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FoodsProductsBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.GardenProductsBuilder">
+    <Position X="4.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAgAAAAAAgAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GardenProductsBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.HomeProductsBuilder">
+    <Position X="0.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAgAAAAAAgAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HomeProductsBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.IncorrectCorporateIDNumberException" Collapsed="true">
+    <Position X="4.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IncorrectCorporateIDNumerException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.IncorrectIndividualIDNumberException" Collapsed="true">
+    <Position X="4.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IncorrectIndividualIDNumberException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.InPromotionEventArgs" Collapsed="true">
+    <Position X="2.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAAA=</HashCode>
+      <FileName>InPromotionEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.Product" Collapsed="true">
+    <Position X="2.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAAAARAAAAAEAAAAIAQAQAAEAEAAACAIAAAgCAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.ProductBuilder">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAIAwAAAAAAgAAAIAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ProductBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.StockRoom" Collapsed="true">
+    <Position X="2.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StockRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualShop.VirtualShopExceptions" Collapsed="true">
+    <Position X="4.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VirtualShopExceptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdsEventArgs" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>AdsEventsArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="VirtualShop.ExpirationDate" Collapsed="true">
+    <Position X="2.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAJAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>ExpirationDate.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="VirtualShop.ICalculateTaxes" Collapsed="true">
+    <Position X="6" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICalculateTaxes.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VirtualShop.IPromotion" Collapsed="true">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPromotion.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VirtualShop.ISendMail" Collapsed="true">
+    <Position X="0.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISendMail.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IAds" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IAds.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="VirtualShop.Category" Collapsed="true">
+    <Position X="2.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAgAAAAAAAAAAAAAAAQAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Category.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="VirtualShop.PromotionEventHandler" Collapsed="true">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>PromotionEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="AdsEventHandler" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdsEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

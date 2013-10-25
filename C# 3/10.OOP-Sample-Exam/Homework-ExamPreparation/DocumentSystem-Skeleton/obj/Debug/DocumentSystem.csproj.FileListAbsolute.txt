@@ -1,0 +1,7 @@
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\DocumentSystem-Skeleton\obj\Debug\DocumentSystem.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\DocumentSystem-Skeleton\bin\Debug\DocumentSystem.exe
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\DocumentSystem-Skeleton\bin\Debug\DocumentSystem.pdb
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\DocumentSystem-Skeleton\obj\Debug\DocumentSystem.exe
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\DocumentSystem-Skeleton\obj\Debug\DocumentSystem.pdb
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\Homework-ExamPreparation\DocumentSystem-Skeleton\obj\Debug\DocumentSystem.exe
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\Homework-ExamPreparation\DocumentSystem-Skeleton\obj\Debug\DocumentSystem.pdb

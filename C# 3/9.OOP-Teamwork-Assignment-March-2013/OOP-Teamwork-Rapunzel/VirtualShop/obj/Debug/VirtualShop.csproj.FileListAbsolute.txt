@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Rapunzel\OOP-Teamwork-Rapunzel\VirtualShop\obj\Debug\VirtualShop.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Rapunzel\OOP-Teamwork-Rapunzel\VirtualShop\bin\Debug\VirtualShop.dll
+C:\Users\User\Desktop\Rapunzel\OOP-Teamwork-Rapunzel\VirtualShop\bin\Debug\VirtualShop.pdb
+C:\Users\User\Desktop\Rapunzel\OOP-Teamwork-Rapunzel\VirtualShop\obj\Debug\VirtualShop.dll
+C:\Users\User\Desktop\Rapunzel\OOP-Teamwork-Rapunzel\VirtualShop\obj\Debug\VirtualShop.pdb

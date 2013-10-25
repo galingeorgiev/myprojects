@@ -1,0 +1,9 @@
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-OOP-Part-I\1.School\bin\Debug\1.School.exe.config
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-OOP-Part-I\1.School\obj\Debug\1.School.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-OOP-Part-I\1.School\bin\Debug\1.School.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-OOP-Part-I\1.School\bin\Debug\1.School.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-OOP-Part-I\1.School\obj\Debug\1.School.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-OOP-Part-I\1.School\obj\Debug\1.School.pdb
+D:\Telerik Academy\Telerik\C# 3\5.Object-Oriented-Programming-Principles-Part-I\Homework-OOP-Part-I\1.School\bin\Debug\1.School.exe.config
+D:\Telerik Academy\Telerik\C# 3\5.Object-Oriented-Programming-Principles-Part-I\Homework-OOP-Part-I\1.School\obj\Debug\1.School.exe
+D:\Telerik Academy\Telerik\C# 3\5.Object-Oriented-Programming-Principles-Part-I\Homework-OOP-Part-I\1.School\obj\Debug\1.School.pdb

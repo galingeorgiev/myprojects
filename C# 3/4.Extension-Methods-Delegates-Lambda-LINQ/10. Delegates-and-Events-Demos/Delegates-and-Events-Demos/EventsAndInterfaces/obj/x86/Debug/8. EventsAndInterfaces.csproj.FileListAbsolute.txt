@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\EventsAndInterfaces\bin\Debug\_8.EventsAndInterfaces.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\EventsAndInterfaces\bin\Debug\_8.EventsAndInterfaces.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\EventsAndInterfaces\obj\x86\Debug\_8.EventsAndInterfaces.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\10. Delegates-and-Events-Demos\Delegates-and-Events-Demos\EventsAndInterfaces\obj\x86\Debug\_8.EventsAndInterfaces.pdb

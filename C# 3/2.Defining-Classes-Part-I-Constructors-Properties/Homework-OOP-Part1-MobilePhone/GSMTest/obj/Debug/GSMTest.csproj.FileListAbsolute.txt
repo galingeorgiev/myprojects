@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\GSMTest\bin\Debug\GSMTest.exe.config
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\GSMTest\obj\Debug\GSMTest.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\GSMTest\bin\Debug\GSMTest.exe
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\GSMTest\bin\Debug\GSMTest.pdb
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\GSMTest\bin\Debug\AboutPhone.dll
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\GSMTest\bin\Debug\AboutPhone.pdb
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\GSMTest\obj\Debug\GSMTest.exe
+D:\Telerik Academy\Telerik\C# 3\2.Defining-Classes-Part-I-Constructors-Properties\Homework-OOP-Part1-MobilePhone\GSMTest\obj\Debug\GSMTest.pdb

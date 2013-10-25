@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\2.Person\bin\Debug\2.Person.exe.config
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\2.Person\bin\Debug\2.Person.exe
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\2.Person\bin\Debug\2.Person.pdb
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\2.Person\obj\Debug\2.Person.exe
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\2.Person\obj\Debug\2.Person.pdb
+D:\Telerik Academy\Telerik\C# 3\7.Common-Type-System\Homework-CommonTypeSystem\2.Person\obj\Debug\2.Person.csprojResolveAssemblyReference.cache

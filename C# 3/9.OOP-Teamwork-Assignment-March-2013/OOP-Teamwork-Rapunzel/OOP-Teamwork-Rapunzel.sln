@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Start", "Start\Start.csproj", "{16B38DAC-4F59-465E-BDE9-7D63EFDAC066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualShop", "VirtualShop\VirtualShop.csproj", "{271C3548-4482-482D-B8BF-26E93A79BCC6}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs11
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Start\\Start.csproj
+		SccProjectName1 = Start
+		SccLocalPath1 = Start
+		SccProjectUniqueName2 = VirtualShop\\VirtualShop.csproj
+		SccProjectName2 = VirtualShop
+		SccLocalPath2 = VirtualShop
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B38DAC-4F59-465E-BDE9-7D63EFDAC066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B38DAC-4F59-465E-BDE9-7D63EFDAC066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B38DAC-4F59-465E-BDE9-7D63EFDAC066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B38DAC-4F59-465E-BDE9-7D63EFDAC066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271C3548-4482-482D-B8BF-26E93A79BCC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271C3548-4482-482D-B8BF-26E93A79BCC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271C3548-4482-482D-B8BF-26E93A79BCC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271C3548-4482-482D-B8BF-26E93A79BCC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

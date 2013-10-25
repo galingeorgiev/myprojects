@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\8.EventsExercise\bin\Debug\8.EventsExercise.exe.config
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\8.EventsExercise\bin\Debug\8.EventsExercise.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\8.EventsExercise\bin\Debug\8.EventsExercise.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\8.EventsExercise\obj\Debug\8.EventsExercise.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-Extension-Methods-Lambda-LINQ\8.EventsExercise\obj\Debug\8.EventsExercise.pdb

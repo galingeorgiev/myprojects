@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AboutPhone", "AboutPhone\AboutPhone.csproj", "{D97E1E8A-7DF3-4038-9B0F-63E55B11C33B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSMCallHistoryTest", "TestConsoleApp\GSMCallHistoryTest.csproj", "{2CE1ADE2-F3FE-4BF8-9EF3-97CBFB67846F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSMTest", "GSMTest\GSMTest.csproj", "{D3BE4BF7-D654-451E-B244-F427737B7336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D97E1E8A-7DF3-4038-9B0F-63E55B11C33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97E1E8A-7DF3-4038-9B0F-63E55B11C33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97E1E8A-7DF3-4038-9B0F-63E55B11C33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97E1E8A-7DF3-4038-9B0F-63E55B11C33B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE1ADE2-F3FE-4BF8-9EF3-97CBFB67846F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE1ADE2-F3FE-4BF8-9EF3-97CBFB67846F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE1ADE2-F3FE-4BF8-9EF3-97CBFB67846F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE1ADE2-F3FE-4BF8-9EF3-97CBFB67846F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3BE4BF7-D654-451E-B244-F427737B7336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BE4BF7-D654-451E-B244-F427737B7336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BE4BF7-D654-451E-B244-F427737B7336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BE4BF7-D654-451E-B244-F427737B7336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

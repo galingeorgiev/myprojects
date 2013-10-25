@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\AllInOneFile\obj\Debug\AllInOneFile.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\AllInOneFile\bin\Debug\AllInOneFile.exe.config
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\AllInOneFile\bin\Debug\AllInOneFile.exe
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\AllInOneFile\bin\Debug\AllInOneFile.pdb
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\AllInOneFile\obj\Debug\AllInOneFile.exe
+D:\Telerik Academy\Telerik\C# 3\10.OOP-Sample-Exam\AllInOneFile\obj\Debug\AllInOneFile.pdb

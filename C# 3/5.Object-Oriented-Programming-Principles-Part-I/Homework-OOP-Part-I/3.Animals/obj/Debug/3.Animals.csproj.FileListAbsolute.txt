@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-OOP-Part-I\3.Animals\bin\Debug\3.Animals.exe.config
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-OOP-Part-I\3.Animals\bin\Debug\3.Animals.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-OOP-Part-I\3.Animals\bin\Debug\3.Animals.pdb
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-OOP-Part-I\3.Animals\obj\Debug\3.Animals.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-OOP-Part-I\3.Animals\obj\Debug\3.Animals.exe
+D:\Telerik Academy\Telerik\C# 3\4.Extension-Methods-Delegates-Lambda-LINQ\Homework-OOP-Part-I\3.Animals\obj\Debug\3.Animals.pdb
+D:\Telerik Academy\Telerik\C# 3\5.Object-Oriented-Programming-Principles-Part-I\Homework-OOP-Part-I\3.Animals\bin\Debug\3.Animals.exe.config
+D:\Telerik Academy\Telerik\C# 3\5.Object-Oriented-Programming-Principles-Part-I\Homework-OOP-Part-I\3.Animals\obj\Debug\3.Animals.exe
+D:\Telerik Academy\Telerik\C# 3\5.Object-Oriented-Programming-Principles-Part-I\Homework-OOP-Part-I\3.Animals\obj\Debug\3.Animals.pdb
+D:\Telerik Academy\Telerik\C# 3\5.Object-Oriented-Programming-Principles-Part-I\Homework-OOP-Part-I\3.Animals\obj\Debug\3.Animals.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 3\5.Object-Oriented-Programming-Principles-Part-I\Homework-OOP-Part-I\3.Animals\bin\Debug\3.Animals.exe
+D:\Telerik Academy\Telerik\C# 3\5.Object-Oriented-Programming-Principles-Part-I\Homework-OOP-Part-I\3.Animals\bin\Debug\3.Animals.pdb
