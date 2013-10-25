@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\TraverseWindowsDirectory\bin\Debug\TraverseWindowsDirectory.exe.config
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\TraverseWindowsDirectory\bin\Debug\TraverseWindowsDirectory.exe
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\TraverseWindowsDirectory\bin\Debug\TraverseWindowsDirectory.pdb
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\TraverseWindowsDirectory\obj\Debug\TraverseWindowsDirectory.exe
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\TraverseWindowsDirectory\obj\Debug\TraverseWindowsDirectory.pdb
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\TraverseWindowsDirectory\obj\Debug\TraverseWindowsDirectory.csprojResolveAssemblyReference.cache

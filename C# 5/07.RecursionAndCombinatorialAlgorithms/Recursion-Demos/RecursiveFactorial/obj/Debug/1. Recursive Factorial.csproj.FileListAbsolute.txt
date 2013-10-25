@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Recursion-Demos\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Recursion-Demos\RecursiveFactorial\bin\Debug\RecursiveFactorial.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Recursion-Demos\RecursiveFactorial\obj\Debug\1. Recursive Factorial.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Recursion-Demos\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Recursion-Demos\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb

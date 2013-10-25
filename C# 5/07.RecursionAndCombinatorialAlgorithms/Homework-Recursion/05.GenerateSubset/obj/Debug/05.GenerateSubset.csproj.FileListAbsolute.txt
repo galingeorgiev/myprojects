@@ -1,0 +1,12 @@
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\05.GenerateSubset\bin\Debug\05.GenerateSubset.exe.config
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\05.GenerateSubset\bin\Debug\05.GenerateSubset.exe
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\05.GenerateSubset\bin\Debug\05.GenerateSubset.pdb
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\05.GenerateSubset\obj\Debug\05.GenerateSubset.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\05.GenerateSubset\obj\Debug\05.GenerateSubset.exe
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\05.GenerateSubset\obj\Debug\05.GenerateSubset.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\05.GenerateSubset\bin\Debug\05.GenerateSubset.exe.config
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\05.GenerateSubset\obj\Debug\05.GenerateSubset.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\05.GenerateSubset\obj\Debug\05.GenerateSubset.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\05.GenerateSubset\bin\Debug\05.GenerateSubset.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\05.GenerateSubset\bin\Debug\05.GenerateSubset.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\05.GenerateSubset\obj\Debug\05.GenerateSubset.csprojResolveAssemblyReference.cache

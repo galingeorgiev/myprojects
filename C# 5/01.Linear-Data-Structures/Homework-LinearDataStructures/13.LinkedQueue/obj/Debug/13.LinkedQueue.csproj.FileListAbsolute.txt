@@ -1,0 +1,12 @@
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\13.LinkedQueue\bin\Debug\13.LinkedQueue.exe.config
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\13.LinkedQueue\obj\Debug\13.LinkedQueue.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\13.LinkedQueue\bin\Debug\13.LinkedQueue.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\13.LinkedQueue\bin\Debug\13.LinkedQueue.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\13.LinkedQueue\obj\Debug\13.LinkedQueue.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\13.LinkedQueue\obj\Debug\13.LinkedQueue.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\13.LinkedQueue\bin\Debug\13.LinkedQueue.exe.config
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\13.LinkedQueue\bin\Debug\13.LinkedQueue.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\13.LinkedQueue\bin\Debug\13.LinkedQueue.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\13.LinkedQueue\obj\Debug\13.LinkedQueue.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\13.LinkedQueue\obj\Debug\13.LinkedQueue.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\13.LinkedQueue\obj\Debug\13.LinkedQueue.pdb

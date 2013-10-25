@@ -1,0 +1,1 @@
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\bin\Debug\OccursNumbrersInArray.exe.config

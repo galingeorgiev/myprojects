@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\07.FindPath\bin\Debug\07.FindPath.exe.config
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\07.FindPath\bin\Debug\07.FindPath.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\07.FindPath\bin\Debug\07.FindPath.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\07.FindPath\obj\Debug\07.FindPath.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\07.FindPath\obj\Debug\07.FindPath.pdb

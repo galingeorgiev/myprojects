@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Recursion-Demos\Generating01Vectors\bin\Debug\Generating01Vectors.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Recursion-Demos\Generating01Vectors\bin\Debug\Generating01Vectors.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Recursion-Demos\Generating01Vectors\obj\Debug\Generating01Vectors.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Recursion-Demos\Generating01Vectors\obj\Debug\Generating01Vectors.pdb

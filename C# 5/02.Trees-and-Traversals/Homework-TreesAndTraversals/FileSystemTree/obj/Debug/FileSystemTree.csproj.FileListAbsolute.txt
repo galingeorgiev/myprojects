@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\FileSystemTree\bin\Debug\FileSystemTree.exe.config
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\FileSystemTree\bin\Debug\FileSystemTree.exe
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\FileSystemTree\bin\Debug\FileSystemTree.pdb
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\FileSystemTree\obj\Debug\FileSystemTree.exe
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\FileSystemTree\obj\Debug\FileSystemTree.pdb
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\FileSystemTree\obj\Debug\FileSystemTree.csprojResolveAssemblyReference.cache

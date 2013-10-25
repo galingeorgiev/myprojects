@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketQueue", "SupermarketQueue\SupermarketQueue.csproj", "{59755CB7-98FD-4CB9-8462-AAFC8AF6C344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketTestGenerator", "SupermarketTestGenerator\SupermarketTestGenerator.csproj", "{42372D90-CE41-46A4-8014-5003755C3C32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59755CB7-98FD-4CB9-8462-AAFC8AF6C344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59755CB7-98FD-4CB9-8462-AAFC8AF6C344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59755CB7-98FD-4CB9-8462-AAFC8AF6C344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59755CB7-98FD-4CB9-8462-AAFC8AF6C344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42372D90-CE41-46A4-8014-5003755C3C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42372D90-CE41-46A4-8014-5003755C3C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42372D90-CE41-46A4-8014-5003755C3C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42372D90-CE41-46A4-8014-5003755C3C32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

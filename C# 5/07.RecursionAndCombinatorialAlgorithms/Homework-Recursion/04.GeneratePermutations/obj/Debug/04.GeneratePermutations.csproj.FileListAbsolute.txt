@@ -1,0 +1,12 @@
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\04.GeneratePermutations\bin\Debug\04.GeneratePermutations.exe.config
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\04.GeneratePermutations\bin\Debug\04.GeneratePermutations.exe
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\04.GeneratePermutations\bin\Debug\04.GeneratePermutations.pdb
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\04.GeneratePermutations\obj\Debug\04.GeneratePermutations.exe
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\04.GeneratePermutations\obj\Debug\04.GeneratePermutations.pdb
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\04.GeneratePermutations\obj\Debug\04.GeneratePermutations.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\04.GeneratePermutations\bin\Debug\04.GeneratePermutations.exe.config
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\04.GeneratePermutations\bin\Debug\04.GeneratePermutations.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\04.GeneratePermutations\bin\Debug\04.GeneratePermutations.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\04.GeneratePermutations\obj\Debug\04.GeneratePermutations.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\04.GeneratePermutations\obj\Debug\04.GeneratePermutations.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\04.GeneratePermutations\obj\Debug\04.GeneratePermutations.pdb

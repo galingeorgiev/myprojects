@@ -1,0 +1,12 @@
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\TVcompany\bin\Debug\TVcompany.exe.config
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\TVcompany\bin\Debug\TVcompany.exe
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\TVcompany\bin\Debug\TVcompany.pdb
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\TVcompany\obj\Debug\TVcompany.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\TVcompany\obj\Debug\TVcompany.exe
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\TVcompany\obj\Debug\TVcompany.pdb
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\TVcompany\bin\Debug\TVcompany.exe.config
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\TVcompany\obj\Debug\TVcompany.exe
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\TVcompany\obj\Debug\TVcompany.pdb
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\TVcompany\bin\Debug\TVcompany.exe
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\TVcompany\bin\Debug\TVcompany.pdb
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\TVcompany\obj\Debug\TVcompany.csprojResolveAssemblyReference.cache

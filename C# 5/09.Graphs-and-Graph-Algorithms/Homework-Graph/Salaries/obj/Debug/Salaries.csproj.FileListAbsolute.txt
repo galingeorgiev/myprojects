@@ -1,0 +1,12 @@
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\Salaries\bin\Debug\Salaries.exe.config
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\Salaries\bin\Debug\Salaries.exe
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\Salaries\bin\Debug\Salaries.pdb
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\Salaries\obj\Debug\Salaries.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\Salaries\obj\Debug\Salaries.exe
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\Salaries\obj\Debug\Salaries.pdb
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\Salaries\bin\Debug\Salaries.exe.config
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\Salaries\obj\Debug\Salaries.exe
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\Salaries\obj\Debug\Salaries.pdb
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\Salaries\bin\Debug\Salaries.exe
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\Salaries\bin\Debug\Salaries.pdb
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\Salaries\obj\Debug\Salaries.csprojResolveAssemblyReference.cache

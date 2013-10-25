@@ -1,0 +1,12 @@
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\09.FindSequenceMembers\bin\Debug\09.FindSequenceMembers.exe.config
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\09.FindSequenceMembers\obj\Debug\09.FindSequenceMembers.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\09.FindSequenceMembers\bin\Debug\09.FindSequenceMembers.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\09.FindSequenceMembers\bin\Debug\09.FindSequenceMembers.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\09.FindSequenceMembers\obj\Debug\09.FindSequenceMembers.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\09.FindSequenceMembers\obj\Debug\09.FindSequenceMembers.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\09.FindSequenceMembers\bin\Debug\09.FindSequenceMembers.exe.config
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\09.FindSequenceMembers\bin\Debug\09.FindSequenceMembers.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\09.FindSequenceMembers\bin\Debug\09.FindSequenceMembers.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\09.FindSequenceMembers\obj\Debug\09.FindSequenceMembers.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\09.FindSequenceMembers\obj\Debug\09.FindSequenceMembers.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\09.FindSequenceMembers\obj\Debug\09.FindSequenceMembers.pdb

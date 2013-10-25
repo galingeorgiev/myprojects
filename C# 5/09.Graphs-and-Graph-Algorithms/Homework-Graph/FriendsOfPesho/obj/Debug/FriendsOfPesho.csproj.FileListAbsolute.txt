@@ -1,0 +1,14 @@
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\FriendsOfPesho\bin\Debug\FriendsOfPesho.exe.config
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\FriendsOfPesho\obj\Debug\FriendsOfPesho.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\FriendsOfPesho\bin\Debug\FriendsOfPesho.exe
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\FriendsOfPesho\bin\Debug\FriendsOfPesho.pdb
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\FriendsOfPesho\obj\Debug\FriendsOfPesho.exe
+D:\My folder\Telerik Academy\C# 5\08.Graph\Homework-Graph\FriendsOfPesho\obj\Debug\FriendsOfPesho.pdb
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\FriendsOfPesho\bin\Debug\FriendsOfPesho.exe.config
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\FriendsOfPesho\obj\Debug\FriendsOfPesho.exe
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\FriendsOfPesho\obj\Debug\FriendsOfPesho.pdb
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\FriendsOfPesho\bin\Debug\FriendsOfPesho.exe
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\FriendsOfPesho\bin\Debug\FriendsOfPesho.pdb
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\FriendsOfPesho\obj\Debug\FriendsOfPesho.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\FriendsOfPesho\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 5\09.Graphs-and-Graph-Algorithms\Homework-Graph\FriendsOfPesho\bin\Debug\PowerCollections.xml

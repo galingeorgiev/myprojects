@@ -1,0 +1,14 @@
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\bin\Debug\OccursNumbrersInArray.exe.config
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\obj\Debug\07.OccursNumbrersInArray.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\bin\Debug\OccursNumbrersInArray.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\bin\Debug\OccursNumbrersInArray.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\obj\Debug\OccursNumbrersInArray.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\obj\Debug\OccursNumbrersInArray.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\bin\Debug\OccursNumbrersInArray.exe.config
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\bin\Debug\OccursNumbrersInArray.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\bin\Debug\OccursNumbrersInArray.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\obj\Debug\07.OccursNumbrersInArray.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\obj\Debug\OccursNumbrersInArray.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\OccursNumbrersInArray\obj\Debug\OccursNumbrersInArray.pdb

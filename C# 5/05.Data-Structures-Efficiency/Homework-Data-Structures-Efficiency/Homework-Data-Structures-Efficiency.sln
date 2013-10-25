@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFileAndPrintSortedInformation", "ReadFileAndPrintSortedInformation\ReadFileAndPrintSortedInformation.csproj", "{5FCEE600-A92C-47B5-8292-C20605D2608D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeCompanyItems", "TradeCompanyItems\TradeCompanyItems.csproj", "{5852E59C-2E98-459E-A052-DC14365EA5A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiDictionary", "BiDictionary\BiDictionary.csproj", "{BCD42917-112A-441A-9994-359819D86B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FCEE600-A92C-47B5-8292-C20605D2608D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCEE600-A92C-47B5-8292-C20605D2608D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCEE600-A92C-47B5-8292-C20605D2608D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCEE600-A92C-47B5-8292-C20605D2608D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5852E59C-2E98-459E-A052-DC14365EA5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5852E59C-2E98-459E-A052-DC14365EA5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5852E59C-2E98-459E-A052-DC14365EA5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5852E59C-2E98-459E-A052-DC14365EA5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD42917-112A-441A-9994-359819D86B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD42917-112A-441A-9994-359819D86B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD42917-112A-441A-9994-359819D86B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD42917-112A-441A-9994-359819D86B47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

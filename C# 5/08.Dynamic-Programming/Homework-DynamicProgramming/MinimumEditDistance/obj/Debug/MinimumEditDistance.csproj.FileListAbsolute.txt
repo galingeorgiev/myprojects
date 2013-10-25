@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 5\08.Dynamic-Programming\Homework-DynamicProgramming\MinimumEditDistance\obj\Debug\MinimumEditDistance.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\08.Dynamic-Programming\Homework-DynamicProgramming\MinimumEditDistance\bin\Debug\MinimumEditDistance.exe.config
+D:\Telerik Academy\Telerik\C# 5\08.Dynamic-Programming\Homework-DynamicProgramming\MinimumEditDistance\bin\Debug\MinimumEditDistance.exe
+D:\Telerik Academy\Telerik\C# 5\08.Dynamic-Programming\Homework-DynamicProgramming\MinimumEditDistance\bin\Debug\MinimumEditDistance.pdb
+D:\Telerik Academy\Telerik\C# 5\08.Dynamic-Programming\Homework-DynamicProgramming\MinimumEditDistance\obj\Debug\MinimumEditDistance.exe
+D:\Telerik Academy\Telerik\C# 5\08.Dynamic-Programming\Homework-DynamicProgramming\MinimumEditDistance\obj\Debug\MinimumEditDistance.pdb

@@ -1,0 +1,9 @@
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\04.HashTable\bin\Debug\04.HashTable.exe.config
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\04.HashTable\bin\Debug\04.HashTable.exe
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\04.HashTable\bin\Debug\04.HashTable.pdb
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\04.HashTable\obj\Debug\04.HashTable.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\04.HashTable\obj\Debug\04.HashTable.exe
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\04.HashTable\obj\Debug\04.HashTable.pdb
+D:\Telerik Academy\Telerik\C# 5\03.Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\04.HashTable\bin\Debug\04.HashTable.exe.config
+D:\Telerik Academy\Telerik\C# 5\03.Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\04.HashTable\obj\Debug\04.HashTable.exe
+D:\Telerik Academy\Telerik\C# 5\03.Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\04.HashTable\obj\Debug\04.HashTable.pdb

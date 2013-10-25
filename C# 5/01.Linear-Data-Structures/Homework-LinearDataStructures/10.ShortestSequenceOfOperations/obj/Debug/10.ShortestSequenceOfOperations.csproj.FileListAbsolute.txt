@@ -1,0 +1,12 @@
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\10.ShortestSequenceOfOperations\bin\Debug\10.ShortestSequenceOfOperations.exe.config
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\10.ShortestSequenceOfOperations\bin\Debug\10.ShortestSequenceOfOperations.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\10.ShortestSequenceOfOperations\bin\Debug\10.ShortestSequenceOfOperations.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\10.ShortestSequenceOfOperations\obj\Debug\10.ShortestSequenceOfOperations.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\10.ShortestSequenceOfOperations\obj\Debug\10.ShortestSequenceOfOperations.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\10.ShortestSequenceOfOperations\obj\Debug\10.ShortestSequenceOfOperations.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\10.ShortestSequenceOfOperations\bin\Debug\10.ShortestSequenceOfOperations.exe.config
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\10.ShortestSequenceOfOperations\bin\Debug\10.ShortestSequenceOfOperations.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\10.ShortestSequenceOfOperations\bin\Debug\10.ShortestSequenceOfOperations.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\10.ShortestSequenceOfOperations\obj\Debug\10.ShortestSequenceOfOperations.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\10.ShortestSequenceOfOperations\obj\Debug\10.ShortestSequenceOfOperations.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\10.ShortestSequenceOfOperations\obj\Debug\10.ShortestSequenceOfOperations.pdb

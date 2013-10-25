@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\C# 5\04.Advanced-Data-Structures\Homework-Advanced-Data-Structures\FindProductInRange\obj\Debug\FindProductInRange.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\04.Advanced-Data-Structures\Homework-Advanced-Data-Structures\FindProductInRange\bin\Debug\FindProductInRange.exe.config
+D:\Telerik Academy\Telerik\C# 5\04.Advanced-Data-Structures\Homework-Advanced-Data-Structures\FindProductInRange\bin\Debug\FindProductInRange.exe
+D:\Telerik Academy\Telerik\C# 5\04.Advanced-Data-Structures\Homework-Advanced-Data-Structures\FindProductInRange\bin\Debug\FindProductInRange.pdb
+D:\Telerik Academy\Telerik\C# 5\04.Advanced-Data-Structures\Homework-Advanced-Data-Structures\FindProductInRange\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 5\04.Advanced-Data-Structures\Homework-Advanced-Data-Structures\FindProductInRange\bin\Debug\PowerCollections.xml
+D:\Telerik Academy\Telerik\C# 5\04.Advanced-Data-Structures\Homework-Advanced-Data-Structures\FindProductInRange\obj\Debug\FindProductInRange.exe
+D:\Telerik Academy\Telerik\C# 5\04.Advanced-Data-Structures\Homework-Advanced-Data-Structures\FindProductInRange\obj\Debug\FindProductInRange.pdb

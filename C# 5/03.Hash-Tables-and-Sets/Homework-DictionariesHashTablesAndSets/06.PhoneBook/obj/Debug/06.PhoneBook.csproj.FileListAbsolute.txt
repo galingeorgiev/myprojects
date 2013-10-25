@@ -1,0 +1,10 @@
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\06.PhoneBook\bin\Debug\06.PhoneBook.exe.config
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\06.PhoneBook\bin\Debug\06.PhoneBook.exe
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\06.PhoneBook\bin\Debug\06.PhoneBook.pdb
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\06.PhoneBook\bin\Debug\PowerCollections.dll
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\06.PhoneBook\obj\Debug\06.PhoneBook.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\06.PhoneBook\obj\Debug\06.PhoneBook.exe
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\06.PhoneBook\obj\Debug\06.PhoneBook.pdb
+D:\Telerik Academy\Telerik\C# 5\03.Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\06.PhoneBook\bin\Debug\06.PhoneBook.exe.config
+D:\Telerik Academy\Telerik\C# 5\03.Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\06.PhoneBook\obj\Debug\06.PhoneBook.exe
+D:\Telerik Academy\Telerik\C# 5\03.Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\06.PhoneBook\obj\Debug\06.PhoneBook.pdb

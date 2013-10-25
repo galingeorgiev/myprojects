@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\ReadFileAndPrintSortedInformation\bin\Debug\ReadFileAndPrintSortedInformation.exe.config
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\ReadFileAndPrintSortedInformation\bin\Debug\ReadFileAndPrintSortedInformation.exe
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\ReadFileAndPrintSortedInformation\bin\Debug\ReadFileAndPrintSortedInformation.pdb
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\ReadFileAndPrintSortedInformation\obj\Debug\ReadFileAndPrintSortedInformation.exe
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\ReadFileAndPrintSortedInformation\obj\Debug\ReadFileAndPrintSortedInformation.pdb
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\ReadFileAndPrintSortedInformation\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\ReadFileAndPrintSortedInformation\bin\Debug\PowerCollections.xml
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\ReadFileAndPrintSortedInformation\obj\Debug\ReadFileAndPrintSortedInformation.csprojResolveAssemblyReference.cache

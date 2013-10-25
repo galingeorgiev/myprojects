@@ -1,0 +1,12 @@
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.exe.config
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.exe.config
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.pdb

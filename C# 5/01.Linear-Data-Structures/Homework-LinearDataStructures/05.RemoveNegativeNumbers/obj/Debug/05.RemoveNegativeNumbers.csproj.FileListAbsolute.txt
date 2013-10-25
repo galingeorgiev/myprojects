@@ -1,0 +1,12 @@
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.exe.config
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\05.RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\05.RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\05.RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.exe.config
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\05.RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\05.RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\05.RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.pdb

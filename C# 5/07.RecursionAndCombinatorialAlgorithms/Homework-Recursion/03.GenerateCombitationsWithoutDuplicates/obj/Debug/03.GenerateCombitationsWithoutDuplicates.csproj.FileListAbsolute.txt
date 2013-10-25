@@ -1,0 +1,10 @@
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\03.GenerateCombitationsWithoutDuplicates\bin\Debug\03.GenerateCombitationsWithoutDuplicates.exe.config
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\03.GenerateCombitationsWithoutDuplicates\bin\Debug\03.GenerateCombitationsWithoutDuplicates.exe
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\03.GenerateCombitationsWithoutDuplicates\bin\Debug\03.GenerateCombitationsWithoutDuplicates.pdb
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\03.GenerateCombitationsWithoutDuplicates\obj\Debug\03.GenerateCombitationsWithoutDuplicates.exe
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\03.GenerateCombitationsWithoutDuplicates\obj\Debug\03.GenerateCombitationsWithoutDuplicates.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\03.GenerateCombitationsWithoutDuplicates\bin\Debug\03.GenerateCombitationsWithoutDuplicates.exe.config
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\03.GenerateCombitationsWithoutDuplicates\obj\Debug\03.GenerateCombitationsWithoutDuplicates.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\03.GenerateCombitationsWithoutDuplicates\obj\Debug\03.GenerateCombitationsWithoutDuplicates.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\03.GenerateCombitationsWithoutDuplicates\bin\Debug\03.GenerateCombitationsWithoutDuplicates.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\03.GenerateCombitationsWithoutDuplicates\bin\Debug\03.GenerateCombitationsWithoutDuplicates.pdb

@@ -1,0 +1,12 @@
+D:\My folder\Telerik Academy\C# 5\06.Sorting and Seraching Algorithms\Homework-SortingAndSerachingAlgorithms\bin\Debug\SortingHomework.exe.config
+D:\My folder\Telerik Academy\C# 5\06.Sorting and Seraching Algorithms\Homework-SortingAndSerachingAlgorithms\bin\Debug\SortingHomework.exe
+D:\My folder\Telerik Academy\C# 5\06.Sorting and Seraching Algorithms\Homework-SortingAndSerachingAlgorithms\bin\Debug\SortingHomework.pdb
+D:\My folder\Telerik Academy\C# 5\06.Sorting and Seraching Algorithms\Homework-SortingAndSerachingAlgorithms\obj\Debug\SortingHomework.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\06.Sorting and Seraching Algorithms\Homework-SortingAndSerachingAlgorithms\obj\Debug\SortingHomework.exe
+D:\My folder\Telerik Academy\C# 5\06.Sorting and Seraching Algorithms\Homework-SortingAndSerachingAlgorithms\obj\Debug\SortingHomework.pdb
+D:\Telerik Academy\Telerik\C# 5\06.SortingAndSerachingAlgorithms\Homework-SortingAndSerachingAlgorithms\bin\Debug\SortingHomework.exe.config
+D:\Telerik Academy\Telerik\C# 5\06.SortingAndSerachingAlgorithms\Homework-SortingAndSerachingAlgorithms\obj\Debug\SortingHomework.exe
+D:\Telerik Academy\Telerik\C# 5\06.SortingAndSerachingAlgorithms\Homework-SortingAndSerachingAlgorithms\obj\Debug\SortingHomework.pdb
+D:\Telerik Academy\Telerik\C# 5\06.SortingAndSerachingAlgorithms\Homework-SortingAndSerachingAlgorithms\bin\Debug\SortingHomework.exe
+D:\Telerik Academy\Telerik\C# 5\06.SortingAndSerachingAlgorithms\Homework-SortingAndSerachingAlgorithms\bin\Debug\SortingHomework.pdb
+D:\Telerik Academy\Telerik\C# 5\06.SortingAndSerachingAlgorithms\Homework-SortingAndSerachingAlgorithms\obj\Debug\SortingHomework.csprojResolveAssemblyReference.cache

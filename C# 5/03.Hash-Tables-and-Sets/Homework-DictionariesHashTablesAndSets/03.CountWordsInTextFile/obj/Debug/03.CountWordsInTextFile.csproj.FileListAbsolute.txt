@@ -1,0 +1,6 @@
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\03.CountWordsInTextFile\bin\Debug\03.CountWordsInTextFile.exe.config
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\03.CountWordsInTextFile\bin\Debug\03.CountWordsInTextFile.exe
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\03.CountWordsInTextFile\bin\Debug\03.CountWordsInTextFile.pdb
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\03.CountWordsInTextFile\obj\Debug\03.CountWordsInTextFile.exe
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\03.CountWordsInTextFile\obj\Debug\03.CountWordsInTextFile.pdb
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\03.CountWordsInTextFile\obj\Debug\03.CountWordsInTextFile.csprojResolveAssemblyReference.cache

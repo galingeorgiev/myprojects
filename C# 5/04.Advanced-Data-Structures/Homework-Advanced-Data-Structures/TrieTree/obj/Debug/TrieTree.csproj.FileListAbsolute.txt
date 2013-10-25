@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 5\04.Advanced-Data-Structures\Homework-Advanced-Data-Structures\TrieTree\bin\Debug\TrieTree.exe.config
+D:\Telerik Academy\Telerik\C# 5\04.Advanced-Data-Structures\Homework-Advanced-Data-Structures\TrieTree\bin\Debug\TrieTree.exe
+D:\Telerik Academy\Telerik\C# 5\04.Advanced-Data-Structures\Homework-Advanced-Data-Structures\TrieTree\bin\Debug\TrieTree.pdb
+D:\Telerik Academy\Telerik\C# 5\04.Advanced-Data-Structures\Homework-Advanced-Data-Structures\TrieTree\obj\Debug\TrieTree.exe
+D:\Telerik Academy\Telerik\C# 5\04.Advanced-Data-Structures\Homework-Advanced-Data-Structures\TrieTree\obj\Debug\TrieTree.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryPasswords", "BinaryPasswords\BinaryPasswords.csproj", "{B4D0DCC3-9ED3-4539-B61A-4929705BEBAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorfulRabbits", "ColorfulRabbits\ColorfulRabbits.csproj", "{E2DB382F-CAB3-46AC-A821-A7FA9A7D0700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D0DCC3-9ED3-4539-B61A-4929705BEBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D0DCC3-9ED3-4539-B61A-4929705BEBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D0DCC3-9ED3-4539-B61A-4929705BEBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D0DCC3-9ED3-4539-B61A-4929705BEBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2DB382F-CAB3-46AC-A821-A7FA9A7D0700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DB382F-CAB3-46AC-A821-A7FA9A7D0700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DB382F-CAB3-46AC-A821-A7FA9A7D0700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DB382F-CAB3-46AC-A821-A7FA9A7D0700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

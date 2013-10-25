@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\BiDictionary\bin\Debug\BiDictionary.exe.config
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\BiDictionary\obj\Debug\BiDictionary.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\BiDictionary\bin\Debug\BiDictionary.exe
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\BiDictionary\bin\Debug\BiDictionary.pdb
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\BiDictionary\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\BiDictionary\bin\Debug\PowerCollections.xml
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\BiDictionary\obj\Debug\BiDictionary.exe
+D:\Telerik Academy\Telerik\C# 5\05.Data-Structures-Efficiency\Homework-Data-Structures-Efficiency\BiDictionary\obj\Debug\BiDictionary.pdb

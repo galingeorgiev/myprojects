@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task3\bin\Debug\Task3.exe.config
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task3\bin\Debug\Task3.exe
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task3\bin\Debug\Task3.pdb
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task3\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task3\bin\Debug\PowerCollections.xml
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task3\obj\Debug\Task3.exe
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task3\obj\Debug\Task3.pdb
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache

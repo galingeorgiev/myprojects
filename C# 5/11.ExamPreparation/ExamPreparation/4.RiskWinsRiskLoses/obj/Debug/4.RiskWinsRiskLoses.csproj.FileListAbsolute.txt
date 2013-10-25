@@ -1,0 +1,15 @@
+D:\Telerik Academy\Telerik\C# 5\BGcoder\Problem2-Sudoku\ExamPreparation\4.RiskWinsRiskLoses\bin\Debug\4.RiskWinsRiskLoses.exe.config
+D:\Telerik Academy\Telerik\C# 5\BGcoder\Problem2-Sudoku\ExamPreparation\4.RiskWinsRiskLoses\bin\Debug\4.RiskWinsRiskLoses.exe
+D:\Telerik Academy\Telerik\C# 5\BGcoder\Problem2-Sudoku\ExamPreparation\4.RiskWinsRiskLoses\bin\Debug\4.RiskWinsRiskLoses.pdb
+D:\Telerik Academy\Telerik\C# 5\BGcoder\Problem2-Sudoku\ExamPreparation\4.RiskWinsRiskLoses\obj\Debug\4.RiskWinsRiskLoses.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\BGcoder\Problem2-Sudoku\ExamPreparation\4.RiskWinsRiskLoses\obj\Debug\4.RiskWinsRiskLoses.exe
+D:\Telerik Academy\Telerik\C# 5\BGcoder\Problem2-Sudoku\ExamPreparation\4.RiskWinsRiskLoses\obj\Debug\4.RiskWinsRiskLoses.pdb
+D:\Telerik Academy\Telerik\C# 5\10.ExamPreparation\ExamPreparation\4.RiskWinsRiskLoses\bin\Debug\4.RiskWinsRiskLoses.exe.config
+D:\Telerik Academy\Telerik\C# 5\10.ExamPreparation\ExamPreparation\4.RiskWinsRiskLoses\obj\Debug\4.RiskWinsRiskLoses.exe
+D:\Telerik Academy\Telerik\C# 5\10.ExamPreparation\ExamPreparation\4.RiskWinsRiskLoses\obj\Debug\4.RiskWinsRiskLoses.pdb
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\4.RiskWinsRiskLoses\bin\Debug\4.RiskWinsRiskLoses.exe.config
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\4.RiskWinsRiskLoses\bin\Debug\4.RiskWinsRiskLoses.exe
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\4.RiskWinsRiskLoses\bin\Debug\4.RiskWinsRiskLoses.pdb
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\4.RiskWinsRiskLoses\obj\Debug\4.RiskWinsRiskLoses.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\4.RiskWinsRiskLoses\obj\Debug\4.RiskWinsRiskLoses.exe
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\4.RiskWinsRiskLoses\obj\Debug\4.RiskWinsRiskLoses.pdb

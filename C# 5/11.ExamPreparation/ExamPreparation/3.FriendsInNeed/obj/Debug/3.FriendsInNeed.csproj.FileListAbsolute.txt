@@ -1,0 +1,14 @@
+D:\Telerik Academy\Telerik\C# 5\10.ExamPreparation\ExamPreparation\3.FriendsInNeed\bin\Debug\3.FriendsInNeed.exe.config
+D:\Telerik Academy\Telerik\C# 5\10.ExamPreparation\ExamPreparation\3.FriendsInNeed\bin\Debug\3.FriendsInNeed.exe
+D:\Telerik Academy\Telerik\C# 5\10.ExamPreparation\ExamPreparation\3.FriendsInNeed\bin\Debug\3.FriendsInNeed.pdb
+D:\Telerik Academy\Telerik\C# 5\10.ExamPreparation\ExamPreparation\3.FriendsInNeed\obj\Debug\3.FriendsInNeed.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\10.ExamPreparation\ExamPreparation\3.FriendsInNeed\obj\Debug\3.FriendsInNeed.exe
+D:\Telerik Academy\Telerik\C# 5\10.ExamPreparation\ExamPreparation\3.FriendsInNeed\obj\Debug\3.FriendsInNeed.pdb
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\3.FriendsInNeed\bin\Debug\3.FriendsInNeed.exe.config
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\3.FriendsInNeed\obj\Debug\3.FriendsInNeed.exe
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\3.FriendsInNeed\obj\Debug\3.FriendsInNeed.pdb
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\3.FriendsInNeed\bin\Debug\3.FriendsInNeed.exe
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\3.FriendsInNeed\bin\Debug\3.FriendsInNeed.pdb
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\3.FriendsInNeed\obj\Debug\3.FriendsInNeed.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\3.FriendsInNeed\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\3.FriendsInNeed\bin\Debug\PowerCollections.xml

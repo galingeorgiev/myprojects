@@ -1,0 +1,14 @@
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\08.FindMajorant\bin\Debug\08.FindMajorant.exe.config
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\08.FindMajorant\bin\Debug\08.FindMajorant.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\08.FindMajorant\bin\Debug\08.FindMajorant.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\08.FindMajorant\bin\Debug\PowerCollections.dll
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\08.FindMajorant\obj\Debug\08.FindMajorant.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\08.FindMajorant\obj\Debug\08.FindMajorant.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\08.FindMajorant\bin\Debug\08.FindMajorant.exe.config
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\08.FindMajorant\bin\Debug\08.FindMajorant.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\08.FindMajorant\bin\Debug\08.FindMajorant.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\08.FindMajorant\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\08.FindMajorant\obj\Debug\08.FindMajorant.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\08.FindMajorant\obj\Debug\08.FindMajorant.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\08.FindMajorant\obj\Debug\08.FindMajorant.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\08.FindMajorant\obj\Debug\08.FindMajorant.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 5\10.Other-Algorithms\Homework-Other-Algorithms\CoinsProblem\bin\Debug\CoinsProblem.exe.config
+D:\Telerik Academy\Telerik\C# 5\10.Other-Algorithms\Homework-Other-Algorithms\CoinsProblem\bin\Debug\CoinsProblem.exe
+D:\Telerik Academy\Telerik\C# 5\10.Other-Algorithms\Homework-Other-Algorithms\CoinsProblem\bin\Debug\CoinsProblem.pdb
+D:\Telerik Academy\Telerik\C# 5\10.Other-Algorithms\Homework-Other-Algorithms\CoinsProblem\obj\Debug\CoinsProblem.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\10.Other-Algorithms\Homework-Other-Algorithms\CoinsProblem\obj\Debug\CoinsProblem.exe
+D:\Telerik Academy\Telerik\C# 5\10.Other-Algorithms\Homework-Other-Algorithms\CoinsProblem\obj\Debug\CoinsProblem.pdb

@@ -1,0 +1,12 @@
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\01.GenerateCombitations\bin\Debug\01.GenerateCombitations.exe.config
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\01.GenerateCombitations\bin\Debug\01.GenerateCombitations.exe
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\01.GenerateCombitations\bin\Debug\01.GenerateCombitations.pdb
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\01.GenerateCombitations\obj\Debug\01.GenerateCombitations.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\01.GenerateCombitations\obj\Debug\01.GenerateCombitations.exe
+D:\My folder\Telerik Academy\C# 5\07.Recursion\Homework-Recursion\01.GenerateCombitations\obj\Debug\01.GenerateCombitations.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\01.GenerateCombitations\bin\Debug\01.GenerateCombitations.exe.config
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\01.GenerateCombitations\obj\Debug\01.GenerateCombitations.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\01.GenerateCombitations\obj\Debug\01.GenerateCombitations.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\01.GenerateCombitations\bin\Debug\01.GenerateCombitations.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\01.GenerateCombitations\bin\Debug\01.GenerateCombitations.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\01.GenerateCombitations\obj\Debug\01.GenerateCombitations.csprojResolveAssemblyReference.cache

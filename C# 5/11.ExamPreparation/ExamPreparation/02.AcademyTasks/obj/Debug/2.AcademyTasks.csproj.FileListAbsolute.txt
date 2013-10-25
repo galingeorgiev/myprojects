@@ -1,0 +1,15 @@
+D:\Telerik Academy\Telerik\C# 5\BGcoder\Problem2-Sudoku\ExamPreparation\02.AcademyTasks\bin\Debug\02.AcademyTasks.exe.config
+D:\Telerik Academy\Telerik\C# 5\BGcoder\Problem2-Sudoku\ExamPreparation\02.AcademyTasks\bin\Debug\02.AcademyTasks.exe
+D:\Telerik Academy\Telerik\C# 5\BGcoder\Problem2-Sudoku\ExamPreparation\02.AcademyTasks\bin\Debug\02.AcademyTasks.pdb
+D:\Telerik Academy\Telerik\C# 5\BGcoder\Problem2-Sudoku\ExamPreparation\02.AcademyTasks\obj\Debug\2.AcademyTasks.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\BGcoder\Problem2-Sudoku\ExamPreparation\02.AcademyTasks\obj\Debug\02.AcademyTasks.exe
+D:\Telerik Academy\Telerik\C# 5\BGcoder\Problem2-Sudoku\ExamPreparation\02.AcademyTasks\obj\Debug\02.AcademyTasks.pdb
+D:\Telerik Academy\Telerik\C# 5\10.ExamPreparation\ExamPreparation\02.AcademyTasks\bin\Debug\02.AcademyTasks.exe.config
+D:\Telerik Academy\Telerik\C# 5\10.ExamPreparation\ExamPreparation\02.AcademyTasks\obj\Debug\02.AcademyTasks.exe
+D:\Telerik Academy\Telerik\C# 5\10.ExamPreparation\ExamPreparation\02.AcademyTasks\obj\Debug\02.AcademyTasks.pdb
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\02.AcademyTasks\bin\Debug\02.AcademyTasks.exe.config
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\02.AcademyTasks\bin\Debug\02.AcademyTasks.exe
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\02.AcademyTasks\bin\Debug\02.AcademyTasks.pdb
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\02.AcademyTasks\obj\Debug\2.AcademyTasks.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\02.AcademyTasks\obj\Debug\02.AcademyTasks.exe
+D:\Telerik Academy\Telerik\C# 5\11.ExamPreparation\ExamPreparation\02.AcademyTasks\obj\Debug\02.AcademyTasks.pdb

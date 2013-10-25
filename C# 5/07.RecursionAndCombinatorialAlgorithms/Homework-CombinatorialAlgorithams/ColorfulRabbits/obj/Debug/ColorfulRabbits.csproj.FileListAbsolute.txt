@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-CombinatorialAlgorithams\ColorfulRabbits\obj\Debug\ColorfulRabbits.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-CombinatorialAlgorithams\ColorfulRabbits\bin\Debug\ColorfulRabbits.exe.config
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-CombinatorialAlgorithams\ColorfulRabbits\bin\Debug\ColorfulRabbits.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-CombinatorialAlgorithams\ColorfulRabbits\bin\Debug\ColorfulRabbits.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-CombinatorialAlgorithams\ColorfulRabbits\obj\Debug\ColorfulRabbits.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-CombinatorialAlgorithams\ColorfulRabbits\obj\Debug\ColorfulRabbits.pdb

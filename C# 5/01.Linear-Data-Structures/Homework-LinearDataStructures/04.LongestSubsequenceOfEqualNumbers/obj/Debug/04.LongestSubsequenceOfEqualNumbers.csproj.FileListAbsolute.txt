@@ -1,0 +1,12 @@
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\04.LongestSubsequenceOfEqualNumbers\bin\Debug\04.LongestSubsequenceOfEqualNumbers.exe.config
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\04.LongestSubsequenceOfEqualNumbers\bin\Debug\04.LongestSubsequenceOfEqualNumbers.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\04.LongestSubsequenceOfEqualNumbers\bin\Debug\04.LongestSubsequenceOfEqualNumbers.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\04.LongestSubsequenceOfEqualNumbers\obj\Debug\04.LongestSubsequenceOfEqualNumbers.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\04.LongestSubsequenceOfEqualNumbers\obj\Debug\04.LongestSubsequenceOfEqualNumbers.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\04.LongestSubsequenceOfEqualNumbers\obj\Debug\04.LongestSubsequenceOfEqualNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\04.LongestSubsequenceOfEqualNumbers\bin\Debug\04.LongestSubsequenceOfEqualNumbers.exe.config
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\04.LongestSubsequenceOfEqualNumbers\bin\Debug\04.LongestSubsequenceOfEqualNumbers.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\04.LongestSubsequenceOfEqualNumbers\bin\Debug\04.LongestSubsequenceOfEqualNumbers.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\04.LongestSubsequenceOfEqualNumbers\obj\Debug\04.LongestSubsequenceOfEqualNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\04.LongestSubsequenceOfEqualNumbers\obj\Debug\04.LongestSubsequenceOfEqualNumbers.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\04.LongestSubsequenceOfEqualNumbers\obj\Debug\04.LongestSubsequenceOfEqualNumbers.pdb

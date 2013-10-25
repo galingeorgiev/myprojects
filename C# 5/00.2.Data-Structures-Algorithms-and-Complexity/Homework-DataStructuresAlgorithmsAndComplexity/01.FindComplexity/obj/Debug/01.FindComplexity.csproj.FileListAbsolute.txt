@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C# 5\00.2.Data-Structures-Algorithms-and-Complexity\Homework-DataStructuresAlgorithmsAndComplexity\01.FindComplexity\bin\Debug\01.FindComplexity.exe.config
+D:\Telerik Academy\Telerik\C# 5\00.2.Data-Structures-Algorithms-and-Complexity\Homework-DataStructuresAlgorithmsAndComplexity\01.FindComplexity\bin\Debug\01.FindComplexity.exe
+D:\Telerik Academy\Telerik\C# 5\00.2.Data-Structures-Algorithms-and-Complexity\Homework-DataStructuresAlgorithmsAndComplexity\01.FindComplexity\bin\Debug\01.FindComplexity.pdb
+D:\Telerik Academy\Telerik\C# 5\00.2.Data-Structures-Algorithms-and-Complexity\Homework-DataStructuresAlgorithmsAndComplexity\01.FindComplexity\obj\Debug\01.FindComplexity.exe
+D:\Telerik Academy\Telerik\C# 5\00.2.Data-Structures-Algorithms-and-Complexity\Homework-DataStructuresAlgorithmsAndComplexity\01.FindComplexity\obj\Debug\01.FindComplexity.pdb

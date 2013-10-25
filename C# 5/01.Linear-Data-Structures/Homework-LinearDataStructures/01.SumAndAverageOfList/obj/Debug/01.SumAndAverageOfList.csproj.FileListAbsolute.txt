@@ -1,0 +1,15 @@
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\01.SumAndAverageOfList\bin\Debug\01.SumAndAverageOfList.exe.config
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\01.SumAndAverageOfList\obj\Debug\01.SumAndAverageOfList.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\01.SumAndAverageOfList\bin\Debug\01.SumAndAverageOfList.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\01.SumAndAverageOfList\bin\Debug\01.SumAndAverageOfList.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\01.SumAndAverageOfList\obj\Debug\01.SumAndAverageOfList.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\01.SumAndAverageOfList\obj\Debug\01.SumAndAverageOfList.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\01.SumAndAverageOfList\bin\Debug\01.SumAndAverageOfList.exe.config
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\01.SumAndAverageOfList\obj\Debug\01.SumAndAverageOfList.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\01.SumAndAverageOfList\obj\Debug\01.SumAndAverageOfList.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\01.SumAndAverageOfList\bin\Debug\01.SumAndAverageOfList.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\01.SumAndAverageOfList\bin\Debug\01.SumAndAverageOfList.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\01.SumAndAverageOfList\obj\Debug\01.SumAndAverageOfList.csprojResolveAssemblyReference.cache
+I:\Telerik\Homeworks\C#5\Homework-LinearDataStructures\01.SumAndAverageOfList\bin\Debug\01.SumAndAverageOfList.exe.config
+I:\Telerik\Homeworks\C#5\Homework-LinearDataStructures\01.SumAndAverageOfList\obj\Debug\01.SumAndAverageOfList.exe
+I:\Telerik\Homeworks\C#5\Homework-LinearDataStructures\01.SumAndAverageOfList\obj\Debug\01.SumAndAverageOfList.pdb

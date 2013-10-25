@@ -1,0 +1,7 @@
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task4\bin\Debug\Task4.exe.config
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task4\bin\Debug\Task4.exe
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task4\bin\Debug\Task4.pdb
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task4\bin\Debug\PowerCollections.dll
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task4\bin\Debug\PowerCollections.xml
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task4\obj\Debug\Task4.exe
+D:\Telerik Academy\Telerik\C# 5\12.RealExam\RealExam\Task4\obj\Debug\Task4.pdb

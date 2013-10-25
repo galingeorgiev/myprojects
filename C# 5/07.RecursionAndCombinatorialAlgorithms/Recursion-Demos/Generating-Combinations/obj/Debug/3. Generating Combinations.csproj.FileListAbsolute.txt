@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Recursion-Demos\Generating-Combinations\bin\Debug\Generating-Combinations.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Recursion-Demos\Generating-Combinations\bin\Debug\Generating-Combinations.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Recursion-Demos\Generating-Combinations\obj\Debug\Generating-Combinations.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Recursion-Demos\Generating-Combinations\obj\Debug\Generating-Combinations.pdb

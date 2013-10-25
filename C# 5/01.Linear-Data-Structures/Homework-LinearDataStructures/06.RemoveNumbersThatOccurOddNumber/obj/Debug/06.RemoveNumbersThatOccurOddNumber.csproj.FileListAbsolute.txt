@@ -1,0 +1,12 @@
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\06.RemoveNumbersThatOccurOddNumber\bin\Debug\06.RemoveNumbersThatOccurOddNumber.exe.config
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\06.RemoveNumbersThatOccurOddNumber\bin\Debug\06.RemoveNumbersThatOccurOddNumber.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\06.RemoveNumbersThatOccurOddNumber\bin\Debug\06.RemoveNumbersThatOccurOddNumber.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\06.RemoveNumbersThatOccurOddNumber\obj\Debug\06.RemoveNumbersThatOccurOddNumber.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\06.RemoveNumbersThatOccurOddNumber\obj\Debug\06.RemoveNumbersThatOccurOddNumber.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\06.RemoveNumbersThatOccurOddNumber\obj\Debug\06.RemoveNumbersThatOccurOddNumber.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\06.RemoveNumbersThatOccurOddNumber\bin\Debug\06.RemoveNumbersThatOccurOddNumber.exe.config
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\06.RemoveNumbersThatOccurOddNumber\bin\Debug\06.RemoveNumbersThatOccurOddNumber.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\06.RemoveNumbersThatOccurOddNumber\bin\Debug\06.RemoveNumbersThatOccurOddNumber.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\06.RemoveNumbersThatOccurOddNumber\obj\Debug\06.RemoveNumbersThatOccurOddNumber.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\06.RemoveNumbersThatOccurOddNumber\obj\Debug\06.RemoveNumbersThatOccurOddNumber.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\06.RemoveNumbersThatOccurOddNumber\obj\Debug\06.RemoveNumbersThatOccurOddNumber.pdb

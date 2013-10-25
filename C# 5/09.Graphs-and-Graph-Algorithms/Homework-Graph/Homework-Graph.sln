@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsOfPesho", "FriendsOfPesho\FriendsOfPesho.csproj", "{DD254819-3BC9-4A1C-A859-9CD6AB1E4E9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salaries", "Salaries\Salaries.csproj", "{0EEE838D-C61A-4CF7-A5B7-F39ED1C72147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVcompany", "TVcompany\TVcompany.csproj", "{4568E485-2C64-4345-8A43-96BBBE3B0E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD254819-3BC9-4A1C-A859-9CD6AB1E4E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD254819-3BC9-4A1C-A859-9CD6AB1E4E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD254819-3BC9-4A1C-A859-9CD6AB1E4E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD254819-3BC9-4A1C-A859-9CD6AB1E4E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EEE838D-C61A-4CF7-A5B7-F39ED1C72147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEE838D-C61A-4CF7-A5B7-F39ED1C72147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEE838D-C61A-4CF7-A5B7-F39ED1C72147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEE838D-C61A-4CF7-A5B7-F39ED1C72147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4568E485-2C64-4345-8A43-96BBBE3B0E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4568E485-2C64-4345-8A43-96BBBE3B0E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4568E485-2C64-4345-8A43-96BBBE3B0E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4568E485-2C64-4345-8A43-96BBBE3B0E13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

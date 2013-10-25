@@ -1,0 +1,9 @@
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\01.CountEqualElementsInArray\bin\Debug\01.CountEqualElementsInArray.exe.config
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\01.CountEqualElementsInArray\bin\Debug\01.CountEqualElementsInArray.exe
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\01.CountEqualElementsInArray\bin\Debug\01.CountEqualElementsInArray.pdb
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\01.CountEqualElementsInArray\obj\Debug\01.CountEqualElementsInArray.csprojResolveAssemblyReference.cache
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\01.CountEqualElementsInArray\obj\Debug\01.CountEqualElementsInArray.exe
+D:\My folder\Telerik Academy\C# 5\03.Dictionaries-Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\01.CountEqualElementsInArray\obj\Debug\01.CountEqualElementsInArray.pdb
+D:\Telerik Academy\Telerik\C# 5\03.Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\01.CountEqualElementsInArray\bin\Debug\01.CountEqualElementsInArray.exe.config
+D:\Telerik Academy\Telerik\C# 5\03.Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\01.CountEqualElementsInArray\obj\Debug\01.CountEqualElementsInArray.exe
+D:\Telerik Academy\Telerik\C# 5\03.Hash-Tables-and-Sets\Homework-DictionariesHashTablesAndSets\01.CountEqualElementsInArray\obj\Debug\01.CountEqualElementsInArray.pdb

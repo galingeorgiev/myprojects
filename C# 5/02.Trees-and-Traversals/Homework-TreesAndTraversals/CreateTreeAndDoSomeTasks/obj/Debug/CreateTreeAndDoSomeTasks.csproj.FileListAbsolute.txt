@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\CreateTreeAndDoSomeTasks\bin\Debug\CreateTreeAndDoSomeTasks.exe.config
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\CreateTreeAndDoSomeTasks\bin\Debug\CreateTreeAndDoSomeTasks.exe
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\CreateTreeAndDoSomeTasks\bin\Debug\CreateTreeAndDoSomeTasks.pdb
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\CreateTreeAndDoSomeTasks\obj\Debug\CreateTreeAndDoSomeTasks.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\CreateTreeAndDoSomeTasks\obj\Debug\CreateTreeAndDoSomeTasks.exe
+D:\Telerik Academy\Telerik\C# 5\02.Trees-and-Traversals\Homework-TreesAndTraversals\CreateTreeAndDoSomeTasks\obj\Debug\CreateTreeAndDoSomeTasks.pdb
+D:\My folder\Telerik Academy\C# 5\02.TreesAndTraversals\Homework-TreesAndTraversals\CreateTreeAndDoSomeTasks\bin\Debug\CreateTreeAndDoSomeTasks.exe.config
+D:\My folder\Telerik Academy\C# 5\02.TreesAndTraversals\Homework-TreesAndTraversals\CreateTreeAndDoSomeTasks\obj\Debug\CreateTreeAndDoSomeTasks.exe
+D:\My folder\Telerik Academy\C# 5\02.TreesAndTraversals\Homework-TreesAndTraversals\CreateTreeAndDoSomeTasks\obj\Debug\CreateTreeAndDoSomeTasks.pdb
+D:\My folder\Telerik Academy\C# 5\02.TreesAndTraversals\Homework-TreesAndTraversals\CreateTreeAndDoSomeTasks\bin\Debug\CreateTreeAndDoSomeTasks.exe
+D:\My folder\Telerik Academy\C# 5\02.TreesAndTraversals\Homework-TreesAndTraversals\CreateTreeAndDoSomeTasks\bin\Debug\CreateTreeAndDoSomeTasks.pdb
+D:\My folder\Telerik Academy\C# 5\02.TreesAndTraversals\Homework-TreesAndTraversals\CreateTreeAndDoSomeTasks\obj\Debug\CreateTreeAndDoSomeTasks.csprojResolveAssemblyReference.cache

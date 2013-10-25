@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\08.CountPaths\bin\Debug\08.CountPaths.exe.config
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\08.CountPaths\obj\Debug\08.CountPaths.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\08.CountPaths\bin\Debug\08.CountPaths.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\08.CountPaths\bin\Debug\08.CountPaths.pdb
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\08.CountPaths\obj\Debug\08.CountPaths.exe
+D:\Telerik Academy\Telerik\C# 5\07.RecursionAndCombinatorialAlgorithms\Homework-Recursion\08.CountPaths\obj\Debug\08.CountPaths.pdb

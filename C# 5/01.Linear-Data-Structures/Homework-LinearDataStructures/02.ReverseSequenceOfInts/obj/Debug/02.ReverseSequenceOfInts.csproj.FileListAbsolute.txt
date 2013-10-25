@@ -1,0 +1,11 @@
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\02.ReverseSequenceOfInts\bin\Debug\02.ReverseSequenceOfInts.exe.config
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\02.ReverseSequenceOfInts\bin\Debug\02.ReverseSequenceOfInts.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\02.ReverseSequenceOfInts\bin\Debug\02.ReverseSequenceOfInts.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\02.ReverseSequenceOfInts\obj\Debug\02.ReverseSequenceOfInts.exe
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\02.ReverseSequenceOfInts\obj\Debug\02.ReverseSequenceOfInts.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\02.ReverseSequenceOfInts\bin\Debug\02.ReverseSequenceOfInts.exe.config
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\02.ReverseSequenceOfInts\bin\Debug\02.ReverseSequenceOfInts.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\02.ReverseSequenceOfInts\bin\Debug\02.ReverseSequenceOfInts.pdb
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\02.ReverseSequenceOfInts\obj\Debug\02.ReverseSequenceOfInts.exe
+D:\Telerik Academy\Telerik\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\02.ReverseSequenceOfInts\obj\Debug\02.ReverseSequenceOfInts.pdb
+D:\My folder\Telerik Academy\C# 5\01.Linear-Data-Structures\Homework-LinearDataStructures\02.ReverseSequenceOfInts\obj\Debug\02.ReverseSequenceOfInts.csprojResolveAssemblyReference.cache

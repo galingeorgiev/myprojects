@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C# 5\10.Other-Algorithms\Homework-Other-Algorithms\IsPointInTriangle\obj\Debug\IsPointInTriangle.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C# 5\10.Other-Algorithms\Homework-Other-Algorithms\IsPointInTriangle\bin\Debug\IsPointInTriangle.exe.config
+D:\Telerik Academy\Telerik\C# 5\10.Other-Algorithms\Homework-Other-Algorithms\IsPointInTriangle\bin\Debug\IsPointInTriangle.exe
+D:\Telerik Academy\Telerik\C# 5\10.Other-Algorithms\Homework-Other-Algorithms\IsPointInTriangle\bin\Debug\IsPointInTriangle.pdb
+D:\Telerik Academy\Telerik\C# 5\10.Other-Algorithms\Homework-Other-Algorithms\IsPointInTriangle\obj\Debug\IsPointInTriangle.exe
+D:\Telerik Academy\Telerik\C# 5\10.Other-Algorithms\Homework-Other-Algorithms\IsPointInTriangle\obj\Debug\IsPointInTriangle.pdb
