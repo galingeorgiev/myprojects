@@ -1,0 +1,11 @@
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\07.PrintCurrentDateAndTime\bin\Debug\07.PrintCurrentDateAndTime.exe.config
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\07.PrintCurrentDateAndTime\bin\Debug\07.PrintCurrentDateAndTime.exe
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\07.PrintCurrentDateAndTime\bin\Debug\07.PrintCurrentDateAndTime.pdb
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\07.PrintCurrentDateAndTime\obj\Debug\07.PrintCurrentDateAndTime.exe
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\07.PrintCurrentDateAndTime\obj\Debug\07.PrintCurrentDateAndTime.pdb
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\07.PrintCurrentDateAndTime\bin\Debug\07.PrintCurrentDateAndTime.exe.config
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\07.PrintCurrentDateAndTime\obj\Debug\07.PrintCurrentDateAndTime.exe
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\07.PrintCurrentDateAndTime\obj\Debug\07.PrintCurrentDateAndTime.pdb
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\07.PrintCurrentDateAndTime\bin\Debug\07.PrintCurrentDateAndTime.exe
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\07.PrintCurrentDateAndTime\bin\Debug\07.PrintCurrentDateAndTime.pdb
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\07.PrintCurrentDateAndTime\obj\Debug\07.PrintCurrentDateAndTime.csprojResolveAssemblyReference.cache

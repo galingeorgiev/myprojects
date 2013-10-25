@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\06.QuadraticEquationSolve\bin\Debug\06.QuadraticEquationSolve.exe.config
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\06.QuadraticEquationSolve\bin\Debug\06.QuadraticEquationSolve.exe
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\06.QuadraticEquationSolve\bin\Debug\06.QuadraticEquationSolve.pdb
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\06.QuadraticEquationSolve\obj\Debug\06.QuadraticEquationSolve.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\06.QuadraticEquationSolve\obj\Debug\06.QuadraticEquationSolve.exe
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\06.QuadraticEquationSolve\obj\Debug\06.QuadraticEquationSolve.pdb

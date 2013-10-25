@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\12.PrintSquareFromNumbers\bin\Debug\12.PrintSquareFromNumbers.exe.config
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\12.PrintSquareFromNumbers\bin\Debug\12.PrintSquareFromNumbers.exe
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\12.PrintSquareFromNumbers\bin\Debug\12.PrintSquareFromNumbers.pdb
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\12.PrintSquareFromNumbers\obj\Debug\12.PrintSquareFromNumbers.exe
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\12.PrintSquareFromNumbers\obj\Debug\12.PrintSquareFromNumbers.pdb

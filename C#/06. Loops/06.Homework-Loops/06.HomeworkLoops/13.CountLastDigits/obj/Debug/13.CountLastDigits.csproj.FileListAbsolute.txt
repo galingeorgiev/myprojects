@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\13.CountLastDigits\bin\Debug\13.CountLastDigits.exe.config
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\13.CountLastDigits\bin\Debug\13.CountLastDigits.exe
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\13.CountLastDigits\bin\Debug\13.CountLastDigits.pdb
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\13.CountLastDigits\obj\Debug\13.CountLastDigits.exe
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\13.CountLastDigits\obj\Debug\13.CountLastDigits.pdb
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\13.CountLastDigits\obj\Debug\13.CountLastDigits.csprojResolveAssemblyReference.cache

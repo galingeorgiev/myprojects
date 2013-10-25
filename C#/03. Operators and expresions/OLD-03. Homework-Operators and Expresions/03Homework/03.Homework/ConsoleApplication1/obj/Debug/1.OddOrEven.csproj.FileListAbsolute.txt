@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\ConsoleApplication1\obj\Debug\1.OddOrEven.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\10.CalculateSumWithAccuracy\bin\Debug\10.CalculateSumWithAccuracy.exe.config
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\10.CalculateSumWithAccuracy\bin\Debug\10.CalculateSumWithAccuracy.exe
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\10.CalculateSumWithAccuracy\bin\Debug\10.CalculateSumWithAccuracy.pdb
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\10.CalculateSumWithAccuracy\obj\Debug\10.CalculateSumWithAccuracy.exe
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\10.CalculateSumWithAccuracy\obj\Debug\10.CalculateSumWithAccuracy.pdb

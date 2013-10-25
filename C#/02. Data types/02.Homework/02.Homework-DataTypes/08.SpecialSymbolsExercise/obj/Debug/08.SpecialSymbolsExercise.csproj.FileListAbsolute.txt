@@ -1,0 +1,5 @@
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\08.SpecialSymbolsExercise\bin\Debug\08.SpecialSymbolsExercise.exe.config
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\08.SpecialSymbolsExercise\bin\Debug\08.SpecialSymbolsExercise.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\08.SpecialSymbolsExercise\bin\Debug\08.SpecialSymbolsExercise.pdb
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\08.SpecialSymbolsExercise\obj\Debug\08.SpecialSymbolsExercise.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\08.SpecialSymbolsExercise\obj\Debug\08.SpecialSymbolsExercise.pdb

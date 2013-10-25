@@ -1,0 +1,5 @@
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\04.HexadecimalInInteger\bin\Debug\04.HexadecimalInInteger.exe.config
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\04.HexadecimalInInteger\bin\Debug\04.HexadecimalInInteger.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\04.HexadecimalInInteger\bin\Debug\04.HexadecimalInInteger.pdb
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\04.HexadecimalInInteger\obj\Debug\04.HexadecimalInInteger.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\04.HexadecimalInInteger\obj\Debug\04.HexadecimalInInteger.pdb

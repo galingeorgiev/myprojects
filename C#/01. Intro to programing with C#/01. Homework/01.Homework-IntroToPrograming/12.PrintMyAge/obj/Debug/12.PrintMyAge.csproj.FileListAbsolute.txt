@@ -1,0 +1,10 @@
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\12.PrintMyAge\bin\Debug\12.PrintMyAge.exe.config
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\12.PrintMyAge\bin\Debug\12.PrintMyAge.exe
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\12.PrintMyAge\bin\Debug\12.PrintMyAge.pdb
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\12.PrintMyAge\obj\Debug\12.PrintMyAge.exe
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\12.PrintMyAge\obj\Debug\12.PrintMyAge.pdb
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\12.PrintMyAge\bin\Debug\12.PrintMyAge.exe.config
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\12.PrintMyAge\obj\Debug\12.PrintMyAge.exe
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\12.PrintMyAge\obj\Debug\12.PrintMyAge.pdb
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\12.PrintMyAge\bin\Debug\12.PrintMyAge.exe
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\12.PrintMyAge\bin\Debug\12.PrintMyAge.pdb

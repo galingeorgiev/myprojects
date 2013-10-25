@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\09.CatalanNumbers\bin\Debug\09.CatalanNumbers.exe.config
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\09.CatalanNumbers\bin\Debug\09.CatalanNumbers.exe
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\09.CatalanNumbers\bin\Debug\09.CatalanNumbers.pdb
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\09.CatalanNumbers\obj\Debug\09.CatalanNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\09.CatalanNumbers\obj\Debug\09.CatalanNumbers.exe
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\09.CatalanNumbers\obj\Debug\09.CatalanNumbers.pdb

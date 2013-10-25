@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\15.ChangeBitPlace\bin\Debug\15.ChangeBitPlace.exe.config
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\15.ChangeBitPlace\obj\Debug\15.ChangeBitPlace.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\15.ChangeBitPlace\obj\Debug\15.ChangeBitPlace.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\15.ChangeBitPlace\bin\Debug\15.ChangeBitPlace.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\15.ChangeBitPlace\bin\Debug\15.ChangeBitPlace.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\15.ChangeBitPlace\obj\Debug\13.ChangeBitPlace.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\02.FloatingPointExercise\bin\Debug\02.FloatingPointExercise.exe.config
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\02.FloatingPointExercise\bin\Debug\02.FloatingPointExercise.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\02.FloatingPointExercise\bin\Debug\02.FloatingPointExercise.pdb
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\02.FloatingPointExercise\obj\Debug\02.FloatingPointExercise.csprojResolveAssemblyReference.cache
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\02.FloatingPointExercise\obj\Debug\02.FloatingPointExercise.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\02.FloatingPointExercise\obj\Debug\02.FloatingPointExercise.pdb

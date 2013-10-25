@@ -1,0 +1,5 @@
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\03.PrintMyName\bin\Debug\03.PrintMyName.exe.config
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\03.PrintMyName\bin\Debug\03.PrintMyName.exe
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\03.PrintMyName\bin\Debug\03.PrintMyName.pdb
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\03.PrintMyName\obj\Debug\03.PrintMyName.exe
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\03.PrintMyName\obj\Debug\03.PrintMyName.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\05.UnicodeSmbolWithNumber\bin\Debug\05.UnicodeSmbolWithNumber.exe.config
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\05.UnicodeSmbolWithNumber\bin\Debug\05.UnicodeSmbolWithNumber.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\05.UnicodeSmbolWithNumber\bin\Debug\05.UnicodeSmbolWithNumber.pdb
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\05.UnicodeSmbolWithNumber\obj\Debug\05.UnicodeSmbolWithNumber.csprojResolveAssemblyReference.cache
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\05.UnicodeSmbolWithNumber\obj\Debug\05.UnicodeSmbolWithNumber.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\05.UnicodeSmbolWithNumber\obj\Debug\05.UnicodeSmbolWithNumber.pdb

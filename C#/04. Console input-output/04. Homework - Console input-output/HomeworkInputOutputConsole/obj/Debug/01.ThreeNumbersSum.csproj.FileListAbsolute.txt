@@ -1,0 +1,12 @@
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\HomeworkInputOutputConsole\bin\Debug\HomeworkInputOutputConsole.exe.config
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\HomeworkInputOutputConsole\bin\Debug\HomeworkInputOutputConsole.exe
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\HomeworkInputOutputConsole\bin\Debug\HomeworkInputOutputConsole.pdb
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\HomeworkInputOutputConsole\obj\Debug\01.ThreeNumbersSum.csprojResolveAssemblyReference.cache
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\HomeworkInputOutputConsole\obj\Debug\HomeworkInputOutputConsole.exe
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\HomeworkInputOutputConsole\obj\Debug\HomeworkInputOutputConsole.pdb
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\HomeworkInputOutputConsole\bin\Debug\HomeworkInputOutputConsole.exe.config
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\HomeworkInputOutputConsole\bin\Debug\HomeworkInputOutputConsole.exe
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\HomeworkInputOutputConsole\bin\Debug\HomeworkInputOutputConsole.pdb
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\HomeworkInputOutputConsole\obj\Debug\01.ThreeNumbersSum.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\HomeworkInputOutputConsole\obj\Debug\HomeworkInputOutputConsole.exe
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\HomeworkInputOutputConsole\obj\Debug\HomeworkInputOutputConsole.pdb

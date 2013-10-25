@@ -1,0 +1,6 @@
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\02.CalculateCirclePerimeterAndArea\bin\Debug\02.CalculateCirclePerimeterAndArea.exe.config
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\02.CalculateCirclePerimeterAndArea\bin\Debug\02.CalculateCirclePerimeterAndArea.exe
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\02.CalculateCirclePerimeterAndArea\bin\Debug\02.CalculateCirclePerimeterAndArea.pdb
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\02.CalculateCirclePerimeterAndArea\obj\Debug\02.CalculateCirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\02.CalculateCirclePerimeterAndArea\obj\Debug\02.CalculateCirclePerimeterAndArea.exe
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\02.CalculateCirclePerimeterAndArea\obj\Debug\02.CalculateCirclePerimeterAndArea.pdb

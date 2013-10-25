@@ -1,0 +1,2 @@
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\01Homework-IntroToPrograming\bin\Debug\01Homework-IntroToPrograming.exe.config
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\01Homework-IntroToPrograming\obj\Debug\01Homework-IntroToPrograming.csprojResolveAssemblyReference.cache

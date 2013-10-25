@@ -1,0 +1,12 @@
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\13.ChangeBitOnPosition\bin\Debug\13.ChangeBitOnPosition.exe.config
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\13.ChangeBitOnPosition\bin\Debug\13.ChangeBitOnPosition.exe
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\13.ChangeBitOnPosition\bin\Debug\13.ChangeBitOnPosition.pdb
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\13.ChangeBitOnPosition\obj\Debug\13.ChangeBitOnPosition.csprojResolveAssemblyReference.cache
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\13.ChangeBitOnPosition\obj\Debug\13.ChangeBitOnPosition.exe
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\13.ChangeBitOnPosition\obj\Debug\13.ChangeBitOnPosition.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\13.ChangeBitOnPosition\bin\Debug\13.ChangeBitOnPosition.exe.config
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\13.ChangeBitOnPosition\bin\Debug\13.ChangeBitOnPosition.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\13.ChangeBitOnPosition\bin\Debug\13.ChangeBitOnPosition.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\13.ChangeBitOnPosition\obj\Debug\13.ChangeBitOnPosition.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\13.ChangeBitOnPosition\obj\Debug\13.ChangeBitOnPosition.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\13.ChangeBitOnPosition\obj\Debug\13.ChangeBitOnPosition.pdb

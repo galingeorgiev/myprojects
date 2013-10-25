@@ -1,0 +1,10 @@
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\6.RectanglePerimaterAndArea\bin\Debug\6.RectanglePerimaterAndArea.exe.config
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\6.RectanglePerimaterAndArea\bin\Debug\6.RectanglePerimaterAndArea.exe
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\6.RectanglePerimaterAndArea\bin\Debug\6.RectanglePerimaterAndArea.pdb
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\6.RectanglePerimaterAndArea\obj\Debug\6.RectanglePerimaterAndArea.exe
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\6.RectanglePerimaterAndArea\obj\Debug\6.RectanglePerimaterAndArea.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\6.RectanglePerimaterAndArea\bin\Debug\6.RectanglePerimaterAndArea.exe.config
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\6.RectanglePerimaterAndArea\bin\Debug\6.RectanglePerimaterAndArea.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\6.RectanglePerimaterAndArea\bin\Debug\6.RectanglePerimaterAndArea.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\6.RectanglePerimaterAndArea\obj\Debug\6.RectanglePerimaterAndArea.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\6.RectanglePerimaterAndArea\obj\Debug\6.RectanglePerimaterAndArea.pdb

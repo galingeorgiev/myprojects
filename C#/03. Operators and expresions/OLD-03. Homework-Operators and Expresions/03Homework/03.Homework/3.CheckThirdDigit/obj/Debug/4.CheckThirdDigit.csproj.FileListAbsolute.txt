@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\3.CheckThirdDigit\bin\Debug\3.CheckThirdDigit.exe.config
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\3.CheckThirdDigit\obj\Debug\3.CheckThirdDigit.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\3.CheckThirdDigit\obj\Debug\3.CheckThirdDigit.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\3.CheckThirdDigit\bin\Debug\3.CheckThirdDigit.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\3.CheckThirdDigit\bin\Debug\3.CheckThirdDigit.pdb

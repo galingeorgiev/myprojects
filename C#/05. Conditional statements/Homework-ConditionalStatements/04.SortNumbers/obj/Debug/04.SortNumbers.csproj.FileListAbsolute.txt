@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\04.SortNumbers\bin\Debug\04.SortNumbers.exe.config
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\04.SortNumbers\bin\Debug\04.SortNumbers.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\04.SortNumbers\bin\Debug\04.SortNumbers.pdb
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\04.SortNumbers\obj\Debug\04.SortNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\04.SortNumbers\obj\Debug\04.SortNumbers.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\04.SortNumbers\obj\Debug\04.SortNumbers.pdb

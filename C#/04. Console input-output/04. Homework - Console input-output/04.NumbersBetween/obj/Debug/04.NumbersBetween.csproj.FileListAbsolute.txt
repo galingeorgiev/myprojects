@@ -1,0 +1,9 @@
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\04.NumbersBetween\bin\Debug\04.NumbersBetween.exe.config
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\04.NumbersBetween\bin\Debug\04.NumbersBetween.exe
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\04.NumbersBetween\bin\Debug\04.NumbersBetween.pdb
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\04.NumbersBetween\obj\Debug\04.NumbersBetween.csprojResolveAssemblyReference.cache
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\04.NumbersBetween\obj\Debug\04.NumbersBetween.exe
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\04.NumbersBetween\obj\Debug\04.NumbersBetween.pdb
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\04.NumbersBetween\bin\Debug\04.NumbersBetween.exe.config
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\04.NumbersBetween\obj\Debug\04.NumbersBetween.exe
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\04.NumbersBetween\obj\Debug\04.NumbersBetween.pdb

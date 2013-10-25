@@ -1,0 +1,12 @@
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\03.CompareFloatingPointNumbers\bin\Debug\03.CompareFloatingPointNumbers.exe.config
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\03.CompareFloatingPointNumbers\bin\Debug\03.CompareFloatingPointNumbers.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\03.CompareFloatingPointNumbers\bin\Debug\03.CompareFloatingPointNumbers.pdb
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\03.CompareFloatingPointNumbers\obj\Debug\03.CompareFloatingPointNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\03.CompareFloatingPointNumbers\obj\Debug\03.CompareFloatingPointNumbers.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\03.CompareFloatingPointNumbers\obj\Debug\03.CompareFloatingPointNumbers.pdb
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\03.CompareFloatingPointNumbers\bin\Debug\03.CompareFloatingPointNumbers.exe.config
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\03.CompareFloatingPointNumbers\obj\Debug\03.CompareFloatingPointNumbers.exe
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\03.CompareFloatingPointNumbers\obj\Debug\03.CompareFloatingPointNumbers.pdb
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\03.CompareFloatingPointNumbers\bin\Debug\03.CompareFloatingPointNumbers.exe
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\03.CompareFloatingPointNumbers\bin\Debug\03.CompareFloatingPointNumbers.pdb
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\03.CompareFloatingPointNumbers\obj\Debug\03.CompareFloatingPointNumbers.csprojResolveAssemblyReference.cache

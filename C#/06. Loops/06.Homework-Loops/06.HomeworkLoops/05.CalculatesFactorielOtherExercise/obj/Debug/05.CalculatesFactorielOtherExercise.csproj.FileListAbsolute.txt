@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\05.CalculatesFactorielOtherExercise\bin\Debug\05.CalculatesFactorielOtherExercise.exe.config
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\05.CalculatesFactorielOtherExercise\bin\Debug\05.CalculatesFactorielOtherExercise.exe
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\05.CalculatesFactorielOtherExercise\bin\Debug\05.CalculatesFactorielOtherExercise.pdb
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\05.CalculatesFactorielOtherExercise\obj\Debug\05.CalculatesFactorielOtherExercise.exe
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\05.CalculatesFactorielOtherExercise\obj\Debug\05.CalculatesFactorielOtherExercise.pdb

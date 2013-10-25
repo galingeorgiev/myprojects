@@ -1,0 +1,6 @@
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\02.HelloCSharp\bin\Debug\02.HelloCSharp.exe.config
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\02.HelloCSharp\bin\Debug\02.HelloCSharp.exe
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\02.HelloCSharp\bin\Debug\02.HelloCSharp.pdb
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\02.HelloCSharp\obj\Debug\02.HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\02.HelloCSharp\obj\Debug\02.HelloCSharp.exe
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\02.HelloCSharp\obj\Debug\02.HelloCSharp.pdb

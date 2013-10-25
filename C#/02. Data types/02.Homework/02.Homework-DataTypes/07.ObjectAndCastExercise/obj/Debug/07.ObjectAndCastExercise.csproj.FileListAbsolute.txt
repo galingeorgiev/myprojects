@@ -1,0 +1,6 @@
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\07.ObjectAndCastExercise\bin\Debug\07.ObjectAndCastExercise.exe.config
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\07.ObjectAndCastExercise\bin\Debug\07.ObjectAndCastExercise.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\07.ObjectAndCastExercise\bin\Debug\07.ObjectAndCastExercise.pdb
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\07.ObjectAndCastExercise\obj\Debug\07.ObjectAndCastExercise.csprojResolveAssemblyReference.cache
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\07.ObjectAndCastExercise\obj\Debug\07.ObjectAndCastExercise.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\07.ObjectAndCastExercise\obj\Debug\07.ObjectAndCastExercise.pdb

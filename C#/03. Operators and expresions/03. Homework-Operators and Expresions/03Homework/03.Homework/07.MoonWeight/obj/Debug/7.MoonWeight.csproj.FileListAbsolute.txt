@@ -1,0 +1,10 @@
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\07.MoonWeight\bin\Debug\07.MoonWeight.exe.config
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\07.MoonWeight\bin\Debug\07.MoonWeight.exe
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\07.MoonWeight\bin\Debug\07.MoonWeight.pdb
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\07.MoonWeight\obj\Debug\07.MoonWeight.exe
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\07.MoonWeight\obj\Debug\07.MoonWeight.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\07.MoonWeight\bin\Debug\07.MoonWeight.exe.config
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\07.MoonWeight\bin\Debug\07.MoonWeight.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\07.MoonWeight\bin\Debug\07.MoonWeight.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\07.MoonWeight\obj\Debug\07.MoonWeight.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\07.MoonWeight\obj\Debug\07.MoonWeight.pdb

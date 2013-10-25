@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\10.CalculateBonusScore\bin\Debug\10.CalculateBonusScore.exe.config
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\10.CalculateBonusScore\bin\Debug\10.CalculateBonusScore.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\10.CalculateBonusScore\bin\Debug\10.CalculateBonusScore.pdb
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\10.CalculateBonusScore\obj\Debug\10.CalculateBonusScore.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\10.CalculateBonusScore\obj\Debug\10.CalculateBonusScore.pdb

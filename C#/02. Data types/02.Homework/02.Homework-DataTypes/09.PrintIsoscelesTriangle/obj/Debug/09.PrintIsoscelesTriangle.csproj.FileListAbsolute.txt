@@ -1,0 +1,8 @@
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\09.PrintIsoscelesTriangle\bin\Debug\09.PrintIsoscelesTriangle.exe.config
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\09.PrintIsoscelesTriangle\bin\Debug\09.PrintIsoscelesTriangle.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\09.PrintIsoscelesTriangle\bin\Debug\09.PrintIsoscelesTriangle.pdb
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\09.PrintIsoscelesTriangle\obj\Debug\09.PrintIsoscelesTriangle.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\09.PrintIsoscelesTriangle\obj\Debug\09.PrintIsoscelesTriangle.pdb
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\09.PrintIsoscelesTriangle\bin\Debug\09.PrintIsoscelesTriangle.exe.config
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\09.PrintIsoscelesTriangle\obj\Debug\09.PrintIsoscelesTriangle.exe
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\09.PrintIsoscelesTriangle\obj\Debug\09.PrintIsoscelesTriangle.pdb

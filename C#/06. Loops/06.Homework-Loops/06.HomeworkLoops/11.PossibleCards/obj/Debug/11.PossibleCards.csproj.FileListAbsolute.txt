@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\11.PossibleCards\bin\Debug\11.PossibleCards.exe.config
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\11.PossibleCards\bin\Debug\11.PossibleCards.exe
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\11.PossibleCards\bin\Debug\11.PossibleCards.pdb
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\11.PossibleCards\obj\Debug\11.PossibleCards.exe
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\11.PossibleCards\obj\Debug\11.PossibleCards.pdb
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\11.PossibleCards\obj\Debug\11.PossibleCards.csprojResolveAssemblyReference.cache

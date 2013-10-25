@@ -1,4 +1,0 @@
-myprojects
-==========
-
-Galin Georgiev Projects

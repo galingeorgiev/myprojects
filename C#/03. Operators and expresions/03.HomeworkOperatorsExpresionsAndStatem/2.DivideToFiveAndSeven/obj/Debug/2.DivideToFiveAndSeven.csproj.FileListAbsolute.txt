@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\2.DivideToFiveAndSeven\bin\Debug\2.DivideToFiveAndSeven.exe.config
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\2.DivideToFiveAndSeven\bin\Debug\2.DivideToFiveAndSeven.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\2.DivideToFiveAndSeven\bin\Debug\2.DivideToFiveAndSeven.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\2.DivideToFiveAndSeven\obj\Debug\2.DivideToFiveAndSeven.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\2.DivideToFiveAndSeven\obj\Debug\2.DivideToFiveAndSeven.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\2.DivideToFiveAndSeven\obj\Debug\2.DivideToFiveAndSeven.pdb

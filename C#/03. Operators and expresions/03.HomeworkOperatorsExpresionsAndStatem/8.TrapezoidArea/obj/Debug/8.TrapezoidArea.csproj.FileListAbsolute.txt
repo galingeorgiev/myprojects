@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\8.TrapezoidArea\bin\Debug\8.TrapezoidArea.exe.config
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\8.TrapezoidArea\bin\Debug\8.TrapezoidArea.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\8.TrapezoidArea\bin\Debug\8.TrapezoidArea.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\8.TrapezoidArea\obj\Debug\8.TrapezoidArea.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\8.TrapezoidArea\obj\Debug\8.TrapezoidArea.pdb

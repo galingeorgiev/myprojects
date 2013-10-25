@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\11.PrintNumbersName\bin\Debug\11.PrintNumbersName.exe.config
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\11.PrintNumbersName\bin\Debug\11.PrintNumbersName.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\11.PrintNumbersName\bin\Debug\11.PrintNumbersName.pdb
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\11.PrintNumbersName\obj\Debug\11.PrintNumbersName.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\11.PrintNumbersName\obj\Debug\11.PrintNumbersName.pdb

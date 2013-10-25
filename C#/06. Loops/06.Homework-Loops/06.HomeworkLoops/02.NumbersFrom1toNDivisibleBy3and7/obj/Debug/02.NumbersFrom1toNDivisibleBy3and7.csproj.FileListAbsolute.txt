@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\02.NumbersFrom1toNDivisibleBy3and7\bin\Debug\02.NumbersFrom1toNDivisibleBy3and7.exe.config
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\02.NumbersFrom1toNDivisibleBy3and7\bin\Debug\02.NumbersFrom1toNDivisibleBy3and7.exe
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\02.NumbersFrom1toNDivisibleBy3and7\bin\Debug\02.NumbersFrom1toNDivisibleBy3and7.pdb
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\02.NumbersFrom1toNDivisibleBy3and7\obj\Debug\02.NumbersFrom1toNDivisibleBy3and7.exe
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\02.NumbersFrom1toNDivisibleBy3and7\obj\Debug\02.NumbersFrom1toNDivisibleBy3and7.pdb
+D:\Telerik Academy\Telerik\C#\06. Loops\06.Homework-Loops\06.HomeworkLoops\02.NumbersFrom1toNDivisibleBy3and7\obj\Debug\02.NumbersFrom1toNDivisibleBy3and7.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\5.CheckThirdBit\bin\Debug\5.CheckThirdBit.exe.config
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\5.CheckThirdBit\bin\Debug\5.CheckThirdBit.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\5.CheckThirdBit\bin\Debug\5.CheckThirdBit.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\5.CheckThirdBit\obj\Debug\5.CheckThirdBit.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\5.CheckThirdBit\obj\Debug\5.CheckThirdBit.pdb

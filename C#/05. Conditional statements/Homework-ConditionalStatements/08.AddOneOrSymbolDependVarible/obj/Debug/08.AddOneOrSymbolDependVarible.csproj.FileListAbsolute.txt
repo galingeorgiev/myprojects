@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\08.AddOneOrSymbolDependVarible\bin\Debug\08.AddOneOrSymbolDependVarible.exe.config
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\08.AddOneOrSymbolDependVarible\bin\Debug\08.AddOneOrSymbolDependVarible.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\08.AddOneOrSymbolDependVarible\bin\Debug\08.AddOneOrSymbolDependVarible.pdb
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\08.AddOneOrSymbolDependVarible\obj\Debug\08.AddOneOrSymbolDependVarible.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\08.AddOneOrSymbolDependVarible\obj\Debug\08.AddOneOrSymbolDependVarible.pdb

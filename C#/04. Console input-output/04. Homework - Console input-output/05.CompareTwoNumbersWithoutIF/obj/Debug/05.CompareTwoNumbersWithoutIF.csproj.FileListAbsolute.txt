@@ -1,0 +1,6 @@
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\05.CompareTwoNumbersWithoutIF\bin\Debug\05.CompareTwoNumbersWithoutIF.exe.config
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\05.CompareTwoNumbersWithoutIF\bin\Debug\05.CompareTwoNumbersWithoutIF.exe
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\05.CompareTwoNumbersWithoutIF\bin\Debug\05.CompareTwoNumbersWithoutIF.pdb
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\05.CompareTwoNumbersWithoutIF\obj\Debug\05.CompareTwoNumbersWithoutIF.csprojResolveAssemblyReference.cache
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\05.CompareTwoNumbersWithoutIF\obj\Debug\05.CompareTwoNumbersWithoutIF.exe
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\05.CompareTwoNumbersWithoutIF\obj\Debug\05.CompareTwoNumbersWithoutIF.pdb

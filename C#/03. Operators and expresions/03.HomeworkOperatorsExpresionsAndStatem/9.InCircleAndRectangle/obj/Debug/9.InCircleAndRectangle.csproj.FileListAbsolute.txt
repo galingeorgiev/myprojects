@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\9.InCircleAndRectangle\bin\Debug\9.InCircleAndRectangle.exe.config
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\9.InCircleAndRectangle\bin\Debug\9.InCircleAndRectangle.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\9.InCircleAndRectangle\bin\Debug\9.InCircleAndRectangle.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\9.InCircleAndRectangle\obj\Debug\9.InCircleAndRectangle.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\9.InCircleAndRectangle\obj\Debug\9.InCircleAndRectangle.pdb

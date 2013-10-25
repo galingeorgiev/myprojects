@@ -1,0 +1,6 @@
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\06.BooleanExercise\bin\Debug\06.BooleanExercise.exe.config
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\06.BooleanExercise\bin\Debug\06.BooleanExercise.exe.config
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\06.BooleanExercise\bin\Debug\06.BooleanExercise.exe
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\06.BooleanExercise\bin\Debug\06.BooleanExercise.pdb
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\06.BooleanExercise\obj\Debug\06.BooleanExercise.exe
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\06.BooleanExercise\obj\Debug\06.BooleanExercise.pdb

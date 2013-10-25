@@ -1,0 +1,8 @@
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\09.PrintNumbers\bin\Debug\09.PrintNumbers.exe.config
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\09.PrintNumbers\bin\Debug\09.PrintNumbers.exe
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\09.PrintNumbers\bin\Debug\09.PrintNumbers.pdb
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\09.PrintNumbers\obj\Debug\09.PrintNumbers.exe
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\09.PrintNumbers\obj\Debug\09.PrintNumbers.pdb
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\09.PrintNumbers\bin\Debug\09.PrintNumbers.exe.config
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\09.PrintNumbers\obj\Debug\09.PrintNumbers.exe
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\09.PrintNumbers\obj\Debug\09.PrintNumbers.pdb

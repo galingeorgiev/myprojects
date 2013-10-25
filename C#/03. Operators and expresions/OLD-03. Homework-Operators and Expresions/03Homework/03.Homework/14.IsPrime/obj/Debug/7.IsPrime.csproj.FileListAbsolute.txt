@@ -1,0 +1,3 @@
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\14.IsPrime\bin\Debug\14.IsPrime.exe.config
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\14.IsPrime\obj\Debug\14.IsPrime.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\14.IsPrime\obj\Debug\14.IsPrime.pdb

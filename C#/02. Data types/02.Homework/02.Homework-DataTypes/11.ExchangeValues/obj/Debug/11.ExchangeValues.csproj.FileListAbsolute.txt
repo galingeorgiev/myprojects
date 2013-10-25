@@ -1,0 +1,5 @@
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\11.ExchangeValues\bin\Debug\11.ExchangeValues.exe.config
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\11.ExchangeValues\bin\Debug\11.ExchangeValues.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\11.ExchangeValues\bin\Debug\11.ExchangeValues.pdb
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\11.ExchangeValues\obj\Debug\11.ExchangeValues.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\11.ExchangeValues\obj\Debug\11.ExchangeValues.pdb

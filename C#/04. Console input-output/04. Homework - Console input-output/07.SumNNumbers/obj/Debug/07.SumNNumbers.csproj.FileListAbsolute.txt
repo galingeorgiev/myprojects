@@ -1,0 +1,12 @@
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\07.SumNNumbers\bin\Debug\07.SumNNumbers.exe.config
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\07.SumNNumbers\bin\Debug\07.SumNNumbers.exe
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\07.SumNNumbers\bin\Debug\07.SumNNumbers.pdb
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\07.SumNNumbers\obj\Debug\07.SumNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\07.SumNNumbers\obj\Debug\07.SumNNumbers.exe
+C:\Users\gageorgiev\Desktop\HomeworkInputOutputConsole\07.SumNNumbers\obj\Debug\07.SumNNumbers.pdb
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\07.SumNNumbers\bin\Debug\07.SumNNumbers.exe.config
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\07.SumNNumbers\obj\Debug\07.SumNNumbers.exe
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\07.SumNNumbers\obj\Debug\07.SumNNumbers.pdb
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\07.SumNNumbers\bin\Debug\07.SumNNumbers.exe
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\07.SumNNumbers\bin\Debug\07.SumNNumbers.pdb
+D:\Telerik Academy\Telerik\C#\04. Console input-output\04. Homework - Console input-output\07.SumNNumbers\obj\Debug\07.SumNNumbers.csprojResolveAssemblyReference.cache

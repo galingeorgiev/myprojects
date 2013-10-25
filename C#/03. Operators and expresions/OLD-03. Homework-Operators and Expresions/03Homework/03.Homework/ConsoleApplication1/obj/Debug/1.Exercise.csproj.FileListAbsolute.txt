@@ -1,0 +1,6 @@
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\ConsoleApplication1\obj\Debug\1.Exercise.csprojResolveAssemblyReference.cache
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,2 @@
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+C:\Users\Lidia\Desktop\Telerik\C#\02. Data types\02.Homework\02.Homework-DataTypes\14.BankAccount\bin\Debug\14.BankAccount.exe.config

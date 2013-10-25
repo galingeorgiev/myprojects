@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\11.BitOnPositionIs\bin\Debug\11.BitOnPositionIs.exe.config
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\11.BitOnPositionIs\bin\Debug\11.BitOnPositionIs.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\11.BitOnPositionIs\bin\Debug\11.BitOnPositionIs.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\11.BitOnPositionIs\obj\Debug\11.BitOnPositionIs.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03.HomeworkOperatorsExpresionsAndStatem\11.BitOnPositionIs\obj\Debug\11.BitOnPositionIs.pdb

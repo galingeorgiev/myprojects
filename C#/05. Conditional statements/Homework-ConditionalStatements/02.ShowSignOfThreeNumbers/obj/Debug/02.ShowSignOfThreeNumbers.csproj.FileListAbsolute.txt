@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\02.ShowSignOfThreeNumbers\bin\Debug\02.ShowSignOfThreeNumbers.exe.config
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\02.ShowSignOfThreeNumbers\bin\Debug\02.ShowSignOfThreeNumbers.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\02.ShowSignOfThreeNumbers\bin\Debug\02.ShowSignOfThreeNumbers.pdb
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\02.ShowSignOfThreeNumbers\obj\Debug\02.ShowSignOfThreeNumbers.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\02.ShowSignOfThreeNumbers\obj\Debug\02.ShowSignOfThreeNumbers.pdb

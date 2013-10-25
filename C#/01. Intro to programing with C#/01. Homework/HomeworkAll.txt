@@ -1,0 +1,43 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.Title = "Start Window";
+            DateTime dateTime = DateTime.Now;
+            Console.Write("Curent date is: ");
+            Console.WriteLine(dateTime.ToString("d.MM.yyyy"));
+            Console.Write("The time now is: ");
+            Console.WriteLine(dateTime.ToString("HH:mm:ss"));
+
+            int x = 12345;
+            int result = x * x;
+            Console.WriteLine("{0}", result);
+
+            int a = int.MaxValue;
+            Console.WriteLine("{0}", a);
+
+            for (int i = 0; i < 10; i++)
+            {
+                if (i%2==0)
+                {
+                    Console.WriteLine(i+2);
+                }
+                else
+                {
+                    Console.WriteLine(i-((2*i)+2));
+                }
+            }
+
+            Console.Write("My age are: ");
+            int myAgeNow = int.Parse(Console.ReadLine());
+            Console.WriteLine("My age after 10 years are being {0}", myAgeNow+10);
+        }
+    }
+}

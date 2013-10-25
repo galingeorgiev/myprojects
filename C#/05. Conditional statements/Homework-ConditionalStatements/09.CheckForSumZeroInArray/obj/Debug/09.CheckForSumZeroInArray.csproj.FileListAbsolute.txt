@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\09.CheckForSumZeroInArray\bin\Debug\09.CheckForSumZeroInArray.exe.config
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\09.CheckForSumZeroInArray\bin\Debug\09.CheckForSumZeroInArray.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\09.CheckForSumZeroInArray\bin\Debug\09.CheckForSumZeroInArray.pdb
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\09.CheckForSumZeroInArray\obj\Debug\09.CheckForSumZeroInArray.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\09.CheckForSumZeroInArray\obj\Debug\09.CheckForSumZeroInArray.pdb

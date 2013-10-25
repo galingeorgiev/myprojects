@@ -1,0 +1,10 @@
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\08.SquareOfNumber\bin\Debug\08.SquareOfNumber.exe.config
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\08.SquareOfNumber\bin\Debug\08.SquareOfNumber.exe
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\08.SquareOfNumber\bin\Debug\08.SquareOfNumber.pdb
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\08.SquareOfNumber\obj\Debug\08.SquareOfNumber.exe
+C:\Users\Lidia\Desktop\Telerik\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\08.SquareOfNumber\obj\Debug\08.SquareOfNumber.pdb
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\08.SquareOfNumber\bin\Debug\08.SquareOfNumber.exe.config
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\08.SquareOfNumber\obj\Debug\08.SquareOfNumber.exe
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\08.SquareOfNumber\obj\Debug\08.SquareOfNumber.pdb
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\08.SquareOfNumber\bin\Debug\08.SquareOfNumber.exe
+C:\Users\Lidia\Desktop\Telerik\C#\01. Intro to programing with C#\01. Homework\01Homework-IntroToPrograming\08.SquareOfNumber\bin\Debug\08.SquareOfNumber.pdb

@@ -1,0 +1,12 @@
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\8.InOrOutOfCircle\bin\Debug\8.InOrOutOfCircle.exe.config
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\8.InOrOutOfCircle\bin\Debug\8.InOrOutOfCircle.exe
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\8.InOrOutOfCircle\bin\Debug\8.InOrOutOfCircle.pdb
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\8.InOrOutOfCircle\obj\Debug\8.InOrOutOfCircle.csprojResolveAssemblyReference.cache
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\8.InOrOutOfCircle\obj\Debug\8.InOrOutOfCircle.exe
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\8.InOrOutOfCircle\obj\Debug\8.InOrOutOfCircle.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\8.InOrOutOfCircle\bin\Debug\8.InOrOutOfCircle.exe.config
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\8.InOrOutOfCircle\bin\Debug\8.InOrOutOfCircle.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\8.InOrOutOfCircle\bin\Debug\8.InOrOutOfCircle.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\8.InOrOutOfCircle\obj\Debug\8.InOrOutOfCircle.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\8.InOrOutOfCircle\obj\Debug\8.InOrOutOfCircle.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\8.InOrOutOfCircle\obj\Debug\8.InOrOutOfCircle.pdb

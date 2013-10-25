@@ -1,0 +1,6 @@
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\10.EmployeeInformations\bin\Debug\10.EmployeeInformations.exe.config
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\10.EmployeeInformations\bin\Debug\10.EmployeeInformations.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\10.EmployeeInformations\bin\Debug\10.EmployeeInformations.pdb
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\10.EmployeeInformations\obj\Debug\10.EmployeeInformations.csprojResolveAssemblyReference.cache
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\10.EmployeeInformations\obj\Debug\10.EmployeeInformations.exe
+C:\Users\Lidia\Desktop\Telerik\02. Data types\02.Homework\02.Homework-DataTypes\10.EmployeeInformations\obj\Debug\10.EmployeeInformations.pdb

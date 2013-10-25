@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\07.GreatestVarible\bin\Debug\07.GreatestVarible.exe.config
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\07.GreatestVarible\bin\Debug\07.GreatestVarible.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\07.GreatestVarible\bin\Debug\07.GreatestVarible.pdb
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\07.GreatestVarible\obj\Debug\07.GreatestVarible.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\07.GreatestVarible\obj\Debug\07.GreatestVarible.pdb

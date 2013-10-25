@@ -1,0 +1,10 @@
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\5.TrapexeArea\bin\Debug\5.TrapexeArea.exe.config
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\5.TrapexeArea\bin\Debug\5.TrapexeArea.exe
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\5.TrapexeArea\bin\Debug\5.TrapexeArea.pdb
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\5.TrapexeArea\obj\Debug\5.TrapexeArea.exe
+C:\Users\gageorgiev\Desktop\Telerik\03\03Homework\03.Homework\5.TrapexeArea\obj\Debug\5.TrapexeArea.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\5.TrapexeArea\bin\Debug\5.TrapexeArea.exe.config
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\5.TrapexeArea\bin\Debug\5.TrapexeArea.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\5.TrapexeArea\bin\Debug\5.TrapexeArea.pdb
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\5.TrapexeArea\obj\Debug\5.TrapexeArea.exe
+D:\Telerik Academy\Telerik\C#\03. Operators and expresions\03. Homework-Operators and Expresions\03Homework\03.Homework\5.TrapexeArea\obj\Debug\5.TrapexeArea.pdb

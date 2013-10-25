@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\01.ExchangeNumbersValue\bin\Debug\01.ExchangeNumbersValue.exe.config
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\01.ExchangeNumbersValue\bin\Debug\01.ExchangeNumbersValue.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\01.ExchangeNumbersValue\bin\Debug\01.ExchangeNumbersValue.pdb
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\01.ExchangeNumbersValue\obj\Debug\01.ExchangeNumbersValue.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\01.ExchangeNumbersValue\obj\Debug\01.ExchangeNumbersValue.exe
+D:\Telerik Academy\Telerik\C#\05. Conditional statements\Homework-ConditionalStatements\01.ExchangeNumbersValue\obj\Debug\01.ExchangeNumbersValue.pdb
