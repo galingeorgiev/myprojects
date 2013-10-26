@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Last digit as text</title>
+</head>
+<body>
+    <!-- Write a function that returns the last digit of given integer as an English word.
+         Examples: 512  "two", 1024  "four", 12309  "nine" -->
+
+    <label for="number">Enter number: </label>
+    <input id="number" type="text" name="name" value=" " />
+    <label for="lastDigitAsText">Last digit is: </label>
+    <input id="lastDigitAsText" type="text" name="name" value=" " />
+    <button onclick="showLastDigitAsText()">GO!</button>
+
+    <script>
+        function showLastDigitAsText() {
+            var number = parseInt(document.getElementById("number").value);
+            var lastDigit = number % 10;
+            document.getElementById("lastDigitAsText").value = digitAsText(lastDigit);
+        }
+
+        function digitAsText(digit){
+            switch (digit) {
+                case 0: return "Zero"; break;
+                case 1: return "One"; break;
+                case 2: return "Two"; break;
+                case 3: return "Three"; break;
+                case 4: return "Four"; break;
+                case 5: return "Five"; break;
+                case 6: return "Six"; break;
+                case 7: return "Seven"; break;
+                case 8: return "Eight"; break;
+                case 9: return "Nine"; break;
+                default: return "NaN"; break;
+            }
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Change Text In Tags</title>
+    <style>
+        #inputText,
+        #result{
+            width:1000px;
+        }
+    </style>
+</head>
+<body>
+    <!-- You are given a text. Write a function that changes the text in all regions:
+            <upcase>text</upcase> to uppercase.
+            <lowcase>text</lowcase> to lowercase
+            <mixcase>text</mixcase> to mix casing(random)
+
+            We are <mixcase>living</mixcase> in a <upcase>yellow submarine</upcase>. We <mixcase>don't</mixcase> have <lowcase>anything</lowcase> else.
+
+		    The expected result:
+            We are LiVinG in a YELLOW SUBMARINE. We dOn'T have anything else.
+
+            Regions can be nested -->
+
+    <label for="inputText">Enter string here: </label>
+    <input id="inputText" type="text" name="name" value=" " />
+    <br />
+    <label for="result">New text is: </label>
+    <input id="result" type="text" name="name" value=" " />
+    <button onclick="changeString()">Change</button>
+
+    <script>
+        function changeString() {
+            var inputString = document.getElementById("inputText").value.trim();
+            var i = 0;
+            var j = 0
+            var indexOfCloseTag = 0
+            var resultString = "";
+            var tempStr = "";
+            var mixCaseStr = "";
+
+            for (i = 0; i < inputString.length; i++) {
+                if (inputString[i] === '<') {
+                    tempStr = inputString.substring(i + 1, i + 8);
+                    if (tempStr === "upcase>") {
+                        indexOfCloseTag = inputString.indexOf("</upcase>", i + 8);
+                        tempStr = inputString.substring(i + 8, indexOfCloseTag).toUpperCase();
+                        resultString = resultString + tempStr;
+                        i = indexOfCloseTag + 9;
+                    }
+                    else if (tempStr === "lowcase") {
+                        indexOfCloseTag = inputString.indexOf("</lowcase>", i + 8);
+                        tempStr = inputString.substring(i + 9, indexOfCloseTag).toLowerCase();
+                        resultString = resultString + tempStr;
+                        i = indexOfCloseTag + 10;
+                    }
+                    else if (tempStr === "mixcase") {
+                        indexOfCloseTag = inputString.indexOf("</mixcase>", i + 8);
+                        tempStr = inputString.substring(i + 9, indexOfCloseTag);
+
+                        for (j = 0; j < tempStr.length; j++) {
+                            if (j % 2 === 0) {
+                                mixCaseStr = mixCaseStr + tempStr.substring(j, j + 1).toUpperCase();
+                            }
+                            else {
+                                mixCaseStr = mixCaseStr + tempStr[j];
+                            }
+                        }
+                        resultString = resultString + mixCaseStr;
+                        i = indexOfCloseTag + 10;
+                        mixCaseStr = "";
+                    }
+                }
+                resultString = resultString + inputString[i];
+            }
+
+            document.getElementById("result").value = resultString;
+        }
+    </script>
+</body>
+</html>

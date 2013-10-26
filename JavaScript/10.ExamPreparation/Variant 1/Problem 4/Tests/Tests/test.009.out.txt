@@ -1,0 +1,598 @@
+using  System  using SystemCollectionsGeneric using SystemLinq using SystemText namespace ConsoleJustifyGenerator class ConsoleJustifyGenerator static
+Random  r  new  Random  static  void Mainstring args string input ConsoleInReadToEnd StringBuilder lettersAndWhitespacesOnly new StringBuilder Listint
+whitespacePositions  new  Listint foreach var ch in input if CharIsLetterch lettersAndWhitespacesOnlyAppendch if ch lettersAndWhitespacesOnlyAppend if
+ch   r   ch   n   lettersAndWhitespacesOnlyAppend   lettersAndWhitespacesOnly  new  StringBuilderlettersAndWhitespacesOnlyToStringTrim  for  int  i  i
+lettersAndWhitespacesOnlyLength  i  if lettersAndWhitespacesOnlyi whitespacePositionsAddi int lines rNext for int i i lines i int position do position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord  rNext  ConsoleWritelettersAndWhitespacesOnlyToString  using  System  using  SystemCollectionsGeneric  using  SystemLinq using
+SystemText  namespace  ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new Random static void Mainstring args string input
+ConsoleInReadToEnd  StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new Listint foreach var ch in input if
+CharIsLetterch   lettersAndWhitespacesOnlyAppendch   if   ch   lettersAndWhitespacesOnlyAppend   if   ch   r   ch   n  lettersAndWhitespacesOnlyAppend
+lettersAndWhitespacesOnly    new    StringBuilderlettersAndWhitespacesOnlyToStringTrim    for   int   i   i   lettersAndWhitespacesOnlyLength   i   if
+lettersAndWhitespacesOnlyi    whitespacePositionsAddi    int    lines    rNext    for    int    i    i    lines    i    int   position   do   position
+whitespacePositionsrNextwhitespacePositionsCount       while       position       lettersAndWhitespacesOnlyLength       ConsoleWriteLine      position
+lettersAndWhitespacesOnlyposition lettersAndWhitespacesOnlyRemoveposition lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn
+n      lettersAndWhitespacesOnlyReplacen      rn      string     separators     new     stringr     n     rn     string     lettersAndWhitespacesLines
+lettersAndWhitespacesOnlyToStringSplitseparators  StringSplitOptionsRemoveEmptyEntries  lettersAndWhitespacesOnly  new  StringBuilder  int maxWord int
+linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength maxWord maxWord wordLength if
+StringIsNullOrWhiteSpaceline    linesCount    lettersAndWhitespacesOnlyAppendLineline    ConsoleWriteLinelinesCount    ConsoleWriteLinemaxWord   rNext
+ConsoleWritelettersAndWhitespacesOnlyToString   using   System   using   SystemCollectionsGeneric   using   SystemLinq   using   SystemText  namespace
+ConsoleJustifyGenerator  class  ConsoleJustifyGenerator  static  Random  r  new  Random  static  void  Mainstring args string input ConsoleInReadToEnd
+StringBuilder  lettersAndWhitespacesOnly  new  StringBuilder  Listint  whitespacePositions  new  Listint  foreach  var  ch  in input if CharIsLetterch
+lettersAndWhitespacesOnlyAppendch  if  ch  lettersAndWhitespacesOnlyAppend  if ch r ch n lettersAndWhitespacesOnlyAppend lettersAndWhitespacesOnly new
+StringBuilderlettersAndWhitespacesOnlyToStringTrim for int i i lettersAndWhitespacesOnlyLength i if lettersAndWhitespacesOnlyi whitespacePositionsAddi
+int   lines   rNext   for   int   i   i   lines   i   int   position   do  position  whitespacePositionsrNextwhitespacePositionsCount  while  position
+lettersAndWhitespacesOnlyLength      ConsoleWriteLine      position      lettersAndWhitespacesOnlyposition     lettersAndWhitespacesOnlyRemoveposition
+lettersAndWhitespacesOnlyInsertposition n lettersAndWhitespacesOnlyReplacenn n lettersAndWhitespacesOnlyReplacen rn string separators new stringr n rn
+string  lettersAndWhitespacesLines lettersAndWhitespacesOnlyToStringSplitseparators StringSplitOptionsRemoveEmptyEntries lettersAndWhitespacesOnly new
+StringBuilder int maxWord int linesCount foreach var line in lettersAndWhitespacesLines string words lineSplit foreach var word in words if wordLength
+maxWord   maxWord   wordLength   if   StringIsNullOrWhiteSpaceline   linesCount   lettersAndWhitespacesOnlyAppendLineline   ConsoleWriteLinelinesCount
+ConsoleWriteLinemaxWord                                       rNext                                      ConsoleWritelettersAndWhitespacesOnlyToString

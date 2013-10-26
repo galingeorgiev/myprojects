@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Calculate trapezoid area</title>
+</head>
+<body>
+    <p>For real numbers use dot!</p>
+	<label for="sideA">A </label>
+    <input id="sideA" type="text" name="name" value=" " />
+    <label for="sideB">B </label>
+    <input id="sideB" type="text" name="name" value=" " />
+    <label for="height">h </label>
+    <input id="height" type="text" name="name" value=" " />
+    <label for="result">Trapezoid area is: </label>
+    <input id="result" type="text" name="name" value=" " />
+    <input type="button" name="name" value="GO" onclick="TrapezoidAreaCalc()" />
+
+    <script>
+        function TrapezoidAreaCalc() {
+            var sideA = parseFloat(document.getElementById("sideA").value);
+            var sideB = parseFloat(document.getElementById("sideB").value);
+            var height = parseFloat(document.getElementById("height").value);
+
+            var result = ((sideA + sideB) / 2) * height;
+            document.getElementById("result").value = result;
+        }
+    </script>
+</body>
+</html>

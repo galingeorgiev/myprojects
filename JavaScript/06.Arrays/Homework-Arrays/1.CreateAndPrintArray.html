@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Create and print array</title>
+    <style>
+        input{
+            width:600px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Write a script that allocates array of 20 integers and
+         initializes each element by its index multiplied by 5.
+         Print the obtained array on the console.-->
+
+    <label for="printResult">Result: </label>
+    <input id="printResult" type="text" name="name" value=" " />
+    <button onclick="printArr()">GO</button>
+
+    <script>
+        function printArr() {
+            var arr = new Array(20);
+            for (var i = 0; i < 20; i++) {
+                arr[i] = i * 5;
+                console.log(arr[i]);
+            }
+            document.getElementById("printResult").value = arr.join(", ");
+        }
+    </script>
+</body>
+</html>

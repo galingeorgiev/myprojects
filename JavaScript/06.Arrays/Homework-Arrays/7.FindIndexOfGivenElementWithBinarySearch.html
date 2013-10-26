@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Maximal Increasing Sequence</title>
+        <style>
+            #printResult
+            {
+                width: 500px;
+            }
+            button
+            {
+                width: 100px;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Write a program that finds the index of given element in a sorted
+             array of integers by using the binary search algorithm (find it in Wikipedia). -->
+
+        <label for="array">Enter numbers separeted with comma: </label>
+        <input id="array" type="text" name="name" value=" " />
+        <label for="array"> Example: 1,2,3,4,5,6,7,8,9 </label>
+        <br />
+        <label for="searchedElement">Enter searched element: </label>
+        <input id="searchedElement" type="text" name="name" value=" " />
+        <br />
+        <label for="printResult">Result: </label>
+        <input id="printResult" type="text" name="name" value=" " />
+        <br />
+        <button onclick="printResult()">GO</button>
+
+        <script>
+            function orderBy(a, b) {
+                return (a == b) ? 0 : (a > b) ? 1 : -1
+            };
+
+            function printResult() {
+                var arrStr = document.getElementById("array").value.trim().split(",");
+                var arr = new Array(arrStr.length)
+                var i;
+                for (i = 0; i < arrStr.length; i++) {
+                    arr[i] = parseInt(arrStr[i]);
+                }
+                arr.sort(orderBy);
+                var searchedElement = parseInt(document.getElementById("searchedElement").value);
+                var index = Math.floor(arr.length / 2);
+                var start = 0;
+                var end = arr.length - 1;
+
+                while (true) {
+                    if (parseInt(arr[index]) == searchedElement) {
+                        document.getElementById("printResult").value = "Index is: " + index;
+                        break;
+                    }
+
+                    if (parseInt(arr[index]) > searchedElement) {
+                        if (end - start == 1) {
+                            if ((parseInt(arr[start])) == searchedElement) {
+                                document.getElementById("printResult").value = "Index is: " + start;
+                            }
+                            if ((parseInt(arr[end])) == searchedElement) {
+                                document.getElementById("printResult").value = "Index is: " + end;
+                            } else {
+                                document.getElementById("printResult").value = "Does not exsist";
+                            }
+                            break;
+                        }
+                        end = index;
+                        index = Math.floor((start + index) / 2);
+                    }
+                    else {
+                        if (end - start == 1) {
+                            if ((parseInt(arr[start])) == searchedElement) {
+                                document.getElementById("printResult").value = "Index is: " + start;
+                            }
+                            if ((parseInt(arr[end])) == searchedElement) {
+                                document.getElementById("printResult").value = "Index is: " + end;
+                            }
+                            else {
+                                document.getElementById("printResult").value = "Does not exsist";
+                            }
+                            break;
+                        }
+                        start = index;
+                        index = Math.floor((end + index) / 2);
+                    }
+                }
+            }
+        </script>
+    </body>
+</html>
+            

@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Replace White Space</title>
+    <style>
+        #inputText,
+        #result{
+            width:500px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Write a function that replaces non breaking white-spaces in a text with &nbsp; -->
+
+    <label for="inputText">Enter string here: </label>
+    <input id="inputText" type="text" name="name" value=" " />
+    <br />
+    <label for="result">New text is: </label>
+    <input id="result" type="text" name="name" value=" " />
+    <button onclick="changeString()">Change</button>
+
+    <script>
+        function changeString() {
+            var inputString = document.getElementById("inputText").value.trim();
+            var i = 0;
+            var resultString = "";
+
+            for (i = 0; i < inputString.length; i++) {
+                if(inputString[i] === ' '){
+                    resultString = resultString + "&nbsp";
+                }
+                else {
+                    resultString = resultString + inputString[i];
+                }
+            }
+
+            document.getElementById("result").value = resultString;
+        }
+    </script>
+</body>
+</html>

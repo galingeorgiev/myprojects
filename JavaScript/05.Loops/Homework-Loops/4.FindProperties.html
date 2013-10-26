@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Get properties</title>
+    <style>
+        body{
+            width:700px;
+        }
+        input, button{
+            width:100%;
+        }
+    </style>
+</head>
+<body>
+    <!-- Write a script that finds the lexicographically smallest and
+         largest property in document, window and navigator objects. -->
+
+    <label for="document">Document property: </label>
+    <input id="document" type="text" name="name" value=" " />
+    <br />
+    <label for="window">Window property: </label>
+    <input id="window" type="text" name="name" value=" " />
+    <br />
+    <label for="navigator">Navigator property: </label>
+    <input id="navigator" type="text" name="name" value=" " />
+    <br />
+    <button onclick="printResult()">GO</button>
+
+    <script>
+        function printResult() {
+            var docArr = new Array();
+            var counter = 0;
+            for (var docProp in document) {
+                docArr[counter] = docProp;
+                counter++;
+            }
+            docArr.sort();
+            document.getElementById("document").value = "Smallest: " + docArr[0] + "   Largest: " + docArr[docArr.length - 1];
+
+            var winArr = new Array();
+            counter = 0;
+            for (var winProp in window) {
+                winArr[counter] = winProp;
+                counter++;
+            }
+            winArr.sort();
+            document.getElementById("window").value = "Smallest: " + winArr[0] + "   Largest: " + winArr[winArr.length - 1];
+
+            var navArr = new Array();
+            counter = 0;
+            for (var navProp in navigator) {
+                navArr[counter] = navProp;
+                counter++;
+            }
+            navArr.sort();
+            document.getElementById("navigator").value = "Smallest: " + navArr[0] + "   Largest: " + navArr[navArr.length - 1];
+        }
+    </script>
+</body>
+</html>

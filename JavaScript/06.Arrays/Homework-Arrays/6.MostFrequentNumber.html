@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Maximal Increasing Sequence</title>
+        <style>
+            #printResult
+            {
+                width: 500px;
+            }
+            button
+            {
+                width: 100px;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Write a program that finds the most frequent number in an array.
+             Example: {4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3} -> 4 (5 times) -->
+
+        <label for="array">Enter numbers separeted with comma: </label>
+        <input id="array" type="text" name="name" value=" " />
+        <label for="array"> Example: 2,3,4,6,4,1,3,7,9,8,0,3,3 </label>
+        <br />
+        <label for="printResult">Result: </label>
+        <input id="printResult" type="text" name="name" value=" " />
+        <br />
+        <button onclick="printResult()">GO</button>
+
+        <script>
+            function printResult() {
+                var arr = document.getElementById("array").value.trim().split(",");
+                var i;
+                var j;
+                var count = 0;
+                var bestCount = 0;
+                var bestValue = 0;
+                
+                for (i = 0; i < arr.length; i++) {
+                    for (j = 1; j < arr.length; j++) {
+                        if (parseInt(arr[i]) == parseInt(arr[j])) {
+                            count++;
+                        }
+                    }
+                    if (count > bestCount) {
+                        bestCount = count;
+                        bestValue = parseInt(arr[i]);
+                    }
+                    count = 0;
+                }
+                
+                document.getElementById("printResult").value = "Value " + bestValue + " is repeated " + bestCount + " times.";
+            }
+        </script>
+    </body>
+</html>
+            

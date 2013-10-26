@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Group Persons Array</title>
+</head>
+<body>
+    <!-- Write a function that groups an array of persons by age, first or last name.
+         The function must return an associative array, with keys - the groups, and values - 
+         arrays with persons in this groups.
+            -Use function overloading (i.e. just one function)
+                  var persons = {…};
+                  var groupedByFname = group(persons,"firstname");
+                  var groupedByAge= group(persons,"age"); -->
+
+    <p>Open console to see results. Now persons sorted by age</p>
+
+    <script>
+        function compareAge(a, b) {
+            if (a.age < b.age)
+                return -1;
+            if (a.age > b.age)
+                return 1;
+            return 0;
+        }
+
+        function compareFirstName(a, b) {
+            if (a.firstName < b.firstName)
+                return -1;
+            if (a.firstName > b.firstName)
+                return 1;
+            return 0;
+        }
+
+        function compareLastName(a, b) {
+            if (a.lastName < b.lastName)
+                return -1;
+            if (a.lastName > b.lastName)
+                return 1;
+            return 0;
+        }
+
+        function group(listOfPersons, givenProperty) {
+            if (givenProperty == 'age') {
+                return listOfPersons.sort(compareAge);
+            }
+            else if (givenProperty == 'firstName') {
+                return listOfPersons.sort(compareFirstName);
+            }
+            else if (givenProperty == 'lastName') {
+                return listOfPersons.sort(compareLastName);
+            }
+            else {
+                return listOfPersons;
+            }
+        }
+
+        var person = function (firstName, lastName, age) {
+            return {
+                firstName: firstName,
+                lastName: lastName,
+                age: age
+            }
+        }
+
+        var persons = [
+                person("Gosho", "Petrov", 32),
+                person("Bay", "Ivan", 81),
+                person("Nikolay", "Kostov", 21),
+                person("Svetlin", "Nakov", 29),
+                person("Georgi", "Georgiev", 25),
+                person("Doncho", "Minkov", 23),
+                person("Pavel", "Kolev", 24)];
+
+        var sordedListByAge = new Array(group(persons, 'age')); //You can change age to 'firstName' or 'lastName'
+
+        for (var i = 0; i < sordedListByAge.length; i++)
+        {
+            console.log(sordedListByAge[i])
+        }
+    </script>
+</body>
+</html>

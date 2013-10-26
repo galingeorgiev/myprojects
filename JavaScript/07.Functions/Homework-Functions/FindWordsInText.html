@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Find Words In Text</title>
+    </head>
+    <body>
+        <!-- Write a function that finds all the occurrences of word in a text
+                - The search can case sensitive or case insensitive
+                - Use function overloading -->
+
+        <label for="text">Enter tetx: </label>
+        <input id="text" type="text" name="name" value=" " />
+        <label for="searchedWord">Enter searched word: </label>
+        <input id="searchedWord" type="text" name="name" value=" " />
+        <br />
+        <label for="isCaseSensitive">Is search case sensitive?</label>
+        <input id="isCaseSensitive" type="checkbox" name="name" value=" " />
+        <label for="isCaseSensitive">Check for True.</label>
+        <br />
+        <label for="occurrences">Serched word is finded: </label>
+        <input id="occurrences" type="text" name="name" value=" " />
+        <button onclick="findWordsInText()">GO!</button>
+
+        <script>
+            function findWordsInText() {
+                var text = document.getElementById("text").value.trim();
+                var searchedWord = document.getElementById("searchedWord").value.trim();
+                var isCaseSensitive = document.getElementById("isCaseSensitive").checked;
+                var occurrences = 0;
+                var i = 0;
+
+                if (!isCaseSensitive) {
+                    text = text.toLowerCase();
+                }
+                
+                while (true) {
+                    if (text == "" || searchedWord == "") {
+                        break;
+                    }
+                    if (i < 0) {
+                        occurrences--;
+                        break;
+                    }
+                    occurrences++;
+                    i = text.indexOf(searchedWord, i + 1);
+                }
+            
+                document.getElementById("occurrences").value = occurrences;
+            }
+        </script>
+    </body>
+</html>

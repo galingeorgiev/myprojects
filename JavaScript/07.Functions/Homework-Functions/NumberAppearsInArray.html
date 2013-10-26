@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Number Appears In Array</title>
+</head>
+<body>
+    <!-- Write a function that counts how many times given number appears in given array.
+         Write a test function to check if the function is working correctly. -->
+
+    <label for="numbersArray">Enter numbers separeded with comma: </label>
+    <input id="numbersArray" type="text" name="name" value=" " />
+    <br />
+    <label for="searchedNumber">Enter searched number: </label>
+    <input id="searchedNumber" type="text" name="name" value=" " />
+    <br />
+    <label for="appears">Number appears: </label>
+    <input id="appears" type="text" name="name" value=" " />
+    <br />
+    <button onclick="numberAppearsInArray()">GO!</button>
+
+    <script>
+        function numberAppearsInArray() {
+            var numbersArray = document.getElementById("numbersArray").value.trim().split(',');
+            var searchedNumber = parseInt(document.getElementById("searchedNumber").value.trim());
+            var i;
+            var occurrences = 0;
+
+            for (i = 0; i < numbersArray.length; i++) {
+                if (parseInt(numbersArray[i]) == searchedNumber) {
+                    occurrences++;
+                }
+            }
+
+            document.getElementById("appears").value = occurrences + " " + "times";
+        }
+    </script>
+</body>
+</html>

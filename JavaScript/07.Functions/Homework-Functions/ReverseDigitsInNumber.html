@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Reverse Digits In Number</title>
+</head>
+<body>
+    <!-- Write a function that reverses the digits of given decimal number. Example: 256  652 -->
+
+    <label for="number">Enter number: </label>
+    <input id="number" type="text" name="name" value=" " />
+    <label for="reversedNumber">Number with reversed digits is: </label>
+    <input id="reversedNumber" type="text" name="name" value=" " />
+    <button onclick="reversedNumber()">GO!</button>
+
+    <script>
+        function reversedNumber() {
+            var number = document.getElementById("number").value.trim();
+            var reversedNumber = "";
+            for (var i = 0; i < number.length; i++) {
+                reversedNumber = reversedNumber + number[number.length - i - 1]
+            }
+            document.getElementById("reversedNumber").value = reversedNumber;
+        }
+    </script>
+</body>
+</html>

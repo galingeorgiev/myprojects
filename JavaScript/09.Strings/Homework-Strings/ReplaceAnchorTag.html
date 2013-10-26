@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ReplaceAnchorTag</title>
+    <style>
+        #inputText,
+        #result{
+            width:1100px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Write a JavaScript function that replaces in a HTML document given as 
+         string all the tags <a href="…">…</a> with corresponding tags [URL=…]…/URL].
+         Sample HTML fragment:
+         <p>Please visit <a href="http://academy.telerik. com">our site</a> to choose a training course.
+           Also visit <a href="www.devbg.org">our forum</a> to discuss the courses.</p>
+         Sample output:
+         <p>Please visit [URL=http://academy.telerik. com]our site[/URL] to choose a training course.
+         Also visit [URL=www.devbg.org]our forum[/URL] to discuss the courses.</p>  -->
+
+    <label for="inputText">Enter HTML document here: </label>
+    <input id="inputText" type="text" name="name" value=" " />
+    <br />
+    <label for="result">Result is: </label>
+    <input id="result" type="text" name="name" value=" " />
+    <button onclick="showResult()">Change</button>
+
+    <script>
+        function showResult() {
+            var inputString = document.getElementById("inputText").value.trim();
+            var newString = "";
+            var i = 0;
+            var j = 0
+
+            for (i = 0; i < inputString.length; i++) {
+                if (inputString.substring(i, i + 9) === "<a href=\"") {
+                    newString = newString + "[URL=";
+                    for (j = i + 9; j < inputString.length; j++) {
+                        if (inputString.substring(j, j + 2) === "\">") {
+                            newString = newString + "]";
+                            i = i + 2;
+                            break;
+                        }
+                        newString = newString + inputString[j];
+                        i++;
+                    }
+                    i = i + 9;
+                }
+                else if (inputString.substring(i, i + 4) === "</a>") {
+                    newString = newString + "[/URL]";
+                    i = i + 4;
+                }
+
+                newString = newString + inputString[i];
+            }
+            
+            document.getElementById("result").value = newString;
+        }
+    </script>
+</body>
+</html>

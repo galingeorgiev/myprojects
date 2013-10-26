@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Numbers from 1 to N not divisible to 3 and 7</title>
+    <style>
+        #result {
+            width:900px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Write a script that prints all the numbers from 1 to N,
+         that are not divisible by 3 and 7 at the same time. -->
+
+    <label for="readN">N = </label>
+    <input id="readN" type="text" name="name" value=" " />
+    <label for="result">Result: </label>
+    <input id="result" type="text" name="name" value=" " />
+    <button onclick="printNumbers()">GO</button>
+
+    <script>
+        function printNumbers() {
+            var n = parseInt(document.getElementById("readN").value);
+            var resultString = 1;
+            for (var i = 2; i <= n; i++) {
+                if (i % 3 == 0 & i % 7 == 0) {
+
+                }
+                else {
+                    resultString = resultString + " " + i;
+                }
+            }
+            document.getElementById("result").value = resultString;
+        }
+    </script>
+</body>
+</html>

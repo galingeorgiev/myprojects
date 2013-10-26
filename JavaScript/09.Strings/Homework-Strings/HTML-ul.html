@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+        <title>Create UL</title>
+</head>
+<body>
+    <!--Write a function that creates a HTML UL using a template for every HTML LI.
+        The source of the list should an array of elements.
+        Replace all placeholders marked with –{…}–   with the value of the corresponding property of the object. Example:
+       
+        <div data-type="template" id="list-item">
+            <strong>-{name}-</strong> <span>-{age}-</span>
+        /div>
+ 
+        var people = [{name: "Peter", age: 14},…];
+        var tmpl = document.getElementById("list-item").innerHtml;
+        var peopleList = generateList(people,template);
+        //peopleList = "<ul><li><strong>Peter</strong> <span>14</span></li><li>…</li>…</ul>"-->
+
+    <p>Template</p>
+    <div data-type="template" id="list-item">
+        <strong>-{name}-</strong> <span>-{age}-</span>
+    </div>
+    <p>Result</p>
+    <div id="ul-result"></div>
+
+    <script>
+        function generateList(array, template) {
+            var result = "<ul>";
+            var properties = [];
+            var i = 0;
+            var j = 0;
+            var searchedProperty = "";
+            var temp = "";
+
+            for (var property in array[0]) {
+                properties.push(property)
+            }
+
+            for (i = 0; i < array.length; i++) {
+                result = result + "<li>";
+                temp = template;
+                searchedProperty = "";
+                for (j = 0; j < Object.keys(array[0]).length; j++) {
+                    searchedProperty = "{" + properties[j] + "}";
+                    temp = temp.replace(searchedProperty, array[i][properties[j]]);
+                }
+                result = result + temp;
+                result = result + "</li>";
+            }
+            result += "</ul>";
+            return result;
+        }
+
+        var people = [
+            { name: "Svetlin Nakov", age: 30 },
+            { name: "Georgi Georgiev", age: 26 },
+            { name: "Nikolay Kostov", age: 21 },
+            { name: "Doncho Minkov", age: 25 } ];
+
+        var template = document.getElementById("list-item").innerHTML;
+        var peopleList = generateList(people, template);
+        document.getElementById("ul-result").innerHTML = peopleList;
+    </script>
+</body>
+</html>

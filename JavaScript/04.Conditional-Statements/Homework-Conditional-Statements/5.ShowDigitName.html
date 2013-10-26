@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Show digit name</title>
+    </head>
+    <body>
+        <label for="number">Digit: </label>
+        <input id="number" type="text" name="name" value=" " />
+        <label for="result">name:</label>
+        <input id="result" type="text" name="name" value=" " />
+        <input type="button" name="name" value="GO" onclick="ShowDigitName()" />
+
+        <script>
+            function ShowDigitName() {
+                var firstNumber = parseInt(document.getElementById("number").value);
+
+                switch (firstNumber) {
+                    case 0: document.getElementById("result").value = "Zero"; break;
+                    case 1: document.getElementById("result").value = "One"; break;
+                    case 2: document.getElementById("result").value = "Two"; break;
+                    case 3: document.getElementById("result").value = "Three"; break;
+                    case 4: document.getElementById("result").value = "Four"; break;
+                    case 5: document.getElementById("result").value = "Five"; break;
+                    case 6: document.getElementById("result").value = "Six"; break;
+                    case 7: document.getElementById("result").value = "Seven"; break;
+                    case 8: document.getElementById("result").value = "Eight"; break;
+                    case 9: document.getElementById("result").value = "Nine"; break;
+                    default: document.getElementById("result").value = "Incorrect value"; break;
+                }
+            }
+        </script>
+    </body>
+</html>

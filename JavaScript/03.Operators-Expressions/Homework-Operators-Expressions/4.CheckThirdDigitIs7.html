@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Check third digit is 7</title>
+</head>
+<body>
+    <label for="textIn">Enter number: </label>
+    <input id="textIn" type="text" name="name" value=" " />
+    <label for="textOut">Third digit is seven: </label>
+    <input id="textOut" type="text" name="name" value=" " />
+    <input type="button" name="name" value="GO" onclick="ThirdDigitIsSeven()" />
+
+    <script>
+        function ThirdDigitIsSeven() {
+            var number = parseInt(document.getElementById("textIn").value);
+            number = Math.floor(number / 100);
+            if (number % 10 == 7) {
+                document.getElementById("textOut").value = "True";
+            }
+            else {
+                document.getElementById("textOut").value = "False";
+            }
+        }
+    </script>
+</body>
+</html>

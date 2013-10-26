@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ParseURL</title>
+    <style>
+        #inputText,
+        #result{
+            width:500px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Write a script that parses an URL address given in the format:
+            [protocol]://[server]/[resource]
+
+		and extracts from it the [protocol], [server] and [resource] elements. 
+        Return the elements in a JSON object.For example from the
+        URL http://www.devbg.org/forum/index.php the following information should be extracted:
+        {protocol: "http", server: "www.devbg.org", resource: "/forum/index.php"} -->
+
+    <label for="inputText">Enter URL here: </label>
+    <input id="inputText" type="text" name="name" value=" " />
+    <br />
+    <label for="result">Parsed URL is: </label>
+    <input id="result" type="text" name="name" value=" " />
+    <button onclick="showResult()">Parse</button>
+
+    <script>
+        function showResult() {
+            var inputString = document.getElementById("inputText").value.trim();
+            var startOfProtocol = 0;
+            var endOfProtocol = inputString.indexOf("://", 0);
+            var startOfServer = endOfProtocol + 3;
+            var endOfServer = inputString.indexOf("/", startOfServer);
+            var startOfResource = endOfServer;
+            var endOfResources = inputString.length;
+
+            var protocol = inputString.substring(startOfProtocol,endOfProtocol);
+            var server = inputString.substring(startOfServer, endOfServer);
+            var resources = inputString.substring(startOfResource, endOfResources);
+
+            var parseURL = function (protocol, server ,resources) {
+                return {
+                    Protocol: protocol,
+                    Server: server,
+                    Resource: resources,
+                    convertToString: function () {
+                        return "{ Protocol: \"" + protocol + "\", Server: \"" + server + "\", Resource: \"" + resources + "\" }"
+                    }
+                }
+            };
+
+
+            document.getElementById("result").value = parseURL(protocol, server, resources).convertToString();
+        }
+    </script>
+</body>
+</html>

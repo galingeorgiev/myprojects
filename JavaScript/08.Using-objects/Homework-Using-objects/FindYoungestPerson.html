@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Find Youngest Person</title>
+</head>
+<body>
+    <!-- Write a function that finds the youngest person in a given array of persons and prints his/hers full name
+             -Each person have properties firstname, lastname and age, as shown:
+                var persons = [
+                {firstname : "Gosho", lastname: "Petrov", age: 32}, 
+                {firstname : "Bay", lastname: "Ivan", age: 81},…]; -->
+    <label for="result">Youngest person is: </label>
+    <input id="result" type="text" name="name" value=" " />
+    <button onclick="checkYoungestPerson()">Check!</button>
+
+    <script>
+        var person = function (firstName, lastName, age) {
+            return {
+                firstName: firstName,
+                lastName: lastName,
+                age: age
+            }
+        }
+
+        function checkYoungestPerson() {
+            var persons = [
+                person("Gosho", "Petrov", 32),
+                person("Bay", "Ivan", 81),
+                person("Nikolay", "Kostov", 21),
+                person("Svetlin", "Nakov", 29),
+                person("Georgi", "Georgiev", 25)];
+            var i;
+            var youngestPerson;
+            var bestAge = 100000; // Very old person
+
+            for (i = 0; i < persons.length; i++) {
+                if (persons[i].age < bestAge) {
+                    bestAge = persons[i].age;
+                    youngestPerson = persons[i];
+                }
+            }
+
+            document.getElementById("result").value = youngestPerson.firstName + " " + youngestPerson.lastName;
+        }
+    </script>
+</body>
+</html>

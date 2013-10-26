@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Show sign of product</title>
+</head>
+<body>
+    <label for="firstNumber">Enter first number: </label>
+    <input id="firstNumber" type="text" name="name" value=" " />
+    <label for="secondNumber">Enter second number: </label>
+    <input id="secondNumber" type="text" name="name" value=" " />
+    <label for="thirdNumber">Enter third number: </label>
+    <input id="thirdNumber" type="text" name="name" value=" " />
+    <label for="result">Sign is:</label>
+    <input id="result" type="text" name="name" value=" " />
+    <input type="button" name="name" value="GO" onclick="ShowSignOfProduct()" />
+
+    <script>
+        function ShowSignOfProduct() {
+            var firstNumber = parseFloat(document.getElementById("firstNumber").value);
+            var secondNumber = parseFloat(document.getElementById("secondNumber").value);
+            var thirdNumber = parseFloat(document.getElementById("thirdNumber").value);
+            var minusSignCounter = 0;
+
+            if (firstNumber < 0) {
+                minusSignCounter++;
+            }
+            if (secondNumber < 0) {
+                minusSignCounter++;
+            }
+            if (thirdNumber < 0) {
+                minusSignCounter++;
+            }
+
+            if (firstNumber == 0 || secondNumber == 0 || thirdNumber == 0) {
+                document.getElementById("result").value = "+";
+            }
+            else if (minusSignCounter == 0 || minusSignCounter == 2) {
+                document.getElementById("result").value = "+";
+            }
+            else {
+                document.getElementById("result").value = "-";
+            }
+        }
+    </script>
+</body>
+</html>

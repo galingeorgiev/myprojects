@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Numbers from 1 to N</title>
+</head>
+<body>
+    <!-- Write a script that finds the max and min number from a sequence of numbers. -->
+
+    <label for="readNumbers">Enter numbers separeted with comma = </label>
+    <input id="readNumbers" type="text" name="name" value=" " />
+    <br />
+    <label for="max">Max: </label>
+    <input id="max" type="text" name="name" value=" " />
+    <label for="min">Min: </label>
+    <input id="min" type="text" name="name" value=" " />
+    <button onclick="printNumbers()">GO</button>
+
+    <script>
+        function printNumbers() {
+            var n = document.getElementById("readNumbers").value.split(",");
+            var max = Number.MIN_VALUE;
+            var min = Number.MAX_VALUE;
+            for (var i = 0; i <= n.length; i++) {
+                var currentNumber = parseFloat(n[i]);
+                if (currentNumber < min) {
+                    min = currentNumber;
+                }
+                if (currentNumber > max) {
+                    max = currentNumber;
+                }
+            }
+            document.getElementById("max").value = max;
+            document.getElementById("min").value = min;
+        }
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,162 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            function Solve(args) {
+                var numberOfLines = parseInt(args[0]);
+                var lineWidth = parseInt(args[1]);
+                var lines = "";
+                var lineWithoutWhiteSpaces = "";
+                var i = 0;
+                var j = 0;
+                var isPreviousWhiteSpace = false;
+                var words = [];
+                var newText = "";
+                var newLine = "";
+                var lineCurrentLength = 0;
+                var counter = 0;
+                var addWhiteSpaces = 0;
+                var tempLine = "";
+                var isNowAdded = false;
+                var oldCounter = 0;
+                var isSingleWord = false;
+
+                String.prototype.insert = function (index, string) {
+                    if (index > 0)
+                        return this.substring(0, index) + string + this.substring(index, this.length);
+                    else
+                        return string + this;
+                };
+
+                for (i = 0; i < numberOfLines; i++) {
+                    lines = lines + args[i + 2] + " ";
+                }
+
+                lines = lines.trim();
+
+                //Clear whitespaces
+                for (i = 0; i < lines.length; i++) {
+                    if (lines[i] === ' ' & !isPreviousWhiteSpace) {
+                        lineWithoutWhiteSpaces = lineWithoutWhiteSpaces + lines[i];
+                        isPreviousWhiteSpace = true;
+                    }
+                    else if (lines[i] !== ' ') {
+                        lineWithoutWhiteSpaces = lineWithoutWhiteSpaces + lines[i];
+                        isPreviousWhiteSpace = false;
+                    }
+                }
+            
+                //Create array of words
+                words = lineWithoutWhiteSpaces.split(' ');
+
+                //Create new text
+                while (true) {
+                    lineCurrentLength = 0;
+                    newLine = "";
+                    oldCounter = counter;
+
+                    while (true) {
+                        if (counter >= words.length) {
+                            break;
+                        }
+
+                        lineCurrentLength = newLine.length + words[counter].length;
+
+                        if (lineCurrentLength >= lineWidth + 1) {
+                            break;
+                        }
+                        else {
+                            newLine = newLine + words[counter] + " ";
+                            counter++;
+                        }
+                    }
+
+                    newLine = newLine.trim();
+
+                    if (counter - oldCounter === 1) {
+                        isSingleWord = true;
+                    }
+
+                    if (newLine.length !== lineWidth & !isSingleWord) {
+                        addWhiteSpaces = lineWidth - newLine.length;
+                        for (i = 0; i < addWhiteSpaces; i++) {
+                            if (i === 0) {
+                                for (j = 0; j < newLine.length; j++) {
+                                    if (tempLine.length >= lineWidth) {
+                                        break;
+                                    }
+                                    if (i < addWhiteSpaces) {
+                                        if (newLine[j] === ' ' & !isNowAdded) {
+                                            tempLine = tempLine + " " + newLine[j];
+                                            i++;
+                                            isNowAdded = true;
+                                        }
+                                        else {
+                                            tempLine = tempLine + newLine[j];
+                                        }
+                                    }
+                                    else {
+                                        tempLine = tempLine + newLine[j];
+                                    }
+
+                                    if (newLine[j] !== ' ') {
+                                        isNowAdded = false;
+                                    }
+                                }
+                                i--;
+                            }
+                            else {
+                                for (j = 0; j < tempLine.length; j++) {
+                                    if (tempLine.length >= lineWidth) {
+                                        break;
+                                    }
+                                    if (i < addWhiteSpaces) {
+                                        if (tempLine[j] === ' ' & !isNowAdded) {
+                                            tempLine = tempLine.insert(j," ")
+                                            i++;
+                                            isNowAdded = true;
+                                        }
+                                    }
+
+                                    if (tempLine[j] !== ' ') {
+                                        isNowAdded = false;
+                                    }
+                                }
+                                i--;
+                            }
+                        }
+                        newLine = tempLine;
+                        tempLine = "";
+                    }
+                
+                    newText = newText + newLine + "\r\n";
+                    if (counter >= words.length) {
+                        break;
+                    }
+                }
+
+                //console.log(newText);
+                return newText;
+            }
+
+            //Solve(["5", "20", "We happy few        we band", "of brothers for he who sheds", "his blood", "with", "me shall be my brother"]);
+            //Solve(["10", "18", "Beer beer beer Im going for ", "a", "beer", "Beer beer beer Im gonna", "drink some beer", "I love drinkiiiiiiiiing", "beer", "lovely", "lovely", "beer"]);
+            Solve(["12", "34",
+                "Dovahkiin Dovahkiin naal ok zin los vahriin    Wah dein vokul mahfaeraak ahst vaal    Ahrk fin norok paal graan fod nust hon",
+                "zindro zaan    Dovahkiin fah hin kogaan mu draal      Huzrah nu kul do od wah aan bok lingrah vod    Ahrk fin tey boziik fun do fin gein    Wo lostfron wah ney dov",
+                "ahrk fin reyliik do jul    Voth",
+                "aan suleyk wah ronit faal krein      Ahrk fin zul rok drey kod nau tol morokei frod    Rul lot Taazokaan motaad voth kein    Sahrot Thuum med aan tuz vey zeim hokoron pah    Ol fin Dovakiin komeyt ok rein      Chorus    Dovahkiin Dovahkiin naal ok zin los vahriin    Wah dein vokul mahfaeraak ahst vaal    Ahrk fin norok paal graan fod nust hon zindro zaan    Dovahkiin fah hin kogaan mu draal      Ahrk fin Kel lost prodah do ved viing ko fin krah    Tol",
+                "fod zeymah win kein meyz fuundein    Alduin feyn do jun kruziik vokun staadnav    Voth aan bahlok wah diivon fin lein      Nuz aan sul fent alok fod fin vul dovah nok    Fen kos nahlot mahfaeraak ahrk ruz    Paaz Keizaal fen kos stin nol bein Alduin jot    Dovahkiin kos fin saviik do muz   ",
+                "  Chorus    Dovahkiin Dovahkiin naal ok zin los vahriin    Wah dein vokul mahfaeraak ahst vaal    Ahrk fin norok paal graan fod nust hon zindro zaan    Dovahkiin fah hin kogaan mu draa    Lyrics in English   From httpwwwelyricsnet   Dragonborn Dragonborn by his honor is sworn    To keep evil forever at bay    And the fiercest foes rout when they hear triumphs shout    Dragonborn for your blessing we pray      Hearken now sons of snow to an age long ago    And the tale boldly told of the one    Who was kin to both wyrm and the races of man    With a power to rival the sun      And the voice he",
+                "did wield on that glorious field    When great Tamriel shuddered with war    Mighty Thuum like a blade cut through enemies all    As the Dragonborn issued his roar      Dragonborn Dragonborn by his honor is sworn    To keep",
+                "evil forever at bay    And the fiercest foes rout when they hear triumphs shout    Dragonborn for your blessing we pray    ",
+                " And the Scrolls have foretold of black wings in the cold    That when brothers wage war come unfurled    Alduin Bane of Kings ancient shadow unbound    With a hunger to swallow the world      But a day shall arise when the dark dragons lies    Will be silenced forever and then    Fair Skyrim will be free from foul Alduins maw    Dragonborn be the savior of men      Dragonborn Dragonborn by his honor is sworn    To",
+                "keep evil forever at bay    And",
+                "the fiercest foes rout when they hear triumphs",
+                "shout    Dragonborn for your blessing we pray"]);
+        </script>
+    </body>
+</html>

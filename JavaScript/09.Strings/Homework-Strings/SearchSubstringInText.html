@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Search Substring In Text</title>
+
+        <style>
+            #inputText{
+                width:1000px;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Write a JavaScript function that finds how many times a substring is contained in a given text (perform case insensitive search).
+		     Example: The target substring is "in". The text is as follows:
+
+                We are living in an yellow submarine. We don't have anything else.
+                Inside the submarine is very tight. So we are drinking all the day.
+                We will move out of it in 5 days.
+
+                The result is: 9. -->
+
+        <label for="inputText">Enter expression here: </label>
+        <input id="inputText" type="text" name="name" value=" " />
+        <br />
+        <label for="searhedWord">Enter expression here: </label>
+        <input id="searhedWord" type="text" name="name" value=" " />
+        <br />
+        <label for="result">Are brackets correct: </label>
+        <input id="result" type="text" name="name" value=" " />
+        <button onclick="searchInText()">Check</button>
+
+        <script>
+            function searchInText() {
+                var inputText = document.getElementById("inputText").value.trim().toLowerCase();
+                var searchedWord = document.getElementById("searhedWord").value.trim().toLowerCase();
+                var index = -1;
+                var counter = 0;
+
+                while (true) {
+                    index = inputText.indexOf(searchedWord, index + 1);
+                    if (index < 0) {
+                        break;
+                    }
+                    counter++;
+                }
+
+                document.getElementById("result").value = counter;
+            }
+        </script>
+    </body>
+</html>

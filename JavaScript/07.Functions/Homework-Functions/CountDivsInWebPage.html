@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Count Divs In Web Page</title>
+    </head>
+    <body>
+        <!-- Write a function to count the number of divs on the web page -->
+
+        <div>I am div 1</div>
+        <div>I am div 2</div>
+        <div>I am div 3</div>
+        <label for="divsCount">Number of divs is: </label>
+        <input id="divsCount" type="text" name="name" value=" " />
+        <button onclick="countDivs()">GO!</button>
+
+        <script>
+            function countDivs() {
+                var numberOfDivs = document.getElementsByTagName("div").length;
+                document.getElementById("divsCount").value = numberOfDivs;
+            }
+        </script>
+    </body>
+</html>

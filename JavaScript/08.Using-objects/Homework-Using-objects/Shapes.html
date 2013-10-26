@@ -1,0 +1,158 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Shapes</title>
+</head>
+<body>
+    <!-- Write functions for working with shapes in  standard Planar coordinate system
+            -Points are represented by coordinates P(X, Y)
+            -Lines are represented by two points, marking their beginning and ending L(P1(X1,Y1),P2(X2,Y2))
+            -Calculate the distance between two points
+            -Check if three segment lines can form a triangle -->
+
+    <fieldset>
+        <legend>Calculate distance between two points</legend>
+        <label>First point coordinates</label>
+        <br />
+        <label for="firstPointX">X = </label>
+        <input id="firstPointX" type="text" name="name" value=" " />
+        <label for="firstPointY">Y = </label>
+        <input id="firstPointY" type="text" name="name" value=" " />
+        <br />
+        <label>Second point coordinates</label>
+        <br />
+        <label for="secondPointX">X = </label>
+        <input id="secondPointX" type="text" name="name" value=" " />
+        <label for="secondPointY">Y = </label>
+        <input id="secondPointY" type="text" name="name" value=" " />
+        <br />
+        <label for="result">Distance is: </label>
+        <input id="result" type="text" name="name" value=" " />
+        <button onclick="calculation()">Calculate distance</button>
+        <p>*always return a positive value.</p>
+    </fieldset>
+
+    <fieldset>
+        <legend>Check if three segment lines can form a triangle</legend>
+        <label>First line coordinates</label>
+        <br />
+        <label for="firstLineX1">Lx1 = </label>
+        <input id="firstLineX1" type="text" name="name" value=" " />
+        <label for="firstLineY1">Ly1 = </label>
+        <input id="firstLineY1" type="text" name="name" value=" " />
+        <label for="firstLineX2">Lx2 = </label>
+        <input id="firstLineX2" type="text" name="name" value=" " />
+        <label for="firstLineY2">Ly2 = </label>
+        <input id="firstLineY2" type="text" name="name" value=" " />
+        <br />
+        <label>Second line coordinates</label>
+        <br />
+        <label for="secondLineX1">Lx1 = </label>
+        <input id="secondLineX1" type="text" name="name" value=" " />
+        <label for="secondLineY1">Ly1 = </label>
+        <input id="secondLineY1" type="text" name="name" value=" " />
+        <label for="secondLineX2">Lx2 = </label>
+        <input id="secondLineX2" type="text" name="name" value=" " />
+        <label for="secondLineY2">Ly2 = </label>
+        <input id="secondLineY2" type="text" name="name" value=" " />
+        <br />
+        <label>Third line coordinates</label>
+        <br />
+        <label for="thirdLineX1">Lx1 = </label>
+        <input id="thirdLineX1" type="text" name="name" value=" " />
+        <label for="thirdLineY1">Ly1 = </label>
+        <input id="thirdLineY1" type="text" name="name" value=" " />
+        <label for="thirdLineX2">Lx2 = </label>
+        <input id="thirdLineX2" type="text" name="name" value=" " />
+        <label for="thirdLineY2">Ly2 = </label>
+        <input id="thirdLineY2" type="text" name="name" value=" " />
+        <br />
+        <label for="canFormTriangle">Can form triangle?: </label>
+        <input id="canFormTriangle" type="text" name="name" value=" " />
+        <button onclick="canFormTriangle()">Check</button>
+        <p>*triangle can be form if there is no parallel lines.</p>
+    </fieldset>
+
+    <script>
+        function point(x,y) {
+            return {
+                x: x,
+                y: y 
+            }
+        }
+
+        function line(p1, p2) {
+            return {
+                p1: p1,
+                p2: p2,
+                calculateDistance: function () {
+                    return Math.abs(Math.sqrt(((p1.x - p2.x) * (p1.x - p2.x)) + ((p1.y - p2.y) * (p1.y - p2.y))));
+                }
+            }
+        }
+
+        function triangle(firstLine, secondLine, thirdLine) {
+            return {
+                fLine: firstLine,
+                secLine: secondLine,
+                thLine: thirdLine,
+                canFormTriangle: function () {
+                    if ((this.fLine.p1.x - this.secLine.p1.x != this.fLine.p2.x - this.secLine.p2.x |
+                        this.fLine.p1.y - this.secLine.p1.y != this.fLine.p2.y - this.secLine.p2.y) &
+                        (this.fLine.p1.x - this.thLine.p1.x != this.fLine.p2.x - this.thLine.p2.x |
+                        this.fLine.p1.y - this.thLine.p1.y != this.fLine.p2.y - this.thLine.p2.y) &
+                        (this.secLine.p1.x - this.thLine.p1.x != this.secLine.p2.x - this.thLine.p2.x |
+                        this.secLine.p1.y - this.thLine.p1.y != this.secLine.p2.y - this.thLine.p2.y)) {
+                        return "True";
+                    }
+                    else {
+                        return "False";
+                    }
+                }
+            }
+        }
+
+        function calculation() {
+            var firstPointX = document.getElementById("firstPointX").value;
+            var firstPointY = document.getElementById("firstPointY").value;
+            var firstPoint = point(firstPointX, firstPointY);
+
+            var secondPointX = document.getElementById("secondPointX").value;
+            var secondPointY = document.getElementById("secondPointY").value;
+            var secondPoint = point(secondPointX, secondPointY);
+
+            var distance = line(firstPoint, secondPoint).calculateDistance();
+            document.getElementById("result").value = distance;
+        }
+
+        function canFormTriangle() {
+            var firstLineX1 = document.getElementById("firstLineX1").value;
+            var firstLineY1 = document.getElementById("firstLineY1").value;
+            var firstLinePoint1 = point(firstLineX1, firstLineY1);
+            var firstLineX2 = document.getElementById("firstLineX2").value;
+            var firstLineY2 = document.getElementById("firstLineY2").value;
+            var firstLinePoint2 = point(firstLineX2, firstLineY2);
+            var firstLine = line(firstLinePoint1, firstLinePoint2);
+
+            var secondLineX1 = document.getElementById("secondLineX1").value;
+            var secondLineY1 = document.getElementById("secondLineY1").value;
+            var secondLinePoint1 = point(secondLineX1, secondLineY1);
+            var secondLineX2 = document.getElementById("secondLineX2").value;
+            var secondLineY2 = document.getElementById("secondLineY2").value;
+            var secondLinePoint2 = point(secondLineX2, secondLineY2);
+            var secondLine = line(secondLinePoint1, secondLinePoint2);
+
+            var thirdLineX1 = document.getElementById("thirdLineX1").value;
+            var thirdLineY1 = document.getElementById("thirdLineY1").value;
+            var thirdLinePoint1 = point(thirdLineX1, thirdLineY1);
+            var thirdLineX2 = document.getElementById("thirdLineX2").value;
+            var thirdLineY2 = document.getElementById("thirdLineY2").value;
+            var thirdLinePoint2 = point(thirdLineX2, thirdLineY2);
+            var thirdLine = line(thirdLinePoint1, thirdLinePoint2);
+
+            var canBeTriangle = triangle(firstLine, secondLine, thirdLine);
+            document.getElementById("canFormTriangle").value = canBeTriangle.canFormTriangle();
+        }
+    </script>
+</body>
+</html>

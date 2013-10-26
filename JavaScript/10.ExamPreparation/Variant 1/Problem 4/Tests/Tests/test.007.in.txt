@@ -1,0 +1,50 @@
+48
+28
+DriveFreeZ is
+an opensource
+driving simulator recreating the traffic conditions every
+driver
+experiences on the road
+Its primary
+goal
+is to serve as a
+simulation
+tool
+for experts working on road
+safety
+as
+well as to provide an educational
+tool for novice
+traffic
+participants    The
+project
+takes
+advantage of modern methods for objectoriented
+programming data
+storage and
+optimization processes advanced platforms for building the layout
+of the city
+The
+flexibility of
+the code permits developers to
+modify it and use it
+in
+their
+own work Development by the
+authors
+is constantly
+underway
+extending and improving
+the projects functionality 
+  The graphics and physics cores of the
+application provide the realism of the
+surrounding world DriveFreeZs development concentrates on
+simulating
+the technical and physical
+aspects of vehicle
+movement as well as the mental aspects of drivers interaction
+resulting in a
+highly satisfying
+driving
+simulation
+product

@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Compare char arrays</title>
+    <style>
+        #printResult{
+            width:500px;
+        }
+        button{
+            width:100px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Write a script that compares two char arrays lexicographically (letter by letter). -->
+
+    <label for="firstCharArr">Enter first char array: </label>
+    <input id="firstCharArr" type="text" name="name" value=" " />
+    <label for="firstCharArr"> Example: Svetlin</label>
+    <br />
+    <label for="secondCharArr">Enter second char array: </label>
+    <input id="secondCharArr" type="text" name="name" value=" " />
+    <label for="secondCharArr"> Example: Nakov </label>
+    <br />
+    <label for="printResult">Result: </label>
+    <input id="printResult" type="text" name="name" value=" " />
+    <label for="printResult"> Example: S,v,e,t,l,i,n is before N,a,k,o,v</label>
+    <br />
+    <button onclick="printResult()">GO</button>
+
+    <script>
+        function printResult() {
+            var firstCharArr = document.getElementById("firstCharArr").value.trim().split("");
+            var secondCharArr = document.getElementById("secondCharArr").value.trim().split("");
+            var minLength = Math.min(firstCharArr.length, secondCharArr.length);
+
+            var firsIsBigger = false;
+            var secondIsBigger = false;
+            var isEqual = true;
+
+            for (var i = 0; i < minLength; i++) {
+                if (firstCharArr[i] != secondCharArr[i]) {
+                    if (firstCharArr[i] > secondCharArr[i]) {
+                        
+                        firsIsBigger = true;
+                        isEqual = false;
+                    }
+                    if (firstCharArr[i] < secondCharArr[i]) {
+                        document.getElementById("printResult").value = firstCharArr + "is before" + secondCharArr;
+                        secondIsBigger = true;
+                        isEqual = false;
+                    }
+                }
+            }
+            if (firsIsBigger) {
+                document.getElementById("printResult").value = secondCharArr + " is before " + firstCharArr;
+            }
+            if (secondIsBigger) {
+                document.getElementById("printResult").value = firstCharArr + " is before " + secondCharArr;
+            }
+            if (isEqual) {
+                document.getElementById("printResult").value = firstCharArr + " is equal to " + secondCharArr;
+            }
+        }
+    </script>
+</body>
+</html>

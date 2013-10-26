@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <!-- Write a function that makes a deep copy of an object
+           -The function should work for both primitive and reference types -->
+
+    <p>Press button and see result in console.</p>
+    <button onclick="showResult()">Show deep copy</button>
+
+    <script>
+        function deepCopy(obj) {
+            if (obj == null || typeof (obj) != 'object') {
+                return obj
+            }
+            if (obj instanceof Object) {
+                var copy = {};
+                for (var attribute in obj) {
+                    if (obj.hasOwnProperty(attr)) {
+                        copy[attribute] = deepCopy(obj[attribute]);
+                    }
+                }
+                return copy;
+            }
+            if (obj instanceof Array) {
+                var copy1 = [];
+                var i;
+                for (i = 0 ; i < obj.length ; i++) {
+                    copy1[i] = deepCopy(obj[i]);
+                }
+                return copy1;
+            }
+        }
+
+        var valueType = 5;
+        var refType = new Number(10);
+        //refType = 15;
+
+        function showResult() {
+            console.log("----- Demonstrate type of elements -----");
+            console.log(typeof valueType); //Can see type in console
+            console.log(typeof refType); //Can see type in console
+            //document.getElementById("result").value = typeof valueType + " " + valueType + "; " + typeof refType + " " + refType;
+
+            console.log("----- Demonstrate how work for value type -----");
+            var deepCopyOfValueType = deepCopy(valueType);
+            valueType = 6;
+            console.log(deepCopyOfValueType);
+            console.log(valueType);
+
+            console.log("----- Demonstrate how work for ref type -----");
+            var deepCopyOfRefType = deepCopy(refType);
+            refType = 15;
+            console.log(deepCopyOfRefType);
+            console.log(refType);
+            //document.getElementById("result").value =
+        }
+    </script>
+</body>
+</html>

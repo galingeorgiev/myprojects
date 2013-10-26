@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>FormatString</title>
+</head>
+<body>
+    <!-- Write a function that formats a string using placeholders:
+             var str = stringFormat("Hello {0}!","Peter");
+             //str = "Hello Peter!";
+
+        The function should work with up to 30 placeholders and all types
+            var format = "{0}, {1}, {0} text {2}";
+            var str = stringFormat(format,1,"Pesho","Gosho");
+            //str = "1, Pesho, 1 text Gosho" -->
+
+    <p>Press button below and open console to see results.</p>
+    <button onclick="testStringFormat()">GO!</button>
+    <script>
+        function stringFormat(format, values) {
+            var format = arguments[0];
+            var formatedString = "";
+            var valueInPlaceholder = 0;
+            var i = 0;
+            for (i = 0; i < format.length ; i++) {
+                if (format[i] === '{' & format[i + 2] === '}') {
+                    valueInPlaceholder = parseInt(format[i + 1]) + 1;
+                    formatedString = formatedString + arguments[valueInPlaceholder];
+                    i = i + 2;
+                }
+                else {
+                    formatedString = formatedString + format[i];
+                }
+            }
+            return formatedString;
+        }
+
+        function testStringFormat() {
+            var str = stringFormat("Hello {0}!", "Peter");
+            console.log(str);
+
+            var format = "{0}, {1}, {0} text {2}";
+            var otherStr = stringFormat(format, 1, "Pesho", "Gosho");
+            console.log(otherStr);
+        }
+    </script>
+</body>
+</html>

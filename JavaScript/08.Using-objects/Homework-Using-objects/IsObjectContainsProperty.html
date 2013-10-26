@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Is Object Contains Property</title>
+</head>
+<body>
+    <!-- Write a function that checks if a given object contains a given property
+                var obj  = …;
+                var hasProp = hasProperty(obj,"length"); -->
+    <p>Chenge type of element in code. Now is entered '{}'.</p>
+    <br />
+    <label for="readedProperty">Enter property here: </label>
+    <input id="readedProperty" type="text" name="name" value=" " />
+    <label for="readedProperty">Example: toString </label>
+    <br />
+    <label for="result">Has property: </label>
+    <input id="result" type="text" name="name" value=" " />
+    <br />
+    <button onclick="checkForProperty()">Check</button>
+
+    <script>
+        function hasProperty(obj, propety) {
+            var isContainProperty = "False";
+
+            if (obj != null || typeof (obj) == 'object') {
+                if (propety in obj) {
+                    isContainProperty = "True";
+                }
+            }
+
+            return isContainProperty;
+        }
+
+        function checkForProperty() {
+            var element = {};
+            var prop = document.getElementById("readedProperty").value.trim();
+            var hasProp = hasProperty(element, prop);
+            document.getElementById("result").value = hasProp;
+        }
+    </script>
+</body>
+</html>

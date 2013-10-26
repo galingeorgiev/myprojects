@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Rectangle area</title>
+</head>
+<body>
+    <p>For real numbers use dot!</p>
+	<label for="rectangleWidth">Width </label>
+    <input id="rectangleWidth" type="text" name="name" value=" " />
+    <label for="rectangleHeight">Heihght </label>
+    <input id="rectangleHeight" type="text" name="name" value=" " />
+    <label for="result">Rectangle area </label>
+    <input id="result" type="text" name="name" value=" " />
+    <input type="button" name="name" value="GO" onclick="CalculateRectangleArea()" />
+
+    <script>
+        function CalculateRectangleArea() {
+            var width = parseFloat(document.getElementById("rectangleWidth").value);
+            var height = parseFloat(document.getElementById("rectangleHeight").value);
+            document.getElementById("result").value = width * height;
+        }
+    </script>
+</body>
+</html>

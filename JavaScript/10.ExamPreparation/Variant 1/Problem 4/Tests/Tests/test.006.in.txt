@@ -1,0 +1,59 @@
+57
+20
+Joro is
+having
+problems
+He broke
+his
+PC
+and
+his
+bed
+and
+another bed and
+several glasses and
+several
+other things
+on
+his
+birthday
+party
+and
+has to
+write
+the description of
+the next
+task
+for
+the
+PC Magazine
+Telerik programming contest
+Now Joro
+has
+a very
+old
+PC
+which can
+only
+run a
+console Sure he can
+use
+that to write
+the
+description
+but
+theres
+a
+small problem
+The
+console
+cant justify the
+text
+like MS Word
+can Joro needs
+that functionality
+and
+he
+needs
+it
+fast

@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <p>For real numbers use dot!</p>
+	<label for="xCoordinate">X </label>
+    <input id="xCoordinate" type="text" name="name" value=" " />
+    <label for="yCoordinate">Y </label>
+    <input id="yCoordinate" type="text" name="name" value=" " />
+    <label for="result">Is point in circle: </label>
+    <input id="result" type="text" name="name" value=" " />
+    <input type="button" name="name" value="GO" onclick="IsInCircleAndRectangle()" />
+
+    <script>
+        function IsInCircleAndRectangle() {
+            var x = parseFloat(document.getElementById("xCoordinate").value);
+            var y = parseFloat(document.getElementById("yCoordinate").value);
+            var result = Math.sqrt((x * x) + (y * y));
+
+            var inRectangleX = x >= -1 && x <= 5;
+            var inRectangleY = y >= -1 && y <= 1;
+
+            if (result <= 3 && inRectangleX && inRectangleY) {
+                document.getElementById("result").value = "True";
+            }
+            else{
+                document.getElementById("result").value = "False";
+            }
+        }
+    </script>
+</body>
+</html>

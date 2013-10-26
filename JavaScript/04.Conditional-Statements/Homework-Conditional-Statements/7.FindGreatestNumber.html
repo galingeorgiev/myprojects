@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Find greatest number</title>
+    <style>
+        input{
+            display:block;
+        }
+    </style>
+</head>
+<body>
+        <p>For real number use dot.</p>
+        <label for="firstNumber">Enter first number: </label>
+        <input id="firstNumber" type="text" name="name" value=" " />
+        <label for="secondNumber">Enter second number: </label>
+        <input id="secondNumber" type="text" name="name" value=" " />
+        <label for="thirdNumber">Enter third number: </label>
+        <input id="thirdNumber" type="text" name="name" value=" " />
+        <label for="fourthNumber">Enter fourth number: </label>
+        <input id="fourthNumber" type="text" name="name" value=" " />
+        <label for="fivethNumber">Enter fiveth number: </label>
+        <input id="fivethNumber" type="text" name="name" value=" " />
+        <label for="result">Greatest number is:</label>
+        <input id="result" type="text" name="name" value=" " />
+        <input type="button" name="name" value="GO" onclick="GreatestNumber()" />
+
+        <script>
+            function GreatestNumber() {
+                var firstNumber = parseFloat(document.getElementById("firstNumber").value);
+                var secondNumber = parseFloat(document.getElementById("secondNumber").value);
+                var thirdNumber = parseFloat(document.getElementById("thirdNumber").value);
+                var fourthNumber = parseFloat(document.getElementById("fourthNumber").value);
+                var fivethNumber = parseFloat(document.getElementById("fivethNumber").value);
+
+                var greatestNumber = 0;
+
+                var candidat1 = 0;
+                var candidat2 = 0;
+                if (firstNumber >= secondNumber) {
+                    candidat1 = firstNumber;
+                }
+                else {
+                    candidat1 = secondNumber;
+                }
+                if (thirdNumber >= fourthNumber) {
+                    candidat2 = thirdNumber;
+                }
+                else {
+                    candidat2 = fourthNumber;
+                }
+
+                if (candidat1 >= candidat2) {
+                    if (candidat1 >= fivethNumber) {
+                        greatestNumber = candidat1;
+                    }
+                    else {
+                        greatestNumber = fivethNumber;
+                    }
+                }
+                else {
+                    if (candidat2 >= fivethNumber) {
+                        greatestNumber = candidat2;
+                    }
+                    else {
+                        greatestNumber = fivethNumber;
+                    }
+                }
+
+                document.getElementById("result").value = greatestNumber;
+            }
+        </script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Quadratic equation solve</title>
+</head>
+<body>
+    <label for="firstNumber">a: </label>
+    <input id="firstNumber" type="text" name="name" value=" " />
+    <label for="firstNumber">x<sup>2</sup> + </label>
+    <label for="secondNumber">b: </label>
+    <input id="secondNumber" type="text" name="name" value=" " />
+    <label for="secondNumber">x + </label>
+    <label for="thirdNumber">c: </label>
+    <input id="thirdNumber" type="text" name="name" value=" " />
+    <label for="result">= 0; Roots: </label>
+    <input id="result" type="text" name="name" value=" " />
+    <input type="button" name="name" value="GO" onclick="QuadraticEquation()" />
+
+    <script>
+        function QuadraticEquation() {
+            var a = parseFloat(document.getElementById("firstNumber").value);
+            var b = parseFloat(document.getElementById("secondNumber").value);
+            var c = parseFloat(document.getElementById("thirdNumber").value);
+
+            var discriminant = b * b - (4 * a * c);
+
+            if (discriminant == 0) {
+                var result = -(b / (2 * a));
+                document.getElementById("result").value = "X1 = X2 = " + result;
+            }
+            else if (discriminant < 0) {
+                document.getElementById("result").value = "There are no real roots";
+            }
+            else {
+                var result1 = (-b + Math.sqrt(discriminant)) / (2 * a);
+                var result2 = (-b - Math.sqrt(discriminant)) / (2 * a);
+                document.getElementById("result").value = "X1 = " + result1 + ";" + " X2 = " + result2;
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Sort numbers</title>
+</head>
+<body>
+        <p>For real number use dot.</p>
+        <label for="firstNumber">Enter first number: </label>
+        <input id="firstNumber" type="text" name="name" value=" " />
+        <label for="secondNumber">Enter second number: </label>
+        <input id="secondNumber" type="text" name="name" value=" " />
+        <label for="thirdNumber">Enter third number: </label>
+        <input id="thirdNumber" type="text" name="name" value=" " />
+        <label for="result">Biggest number is:</label>
+        <input id="result" type="text" name="name" value=" " />
+        <input type="button" name="name" value="GO" onclick="BiggestNumber()" />
+
+        <script>
+            function BiggestNumber() {
+                var firstNumber = parseFloat(document.getElementById("firstNumber").value);
+                var secondNumber = parseFloat(document.getElementById("secondNumber").value);
+                var thirdNumber = parseFloat(document.getElementById("thirdNumber").value);
+
+                if (firstNumber <= secondNumber) {
+                    var temp = firstNumber;
+                    firstNumber = secondNumber;
+                    secondNumber = temp;
+                    if (secondNumber <= thirdNumber) {
+                        temp = secondNumber;
+                        secondNumber = thirdNumber;
+                        thirdNumber = temp;
+                    }
+                    if (firstNumber <= secondNumber) {
+                        temp = firstNumber;
+                        firstNumber = secondNumber;
+                        secondNumber = temp;
+                    }
+                    if (firstNumber <= thirdNumber) {
+                        temp = thirdNumber;
+                        thirdNumber = firstNumber;
+                        firstNumber = temp;
+                    }
+                }
+                else {
+                    if (secondNumber <= thirdNumber) {
+                        temp = secondNumber;
+                        secondNumber = thirdNumber;
+                        thirdNumber = temp;
+                    }
+                    if (firstNumber <= secondNumber) {
+                        temp = firstNumber;
+                        firstNumber = secondNumber;
+                        secondNumber = temp;
+                    }
+                    if (firstNumber <= thirdNumber) {
+                        temp = thirdNumber;
+                        thirdNumber = firstNumber;
+                        firstNumber = temp;
+                    }
+                    if (firstNumber <= secondNumber) {
+                        temp = firstNumber;
+                        firstNumber = secondNumber;
+                        secondNumber = temp;
+                    }
+                }
+                document.getElementById("result").value = firstNumber + "->" + secondNumber + "->" + thirdNumber;
+            }
+        </script>
+</body>
+</html>

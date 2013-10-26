@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Is number prime</title>
+</head>
+<body>
+    <label for="number">Enter number </label>
+    <input id="number" type="text" name="name" value=" " />
+    <label for="result">Is number prime: </label>
+    <input id="result" type="text" name="name" value=" " />
+    <input type="button" name="name" value="GO" onclick="IsNumberPrime()" />
+
+    <script>
+        function IsNumberPrime() {
+            var number = parseInt(document.getElementById("number").value);
+            var endOfLoop = Math.floor(Math.sqrt(number));
+            var isPrime = true;
+            for (var i = 2; i <= endOfLoop; i++) {
+                if(number % i == 0){
+                    isPrime = false;
+                    break;
+                }
+            }
+            document.getElementById("result").value = isPrime;
+        }
+    </script>
+</body>
+</html>

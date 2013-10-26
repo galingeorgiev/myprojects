@@ -1,0 +1,2475 @@
+Computing    is   any   goaloriented
+activity  requiring  benefiting from
+or  creating  computers  For example
+computing   includes  designing  and
+building   hardware   and   software
+systems  processing  structuring and
+managing     various     kinds    of
+information     doing     scientific
+research   on   and  with  computers
+making   computer   systems   behave
+intelligently   creating  and  using
+communications   and   entertainment
+media  etc  Subfields  of  computing
+include     computer     engineering
+software     engineering    computer
+science   information   systems  and
+information technology Contents hide
+Definitions   History  of  computing
+Computer   Computer   software   and
+hardware     Application    software
+Computer  network  Internet Computer
+user  Enthusiast  computing Computer
+programming    Computer   programmer
+Systems    administration   Computer
+science     Computer     engineering
+Computer  industry Software industry
+See  also  References External links
+editDefinitions  The  ACM  Computing
+Curricula  defined computing as In a
+general  way we can define computing
+to  mean  any  goaloriented activity
+requiring    benefiting    from   or
+creating  computers  Thus  computing
+includes   designing   and  building
+hardware  and software systems for a
+wide  range  of  purposes processing
+structuring   and  managing  various
+kinds     of    information    doing
+scientific  studies  using computers
+making   computer   systems   behave
+intelligently   creating  and  using
+communications   and   entertainment
+media    finding    and    gathering
+information    relevant    to    any
+particular  purpose  and  so  on The
+list  is  virtually  endless and the
+possibilities   are   vast   and  it
+defines  five  subdisciplines of the
+computing   field  Computer  Science
+Computer   Engineering   Information
+Systems  Information  Technology and
+Software     Engineering     However
+Computing  Curricula also recognizes
+that   the   meaning   of  computing
+depends  on  the  context  Computing
+also  has  other  meanings  that are
+more  specific  based on the context
+in   which  the  term  is  used  For
+example   an   information   systems
+specialist   will   view   computing
+somewhat differently from a software
+engineer  Regardless  of the context
+doing    computing   well   can   be
+complicated  and  difficult  Because
+society needs people to do computing
+well  we must think of computing not
+only  as  a profession but also as a
+discipline  The  term  computing has
+sometimes  been  narrowly defined as
+in  a  ACM  report on Computing as a
+Discipline    The    discipline   of
+computing is the systematic study of
+algorithmic  processes that describe
+and   transform   information  their
+theory  analysis  design  efficiency
+implementation  and  application The
+fundamental  question underlying all
+computing is What can be efficiently
+automated The term computing is also
+synonymous    with    counting   and
+calculating  In earlier times it was
+used   in  reference  to  mechanical
+computing  machines  editHistory  of
+computing  Main  articles History of
+computing  and Timeline of computing
+The  history  of computing is longer
+than   the   history   of  computing
+hardware    and   modern   computing
+technology  and includes the history
+of  methods  intended  for  pen  and
+paper or for chalk and slate with or
+without  the aid of tables Computing
+is    intimately    tied    to   the
+representation  of  numbers But long
+before  abstractions like the number
+arose    there   were   mathematical
+concepts  to  serve  the purposes of
+civilization  These concepts include
+onetoone correspondence the basis of
+counting  comparison  to  a standard
+used  for  measurement and the right
+triangle  a  device  for  assuring a
+right  angle The earliest known tool
+for   use  in  computation  was  the
+abacus  and  it  was thought to have
+been  invented  in  Babylon circa BC
+Its  original  style of usage was by
+lines  drawn  in  sand  with pebbles
+Abaci  of  a  more modern design are
+still   used  as  calculation  tools
+today   This  was  the  first  known
+computer and most advanced system of
+calculation  known to date preceding
+Greek  methods by years editComputer
+Main  articles  Computer  Outline of
+computers  and  Glossary of computer
+terms  A  computer is a machine that
+manipulates  data according to a set
+of  instructions  called  a computer
+program    The    program   has   an
+executable  form  that  the computer
+can  use  directly  to  execute  the
+instructions The same program in its
+humanreadable   source   code   form
+enables  a  programmer  to study and
+develop  the  algorithm  Because the
+instructions  can  be carried out in
+different   types   of  computers  a
+single  set  of  source instructions
+converts   to  machine  instructions
+according  to the central processing
+unit   type  The  execution  process
+carries  out  the  instructions in a
+computer     program    Instructions
+express  the  computations performed
+by   the   computer   They   trigger
+sequences  of  simple actions on the
+executing   machine   Those  actions
+produce  effects  according  to  the
+semantics    of   the   instructions
+editComputer  software  and hardware
+Main  articles Software and Computer
+hardware  Computer  software or just
+software is a collection of computer
+programs   and   related  data  that
+provides    the   instructions   for
+telling  a  computer  what to do and
+how  to do it Software refers to one
+or  more  computer programs and data
+held  in the storage of the computer
+for  some  purposes  In  other words
+software   is   a  set  of  programs
+procedures    algorithms   and   its
+documentation   concerned  with  the
+operation   of   a  data  processing
+system Program software performs the
+function    of    the   program   it
+implements    either   by   directly
+providing    instructions   to   the
+computer  hardware  or by serving as
+input  to  another piece of software
+The  term  was coined to contrast to
+the   old   term   hardware  meaning
+physical   devices  In  contrast  to
+hardware  software cannot be touched
+Software is also sometimes used in a
+more     narrow     sense    meaning
+application  software only Sometimes
+the  term includes data that has not
+traditionally  been  associated with
+computers  such  as  film  tapes and
+records   editApplication   software
+Main  article  Application  software
+Application  software  also known as
+an application or an app is computer
+software  designed  to help the user
+to  perform  specific tasks Examples
+include      enterprise     software
+accounting  software  office  suites
+graphics  software and media players
+Many   application   programs   deal
+principally  with documents Apps may
+be bundled with the computer and its
+system  software or may be published
+separately  Some users are satisfied
+with the bundled apps and need never
+install  one Application software is
+contrasted  with system software and
+middleware    which    manage    and
+integrate  a  computers capabilities
+but  typically do not directly apply
+them  in  the  performance  of tasks
+that  benefit  the  user  The system
+software   serves   the  application
+which   in   turn  serves  the  user
+Similar relationships apply in other
+fields  For  example a shopping mall
+does  not  provide the merchandise a
+shopper   is  seeking  but  provides
+space  and  services  for  retailers
+that  serve the shopper A bridge may
+similarly  support rail tracks which
+support  trains  allowing the trains
+to  transport passengers Application
+software  applies  the  power  of  a
+particular   computing  platform  or
+system   software  to  a  particular
+purpose  Some apps such as Microsoft
+Office are available in versions for
+several  different  platforms others
+have  narrower  requirements and are
+thus  called for example a Geography
+application   for   Windows   or  an
+Android application for education or
+Linux  gaming  Sometimes  a  new and
+popular   application  arises  which
+only runs on one platform increasing
+the  desirability  of  that platform
+This  is called a killer application
+editComputer  network  Main  article
+Computer  network A computer network
+often   simply   referred  to  as  a
+network  is a collection of hardware
+components       and       computers
+interconnected    by   communication
+channels   that   allow  sharing  of
+resources  and  information Where at
+least  one  process in one device is
+able  to  sendreceive data tofrom at
+least  one  process  residing  in  a
+remote  device  then the two devices
+are said to be in a network Networks
+may  be  classified  according  to a
+wide variety of characteristics such
+as  the medium used to transport the
+data  communications  protocol  used
+scale  topology  and  organizational
+scope    Communications    protocols
+define  the  rules  and data formats
+for   exchanging  information  in  a
+computer  network  and  provide  the
+basis    for   network   programming
+Wellknown  communications  protocols
+are  Ethernet  a  hardware  and Link
+Layer standard that is ubiquitous in
+local area networks and the Internet
+Protocol  Suite  which defines a set
+of  protocols for internetworking ie
+for   data   communication   between
+multiple   networks   as   well   as
+hosttohost    data    transfer   and
+applicationspecific             data
+transmission     formats    Computer
+networking is sometimes considered a
+subdiscipline      of     electrical
+engineering       telecommunications
+computer     science     information
+technology  or  computer engineering
+since it relies upon the theoretical
+and  practical  application of these
+disciplines     editInternet    Main
+articles  Internet  Outline  of  the
+Internet     and     Glossary     of
+Internetrelated  terms  The Internet
+is a global system of interconnected
+computer   networks   that  use  the
+standard   Internet  protocol  suite
+TCPIP  to  serve  billions  of users
+worldwide   It   is   a  network  of
+networks  that  consists of millions
+of  private public academic business
+and  government networks of local to
+global  scope  that  are linked by a
+broad  array  of electronic wireless
+and  optical networking technologies
+The  Internet  carries  an extensive
+range  of  information resources and
+services  such  as  the  interlinked
+hypertext  documents  of  the  World
+Wide  Web WWW and the infrastructure
+to  support  email editComputer user
+Main  articles  User  computing  and
+Enduser  A user is an agent either a
+human   agent  enduser  or  software
+agent who uses a computer or network
+service  A  user  often  has  a user
+account   and  is  identified  by  a
+username  also user name screen name
+also  screenname  nickname also nick
+or  handle which is derived from the
+identical  Citizens  Band radio term
+Users  are also widely characterized
+as  the  class  of people that use a
+system  without  complete  technical
+expertise required to understand the
+system    fully   In   hackerrelated
+contexts such users are also divided
+into   lusers  and  power  users  In
+projects  in  which the actor of the
+system   is   another  system  or  a
+software  agent it is quite possible
+that  there  is  no  enduser for the
+system In this case the endusers for
+the   system   would   be   indirect
+endusers   editEnthusiast  computing
+Main  article  Enthusiast  computing
+Enthusiast  computing  refers  to  a
+subculture   of   personal  computer
+users   who   focus   on   extremely
+highperformance            computers
+Manufacturers of performanceoriented
+parts     typically    include    an
+enthusiast  model in their offerings
+Enthusiast  computers often referred
+to  as  a  box build or rig by their
+owners  commonly feature extravagant
+cases and highend components and are
+sometimes   liquid  cooled  Although
+highend   computers  may  be  bought
+retail  in  the  same  manner as the
+common  computer they are frequently
+built  by  their  owners Enthusiasts
+build  their  systems  in  order  to
+produce   a   computer   that   will
+outperform   an  opponents  computer
+thereby  winning  in  a  contest  to
+simply  enjoy  the  best  images and
+effects  a  new PC game has to offer
+or  even  simply  to obtain the best
+possible performance at a variety of
+tasks  editComputer programming Main
+articles  Computer  programming  and
+Software     engineering    Computer
+programming   in   general   is  the
+process of writing testing debugging
+and  maintaining the source code and
+documentation  of  computer programs
+This  source  code  is  written in a
+programming  language  which  is  an
+artificial   language   often   more
+restrictive    or   demanding   than
+natural    languages    but   easily
+translated   by   the  computer  The
+purpose  of programming is to invoke
+the  desired behaviour customization
+from  the  machine  The  process  of
+writing  high  quality  source  code
+requires   knowledge   of  both  the
+applications domain and the computer
+science  domain  The  highestquality
+software is thus developed by a team
+of   various   domain  experts  each
+person  a specialist in some area of
+development  But the term programmer
+may  apply  to  a  range  of program
+quality  from  hacker to open source
+contributor  to  professional  And a
+single  programmer  could do most or
+all   of  the  computer  programming
+needed  to  generate  the  proof  of
+concept   to  launch  a  new  killer
+application  editComputer programmer
+Main  articles  Programmer  Software
+engineer  and  Software  developer A
+programmer  computer  programmer  or
+coder   is   a   person  who  writes
+computer  software The term computer
+programmer can refer to a specialist
+in  one area of computer programming
+or  to  a generalist who writes code
+for  many  kinds of software One who
+practices   or  professes  a  formal
+approach  to programming may also be
+known  as  a  programmer  analyst  A
+programmers     primary     computer
+language   C   C  Java  Lisp  Python
+Smalltalk  etc  is often prefixed to
+the  above titles and those who work
+in  a  web  environment often prefix
+their   titles  with  web  The  term
+programmer can be used to refer to a
+software developer software engineer
+computer   scientist   or   software
+analyst  However  members  of  these
+professions typicallycitation needed
+possess  other  software engineering
+skills  beyond  programming for this
+reason   the   term   programmer  is
+sometimes considered an insulting or
+derogatory   oversimplification   of
+these    other   professionscitation
+needed  This has sparked much debate
+amongst developers analysts computer
+scientists programmers and outsiders
+who  continue  to  be puzzled at the
+subtle     differences     in    the
+definitions   of  these  occupations
+editSystems    administration   Main
+article   System   administrator   A
+system   administrator   IT  systems
+administrator  systems administrator
+or  sysadmin is a person employed to
+maintain   and  operate  a  computer
+system andor network The duties of a
+system administrator are wideranging
+and    vary    widely    from    one
+organization  to  another  Sysadmins
+are  usually charged with installing
+supporting  and  maintaining servers
+or   other   computer   systems  and
+planning   for   and  responding  to
+service  outages  and other problems
+Other  duties  may include scripting
+or    light    programming   project
+management     for    systemsrelated
+projects   supervising  or  training
+computer  operators  and  being  the
+consultant   for  computer  problems
+beyond  the  knowledge  of technical
+support  staff To perform his or her
+job well a system administrator must
+demonstrate  a  blend  of  technical
+skills       and      responsibility
+editComputer  science  Main articles
+Computer    science   and   Computer
+scientist    Computer   science   or
+computing  science abbreviated CS or
+compsci   is   the   scientific  and
+mathematical approach in computing A
+computer  scientist  is a person who
+does   research  at  a  professional
+level  in computer science andor has
+attained   a   degree   in  computer
+science   or  a  related  field  Its
+subfields   can   be   divided  into
+practical    techniques    for   its
+implementation  and  application  in
+computer    systems    and    purely
+theoretical   areas   Some  such  as
+computational    complexity   theory
+which studies fundamental properties
+of computational problems are highly
+abstract   while   others   such  as
+computer      graphics     emphasize
+realworld  applications Still others
+focus    on    the   challenges   in
+implementing     computations    For
+example  programming language theory
+studies approaches to description of
+computations   while  the  study  of
+computer      programming     itself
+investigates  various aspects of the
+use  of  programming  languages  and
+complex  systems  and  humancomputer
+interaction     focuses    on    the
+challenges  in  making computers and
+computations   useful   usable   and
+universally   accessible  to  humans
+editComputer     engineering    Main
+article     Computer     engineering
+Computer engineering is a discipline
+that  integrates  several  fields of
+electrical  engineering and computer
+science required to develop computer
+systems  Computer  engineers usually
+have    training    in    electronic
+engineering       or      electrical
+engineering   software   design  and
+hardwaresoftware integration instead
+of   only  software  engineering  or
+electronic    engineering   Computer
+engineers   are   involved  in  many
+hardware  and  software  aspects  of
+computing   from   the   design   of
+individual  microprocessors personal
+computers   and   supercomputers  to
+circuit design editComputer industry
+Main  article  Computer industry The
+computer  industry is made up of all
+of   the   businesses   involved  in
+developing     computer     software
+designing   computer   hardware  and
+computer  networking infrastructures
+the    manufacture    of    computer
+components   and  the  provision  of
+information    technology   services
+including  system administration and
+maintenance   editSoftware  industry
+Main  article  Software industry The
+software      industry      includes
+businesses  engaged  in  development
+maintenance   and   publication   of
+software  The industry also includes
+software  services  such as training
+documentation     and     consulting
+editComputing  is  any  goaloriented
+activity  requiring  benefiting from
+or  creating  computers  For example
+computing   includes  designing  and
+building   hardware   and   software
+systems  processing  structuring and
+managing     various     kinds    of
+information     doing     scientific
+research   on   and  with  computers
+making   computer   systems   behave
+intelligently   creating  and  using
+communications   and   entertainment
+media  etc  Subfields  of  computing
+include     computer     engineering
+software     engineering    computer
+science   information   systems  and
+information technology Contents hide
+Definitions   History  of  computing
+Computer   Computer   software   and
+hardware     Application    software
+Computer  network  Internet Computer
+user  Enthusiast  computing Computer
+programming    Computer   programmer
+Systems    administration   Computer
+science     Computer     engineering
+Computer  industry Software industry
+See  also  References External links
+editDefinitions  The  ACM  Computing
+Curricula  defined computing as In a
+general  way we can define computing
+to  mean  any  goaloriented activity
+requiring    benefiting    from   or
+creating  computers  Thus  computing
+includes   designing   and  building
+hardware  and software systems for a
+wide  range  of  purposes processing
+structuring   and  managing  various
+kinds     of    information    doing
+scientific  studies  using computers
+making   computer   systems   behave
+intelligently   creating  and  using
+communications   and   entertainment
+media    finding    and    gathering
+information    relevant    to    any
+particular  purpose  and  so  on The
+list  is  virtually  endless and the
+possibilities   are   vast   and  it
+defines  five  subdisciplines of the
+computing   field  Computer  Science
+Computer   Engineering   Information
+Systems  Information  Technology and
+Software     Engineering     However
+Computing  Curricula also recognizes
+that   the   meaning   of  computing
+depends  on  the  context  Computing
+also  has  other  meanings  that are
+more  specific  based on the context
+in   which  the  term  is  used  For
+example   an   information   systems
+specialist   will   view   computing
+somewhat differently from a software
+engineer  Regardless  of the context
+doing    computing   well   can   be
+complicated  and  difficult  Because
+society needs people to do computing
+well  we must think of computing not
+only  as  a profession but also as a
+discipline  The  term  computing has
+sometimes  been  narrowly defined as
+in  a  ACM  report on Computing as a
+Discipline    The    discipline   of
+computing is the systematic study of
+algorithmic  processes that describe
+and   transform   information  their
+theory  analysis  design  efficiency
+implementation  and  application The
+fundamental  question underlying all
+computing is What can be efficiently
+automated The term computing is also
+synonymous    with    counting   and
+calculating  In earlier times it was
+used   in  reference  to  mechanical
+computing  machines  editHistory  of
+computing  Main  articles History of
+computing  and Timeline of computing
+The  history  of computing is longer
+than   the   history   of  computing
+hardware    and   modern   computing
+technology  and includes the history
+of  methods  intended  for  pen  and
+paper or for chalk and slate with or
+without  the aid of tables Computing
+is    intimately    tied    to   the
+representation  of  numbers But long
+before  abstractions like the number
+arose    there   were   mathematical
+concepts  to  serve  the purposes of
+civilization  These concepts include
+onetoone correspondence the basis of
+counting  comparison  to  a standard
+used  for  measurement and the right
+triangle  a  device  for  assuring a
+right  angle The earliest known tool
+for   use  in  computation  was  the
+abacus  and  it  was thought to have
+been  invented  in  Babylon circa BC
+Its  original  style of usage was by
+lines  drawn  in  sand  with pebbles
+Abaci  of  a  more modern design are
+still   used  as  calculation  tools
+today   This  was  the  first  known
+computer and most advanced system of
+calculation  known to date preceding
+Greek  methods by years editComputer
+Main  articles  Computer  Outline of
+computers  and  Glossary of computer
+terms  A  computer is a machine that
+manipulates  data according to a set
+of  instructions  called  a computer
+program    The    program   has   an
+executable  form  that  the computer
+can  use  directly  to  execute  the
+instructions The same program in its
+humanreadable   source   code   form
+enables  a  programmer  to study and
+develop  the  algorithm  Because the
+instructions  can  be carried out in
+different   types   of  computers  a
+single  set  of  source instructions
+converts   to  machine  instructions
+according  to the central processing
+unit   type  The  execution  process
+carries  out  the  instructions in a
+computer     program    Instructions
+express  the  computations performed
+by   the   computer   They   trigger
+sequences  of  simple actions on the
+executing   machine   Those  actions
+produce  effects  according  to  the
+semantics    of   the   instructions
+editComputer  software  and hardware
+Main  articles Software and Computer
+hardware  Computer  software or just
+software is a collection of computer
+programs   and   related  data  that
+provides    the   instructions   for
+telling  a  computer  what to do and
+how  to do it Software refers to one
+or  more  computer programs and data
+held  in the storage of the computer
+for  some  purposes  In  other words
+software   is   a  set  of  programs
+procedures    algorithms   and   its
+documentation   concerned  with  the
+operation   of   a  data  processing
+system Program software performs the
+function    of    the   program   it
+implements    either   by   directly
+providing    instructions   to   the
+computer  hardware  or by serving as
+input  to  another piece of software
+The  term  was coined to contrast to
+the   old   term   hardware  meaning
+physical   devices  In  contrast  to
+hardware  software cannot be touched
+Software is also sometimes used in a
+more     narrow     sense    meaning
+application  software only Sometimes
+the  term includes data that has not
+traditionally  been  associated with
+computers  such  as  film  tapes and
+records   editApplication   software
+Main  article  Application  software
+Application  software  also known as
+an application or an app is computer
+software  designed  to help the user
+to  perform  specific tasks Examples
+include      enterprise     software
+accounting  software  office  suites
+graphics  software and media players
+Many   application   programs   deal
+principally  with documents Apps may
+be bundled with the computer and its
+system  software or may be published
+separately  Some users are satisfied
+with the bundled apps and need never
+install  one Application software is
+contrasted  with system software and
+middleware    which    manage    and
+integrate  a  computers capabilities
+but  typically do not directly apply
+them  in  the  performance  of tasks
+that  benefit  the  user  The system
+software   serves   the  application
+which   in   turn  serves  the  user
+Similar relationships apply in other
+fields  For  example a shopping mall
+does  not  provide the merchandise a
+shopper   is  seeking  but  provides
+space  and  services  for  retailers
+that  serve the shopper A bridge may
+similarly  support rail tracks which
+support  trains  allowing the trains
+to  transport passengers Application
+software  applies  the  power  of  a
+particular   computing  platform  or
+system   software  to  a  particular
+purpose  Some apps such as Microsoft
+Office are available in versions for
+several  different  platforms others
+have  narrower  requirements and are
+thus  called for example a Geography
+application   for   Windows   or  an
+Android application for education or
+Linux  gaming  Sometimes  a  new and
+popular   application  arises  which
+only runs on one platform increasing
+the  desirability  of  that platform
+This  is called a killer application
+editComputer  network  Main  article
+Computer  network A computer network
+often   simply   referred  to  as  a
+network  is a collection of hardware
+components       and       computers
+interconnected    by   communication
+channels   that   allow  sharing  of
+resources  and  information Where at
+least  one  process in one device is
+able  to  sendreceive data tofrom at
+least  one  process  residing  in  a
+remote  device  then the two devices
+are said to be in a network Networks
+may  be  classified  according  to a
+wide variety of characteristics such
+as  the medium used to transport the
+data  communications  protocol  used
+scale  topology  and  organizational
+scope    Communications    protocols
+define  the  rules  and data formats
+for   exchanging  information  in  a
+computer  network  and  provide  the
+basis    for   network   programming
+Wellknown  communications  protocols
+are  Ethernet  a  hardware  and Link
+Layer standard that is ubiquitous in
+local area networks and the Internet
+Protocol  Suite  which defines a set
+of  protocols for internetworking ie
+for   data   communication   between
+multiple   networks   as   well   as
+hosttohost    data    transfer   and
+applicationspecific             data
+transmission     formats    Computer
+networking is sometimes considered a
+subdiscipline      of     electrical
+engineering       telecommunications
+computer     science     information
+technology  or  computer engineering
+since it relies upon the theoretical
+and  practical  application of these
+disciplines     editInternet    Main
+articles  Internet  Outline  of  the
+Internet     and     Glossary     of
+Internetrelated  terms  The Internet
+is a global system of interconnected
+computer   networks   that  use  the
+standard   Internet  protocol  suite
+TCPIP  to  serve  billions  of users
+worldwide   It   is   a  network  of
+networks  that  consists of millions
+of  private public academic business
+and  government networks of local to
+global  scope  that  are linked by a
+broad  array  of electronic wireless
+and  optical networking technologies
+The  Internet  carries  an extensive
+range  of  information resources and
+services  such  as  the  interlinked
+hypertext  documents  of  the  World
+Wide  Web WWW and the infrastructure
+to  support  email editComputer user
+Main  articles  User  computing  and
+Enduser  A user is an agent either a
+human   agent  enduser  or  software
+agent who uses a computer or network
+service  A  user  often  has  a user
+account   and  is  identified  by  a
+username  also user name screen name
+also  screenname  nickname also nick
+or  handle which is derived from the
+identical  Citizens  Band radio term
+Users  are also widely characterized
+as  the  class  of people that use a
+system  without  complete  technical
+expertise required to understand the
+system    fully   In   hackerrelated
+contexts such users are also divided
+into   lusers  and  power  users  In
+projects  in  which the actor of the
+system   is   another  system  or  a
+software  agent it is quite possible
+that  there  is  no  enduser for the
+system In this case the endusers for
+the   system   would   be   indirect
+endusers   editEnthusiast  computing
+Main  article  Enthusiast  computing
+Enthusiast  computing  refers  to  a
+subculture   of   personal  computer
+users   who   focus   on   extremely
+highperformance            computers
+Manufacturers of performanceoriented
+parts     typically    include    an
+enthusiast  model in their offerings
+Enthusiast  computers often referred
+to  as  a  box build or rig by their
+owners  commonly feature extravagant
+cases and highend components and are
+sometimes   liquid  cooled  Although
+highend   computers  may  be  bought
+retail  in  the  same  manner as the
+common  computer they are frequently
+built  by  their  owners Enthusiasts
+build  their  systems  in  order  to
+produce   a   computer   that   will
+outperform   an  opponents  computer
+thereby  winning  in  a  contest  to
+simply  enjoy  the  best  images and
+effects  a  new PC game has to offer
+or  even  simply  to obtain the best
+possible performance at a variety of
+tasks  editComputer programming Main
+articles  Computer  programming  and
+Software     engineering    Computer
+programming   in   general   is  the
+process of writing testing debugging
+and  maintaining the source code and
+documentation  of  computer programs
+This  source  code  is  written in a
+programming  language  which  is  an
+artificial   language   often   more
+restrictive    or   demanding   than
+natural    languages    but   easily
+translated   by   the  computer  The
+purpose  of programming is to invoke
+the  desired behaviour customization
+from  the  machine  The  process  of
+writing  high  quality  source  code
+requires   knowledge   of  both  the
+applications domain and the computer
+science  domain  The  highestquality
+software is thus developed by a team
+of   various   domain  experts  each
+person  a specialist in some area of
+development  But the term programmer
+may  apply  to  a  range  of program
+quality  from  hacker to open source
+contributor  to  professional  And a
+single  programmer  could do most or
+all   of  the  computer  programming
+needed  to  generate  the  proof  of
+concept   to  launch  a  new  killer
+application  editComputer programmer
+Main  articles  Programmer  Software
+engineer  and  Software  developer A
+programmer  computer  programmer  or
+coder   is   a   person  who  writes
+computer  software The term computer
+programmer can refer to a specialist
+in  one area of computer programming
+or  to  a generalist who writes code
+for  many  kinds of software One who
+practices   or  professes  a  formal
+approach  to programming may also be
+known  as  a  programmer  analyst  A
+programmers     primary     computer
+language   C   C  Java  Lisp  Python
+Smalltalk  etc  is often prefixed to
+the  above titles and those who work
+in  a  web  environment often prefix
+their   titles  with  web  The  term
+programmer can be used to refer to a
+software developer software engineer
+computer   scientist   or   software
+analyst  However  members  of  these
+professions typicallycitation needed
+possess  other  software engineering
+skills  beyond  programming for this
+reason   the   term   programmer  is
+sometimes considered an insulting or
+derogatory   oversimplification   of
+these    other   professionscitation
+needed  This has sparked much debate
+amongst developers analysts computer
+scientists programmers and outsiders
+who  continue  to  be puzzled at the
+subtle     differences     in    the
+definitions   of  these  occupations
+editSystems    administration   Main
+article   System   administrator   A
+system   administrator   IT  systems
+administrator  systems administrator
+or  sysadmin is a person employed to
+maintain   and  operate  a  computer
+system andor network The duties of a
+system administrator are wideranging
+and    vary    widely    from    one
+organization  to  another  Sysadmins
+are  usually charged with installing
+supporting  and  maintaining servers
+or   other   computer   systems  and
+planning   for   and  responding  to
+service  outages  and other problems
+Other  duties  may include scripting
+or    light    programming   project
+management     for    systemsrelated
+projects   supervising  or  training
+computer  operators  and  being  the
+consultant   for  computer  problems
+beyond  the  knowledge  of technical
+support  staff To perform his or her
+job well a system administrator must
+demonstrate  a  blend  of  technical
+skills       and      responsibility
+editComputer  science  Main articles
+Computer    science   and   Computer
+scientist    Computer   science   or
+computing  science abbreviated CS or
+compsci   is   the   scientific  and
+mathematical approach in computing A
+computer  scientist  is a person who
+does   research  at  a  professional
+level  in computer science andor has
+attained   a   degree   in  computer
+science   or  a  related  field  Its
+subfields   can   be   divided  into
+practical    techniques    for   its
+implementation  and  application  in
+computer    systems    and    purely
+theoretical   areas   Some  such  as
+computational    complexity   theory
+which studies fundamental properties
+of computational problems are highly
+abstract   while   others   such  as
+computer      graphics     emphasize
+realworld  applications Still others
+focus    on    the   challenges   in
+implementing     computations    For
+example  programming language theory
+studies approaches to description of
+computations   while  the  study  of
+computer      programming     itself
+investigates  various aspects of the
+use  of  programming  languages  and
+complex  systems  and  humancomputer
+interaction     focuses    on    the
+challenges  in  making computers and
+computations   useful   usable   and
+universally   accessible  to  humans
+editComputer     engineering    Main
+article     Computer     engineering
+Computer engineering is a discipline
+that  integrates  several  fields of
+electrical  engineering and computer
+science required to develop computer
+systems  Computer  engineers usually
+have    training    in    electronic
+engineering       or      electrical
+engineering   software   design  and
+hardwaresoftware integration instead
+of   only  software  engineering  or
+electronic    engineering   Computer
+engineers   are   involved  in  many
+hardware  and  software  aspects  of
+computing   from   the   design   of
+individual  microprocessors personal
+computers   and   supercomputers  to
+circuit design editComputer industry
+Main  article  Computer industry The
+computer  industry is made up of all
+of   the   businesses   involved  in
+developing     computer     software
+designing   computer   hardware  and
+computer  networking infrastructures
+the    manufacture    of    computer
+components   and  the  provision  of
+information    technology   services
+including  system administration and
+maintenance   editSoftware  industry
+Main  article  Software industry The
+software      industry      includes
+businesses  engaged  in  development
+maintenance   and   publication   of
+software  The industry also includes
+software  services  such as training
+documentation     and     consulting
+editComputing  is  any  goaloriented
+activity  requiring  benefiting from
+or  creating  computers  For example
+computing   includes  designing  and
+building   hardware   and   software
+systems  processing  structuring and
+managing     various     kinds    of
+information     doing     scientific
+research   on   and  with  computers
+making   computer   systems   behave
+intelligently   creating  and  using
+communications   and   entertainment
+media  etc  Subfields  of  computing
+include     computer     engineering
+software     engineering    computer
+science   information   systems  and
+information technology Contents hide
+Definitions   History  of  computing
+Computer   Computer   software   and
+hardware     Application    software
+Computer  network  Internet Computer
+user  Enthusiast  computing Computer
+programming    Computer   programmer
+Systems    administration   Computer
+science     Computer     engineering
+Computer  industry Software industry
+See  also  References External links
+editDefinitions  The  ACM  Computing
+Curricula  defined computing as In a
+general  way we can define computing
+to  mean  any  goaloriented activity
+requiring    benefiting    from   or
+creating  computers  Thus  computing
+includes   designing   and  building
+hardware  and software systems for a
+wide  range  of  purposes processing
+structuring   and  managing  various
+kinds     of    information    doing
+scientific  studies  using computers
+making   computer   systems   behave
+intelligently   creating  and  using
+communications   and   entertainment
+media    finding    and    gathering
+information    relevant    to    any
+particular  purpose  and  so  on The
+list  is  virtually  endless and the
+possibilities   are   vast   and  it
+defines  five  subdisciplines of the
+computing   field  Computer  Science
+Computer   Engineering   Information
+Systems  Information  Technology and
+Software     Engineering     However
+Computing  Curricula also recognizes
+that   the   meaning   of  computing
+depends  on  the  context  Computing
+also  has  other  meanings  that are
+more  specific  based on the context
+in   which  the  term  is  used  For
+example   an   information   systems
+specialist   will   view   computing
+somewhat differently from a software
+engineer  Regardless  of the context
+doing    computing   well   can   be
+complicated  and  difficult  Because
+society needs people to do computing
+well  we must think of computing not
+only  as  a profession but also as a
+discipline  The  term  computing has
+sometimes  been  narrowly defined as
+in  a  ACM  report on Computing as a
+Discipline    The    discipline   of
+computing is the systematic study of
+algorithmic  processes that describe
+and   transform   information  their
+theory  analysis  design  efficiency
+implementation  and  application The
+fundamental  question underlying all
+computing is What can be efficiently
+automated The term computing is also
+synonymous    with    counting   and
+calculating  In earlier times it was
+used   in  reference  to  mechanical
+computing  machines  editHistory  of
+computing  Main  articles History of
+computing  and Timeline of computing
+The  history  of computing is longer
+than   the   history   of  computing
+hardware    and   modern   computing
+technology  and includes the history
+of  methods  intended  for  pen  and
+paper or for chalk and slate with or
+without  the aid of tables Computing
+is    intimately    tied    to   the
+representation  of  numbers But long
+before  abstractions like the number
+arose    there   were   mathematical
+concepts  to  serve  the purposes of
+civilization  These concepts include
+onetoone correspondence the basis of
+counting  comparison  to  a standard
+used  for  measurement and the right
+triangle  a  device  for  assuring a
+right  angle The earliest known tool
+for   use  in  computation  was  the
+abacus  and  it  was thought to have
+been  invented  in  Babylon circa BC
+Its  original  style of usage was by
+lines  drawn  in  sand  with pebbles
+Abaci  of  a  more modern design are
+still   used  as  calculation  tools
+today   This  was  the  first  known
+computer and most advanced system of
+calculation  known to date preceding
+Greek  methods by years editComputer
+Main  articles  Computer  Outline of
+computers  and  Glossary of computer
+terms  A  computer is a machine that
+manipulates  data according to a set
+of  instructions  called  a computer
+program    The    program   has   an
+executable  form  that  the computer
+can  use  directly  to  execute  the
+instructions The same program in its
+humanreadable   source   code   form
+enables  a  programmer  to study and
+develop  the  algorithm  Because the
+instructions  can  be carried out in
+different   types   of  computers  a
+single  set  of  source instructions
+converts   to  machine  instructions
+according  to the central processing
+unit   type  The  execution  process
+carries  out  the  instructions in a
+computer     program    Instructions
+express  the  computations performed
+by   the   computer   They   trigger
+sequences  of  simple actions on the
+executing   machine   Those  actions
+produce  effects  according  to  the
+semantics    of   the   instructions
+editComputer  software  and hardware
+Main  articles Software and Computer
+hardware  Computer  software or just
+software is a collection of computer
+programs   and   related  data  that
+provides    the   instructions   for
+telling  a  computer  what to do and
+how  to do it Software refers to one
+or  more  computer programs and data
+held  in the storage of the computer
+for  some  purposes  In  other words
+software   is   a  set  of  programs
+procedures    algorithms   and   its
+documentation   concerned  with  the
+operation   of   a  data  processing
+system Program software performs the
+function    of    the   program   it
+implements    either   by   directly
+providing    instructions   to   the
+computer  hardware  or by serving as
+input  to  another piece of software
+The  term  was coined to contrast to
+the   old   term   hardware  meaning
+physical   devices  In  contrast  to
+hardware  software cannot be touched
+Software is also sometimes used in a
+more     narrow     sense    meaning
+application  software only Sometimes
+the  term includes data that has not
+traditionally  been  associated with
+computers  such  as  film  tapes and
+records   editApplication   software
+Main  article  Application  software
+Application  software  also known as
+an application or an app is computer
+software  designed  to help the user
+to  perform  specific tasks Examples
+include      enterprise     software
+accounting  software  office  suites
+graphics  software and media players
+Many   application   programs   deal
+principally  with documents Apps may
+be bundled with the computer and its
+system  software or may be published
+separately  Some users are satisfied
+with the bundled apps and need never
+install  one Application software is
+contrasted  with system software and
+middleware    which    manage    and
+integrate  a  computers capabilities
+but  typically do not directly apply
+them  in  the  performance  of tasks
+that  benefit  the  user  The system
+software   serves   the  application
+which   in   turn  serves  the  user
+Similar relationships apply in other
+fields  For  example a shopping mall
+does  not  provide the merchandise a
+shopper   is  seeking  but  provides
+space  and  services  for  retailers
+that  serve the shopper A bridge may
+similarly  support rail tracks which
+support  trains  allowing the trains
+to  transport passengers Application
+software  applies  the  power  of  a
+particular   computing  platform  or
+system   software  to  a  particular
+purpose  Some apps such as Microsoft
+Office are available in versions for
+several  different  platforms others
+have  narrower  requirements and are
+thus  called for example a Geography
+application   for   Windows   or  an
+Android application for education or
+Linux  gaming  Sometimes  a  new and
+popular   application  arises  which
+only runs on one platform increasing
+the  desirability  of  that platform
+This  is called a killer application
+editComputer  network  Main  article
+Computer  network A computer network
+often   simply   referred  to  as  a
+network  is a collection of hardware
+components       and       computers
+interconnected    by   communication
+channels   that   allow  sharing  of
+resources  and  information Where at
+least  one  process in one device is
+able  to  sendreceive data tofrom at
+least  one  process  residing  in  a
+remote  device  then the two devices
+are said to be in a network Networks
+may  be  classified  according  to a
+wide variety of characteristics such
+as  the medium used to transport the
+data  communications  protocol  used
+scale  topology  and  organizational
+scope    Communications    protocols
+define  the  rules  and data formats
+for   exchanging  information  in  a
+computer  network  and  provide  the
+basis    for   network   programming
+Wellknown  communications  protocols
+are  Ethernet  a  hardware  and Link
+Layer standard that is ubiquitous in
+local area networks and the Internet
+Protocol  Suite  which defines a set
+of  protocols for internetworking ie
+for   data   communication   between
+multiple   networks   as   well   as
+hosttohost    data    transfer   and
+applicationspecific             data
+transmission     formats    Computer
+networking is sometimes considered a
+subdiscipline      of     electrical
+engineering       telecommunications
+computer     science     information
+technology  or  computer engineering
+since it relies upon the theoretical
+and  practical  application of these
+disciplines     editInternet    Main
+articles  Internet  Outline  of  the
+Internet     and     Glossary     of
+Internetrelated  terms  The Internet
+is a global system of interconnected
+computer   networks   that  use  the
+standard   Internet  protocol  suite
+TCPIP  to  serve  billions  of users
+worldwide   It   is   a  network  of
+networks  that  consists of millions
+of  private public academic business
+and  government networks of local to
+global  scope  that  are linked by a
+broad  array  of electronic wireless
+and  optical networking technologies
+The  Internet  carries  an extensive
+range  of  information resources and
+services  such  as  the  interlinked
+hypertext  documents  of  the  World
+Wide  Web WWW and the infrastructure
+to  support  email editComputer user
+Main  articles  User  computing  and
+Enduser  A user is an agent either a
+human   agent  enduser  or  software
+agent who uses a computer or network
+service  A  user  often  has  a user
+account   and  is  identified  by  a
+username  also user name screen name
+also  screenname  nickname also nick
+or  handle which is derived from the
+identical  Citizens  Band radio term
+Users  are also widely characterized
+as  the  class  of people that use a
+system  without  complete  technical
+expertise required to understand the
+system    fully   In   hackerrelated
+contexts such users are also divided
+into   lusers  and  power  users  In
+projects  in  which the actor of the
+system   is   another  system  or  a
+software  agent it is quite possible
+that  there  is  no  enduser for the
+system In this case the endusers for
+the   system   would   be   indirect
+endusers   editEnthusiast  computing
+Main  article  Enthusiast  computing
+Enthusiast  computing  refers  to  a
+subculture   of   personal  computer
+users   who   focus   on   extremely
+highperformance            computers
+Manufacturers of performanceoriented
+parts     typically    include    an
+enthusiast  model in their offerings
+Enthusiast  computers often referred
+to  as  a  box build or rig by their
+owners  commonly feature extravagant
+cases and highend components and are
+sometimes   liquid  cooled  Although
+highend   computers  may  be  bought
+retail  in  the  same  manner as the
+common  computer they are frequently
+built  by  their  owners Enthusiasts
+build  their  systems  in  order  to
+produce   a   computer   that   will
+outperform   an  opponents  computer
+thereby  winning  in  a  contest  to
+simply  enjoy  the  best  images and
+effects  a  new PC game has to offer
+or  even  simply  to obtain the best
+possible performance at a variety of
+tasks  editComputer programming Main
+articles  Computer  programming  and
+Software     engineering    Computer
+programming   in   general   is  the
+process of writing testing debugging
+and  maintaining the source code and
+documentation  of  computer programs
+This  source  code  is  written in a
+programming  language  which  is  an
+artificial   language   often   more
+restrictive    or   demanding   than
+natural    languages    but   easily
+translated   by   the  computer  The
+purpose  of programming is to invoke
+the  desired behaviour customization
+from  the  machine  The  process  of
+writing  high  quality  source  code
+requires   knowledge   of  both  the
+applications domain and the computer
+science  domain  The  highestquality
+software is thus developed by a team
+of   various   domain  experts  each
+person  a specialist in some area of
+development  But the term programmer
+may  apply  to  a  range  of program
+quality  from  hacker to open source
+contributor  to  professional  And a
+single  programmer  could do most or
+all   of  the  computer  programming
+needed  to  generate  the  proof  of
+concept   to  launch  a  new  killer
+application  editComputer programmer
+Main  articles  Programmer  Software
+engineer  and  Software  developer A
+programmer  computer  programmer  or
+coder   is   a   person  who  writes
+computer  software The term computer
+programmer can refer to a specialist
+in  one area of computer programming
+or  to  a generalist who writes code
+for  many  kinds of software One who
+practices   or  professes  a  formal
+approach  to programming may also be
+known  as  a  programmer  analyst  A
+programmers     primary     computer
+language   C   C  Java  Lisp  Python
+Smalltalk  etc  is often prefixed to
+the  above titles and those who work
+in  a  web  environment often prefix
+their   titles  with  web  The  term
+programmer can be used to refer to a
+software developer software engineer
+computer   scientist   or   software
+analyst  However  members  of  these
+professions typicallycitation needed
+possess  other  software engineering
+skills  beyond  programming for this
+reason   the   term   programmer  is
+sometimes considered an insulting or
+derogatory   oversimplification   of
+these    other   professionscitation
+needed  This has sparked much debate
+amongst developers analysts computer
+scientists programmers and outsiders
+who  continue  to  be puzzled at the
+subtle     differences     in    the
+definitions   of  these  occupations
+editSystems    administration   Main
+article   System   administrator   A
+system   administrator   IT  systems
+administrator  systems administrator
+or  sysadmin is a person employed to
+maintain   and  operate  a  computer
+system andor network The duties of a
+system administrator are wideranging
+and    vary    widely    from    one
+organization  to  another  Sysadmins
+are  usually charged with installing
+supporting  and  maintaining servers
+or   other   computer   systems  and
+planning   for   and  responding  to
+service  outages  and other problems
+Other  duties  may include scripting
+or    light    programming   project
+management     for    systemsrelated
+projects   supervising  or  training
+computer  operators  and  being  the
+consultant   for  computer  problems
+beyond  the  knowledge  of technical
+support  staff To perform his or her
+job well a system administrator must
+demonstrate  a  blend  of  technical
+skills       and      responsibility
+editComputer  science  Main articles
+Computer    science   and   Computer
+scientist    Computer   science   or
+computing  science abbreviated CS or
+compsci   is   the   scientific  and
+mathematical approach in computing A
+computer  scientist  is a person who
+does   research  at  a  professional
+level  in computer science andor has
+attained   a   degree   in  computer
+science   or  a  related  field  Its
+subfields   can   be   divided  into
+practical    techniques    for   its
+implementation  and  application  in
+computer    systems    and    purely
+theoretical   areas   Some  such  as
+computational    complexity   theory
+which studies fundamental properties
+of computational problems are highly
+abstract   while   others   such  as
+computer      graphics     emphasize
+realworld  applications Still others
+focus    on    the   challenges   in
+implementing     computations    For
+example  programming language theory
+studies approaches to description of
+computations   while  the  study  of
+computer      programming     itself
+investigates  various aspects of the
+use  of  programming  languages  and
+complex  systems  and  humancomputer
+interaction     focuses    on    the
+challenges  in  making computers and
+computations   useful   usable   and
+universally   accessible  to  humans
+editComputer     engineering    Main
+article     Computer     engineering
+Computer engineering is a discipline
+that  integrates  several  fields of
+electrical  engineering and computer
+science required to develop computer
+systems  Computer  engineers usually
+have    training    in    electronic
+engineering       or      electrical
+engineering   software   design  and
+hardwaresoftware integration instead
+of   only  software  engineering  or
+electronic    engineering   Computer
+engineers   are   involved  in  many
+hardware  and  software  aspects  of
+computing   from   the   design   of
+individual  microprocessors personal
+computers   and   supercomputers  to
+circuit design editComputer industry
+Main  article  Computer industry The
+computer  industry is made up of all
+of   the   businesses   involved  in
+developing     computer     software
+designing   computer   hardware  and
+computer  networking infrastructures
+the    manufacture    of    computer
+components   and  the  provision  of
+information    technology   services
+including  system administration and
+maintenance   editSoftware  industry
+Main  article  Software industry The
+software      industry      includes
+businesses  engaged  in  development
+maintenance   and   publication   of
+software  The industry also includes
+software  services  such as training
+documentation     and     consulting
+editComputing  is  any  goaloriented
+activity  requiring  benefiting from
+or  creating  computers  For example
+computing   includes  designing  and
+building   hardware   and   software
+systems  processing  structuring and
+managing     various     kinds    of
+information     doing     scientific
+research   on   and  with  computers
+making   computer   systems   behave
+intelligently   creating  and  using
+communications   and   entertainment
+media  etc  Subfields  of  computing
+include     computer     engineering
+software     engineering    computer
+science   information   systems  and
+information technology Contents hide
+Definitions   History  of  computing
+Computer   Computer   software   and
+hardware     Application    software
+Computer  network  Internet Computer
+user  Enthusiast  computing Computer
+programming    Computer   programmer
+Systems    administration   Computer
+science     Computer     engineering
+Computer  industry Software industry
+See  also  References External links
+editDefinitions  The  ACM  Computing
+Curricula  defined computing as In a
+general  way we can define computing
+to  mean  any  goaloriented activity
+requiring    benefiting    from   or
+creating  computers  Thus  computing
+includes   designing   and  building
+hardware  and software systems for a
+wide  range  of  purposes processing
+structuring   and  managing  various
+kinds     of    information    doing
+scientific  studies  using computers
+making   computer   systems   behave
+intelligently   creating  and  using
+communications   and   entertainment
+media    finding    and    gathering
+information    relevant    to    any
+particular  purpose  and  so  on The
+list  is  virtually  endless and the
+possibilities   are   vast   and  it
+defines  five  subdisciplines of the
+computing   field  Computer  Science
+Computer   Engineering   Information
+Systems  Information  Technology and
+Software     Engineering     However
+Computing  Curricula also recognizes
+that   the   meaning   of  computing
+depends  on  the  context  Computing
+also  has  other  meanings  that are
+more  specific  based on the context
+in   which  the  term  is  used  For
+example   an   information   systems
+specialist   will   view   computing
+somewhat differently from a software
+engineer  Regardless  of the context
+doing    computing   well   can   be
+complicated  and  difficult  Because
+society needs people to do computing
+well  we must think of computing not
+only  as  a profession but also as a
+discipline  The  term  computing has
+sometimes  been  narrowly defined as
+in  a  ACM  report on Computing as a
+Discipline    The    discipline   of
+computing is the systematic study of
+algorithmic  processes that describe
+and   transform   information  their
+theory  analysis  design  efficiency
+implementation  and  application The
+fundamental  question underlying all
+computing is What can be efficiently
+automated The term computing is also
+synonymous    with    counting   and
+calculating  In earlier times it was
+used   in  reference  to  mechanical
+computing  machines  editHistory  of
+computing  Main  articles History of
+computing  and Timeline of computing
+The  history  of computing is longer
+than   the   history   of  computing
+hardware    and   modern   computing
+technology  and includes the history
+of  methods  intended  for  pen  and
+paper or for chalk and slate with or
+without  the aid of tables Computing
+is    intimately    tied    to   the
+representation  of  numbers But long
+before  abstractions like the number
+arose    there   were   mathematical
+concepts  to  serve  the purposes of
+civilization  These concepts include
+onetoone correspondence the basis of
+counting  comparison  to  a standard
+used  for  measurement and the right
+triangle  a  device  for  assuring a
+right  angle The earliest known tool
+for   use  in  computation  was  the
+abacus  and  it  was thought to have
+been  invented  in  Babylon circa BC
+Its  original  style of usage was by
+lines  drawn  in  sand  with pebbles
+Abaci  of  a  more modern design are
+still   used  as  calculation  tools
+today   This  was  the  first  known
+computer and most advanced system of
+calculation  known to date preceding
+Greek  methods by years editComputer
+Main  articles  Computer  Outline of
+computers  and  Glossary of computer
+terms  A  computer is a machine that
+manipulates  data according to a set
+of  instructions  called  a computer
+program    The    program   has   an
+executable  form  that  the computer
+can  use  directly  to  execute  the
+instructions The same program in its
+humanreadable   source   code   form
+enables  a  programmer  to study and
+develop  the  algorithm  Because the
+instructions  can  be carried out in
+different   types   of  computers  a
+single  set  of  source instructions
+converts   to  machine  instructions
+according  to the central processing
+unit   type  The  execution  process
+carries  out  the  instructions in a
+computer     program    Instructions
+express  the  computations performed
+by   the   computer   They   trigger
+sequences  of  simple actions on the
+executing   machine   Those  actions
+produce  effects  according  to  the
+semantics    of   the   instructions
+editComputer  software  and hardware
+Main  articles Software and Computer
+hardware  Computer  software or just
+software is a collection of computer
+programs   and   related  data  that
+provides    the   instructions   for
+telling  a  computer  what to do and
+how  to do it Software refers to one
+or  more  computer programs and data
+held  in the storage of the computer
+for  some  purposes  In  other words
+software   is   a  set  of  programs
+procedures    algorithms   and   its
+documentation   concerned  with  the
+operation   of   a  data  processing
+system Program software performs the
+function    of    the   program   it
+implements    either   by   directly
+providing    instructions   to   the
+computer  hardware  or by serving as
+input  to  another piece of software
+The  term  was coined to contrast to
+the   old   term   hardware  meaning
+physical   devices  In  contrast  to
+hardware  software cannot be touched
+Software is also sometimes used in a
+more     narrow     sense    meaning
+application  software only Sometimes
+the  term includes data that has not
+traditionally  been  associated with
+computers  such  as  film  tapes and
+records   editApplication   software
+Main  article  Application  software
+Application  software  also known as
+an application or an app is computer
+software  designed  to help the user
+to  perform  specific tasks Examples
+include      enterprise     software
+accounting  software  office  suites
+graphics  software and media players
+Many   application   programs   deal
+principally  with documents Apps may
+be bundled with the computer and its
+system  software or may be published
+separately  Some users are satisfied
+with the bundled apps and need never
+install  one Application software is
+contrasted  with system software and
+middleware    which    manage    and
+integrate  a  computers capabilities
+but  typically do not directly apply
+them  in  the  performance  of tasks
+that  benefit  the  user  The system
+software   serves   the  application
+which   in   turn  serves  the  user
+Similar relationships apply in other
+fields  For  example a shopping mall
+does  not  provide the merchandise a
+shopper   is  seeking  but  provides
+space  and  services  for  retailers
+that  serve the shopper A bridge may
+similarly  support rail tracks which
+support  trains  allowing the trains
+to  transport passengers Application
+software  applies  the  power  of  a
+particular   computing  platform  or
+system   software  to  a  particular
+purpose  Some apps such as Microsoft
+Office are available in versions for
+several  different  platforms others
+have  narrower  requirements and are
+thus  called for example a Geography
+application   for   Windows   or  an
+Android application for education or
+Linux  gaming  Sometimes  a  new and
+popular   application  arises  which
+only runs on one platform increasing
+the  desirability  of  that platform
+This  is called a killer application
+editComputer  network  Main  article
+Computer  network A computer network
+often   simply   referred  to  as  a
+network  is a collection of hardware
+components       and       computers
+interconnected    by   communication
+channels   that   allow  sharing  of
+resources  and  information Where at
+least  one  process in one device is
+able  to  sendreceive data tofrom at
+least  one  process  residing  in  a
+remote  device  then the two devices
+are said to be in a network Networks
+may  be  classified  according  to a
+wide variety of characteristics such
+as  the medium used to transport the
+data  communications  protocol  used
+scale  topology  and  organizational
+scope    Communications    protocols
+define  the  rules  and data formats
+for   exchanging  information  in  a
+computer  network  and  provide  the
+basis    for   network   programming
+Wellknown  communications  protocols
+are  Ethernet  a  hardware  and Link
+Layer standard that is ubiquitous in
+local area networks and the Internet
+Protocol  Suite  which defines a set
+of  protocols for internetworking ie
+for   data   communication   between
+multiple   networks   as   well   as
+hosttohost    data    transfer   and
+applicationspecific             data
+transmission     formats    Computer
+networking is sometimes considered a
+subdiscipline      of     electrical
+engineering       telecommunications
+computer     science     information
+technology  or  computer engineering
+since it relies upon the theoretical
+and  practical  application of these
+disciplines     editInternet    Main
+articles  Internet  Outline  of  the
+Internet     and     Glossary     of
+Internetrelated  terms  The Internet
+is a global system of interconnected
+computer   networks   that  use  the
+standard   Internet  protocol  suite
+TCPIP  to  serve  billions  of users
+worldwide   It   is   a  network  of
+networks  that  consists of millions
+of  private public academic business
+and  government networks of local to
+global  scope  that  are linked by a
+broad  array  of electronic wireless
+and  optical networking technologies
+The  Internet  carries  an extensive
+range  of  information resources and
+services  such  as  the  interlinked
+hypertext  documents  of  the  World
+Wide  Web WWW and the infrastructure
+to  support  email editComputer user
+Main  articles  User  computing  and
+Enduser  A user is an agent either a
+human   agent  enduser  or  software
+agent who uses a computer or network
+service  A  user  often  has  a user
+account   and  is  identified  by  a
+username  also user name screen name
+also  screenname  nickname also nick
+or  handle which is derived from the
+identical  Citizens  Band radio term
+Users  are also widely characterized
+as  the  class  of people that use a
+system  without  complete  technical
+expertise required to understand the
+system    fully   In   hackerrelated
+contexts such users are also divided
+into   lusers  and  power  users  In
+projects  in  which the actor of the
+system   is   another  system  or  a
+software  agent it is quite possible
+that  there  is  no  enduser for the
+system In this case the endusers for
+the   system   would   be   indirect
+endusers   editEnthusiast  computing
+Main  article  Enthusiast  computing
+Enthusiast  computing  refers  to  a
+subculture   of   personal  computer
+users   who   focus   on   extremely
+highperformance            computers
+Manufacturers of performanceoriented
+parts     typically    include    an
+enthusiast  model in their offerings
+Enthusiast  computers often referred
+to  as  a  box build or rig by their
+owners  commonly feature extravagant
+cases and highend components and are
+sometimes   liquid  cooled  Although
+highend   computers  may  be  bought
+retail  in  the  same  manner as the
+common  computer they are frequently
+built  by  their  owners Enthusiasts
+build  their  systems  in  order  to
+produce   a   computer   that   will
+outperform   an  opponents  computer
+thereby  winning  in  a  contest  to
+simply  enjoy  the  best  images and
+effects  a  new PC game has to offer
+or  even  simply  to obtain the best
+possible performance at a variety of
+tasks  editComputer programming Main
+articles  Computer  programming  and
+Software     engineering    Computer
+programming   in   general   is  the
+process of writing testing debugging
+and  maintaining the source code and
+documentation  of  computer programs
+This  source  code  is  written in a
+programming  language  which  is  an
+artificial   language   often   more
+restrictive    or   demanding   than
+natural    languages    but   easily
+translated   by   the  computer  The
+purpose  of programming is to invoke
+the  desired behaviour customization
+from  the  machine  The  process  of
+writing  high  quality  source  code
+requires   knowledge   of  both  the
+applications domain and the computer
+science  domain  The  highestquality
+software is thus developed by a team
+of   various   domain  experts  each
+person  a specialist in some area of
+development  But the term programmer
+may  apply  to  a  range  of program
+quality  from  hacker to open source
+contributor  to  professional  And a
+single  programmer  could do most or
+all   of  the  computer  programming
+needed  to  generate  the  proof  of
+concept   to  launch  a  new  killer
+application  editComputer programmer
+Main  articles  Programmer  Software
+engineer  and  Software  developer A
+programmer  computer  programmer  or
+coder   is   a   person  who  writes
+computer  software The term computer
+programmer can refer to a specialist
+in  one area of computer programming
+or  to  a generalist who writes code
+for  many  kinds of software One who
+practices   or  professes  a  formal
+approach  to programming may also be
+known  as  a  programmer  analyst  A
+programmers     primary     computer
+language   C   C  Java  Lisp  Python
+Smalltalk  etc  is often prefixed to
+the  above titles and those who work
+in  a  web  environment often prefix
+their   titles  with  web  The  term
+programmer can be used to refer to a
+software developer software engineer
+computer   scientist   or   software
+analyst  However  members  of  these
+professions typicallycitation needed
+possess  other  software engineering
+skills  beyond  programming for this
+reason   the   term   programmer  is
+sometimes considered an insulting or
+derogatory   oversimplification   of
+these    other   professionscitation
+needed  This has sparked much debate
+amongst developers analysts computer
+scientists programmers and outsiders
+who  continue  to  be puzzled at the
+subtle     differences     in    the
+definitions   of  these  occupations
+editSystems    administration   Main
+article   System   administrator   A
+system   administrator   IT  systems
+administrator  systems administrator
+or  sysadmin is a person employed to
+maintain   and  operate  a  computer
+system andor network The duties of a
+system administrator are wideranging
+and    vary    widely    from    one
+organization  to  another  Sysadmins
+are  usually charged with installing
+supporting  and  maintaining servers
+or   other   computer   systems  and
+planning   for   and  responding  to
+service  outages  and other problems
+Other  duties  may include scripting
+or    light    programming   project
+management     for    systemsrelated
+projects   supervising  or  training
+computer  operators  and  being  the
+consultant   for  computer  problems
+beyond  the  knowledge  of technical
+support  staff To perform his or her
+job well a system administrator must
+demonstrate  a  blend  of  technical
+skills       and      responsibility
+editComputer  science  Main articles
+Computer    science   and   Computer
+scientist    Computer   science   or
+computing  science abbreviated CS or
+compsci   is   the   scientific  and
+mathematical approach in computing A
+computer  scientist  is a person who
+does   research  at  a  professional
+level  in computer science andor has
+attained   a   degree   in  computer
+science   or  a  related  field  Its
+subfields   can   be   divided  into
+practical    techniques    for   its
+implementation  and  application  in
+computer    systems    and    purely
+theoretical   areas   Some  such  as
+computational    complexity   theory
+which studies fundamental properties
+of computational problems are highly
+abstract   while   others   such  as
+computer      graphics     emphasize
+realworld  applications Still others
+focus    on    the   challenges   in
+implementing     computations    For
+example  programming language theory
+studies approaches to description of
+computations   while  the  study  of
+computer      programming     itself
+investigates  various aspects of the
+use  of  programming  languages  and
+complex  systems  and  humancomputer
+interaction     focuses    on    the
+challenges  in  making computers and
+computations   useful   usable   and
+universally   accessible  to  humans
+editComputer     engineering    Main
+article     Computer     engineering
+Computer engineering is a discipline
+that  integrates  several  fields of
+electrical  engineering and computer
+science required to develop computer
+systems  Computer  engineers usually
+have    training    in    electronic
+engineering       or      electrical
+engineering   software   design  and
+hardwaresoftware integration instead
+of   only  software  engineering  or
+electronic    engineering   Computer
+engineers   are   involved  in  many
+hardware  and  software  aspects  of
+computing   from   the   design   of
+individual  microprocessors personal
+computers   and   supercomputers  to
+circuit design editComputer industry
+Main  article  Computer industry The
+computer  industry is made up of all
+of   the   businesses   involved  in
+developing     computer     software
+designing   computer   hardware  and
+computer  networking infrastructures
+the    manufacture    of    computer
+components   and  the  provision  of
+information    technology   services
+including  system administration and
+maintenance   editSoftware  industry
+Main  article  Software industry The
+software      industry      includes
+businesses  engaged  in  development
+maintenance   and   publication   of
+software  The industry also includes
+software  services  such as training
+documentation     and     consulting
+editComputing  is  any  goaloriented
+activity  requiring  benefiting from
+or  creating  computers  For example
+computing   includes  designing  and
+building   hardware   and   software
+systems  processing  structuring and
+managing     various     kinds    of
+information     doing     scientific
+research   on   and  with  computers
+making   computer   systems   behave
+intelligently   creating  and  using
+communications   and   entertainment
+media  etc  Subfields  of  computing
+include     computer     engineering
+software     engineering    computer
+science   information   systems  and
+information technology Contents hide
+Definitions   History  of  computing
+Computer   Computer   software   and
+hardware     Application    software
+Computer  network  Internet Computer
+user  Enthusiast  computing Computer
+programming    Computer   programmer
+Systems    administration   Computer
+science     Computer     engineering
+Computer  industry Software industry
+See  also  References External links
+editDefinitions  The  ACM  Computing
+Curricula  defined computing as In a
+general  way we can define computing
+to  mean  any  goaloriented activity
+requiring    benefiting    from   or
+creating  computers  Thus  computing
+includes   designing   and  building
+hardware  and software systems for a
+wide  range  of  purposes processing
+structuring   and  managing  various
+kinds     of    information    doing
+scientific  studies  using computers
+making   computer   systems   behave
+intelligently   creating  and  using
+communications   and   entertainment
+media    finding    and    gathering
+information    relevant    to    any
+particular  purpose  and  so  on The
+list  is  virtually  endless and the
+possibilities   are   vast   and  it
+defines  five  subdisciplines of the
+computing   field  Computer  Science
+Computer   Engineering   Information
+Systems  Information  Technology and
+Software     Engineering     However
+Computing  Curricula also recognizes
+that   the   meaning   of  computing
+depends  on  the  context  Computing
+also  has  other  meanings  that are
+more  specific  based on the context
+in   which  the  term  is  used  For
+example   an   information   systems
+specialist   will   view   computing
+somewhat differently from a software
+engineer  Regardless  of the context
+doing    computing   well   can   be
+complicated  and  difficult  Because
+society needs people to do computing
+well  we must think of computing not
+only  as  a profession but also as a
+discipline  The  term  computing has
+sometimes  been  narrowly defined as
+in  a  ACM  report on Computing as a
+Discipline    The    discipline   of
+computing is the systematic study of
+algorithmic  processes that describe
+and   transform   information  their
+theory  analysis  design  efficiency
+implementation  and  application The
+fundamental  question underlying all
+computing is What can be efficiently
+automated The term computing is also
+synonymous    with    counting   and
+calculating  In earlier times it was
+used   in  reference  to  mechanical
+computing  machines  editHistory  of
+computing  Main  articles History of
+computing  and Timeline of computing
+The  history  of computing is longer
+than   the   history   of  computing
+hardware    and   modern   computing
+technology  and includes the history
+of  methods  intended  for  pen  and
+paper or for chalk and slate with or
+without  the aid of tables Computing
+is    intimately    tied    to   the
+representation  of  numbers But long
+before  abstractions like the number
+arose    there   were   mathematical
+concepts  to  serve  the purposes of
+civilization  These concepts include
+onetoone correspondence the basis of
+counting  comparison  to  a standard
+used  for  measurement and the right
+triangle  a  device  for  assuring a
+right  angle The earliest known tool
+for   use  in  computation  was  the
+abacus  and  it  was thought to have
+been  invented  in  Babylon circa BC
+Its  original  style of usage was by
+lines  drawn  in  sand  with pebbles
+Abaci  of  a  more modern design are
+still   used  as  calculation  tools
+today   This  was  the  first  known
+computer and most advanced system of
+calculation  known to date preceding
+Greek  methods by years editComputer
+Main  articles  Computer  Outline of
+computers  and  Glossary of computer
+terms  A  computer is a machine that
+manipulates  data according to a set
+of  instructions  called  a computer
+program    The    program   has   an
+executable  form  that  the computer
+can  use  directly  to  execute  the
+instructions The same program in its
+humanreadable   source   code   form
+enables  a  programmer  to study and
+develop  the  algorithm  Because the
+instructions  can  be carried out in
+different   types   of  computers  a
+single  set  of  source instructions
+converts   to  machine  instructions
+according  to the central processing
+unit   type  The  execution  process
+carries  out  the  instructions in a
+computer     program    Instructions
+express  the  computations performed
+by   the   computer   They   trigger
+sequences  of  simple actions on the
+executing   machine   Those  actions
+produce  effects  according  to  the
+semantics    of   the   instructions
+editComputer  software  and hardware
+Main  articles Software and Computer
+hardware  Computer  software or just
+software is a collection of computer
+programs   and   related  data  that
+provides    the   instructions   for
+telling  a  computer  what to do and
+how  to do it Software refers to one
+or  more  computer programs and data
+held  in the storage of the computer
+for  some  purposes  In  other words
+software   is   a  set  of  programs
+procedures    algorithms   and   its
+documentation   concerned  with  the
+operation   of   a  data  processing
+system Program software performs the
+function    of    the   program   it
+implements    either   by   directly
+providing    instructions   to   the
+computer  hardware  or by serving as
+input  to  another piece of software
+The  term  was coined to contrast to
+the   old   term   hardware  meaning
+physical   devices  In  contrast  to
+hardware  software cannot be touched
+Software is also sometimes used in a
+more     narrow     sense    meaning
+application  software only Sometimes
+the  term includes data that has not
+traditionally  been  associated with
+computers  such  as  film  tapes and
+records   editApplication   software
+Main  article  Application  software
+Application  software  also known as
+an application or an app is computer
+software  designed  to help the user
+to  perform  specific tasks Examples
+include      enterprise     software
+accounting  software  office  suites
+graphics  software and media players
+Many   application   programs   deal
+principally  with documents Apps may
+be bundled with the computer and its
+system  software or may be published
+separately  Some users are satisfied
+with the bundled apps and need never
+install  one Application software is
+contrasted  with system software and
+middleware    which    manage    and
+integrate  a  computers capabilities
+but  typically do not directly apply
+them  in  the  performance  of tasks
+that  benefit  the  user  The system
+software   serves   the  application
+which   in   turn  serves  the  user
+Similar relationships apply in other
+fields  For  example a shopping mall
+does  not  provide the merchandise a
+shopper   is  seeking  but  provides
+space  and  services  for  retailers
+that  serve the shopper A bridge may
+similarly  support rail tracks which
+support  trains  allowing the trains
+to  transport passengers Application
+software  applies  the  power  of  a
+particular   computing  platform  or
+system   software  to  a  particular
+purpose  Some apps such as Microsoft
+Office are available in versions for
+several  different  platforms others
+have  narrower  requirements and are
+thus  called for example a Geography
+application   for   Windows   or  an
+Android application for education or
+Linux  gaming  Sometimes  a  new and
+popular   application  arises  which
+only runs on one platform increasing
+the  desirability  of  that platform
+This  is called a killer application
+editComputer  network  Main  article
+Computer  network A computer network
+often   simply   referred  to  as  a
+network  is a collection of hardware
+components       and       computers
+interconnected    by   communication
+channels   that   allow  sharing  of
+resources  and  information Where at
+least  one  process in one device is
+able  to  sendreceive data tofrom at
+least  one  process  residing  in  a
+remote  device  then the two devices
+are said to be in a network Networks
+may  be  classified  according  to a
+wide variety of characteristics such
+as  the medium used to transport the
+data  communications  protocol  used
+scale  topology  and  organizational
+scope    Communications    protocols
+define  the  rules  and data formats
+for   exchanging  information  in  a
+computer  network  and  provide  the
+basis    for   network   programming
+Wellknown  communications  protocols
+are  Ethernet  a  hardware  and Link
+Layer standard that is ubiquitous in
+local area networks and the Internet
+Protocol  Suite  which defines a set
+of  protocols for internetworking ie
+for   data   communication   between
+multiple   networks   as   well   as
+hosttohost    data    transfer   and
+applicationspecific             data
+transmission     formats    Computer
+networking is sometimes considered a
+subdiscipline      of     electrical
+engineering       telecommunications
+computer     science     information
+technology  or  computer engineering
+since it relies upon the theoretical
+and  practical  application of these
+disciplines     editInternet    Main
+articles  Internet  Outline  of  the
+Internet     and     Glossary     of
+Internetrelated  terms  The Internet
+is a global system of interconnected
+computer   networks   that  use  the
+standard   Internet  protocol  suite
+TCPIP  to  serve  billions  of users
+worldwide   It   is   a  network  of
+networks  that  consists of millions
+of  private public academic business
+and  government networks of local to
+global  scope  that  are linked by a
+broad  array  of electronic wireless
+and  optical networking technologies
+The  Internet  carries  an extensive
+range  of  information resources and
+services  such  as  the  interlinked
+hypertext  documents  of  the  World
+Wide  Web WWW and the infrastructure
+to  support  email editComputer user
+Main  articles  User  computing  and
+Enduser  A user is an agent either a
+human   agent  enduser  or  software
+agent who uses a computer or network
+service  A  user  often  has  a user
+account   and  is  identified  by  a
+username  also user name screen name
+also  screenname  nickname also nick
+or  handle which is derived from the
+identical  Citizens  Band radio term
+Users  are also widely characterized
+as  the  class  of people that use a
+system  without  complete  technical
+expertise required to understand the
+system    fully   In   hackerrelated
+contexts such users are also divided
+into   lusers  and  power  users  In
+projects  in  which the actor of the
+system   is   another  system  or  a
+software  agent it is quite possible
+that  there  is  no  enduser for the
+system In this case the endusers for
+the   system   would   be   indirect
+endusers   editEnthusiast  computing
+Main  article  Enthusiast  computing
+Enthusiast  computing  refers  to  a
+subculture   of   personal  computer
+users   who   focus   on   extremely
+highperformance            computers
+Manufacturers of performanceoriented
+parts     typically    include    an
+enthusiast  model in their offerings
+Enthusiast  computers often referred
+to  as  a  box build or rig by their
+owners  commonly feature extravagant
+cases and highend components and are
+sometimes   liquid  cooled  Although
+highend   computers  may  be  bought
+retail  in  the  same  manner as the
+common  computer they are frequently
+built  by  their  owners Enthusiasts
+build  their  systems  in  order  to
+produce   a   computer   that   will
+outperform   an  opponents  computer
+thereby  winning  in  a  contest  to
+simply  enjoy  the  best  images and
+effects  a  new PC game has to offer
+or  even  simply  to obtain the best
+possible performance at a variety of
+tasks  editComputer programming Main
+articles  Computer  programming  and
+Software     engineering    Computer
+programming   in   general   is  the
+process of writing testing debugging
+and  maintaining the source code and
+documentation  of  computer programs
+This  source  code  is  written in a
+programming  language  which  is  an
+artificial   language   often   more
+restrictive    or   demanding   than
+natural    languages    but   easily
+translated   by   the  computer  The
+purpose  of programming is to invoke
+the  desired behaviour customization
+from  the  machine  The  process  of
+writing  high  quality  source  code
+requires   knowledge   of  both  the
+applications domain and the computer
+science  domain  The  highestquality
+software is thus developed by a team
+of   various   domain  experts  each
+person  a specialist in some area of
+development  But the term programmer
+may  apply  to  a  range  of program
+quality  from  hacker to open source
+contributor  to  professional  And a
+single  programmer  could do most or
+all   of  the  computer  programming
+needed  to  generate  the  proof  of
+concept   to  launch  a  new  killer
+application  editComputer programmer
+Main  articles  Programmer  Software
+engineer  and  Software  developer A
+programmer  computer  programmer  or
+coder   is   a   person  who  writes
+computer  software The term computer
+programmer can refer to a specialist
+in  one area of computer programming
+or  to  a generalist who writes code
+for  many  kinds of software One who
+practices   or  professes  a  formal
+approach  to programming may also be
+known  as  a  programmer  analyst  A
+programmers     primary     computer
+language   C   C  Java  Lisp  Python
+Smalltalk  etc  is often prefixed to
+the  above titles and those who work
+in  a  web  environment often prefix
+their   titles  with  web  The  term
+programmer can be used to refer to a
+software developer software engineer
+computer   scientist   or   software
+analyst  However  members  of  these
+professions typicallycitation needed
+possess  other  software engineering
+skills  beyond  programming for this
+reason   the   term   programmer  is
+sometimes considered an insulting or
+derogatory   oversimplification   of
+these    other   professionscitation
+needed  This has sparked much debate
+amongst developers analysts computer
+scientists programmers and outsiders
+who  continue  to  be puzzled at the
+subtle     differences     in    the
+definitions   of  these  occupations
+editSystems    administration   Main
+article   System   administrator   A
+system   administrator   IT  systems
+administrator  systems administrator
+or  sysadmin is a person employed to
+maintain   and  operate  a  computer
+system andor network The duties of a
+system administrator are wideranging
+and    vary    widely    from    one
+organization  to  another  Sysadmins
+are  usually charged with installing
+supporting  and  maintaining servers
+or   other   computer   systems  and
+planning   for   and  responding  to
+service  outages  and other problems
+Other  duties  may include scripting
+or    light    programming   project
+management     for    systemsrelated
+projects   supervising  or  training
+computer  operators  and  being  the
+consultant   for  computer  problems
+beyond  the  knowledge  of technical
+support  staff To perform his or her
+job well a system administrator must
+demonstrate  a  blend  of  technical
+skills       and      responsibility
+editComputer  science  Main articles
+Computer    science   and   Computer
+scientist    Computer   science   or
+computing  science abbreviated CS or
+compsci   is   the   scientific  and
+mathematical approach in computing A
+computer  scientist  is a person who
+does   research  at  a  professional
+level  in computer science andor has
+attained   a   degree   in  computer
+science   or  a  related  field  Its
+subfields   can   be   divided  into
+practical    techniques    for   its
+implementation  and  application  in
+computer    systems    and    purely
+theoretical   areas   Some  such  as
+computational    complexity   theory
+which studies fundamental properties
+of computational problems are highly
+abstract   while   others   such  as
+computer      graphics     emphasize
+realworld  applications Still others
+focus    on    the   challenges   in
+implementing     computations    For
+example  programming language theory
+studies approaches to description of
+computations   while  the  study  of
+computer      programming     itself
+investigates  various aspects of the
+use  of  programming  languages  and
+complex  systems  and  humancomputer
+interaction     focuses    on    the
+challenges  in  making computers and
+computations   useful   usable   and
+universally   accessible  to  humans
+editComputer     engineering    Main
+article     Computer     engineering
+Computer engineering is a discipline
+that  integrates  several  fields of
+electrical  engineering and computer
+science required to develop computer
+systems  Computer  engineers usually
+have    training    in    electronic
+engineering       or      electrical
+engineering   software   design  and
+hardwaresoftware integration instead
+of   only  software  engineering  or
+electronic    engineering   Computer
+engineers   are   involved  in  many
+hardware  and  software  aspects  of
+computing   from   the   design   of
+individual  microprocessors personal
+computers   and   supercomputers  to
+circuit design editComputer industry
+Main  article  Computer industry The
+computer  industry is made up of all
+of   the   businesses   involved  in
+developing     computer     software
+designing   computer   hardware  and
+computer  networking infrastructures
+the    manufacture    of    computer
+components   and  the  provision  of
+information    technology   services
+including  system administration and
+maintenance   editSoftware  industry
+Main  article  Software industry The
+software      industry      includes
+businesses  engaged  in  development
+maintenance   and   publication   of
+software  The industry also includes
+software  services  such as training
+documentation  and  consulting  edit

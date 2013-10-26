@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Is Bigger From Neighbors</title>
+    </head>
+    <body>
+        <!-- Write a function that checks if the element at given position in
+             given array of integers is bigger than its two neighbors (when such exist). -->
+
+        <label for="numbersArray">Enter numbers separeded with comma: </label>
+        <input id="numbersArray" type="text" name="name" value=" " />
+        <br />
+        <label for="numberPosition">Enter number position (start from 0): </label>
+        <input id="numberPosition" type="text" name="name" value=" " />
+        <br />
+        <label for="appears">Number is bigger from neighbors: </label>
+        <input id="appears" type="text" name="name" value=" " />
+        <br />
+        <button onclick="isBiggerFromNeighbors()">GO!</button>
+
+        <script>
+            function isBiggerFromNeighbors() {
+                var numbersArray = document.getElementById("numbersArray").value.trim().split(',');
+                var position = parseInt(document.getElementById("numberPosition").value.trim());
+                var result;
+                if (position < 0 || position >= numbersArray.length) {
+                    result = "Incorect position";
+                }
+                else if (position === 0 || position === numbersArray.length - 1) {
+                    result = "Have only one neighbor"
+                }
+                else if (numbersArray[position] > numbersArray[position - 1] & numbersArray[position] > numbersArray[position + 1]) {
+                    result = "True";
+                }
+                else {
+                    result = "False";
+                }
+
+                document.getElementById("appears").value = result;
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Exchange values</title>
+</head>
+<body>
+    <label for="firstNumber">Enter first number: </label>
+    <input id="firstNumber" type="text" name="name" value=" " />
+    <label for="secondNumber">Enter second number: </label>
+    <input id="secondNumber" type="text" name="name" value=" " />
+    <input type="button" name="name" value="GO" onclick="ExchangeValues()" />
+
+    <script>
+        function ExchangeValues() {
+            var firstNumber = parseFloat(document.getElementById("firstNumber").value);
+            var secondNumber = parseFloat(document.getElementById("secondNumber").value);
+            if (firstNumber > secondNumber) {
+                var temp = firstNumber;
+                document.getElementById("firstNumber").value = secondNumber;
+                document.getElementById("secondNumber").value = temp;
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Numbers from 1 to N</title>
+    <style>
+        body{
+            width:700px;
+        }
+        input{
+            width:100px;
+        }
+        button, #result{
+            width:90%;
+        }
+    </style>
+</head>
+<body>
+    <!-- Write a script that prints all the numbers from 1 to N. -->
+
+    <label for="readN">N = </label>
+    <input id="readN" type="text" name="name" value=" " />
+    <br />
+    <label for="result">Result: </label>
+    <input id="result" type="text" name="name" value=" " />
+    <br />
+    <button onclick="printNumbers()">GO</button>
+
+    <script>
+        function printNumbers() {
+            var n = parseInt(document.getElementById("readN").value);
+            var resultString = 1;
+            for (var i = 2; i <= n; i++) {
+                resultString = resultString + " " + i;
+            }
+            document.getElementById("result").value = resultString;
+        }
+    </script>
+</body>
+</html>

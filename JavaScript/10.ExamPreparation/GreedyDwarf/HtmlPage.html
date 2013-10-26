@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Greedy Dwarf</title>
+</head>
+<body>
+    <script>
+        function Solve(args) {
+            var valleyStr = args[0].split(",");
+            var numberOfPatterns = parseInt(args[1]);
+            var patternsStr = [];
+            var i = 0;
+            var j = 0;
+            var temp = "";
+            var valley = [];
+            var patterns = [];
+            var checkVisited = [];
+            var bestResult = -9007199254740992;
+            var currentSum = 0;
+            var counter = 0;
+            var patternElementCurrent = 0;
+            var valleyElementCurrent = 0;
+
+            for (i = 2; i < numberOfPatterns + 2; i++) {
+                temp = args[i].split(", ");
+                patternsStr.push(temp);
+                temp = "";
+            }
+
+            //Convert elements to int
+            for (i = 0; i < valleyStr.length; i++) {
+                valley[i] = parseInt(valleyStr[i]);
+            }
+
+            for (i = 0; i < patternsStr.length; i++) {
+                temp = [];
+                for (j = 0; j < patternsStr[i].length; j++) {
+                    temp[j] = parseInt(patternsStr[i][j]);
+                }
+                patterns.push(temp);
+            }
+
+            //Add place to check visited
+            for (i = 0; i < numberOfPatterns; i++) {
+                temp = [];
+                for (j = 0; j < valley.length; j++) {
+                    temp[j] = valley[j];
+                }
+                checkVisited.push(temp);
+            }
+
+            for (i = 0; i < numberOfPatterns; i++) {
+                patternElementCurrent = 0;
+                valleyElementCurrent = 0;
+                currentSum = 0;
+                counter = 0;
+
+                while(true){
+                    valleyElementCurrent = valleyElementCurrent + patternElementCurrent;
+                    if (checkVisited[i][valleyElementCurrent] === 'v') {
+                        break;
+                    }
+                    if (valleyElementCurrent < 0 || valleyElementCurrent >= valley.length) {
+                        break;
+                    }
+                    currentSum = currentSum + valley[valleyElementCurrent];
+                    checkVisited[i][valleyElementCurrent] = 'v';
+
+                    if (counter >= patterns[i].length) {
+                        counter = 0;
+                        patternElementCurrent = patterns[i][counter];
+                        counter++;
+                    }
+                    else {
+                        patternElementCurrent = patterns[i][counter];
+                        counter++;
+                    }
+                }
+
+                if (currentSum > bestResult) {
+                    bestResult = currentSum;
+                }
+            }
+            //console.log(bestResult);
+            return bestResult;
+        }
+
+        //Solve(["1, 3, -6, 7, 4, 1, 12", "3", "1, 2, -3", "1, 3, -2", "1, -1"]);
+        Solve(["-237, 752, -399, 363, -695, -177, 957, 135, 521, 788, -71, 223, 299, -669, 291, 740, 904, 386, -293, 140, -975, -468, 280, 873, 792, 893, 329, 263, 959, 802, -404, 206, 388, 347, 36, -266, -586, 458, -332, -752, 267, 569, 119, -532, 601, 501", "1", "0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"]);
+    </script>
+</body>
+</html>

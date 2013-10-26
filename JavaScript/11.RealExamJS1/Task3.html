@@ -1,0 +1,152 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function Solve(args) {
+            var lines = args.toString().split(',');
+            var dict = new Object();
+            var result = 0;
+            var i = 0;
+            var currentLine = "";
+            var indexOfCommand = 0;
+            var indexOfSignPlus = 0;
+            var indexOfSignMinus = 0;
+            var indexOfSignMulti = 0;
+            var indexOfSignDivision = 0;
+
+            var varibleName = "";
+            var otherVaribleName = "";
+            var varibleValue = "";
+
+            var tempResult = 0;
+
+
+            
+
+            //var tag = '[tag_retweet attr="val" attr2="val"]';
+            //var match = tag.match(/\[tag_([a-z0-9_]+)(?:\s+|\])/);
+            //window.alert(match[1]);​ // alerts "retweet"
+
+            for (i = 0; i < lines.length; i++){
+                currentLine = lines[i].replace(/\s{2,}/g, ' ');
+                var matchDef = currentLine.match(/def ([a-z0-9_]+)\s/);
+                if (currentLine.match(/def ([a-z0-9_]+) /)) {
+                    console.log(matchDef[1]);
+                }
+                
+            }
+
+            //for (i = 0; i < lines.length; i++) {
+            //    currentLine = lines[i].replace(/\s{2,}/g, ' ');
+            //    indexOfCommand = currentLine.indexOf("def");
+            //    indexOfSignPlus = currentLine.indexOf("+");
+            //    indexOfSignMinus = currentLine.indexOf("-");
+            //    indexOfSignMulti = currentLine.indexOf("*");
+            //    indexOfSignDivision = currentLine.indexOf("/");
+
+
+            //    if (indexOfCommand !== -1) {
+            //        indexOfCommand = indexOfCommand + 5;
+            //        varibleName = "";
+            //        while (true) {
+            //            varibleName = varibleName + currentLine[indexOfCommand];
+            //            indexOfCommand++;
+            //            if (currentLine[indexOfCommand] === ' ') {
+            //                break;
+            //            }
+            //        }
+
+            //        indexOfCommand++;
+            //        if (currentLine[indexOfCommand] === '0' | currentLine[indexOfCommand] === '1' | currentLine[indexOfCommand] === '2'
+            //            | currentLine[indexOfCommand] === '3' | currentLine[indexOfCommand] === '4' | currentLine[indexOfCommand] === '5'
+            //            | currentLine[indexOfCommand] === '6' | currentLine[indexOfCommand] === '7' | currentLine[indexOfCommand] === '8'
+            //            | currentLine[indexOfCommand] === '9') {
+            //            varibleValue = "";
+            //            while (true) {
+            //                varibleValue = varibleValue + currentLine[indexOfCommand];
+            //                indexOfCommand++;
+            //                if (currentLine[indexOfCommand] === ' ' | currentLine[indexOfCommand] === ')' | currentLine[indexOfCommand] === '(') {
+            //                    break;
+            //                }
+            //            }
+            //            dict[varibleName] = parseInt(varibleValue);
+            //        }
+            //    }
+            //    if (indexOfSignPlus !== -1) {
+            //        indexOfCommand = indexOfSignPlus + 1;
+            //        while(true) {
+            //            if (currentLine[indexOfCommand] === '0' | currentLine[indexOfCommand] === '1' | currentLine[indexOfCommand] === '2'
+            //            | currentLine[indexOfCommand] === '3' | currentLine[indexOfCommand] === '4' | currentLine[indexOfCommand] === '5'
+            //            | currentLine[indexOfCommand] === '6' | currentLine[indexOfCommand] === '7' | currentLine[indexOfCommand] === '8'
+            //            | currentLine[indexOfCommand] === '9') {
+            //                tempResult = tempResult + parseInt(currentLine[indexOfCommand].toString());
+            //            }
+            //            else if (currentLine[indexOfCommand] === ' ') {
+
+            //            }
+            //            else if(currentLine[indexOfCommand] === ')') {
+            //                break;
+            //            }
+            //            else {
+            //                otherVaribleName = "";
+            //                while (currentLine[indexOfCommand] === ' ' | currentLine[indexOfCommand] === ')') {
+            //                    otherVaribleName = otherVaribleName + currentLine[indexOfCommand];
+            //                    indexOfCommand++;
+            //                }
+            //                tempResult = tempResult + dict[otherVaribleName];
+            //            }
+            //        }
+            //        dict[varibleName] = tempResult;
+            //    }
+            //    if (indexOfSignMinus !== -1) {
+
+            //    }
+            //    if (indexOfSignMulti !== -1) {
+            //        indexOfCommand = indexOfSignPlus + 1;
+            //        while (true) {
+            //            if (currentLine[indexOfCommand] === '0' | currentLine[indexOfCommand] === '1' | currentLine[indexOfCommand] === '2'
+            //            | currentLine[indexOfCommand] === '3' | currentLine[indexOfCommand] === '4' | currentLine[indexOfCommand] === '5'
+            //            | currentLine[indexOfCommand] === '6' | currentLine[indexOfCommand] === '7' | currentLine[indexOfCommand] === '8'
+            //            | currentLine[indexOfCommand] === '9') {
+            //                tempResult = tempResult * parseInt(currentLine[indexOfCommand].toString());
+            //            }
+            //            else if (currentLine[indexOfCommand] === ' ') {
+
+            //            }
+            //            else if (currentLine[indexOfCommand] === ')') {
+            //                break;
+            //            }
+            //            else {
+            //                otherVaribleName = "";
+            //                while (currentLine[indexOfCommand] === ' ' | currentLine[indexOfCommand] === ')') {
+            //                    otherVaribleName = otherVaribleName + currentLine[indexOfCommand];
+            //                    indexOfCommand++;
+            //                }
+            //                tempResult = tempResult * dict[otherVaribleName];
+            //            }
+            //        }
+            //        dict[varibleName] = tempResult;
+            //    }
+            //    if (indexOfSignDivision !== -1) {
+
+            //    }
+
+            //    console.log(tempResult);
+            //    tempResult = 0;
+            //    varibleName = "";
+            //    otherVaribleName = "";
+            //}
+
+            //console.log(currentLine);
+
+            //console.log(result);
+            //return result;
+        }
+
+        Solve(["(def func 10)","(def newFunc (+   func 2))","(def sumFunc (+ func func newFunc 0 0 0))","(* sumFunc 2)"]);
+    </script>
+</body>
+</html>

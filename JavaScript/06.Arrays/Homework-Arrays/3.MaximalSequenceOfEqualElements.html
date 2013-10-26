@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Maximal Sequence Of Equal Elements</title>
+        <style>
+            #printResult
+            {
+                width: 500px;
+            }
+            button
+            {
+                width: 100px;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Write a script that finds the maximal sequence of equal elements in an array. 
+             Example: {2, 1, 1, 2, 3, 3, 2, 2, 2, 1}  {2, 2, 2}. -->
+
+        <label for="array">Enter numbers separeted with comma: </label>
+        <input id="array" type="text" name="name" value=" " />
+        <label for="array"> Example: 2,3,4,4,4,3,3,2,2,2,2 </label>
+        <br />
+        <label for="printResult">Result: </label>
+        <input id="printResult" type="text" name="name" value=" " />
+        <br />
+        <button onclick="printResult()">GO</button>
+            
+        <script>
+            function printResult() {
+                var strArr = document.getElementById("array").value.trim().split(",");
+                var bestLenght = 0;
+                var lastIndex = 0;
+                var counter = 0;
+                var result = new Array();
+                var i;
+
+                for (i = 0; i < strArr.length - 1; i++) {
+                    if (strArr[i] == strArr[i + 1]) {
+                        counter++;
+                    }
+                    else {
+                        counter = 0;
+                    }
+                    if (counter > bestLenght) {
+                        lastIndex = i + 1;
+                        bestLenght = counter;
+                    }
+                }
+
+                for (i = lastIndex - bestLenght, counter = 0; i <= lastIndex; i++, counter++) {
+                    result[counter] = strArr[i];
+                }
+
+                document.getElementById("printResult").value = result;
+            }
+        </script>
+    </body>
+</html>
+        

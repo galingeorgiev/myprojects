@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function Solve(args) {
+            var nmj = args[0].split(' ');
+            
+
+            var n = parseInt(nmj[0]);
+            var m = parseInt(nmj[1]);
+            var numberOfJumps = parseInt(nmj[2]);
+
+            if (numberOfJumps === 0 | n === 0 | m === 0) {
+                return "caught" + "" + 0;
+            }
+
+            var start = args[1].split(' ');
+
+            var startRow = parseInt(start[0]);
+            var startCol = parseInt(start[1]);
+
+            var jumps = [];
+            var visited = [];
+            var putInVisited = [];
+            var table = [];
+
+            var i = 0;
+            var j = 0;
+            var jumpsStr = "";
+            var tempArr = [];
+
+            var tempTableRow = [];
+            var tempCounter = 1;
+
+            var currentRow = startRow;
+            var currentCol = startCol;
+            var sumOfNums = 0;
+            var jumpsCounter = 0;
+            var tempJumpsCounter = 0;
+
+            var result = "";
+
+            for (i = 0; i < numberOfJumps; i++) {
+                jumpsStr = "";
+                tempArr = [];
+                jumpsStr = args[i + 2].split(' ');
+                tempArr[0] = parseInt(jumpsStr[0]);
+                tempArr[1] = parseInt(jumpsStr[1]);
+
+                jumps.push(tempArr);
+            }
+
+            for (i = 0; i < n; i++) {
+                tempTableRow = [];
+                putInVisited = [];
+                for (j = 0; j < m; j++) {
+                    tempTableRow[j] = tempCounter;
+                    putInVisited[j] = false;
+                    tempCounter++;
+                }
+                table.push(tempTableRow);
+                visited.push(putInVisited);
+            }
+
+            while (true) {
+                if (currentRow >= n | currentCol >= m) {
+                    result = "escaped" + " " + sumOfNums;
+                    break;
+                }
+                if (visited[currentRow][currentCol] === true) {
+                    result = "caught" + "" + jumpsCounter;
+                    break;
+                }
+
+                sumOfNums = sumOfNums + table[currentRow][currentCol];
+                jumpsCounter++;//todo
+                visited[currentRow][currentCol] = true;
+
+                if (tempJumpsCounter % numberOfJumps === 0) {
+                    tempJumpsCounter = 0;
+                    currentRow = currentRow + jumps[tempJumpsCounter][0];
+                    currentCol = currentCol + jumps[tempJumpsCounter][1];
+                    tempJumpsCounter++;
+                }
+                else {
+                    currentRow = currentRow + jumps[tempJumpsCounter][0];
+                    currentCol = currentCol + jumps[tempJumpsCounter][1];
+                    tempJumpsCounter++;
+                }
+            }
+
+            //console.log(result);
+            return result;
+        }
+
+        Solve(["6 7 3", "0 0", "2 2", "-2 2", "3 -1"]);
+    </script>
+</body>
+</html>

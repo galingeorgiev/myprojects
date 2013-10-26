@@ -1,0 +1,183 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Number to text</title>
+        <style>
+            #result{
+                width:300px;
+            }
+        </style>
+    </head>
+    <body>
+        <p>Watch out for white space in start!!!</p>
+        <label for="number">Enter number: </label>
+        <input id="number" type="text" name="name" value=" " />
+        <label for="result">Text: </label>
+        <input id="result" type="text" name="name" value=" " />
+        <input type="button" name="name" value="GO" onclick="NumberToText()" />
+
+        <script>
+            function NumberToText()
+            {
+                var valueLenghtString = document.getElementById("number").value;
+                var valueSwitch = parseInt(valueLenghtString);
+                switch (valueLenghtString.length)
+                {
+                    case 1:
+                        document.getElementById("result").value = ValuesBetween0and9(valueSwitch);
+                        break;
+                    case 2:
+                        if (valueSwitch > 9 & valueSwitch < 20)
+                        {
+                            document.getElementById("result").value = ValuesBetween10and19(valueSwitch);
+                        }
+                        else
+                        {
+                            var secondDigit = Math.floor(valueSwitch % 10);
+                            var firstDigit = Math.floor(valueSwitch / 10);
+                            var one = DecimalValues(firstDigit);
+                            var two = ValuesBetween0and9(secondDigit);
+                            document.getElementById("result").value = one + " " + two;
+                        }
+                        break;
+                    case 3:
+                        var firstDigit3 = Math.floor(valueSwitch / 100);
+                        var secondDigit3 = Math.floor(valueSwitch / 10) % 10;
+                        var thirdDigit3 = valueSwitch % 10;
+                        if (secondDigit3 == 0 && thirdDigit3 == 0)
+                        {
+                            document.getElementById("result").value = ValuesBetween0and9(firstDigit3) + "hundred";
+                        }
+                        else
+                        {
+                            if (secondDigit3 == 0 && (thirdDigit3 > 0 & thirdDigit3 < 10))
+                            {
+                                document.getElementById("result").value = ValuesBetween0and9(firstDigit3) + " hundred";
+                            }
+                            else
+                            {
+                                if (secondDigit3 == 1)
+                                {
+                                    document.getElementById("result").value =
+                                        ValuesBetween0and9(firstDigit3) + " hundred " + ValuesBetween10and19(valueSwitch % 100);
+                                }
+                                else
+                                {
+                                    document.getElementById("result").value =
+                                        ValuesBetween0and9(firstDigit3) + " hundred " + DecimalValues(secondDigit3) + " " + ValuesBetween0and9(thirdDigit3);
+                                }
+                            }
+                        }
+                        break;
+                    default: document.getElementById("result").value = "You must enter value in range [0-999].";
+                        break;
+                }
+            }
+
+            function ValuesBetween0and9(number) {
+                var returnedValue = null;
+                switch (number) {
+                    case 0:
+                        returnedValue = "Zero";
+                        break;
+                    case 1:
+                        returnedValue = "One";
+                        break;
+                    case 2:
+                        returnedValue = "Two";
+                        break;
+                    case 3:
+                        returnedValue = "Three";
+                        break;
+                    case 4:
+                        returnedValue = "Four";
+                        break;
+                    case 5:
+                        returnedValue = "Five";
+                        break;
+                    case 6:
+                        returnedValue = "Six";
+                        break;
+                    case 7:
+                        returnedValue = "Seven";
+                        break;
+                    case 8:
+                        returnedValue = "Eight";
+                        break;
+                    case 9:
+                        returnedValue = "Nine";
+                        break;
+                }
+                return returnedValue;
+            }
+
+            function ValuesBetween10and19(number) {
+                var returnedValue = null;
+                switch (number) {
+                    case 10:
+                        returnedValue = "Ten";
+                        break;
+                    case 11:
+                        returnedValue = "Eleven";
+                        break;
+                    case 12:
+                        returnedValue = "Twelve";
+                        break;
+                    case 13:
+                        returnedValue = "Thirteen";
+                        break;
+                    case 14:
+                        returnedValue = "Fourteen";
+                        break;
+                    case 15:
+                        returnedValue = "Fifteen";
+                        break;
+                    case 16:
+                        returnedValue = "Sixteen";
+                        break;
+                    case 17:
+                        returnedValue = "Seventeen";
+                        break;
+                    case 18:
+                        returnedValue = "Eighteen";
+                        break;
+                    case 19:
+                        returnedValue = "Nineteen";
+                        break;
+                }
+                return returnedValue;
+            }
+
+            function DecimalValues(number) {
+                var returnedValue = null;
+                switch (number) {
+                    case 2:
+                        returnedValue = "Twenty";
+                        break;
+                    case 3:
+                        returnedValue = "Thirty";
+                        break;
+                    case 4:
+                        returnedValue = "Fourty";
+                        break;
+                    case 5:
+                        returnedValue = "Fifty";
+                        break;
+                    case 6:
+                        returnedValue = "Sixty";
+                        break;
+                    case 7:
+                        returnedValue = "Seventy";
+                        break;
+                    case 8:
+                        returnedValue = "Eighty";
+                        break;
+                    case 9:
+                        returnedValue = "Ninety";
+                        break;
+                }
+                return returnedValue;
+            }
+        </script>
+    </body>
+</html>

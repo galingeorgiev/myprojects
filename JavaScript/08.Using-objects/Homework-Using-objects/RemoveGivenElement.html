@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Remove Given Element</title>
+</head>
+<body>
+    <!-- Write a function that removes all elements with a given value
+           -Attach it to the array class
+           -Read about prototype and how to attach methods -->
+
+    <label for="readedArray">Enter array values separeted with comma</label>
+    <input id="readedArray" type="text" name="name" value=" " />
+    <br />
+    <label for="valueForRemove">Enter value to be removed from list: </label>
+    <input id="valueForRemove" type="text" name="name" value=" " />
+    <br />
+    <label for="result">Result is: </label>
+    <input id="result" type="text" name="name" value=" " />
+    <button onclick="removeFromList()">Remove from list</button>
+
+    <script>
+        function removeFromList() {
+            Array.prototype.remove = function (valueForRemoves) {
+                var arr = new Array();
+                var i;
+                var j = 0;
+
+                for (i = 0; i < this.length; i++) {
+                    if (this[i] !== valueForRemoves) {
+                        arr[j] = this[i];
+                        j++;
+                    }
+                }
+                return arr;
+            }
+
+            var readedArray = document.getElementById("readedArray").value.trim().split(',');
+            var valueForRemoving = document.getElementById("valueForRemove").value.trim();
+            var array = new Array();
+            array = readedArray.remove(valueForRemoving);
+            document.getElementById("result").value = array;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Maximal Increasing Sequence</title>
+        <style>
+            #printResult
+            {
+                width: 500px;
+            }
+            button
+            {
+                width: 100px;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Sorting an array means to arrange its elements in increasing order.
+             Write a script to sort an array. Use the "selection sort" algorithm:
+             Find the smallest element, move it at the first position, find the
+             smallest from the rest, move it at the second position, etc.
+             Hint: Use a second array-->
+
+        <label for="array">Enter numbers separeted with comma: </label>
+        <input id="array" type="text" name="name" value=" " />
+        <label for="array"> Example: 2,3,4,6,4,1,3,7,9,8,0 </label>
+        <br />
+        <label for="printResult">Result: </label>
+        <input id="printResult" type="text" name="name" value=" " />
+        <br />
+        <button onclick="printResult()">GO</button>
+
+        <script>
+            function printResult() {
+                var arr = document.getElementById("array").value.trim().split(",");
+                var i;
+                var j;
+                
+                for (i = 0; i < arr.length - 1; i++) {
+                    for (j = i + 1; j < arr.length; j++) {
+                        if (parseInt(arr[j]) <= parseInt(arr[i])) {
+                            arr[i] = parseInt(arr[i]) ^ parseInt(arr[j]);
+                            arr[j] = parseInt(arr[i]) ^ parseInt(arr[j]);
+                            arr[i] = parseInt(arr[i]) ^ parseInt(arr[j]);
+                        }
+                    }
+                }
+            
+                document.getElementById("printResult").value = arr;
+            }
+        </script>
+    </body>
+</html>
+        

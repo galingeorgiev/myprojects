@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Biggest number</title>
+    </head>
+    <body>
+        <label for="firstNumber">Enter first number: </label>
+        <input id="firstNumber" type="text" name="name" value=" " />
+        <label for="secondNumber">Enter second number: </label>
+        <input id="secondNumber" type="text" name="name" value=" " />
+        <label for="thirdNumber">Enter third number: </label>
+        <input id="thirdNumber" type="text" name="name" value=" " />
+        <label for="result">Biggest number is:</label>
+        <input id="result" type="text" name="name" value=" " />
+        <input type="button" name="name" value="GO" onclick="BiggestNumber()" />
+
+        <script>
+            function BiggestNumber() {
+                var firstNumber = parseFloat(document.getElementById("firstNumber").value);
+                var secondNumber = parseFloat(document.getElementById("secondNumber").value);
+                var thirdNumber = parseFloat(document.getElementById("thirdNumber").value);
+
+                if (firstNumber >= secondNumber) {
+                    if (firstNumber >= thirdNumber) {
+                        document.getElementById("result").value = firstNumber;
+                    }
+                    else {
+                        document.getElementById("result").value = thirdNumber;
+                    }
+                }
+                else {
+                    if (secondNumber >= thirdNumber) {
+                        document.getElementById("result").value = secondNumber;
+                    }
+                    else {
+                        document.getElementById("result").value = thirdNumber;
+                    }
+                }
+            }
+        </script>
+    </body>
+</html>
