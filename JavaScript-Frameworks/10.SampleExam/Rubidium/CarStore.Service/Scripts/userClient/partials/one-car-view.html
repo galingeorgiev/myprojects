@@ -1,0 +1,55 @@
+﻿<script type="text/x-kendo-template" id="car-template">
+    <div data-bind="attr:{id: car.id}" class=" clearfix div-one-car">
+    <img data-bind="attr: { src: car.pictureUrl, alt: car.model, title: car.model}" width="400" height="400" />
+        <ul id="one-car">
+            <li>Model: <span data-bind="text: car.model"></span></li>
+            <li>Make: <span data-bind="text: car.make"></span></li>    
+            <li>Year: <span data-bind="text: car.yearOfProduction"></span> </li>
+            <li>Engine: <span data-bind="text: car.engine"> </span></li>
+            <li>Seats: <span data-bind="text: car.seats"></span> </li>
+            <li>Doors: <span data-bind="text: car.doors"> </span> </li>
+            <li id="price" data-bind="attr:{data-price: car.price}">Price: <span data-bind="text: car.price"></span> </li>
+            <li>Power: <span data-bind="text: car.power"> </span></li>
+            <li id="pricePerDay" data-bind="attr:{data-pricePerDay: car.pricePerDay}">Price Per day:<span data-bind="text: car.pricePerDay"></span></li>
+            <li>Aircondition: <span data-bind="text: car.extras.airCondition"></span> </li>
+            <li>Audiosystem: <span data-bind="text: car.extras.audioSystem"></span> </li>
+            <li>Automatic Transmission: <span data-bind="text: car.extras.automaticTransmission"> </span></li>
+            <li>Crouse Control: <span data-bind="text: car.extras.crouseControl"></span></li>
+            <li>Parktronic: <span data-bind="text: car.extras.parktronic"> </span></li>
+            <li>Powerlock: <span data-bind="text: car.extras.powerLock"> </span></li>
+            <li>Powerwindows: <span data-bind="text: car.extras.powerWindows"></span></li>      
+        </ul>
+        <div></div>
+        <div id="btn-rent">
+            <button data-bind="click: rent" class="k-button">Rent</button>
+        </div>
+
+        <div id="btn-buy">
+            <button data-bind="click: buy" class="k-button">Buy</button>
+        </div>
+        <h4>Please choose star date and end date for renting car</h4>
+        <div id="example" class="k-content">
+            <label for="start">Start date:</label>
+            <input data-bind="value: mystartDate" id="start" />
+
+            <label for="end" style="margin-left:3em">End date:</label>
+            <input data-bind="value: myendDate" id="end" />
+        </div>
+    </div>
+</script>
+
+
+
+
+<!--<ul data-template="car-template" data-bind="source: car">
+</ul>
+
+<script type="text/x-kendo-template" id="car-template">
+    <li>
+        Make: <span data-bind="text: make"></span> <br />
+        Model: <span data-bind="text: model"></span> <br />
+        Year: <span data-bind="text: year"></span> <br />
+        Power: <span data-bind="text: power"></span>
+    </li>
+
+</script>-->

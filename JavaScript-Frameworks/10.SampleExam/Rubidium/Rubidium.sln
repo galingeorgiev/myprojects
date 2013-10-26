@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarStore.Model", "CarStore.Model\CarStore.Model.csproj", "{37B9107D-6C5E-47D9-AE34-5479BA4F0C28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarStore.Data", "CarStore.Data\CarStore.Data.csproj", "{C9556AF6-521A-4DFF-8A22-4CDECBF11259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarStore.Service", "CarStore.Service\CarStore.Service.csproj", "{8F241683-EDE6-40E1-AE24-00DFEF0AA42B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{227C724C-60AB-41E9-BC15-71211544D1B1}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs22
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CarStore.Data\\CarStore.Data.csproj
+		SccProjectName1 = CarStore.Data
+		SccLocalPath1 = CarStore.Data
+		SccProjectUniqueName2 = CarStore.Model\\CarStore.Model.csproj
+		SccProjectName2 = CarStore.Model
+		SccLocalPath2 = CarStore.Model
+		SccProjectUniqueName3 = CarStore.Service\\CarStore.Service.csproj
+		SccProjectName3 = CarStore.Service
+		SccLocalPath3 = CarStore.Service
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B9107D-6C5E-47D9-AE34-5479BA4F0C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B9107D-6C5E-47D9-AE34-5479BA4F0C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B9107D-6C5E-47D9-AE34-5479BA4F0C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B9107D-6C5E-47D9-AE34-5479BA4F0C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9556AF6-521A-4DFF-8A22-4CDECBF11259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9556AF6-521A-4DFF-8A22-4CDECBF11259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9556AF6-521A-4DFF-8A22-4CDECBF11259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9556AF6-521A-4DFF-8A22-4CDECBF11259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F241683-EDE6-40E1-AE24-00DFEF0AA42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F241683-EDE6-40E1-AE24-00DFEF0AA42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F241683-EDE6-40E1-AE24-00DFEF0AA42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F241683-EDE6-40E1-AE24-00DFEF0AA42B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

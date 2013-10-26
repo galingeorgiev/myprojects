@@ -1,0 +1,123 @@
+﻿.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+
+.signup {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.signup .k-textbox, 
+.signup .k-widget {
+  width: 100%;
+}
+
+.k-info-colored {
+    width: 24%;
+    margin: 0 auto;   
+}
+
+.k-info-colored legend {
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+#tb-username, #tb-password {
+    margin-top: 5px;
+    margin-bottom: 5px; 
+}
+
+#btn-layout {
+    width: 140px;
+    margin: 0 auto;
+}
+
+.hidden {
+    display: none;
+}
+
+.visible {
+    display: inline-block;   
+}
+
+#main-nav {
+    width: 100%;
+    margin: 0 auto;
+}
+
+#menu {
+    width: 100%;
+}
+
+#app {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+#login, #register {
+    margin-bottom: 20px;
+    display: inline-block;
+    border-radius: 0;
+}
+
+#main-content {
+    margin-top: 30px;
+}
+
+.hidden {
+    display: none;
+}
+
+#one-car {
+    float: right;
+    list-style: none;
+}
+
+.div-one-car {
+    width: 80%;
+}
+
+#example .k-datepicker {
+    vertical-align: middle;
+}
+
+#example h3 {
+    clear: both;
+}
+
+#example .code-sample {
+    width: 60%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+#example .output {
+    width: 24%;
+    margin-left: 4%;
+    float: left;
+}
+#btn-rent {
+    display:inline-block;
+}
+#btn-buy {
+        display:inline-block;
+}
+.error {
+    margin-top:20px;
+    color:red;
+}
+
+ul#one-car > li{
+    font-weight: bold;
+}
+
+ul#one-car > li span{
+    font-weight: normal;
+    text-decoration: underline;
+    margin-left: 4px;
+}

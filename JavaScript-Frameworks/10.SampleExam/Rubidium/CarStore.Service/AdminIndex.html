@@ -1,0 +1,58 @@
+﻿<html ng-app="rentCars">
+    <head>
+        <title>Car Rental System Rubidium</title>
+        <script src="Scripts/libs/jquery-2.0.3.js"></script>
+        <script src="Scripts/libs/angular.js"></script>
+        <script src="Scripts/libs/class.js"></script>
+        <script src="Scripts/libs/sha1.js"></script>
+        <script src="Scripts/adminClient/app/controllers.js"></script>
+        <script src="Scripts/adminClient/app.js"></script>
+        <link  rel="stylesheet" href="Styles/bootstrap.css"/>
+        <style>
+            .container-fluid
+            {
+                padding: 20px;
+            }
+            input
+            {
+                height: 25px;
+            }
+        </style>
+    </head>
+    <body ng-controller="UsersController" >
+        <div class="container-fluid">
+            <div class="page-header">
+                <h1>
+                    Administration <small>area</small>
+                </h1>
+            </div>
+            <div class="row-fluid">
+                <div class="span2">
+                    <a href="#/users/register">Register admin</a>
+                    <br />
+                    <input type="button" value="Logout" ng-click="logoutUser()" class="btn"/>
+                    <br />
+                    <a href="#/users/login">Login admin</a>
+                    <br />
+                    <a href="#/cars/add" >Add car</a>
+                    <br />
+                    <a href="#/users/all" ng-click="showAllUsers()">Show all users</a>
+                    
+                    <br />
+                    <div ng-controller="CarsController">
+                        <a href="#/cars/all" ng-click="showAllCars()">Show all cars</a>
+                    </div>
+                
+                </div >
+                <div ng-view class="span10"></div>
+                <div id="app"></div>
+                
+                <!--<input type="text" ng-model="yourName" placeholder="Enter a name here">
+                <hr>
+                <h1>Hello {{yourName}}!</h1>-->
+            </div>
+        
+        </div>
+        <script src="Scripts/libs/bootstrap.min.js"></script>
+    </body>
+</html>

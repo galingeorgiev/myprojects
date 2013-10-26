@@ -1,0 +1,9 @@
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Model\bin\Debug\CarStore.Model.dll
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Model\bin\Debug\CarStore.Model.pdb
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Model\obj\Debug\CarStore.Model.dll
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Model\obj\Debug\CarStore.Model.pdb
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Model\bin\Debug\CarStore.Model.dll.config
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Model\bin\Debug\EntityFramework.dll
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Model\bin\Debug\EntityFramework.xml
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Model\bin\Debug\Newtonsoft.Json.xml

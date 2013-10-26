@@ -1,0 +1,61 @@
+﻿<h2>Cars available for rent</h2>
+
+<div data-role="grid"  data-draggable="true" data-selectable="row" data-sortable="true" data-groupable="true" data-pageable="{pageSize:'5',refresh:true, pageSizes:true}" data-columns='[
+    {
+        field: "id",
+        hidden: true
+    },
+
+    {
+        title: "Make",
+        field: "make"
+    }, 
+    {
+        title: "Model",
+        field: "model"
+    },
+    {
+        title: "Year",
+        field: "year"
+    },
+    {
+        title: "Horse Power",
+        field: "power"
+    },
+      {
+        title: "Doors",
+        field: "doors"
+    },
+        {
+        title: "Engine",
+        field: "engine"
+    },
+      {
+        title: "Seats",
+        field: "seats"
+    },
+    {
+        command: [
+            {
+            name: "Car Details",
+            click: getCarDetails   
+             }
+        ]
+    }
+    
+    ]' data-bind="source: cars">
+       
+</div>
+
+<script>
+    
+    function getCarDetails(data) {
+        data.preventDefault();
+        var dataItem = this.dataItem($(data.currentTarget).closest("tr"));
+        var carData = dataItem;
+        var id = carData.id;
+        
+        window.location = "#/cars/" + id;
+    }
+    
+</script>

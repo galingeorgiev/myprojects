@@ -1,0 +1,44 @@
+﻿
+<h2>Stores</h2>
+
+<div data-role="grid"  data-draggable="true" data-selectable="row" data-sortable="true" data-groupable="true" data-pageable="{pageSize:'5',refresh:true, pageSizes:true}" data-columns='[
+    {
+        field: "id",
+        hidden: true
+    },
+    {
+        title: "City",
+        field: "city"
+    }, 
+    {
+        title: "Store Name",
+        field: "name"
+    },
+    {
+        title: "Address",
+        field: "adress"
+    },
+    {
+        command: [
+            {
+            name: "Store Details",
+            click: getStoreDetails   
+             }
+        ]
+    }
+    
+    ]' data-bind="source: stores">
+       
+</div>
+
+<script>
+
+    function getStoreDetails(data) {
+        data.preventDefault();
+        var dataItem = this.dataItem($(data.currentTarget).closest("tr"));
+        var storeData = dataItem;
+        var id = storeData.id;
+
+        window.location = "#/stores/" + id;
+    }
+</script>

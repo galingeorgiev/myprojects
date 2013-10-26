@@ -1,0 +1,12 @@
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Data\bin\Debug\CarStore.Data.dll.config
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Data\bin\Debug\CarStore.Data.dll
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Data\bin\Debug\CarStore.Data.pdb
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Data\bin\Debug\CarStore.Model.dll
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Data\bin\Debug\EntityFramework.dll
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Data\bin\Debug\CarStore.Model.pdb
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Data\bin\Debug\EntityFramework.xml
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Data\obj\Debug\CarStore.Data.csprojResolveAssemblyReference.cache
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Data\obj\Debug\CarStore.Data.dll
+C:\Users\academy\Source\Workspaces\rentacar\Rubidium\CarStore.Data\obj\Debug\CarStore.Data.pdb

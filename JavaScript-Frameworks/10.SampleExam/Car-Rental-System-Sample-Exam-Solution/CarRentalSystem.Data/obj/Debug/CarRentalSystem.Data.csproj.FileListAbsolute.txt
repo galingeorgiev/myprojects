@@ -1,0 +1,20 @@
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\bin\Debug\CarRentalSystem.Data.dll.config
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\bin\Debug\CarRentalSystem.Data.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\bin\Debug\CarRentalSystem.Data.pdb
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\bin\Debug\CarRentalSystem.Models.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\bin\Debug\EntityFramework.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\bin\Debug\CarRentalSystem.Models.pdb
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\bin\Debug\EntityFramework.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\obj\Debug\CarRentalSystem.Data.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\obj\Debug\CarRentalSystem.Data.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\obj\Debug\CarRentalSystem.Data.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\bin\Debug\CarRentalSystem.Data.dll.config
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\bin\Debug\CarRentalSystem.Data.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\bin\Debug\CarRentalSystem.Data.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\bin\Debug\CarRentalSystem.Models.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\bin\Debug\CarRentalSystem.Models.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\obj\Debug\CarRentalSystem.Data.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\obj\Debug\CarRentalSystem.Data.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\10.SampleExam\Car-Rental-System-Sample-Exam-Solution\CarRentalSystem.Data\obj\Debug\CarRentalSystem.Data.pdb

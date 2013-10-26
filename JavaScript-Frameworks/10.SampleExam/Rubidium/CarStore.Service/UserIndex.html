@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Car Rental System Rubidium</title>
+    <script src="Scripts/libs/jquery-2.0.3.js"></script>
+    <script src="Scripts/libs/kendo.web.min.js"></script>
+    <script src="Scripts/libs/class.js"></script>
+    <script src="Scripts/libs/sha1.js"></script>
+    <script src="Scripts/libs/rsvp.min.js"></script>
+    <link href="Styles/kendo.common.min.css" rel="stylesheet" />
+    <link href="Styles/kendo.default.min.css" rel="stylesheet" />
+    <link href="Styles/styles.css" rel="stylesheet" />
+    <script src="Scripts/userClient/app/httpRequester.js"></script>
+    <script src="Scripts/userClient/app/dataPersister.js"></script>
+    <script src="Scripts/userClient/app/templatesLoader.js"></script>
+    <script src="Scripts/userClient/app/views.js"></script>
+    <script src="Scripts/userClient/app/view-models.js"></script>
+    <script src="Scripts/userClient/app.js"></script>
+</head>
+<body>
+    <div id="app">
+        <nav id="main-nav">
+            <ul id="menu">
+                <li id="btn-login"><a href="#/login">Sign In</a></li>
+                <li><a href="#/UserIndex.html">Home</a></li>
+                <li><a href="#/cars">Cars</a></li>
+                <li><a href="#/stores">Stores</a></li>
+                <li><a href="#/about">About</a></li>
+                <li id="btn-logout" class="hidden"><a href="#/logout">Logout</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div id="grid"></div>
+    <script src="Scripts/userClient/app/ui.js"></script>
+</body>
+</html>
