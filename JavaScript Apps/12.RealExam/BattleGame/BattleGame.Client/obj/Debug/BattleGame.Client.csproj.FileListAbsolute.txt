@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Client\bin\BullsAndCows.Client.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Client\bin\BullsAndCows.Client.pdb
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Client\obj\Debug\BattleGame.Client.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Client\obj\Debug\BullsAndCows.Client.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Client\obj\Debug\BullsAndCows.Client.pdb
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Client\bin\BullsAndCows.Client.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Client\bin\BullsAndCows.Client.pdb
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Client\obj\Debug\BattleGame.Client.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Client\obj\Debug\BullsAndCows.Client.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Client\obj\Debug\BullsAndCows.Client.pdb

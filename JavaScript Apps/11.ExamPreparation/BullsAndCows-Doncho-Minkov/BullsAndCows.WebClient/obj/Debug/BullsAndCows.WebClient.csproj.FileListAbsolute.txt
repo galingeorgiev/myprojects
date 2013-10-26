@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\BullsAndCows-Doncho-Minkov\BullsAndCows.WebClient\bin\BullsAndCows.WebClient.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\BullsAndCows-Doncho-Minkov\BullsAndCows.WebClient\bin\BullsAndCows.WebClient.pdb
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\BullsAndCows-Doncho-Minkov\BullsAndCows.WebClient\obj\Debug\BullsAndCows.WebClient.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\BullsAndCows-Doncho-Minkov\BullsAndCows.WebClient\obj\Debug\BullsAndCows.WebClient.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\BullsAndCows-Doncho-Minkov\BullsAndCows.WebClient\obj\Debug\BullsAndCows.WebClient.pdb

@@ -1,0 +1,10 @@
+﻿[{ "fname": "George", "lname": "Todorov" },
+	{ "fname": "Ivan", "lname": "Ivanov" },
+	{ "fname": "Petrov", "lname": "Georgiev" },
+	{ "fname": "Stamat", "lname": "Petrov" },
+	{ "fname": "Nikolay", "lname": "Nikolov" },
+	{ "fname": "Jana", "lname": "Todorova" },
+	{ "fname": "Maria", "lname": "Ivanova" },
+	{ "fname": "Ina", "lname": "Georgieva" },
+	{ "fname": "Denitsa", "lname": "Petrova" },
+	{ "fname": "Kameliya", "lname": "Nikolova" }]

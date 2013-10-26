@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="../Styles/common.css" rel="stylesheet" />
+    <link href="../Styles/login.css" rel="stylesheet" />
+    <link href="../Styles/register.css" rel="stylesheet" />
+    <link href="../Styles/user-loged-in.css" rel="stylesheet" />
+    <script src="../Scripts/jquery-2.0.2.min.js"></script>
+    <script src="user-loged-in.js"></script>
+    <script src="../Scripts/MyScripts/parshel-render.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="left-side-bar">
+            <h2 id="your-games">Your games</h2>
+            <ul id="your-games-list">
+                <li><a href="#">Game 1</a><span>by Ivan</span></li>
+                <li><a href="#">Game 1</a><span>by Pesho</span></li>
+                <li><a href="#">Game 1</a><span>by Gosho</span></li>
+                <li><a href="#">Game 1</a><span>by Pesho</span></li>
+                <li><a href="#">Game 1</a><span>by Ivan</span></li>
+                <li><a href="#">Game 1</a><span>by Gosho</span></li>
+                <li><a href="#">Game 1</a><span>by Pesho</span></li>
+                <li><a href="#">Game 1</a><span>by Gosho</span></li>
+                <li><a href="#">Game 1</a><span>by Pesho</span></li>
+                <li><a href="#">Game 1</a><span>by Ivan</span></li>
+            </ul>
+            <h2>Available games</h2>
+            <ul>
+                <li><a href="#">Game 1</a><span>by Ivan</span></li>
+                <li><a href="#">Game 1</a><span>by Pesho</span></li>
+                <li><a href="#">Game 1</a><span>by Gosho</span></li>
+                <li><a href="#">Game 1</a><span>by Pesho</span></li>
+                <li><a href="#">Game 1</a><span>by Ivan</span></li>
+                <li><a href="#">Game 1</a><span>by Gosho</span></li>
+                <li><a href="#">Game 1</a><span>by Pesho</span></li>
+                <li><a href="#">Game 1</a><span>by Gosho</span></li>
+                <li><a href="#">Game 1</a><span>by Pesho</span></li>
+                <li><a href="#">Game 1</a><span>by Ivan</span></li>
+            </ul>
+        </div>
+        <div id="current-game-container">
+            <div id="login-container"></div>
+        </div>
+        <div id="right-side-bar">
+            <h2>Messages</h2>
+            <ul>
+                <li>Alabalanica<span>by Pesho</span></li>
+                <li>Alabalanica<span>by Pesho</span></li>
+                <li>Alabalanica<span>by Pesho</span></li>
+                <li>Alabalanica<span>by Pesho</span></li>
+                <li>Alabalanica<span>by Pesho</span></li>
+                <li>Alabalanica<span>by Pesho</span></li>
+                <li>Alabalanica<span>by Pesho</span></li>
+                <li>Alabalanica<span>by Pesho</span></li>
+                <li>Alabalanica<span>by Pesho</span></li>
+                <li>Alabalanica<span>by Pesho</span></li>
+                <li>Alabalanica<span>by Pesho</span></li>
+                <li>Alabalanica<span>by Pesho</span></li>
+                <li>Alabalanica<span>by Pesho</span></li>
+                <li>Alabalanica<span>by Pesho</span></li>
+            </ul>
+        </div>
+        <script>
+            $('#login-container').load('login.html');
+            $('#your-games-list').addClass('show')
+
+            $('#left-side-bar').on('click', '#your-games', function () {
+                if ($('#your-games-list').hasClass('show')) {
+                    $('#your-games-list').hide(1500);
+                    $('#your-games-list').removeClass('show');
+                }
+                else {
+                    $('#your-games-list').show(1500);
+                    $('#your-games-list').addClass('show');
+                }
+                return false;
+            })
+            //$('#register-container').load('register.html');
+            //$('#loged-in-conatiner').load('user-loged-in.html');
+        </script>
+        <script src="../Scripts/MyScripts/BullsAndCows.DrawUI.js"></script>
+    </div>
+</body>
+</html>

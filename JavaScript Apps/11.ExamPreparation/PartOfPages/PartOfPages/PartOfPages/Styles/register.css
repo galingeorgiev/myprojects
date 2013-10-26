@@ -1,0 +1,13 @@
+﻿#register-user-container{
+    width:300px;
+    margin:0 auto;
+}
+
+#register-user-container > label{
+    line-height:26px;
+}
+
+    #register-user-container > input {
+        width:200px;
+        float: right;
+    }

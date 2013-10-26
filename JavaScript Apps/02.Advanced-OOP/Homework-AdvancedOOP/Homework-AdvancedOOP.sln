@@ -1,0 +1,101 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "01.SchoolRepositoryPrototypal", "01.SchoolRepositoryPrototypal\", "{4329203F-595D-4101-AF41-2A431B50B079}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/01.SchoolRepositoryPrototypal"
+		Debug.AspNetCompiler.PhysicalPath = "01.SchoolRepositoryPrototypal\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\01.SchoolRepositoryPrototypal\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/01.SchoolRepositoryPrototypal"
+		Release.AspNetCompiler.PhysicalPath = "01.SchoolRepositoryPrototypal\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\01.SchoolRepositoryPrototypal\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49863"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "02.SchoolRepositoryClassical", "02.SchoolRepositoryClassical\", "{2D5BB18C-3A05-440D-B9DA-8D08C553A7B4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/02.SchoolRepositoryClassical"
+		Debug.AspNetCompiler.PhysicalPath = "02.SchoolRepositoryClassical\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\02.SchoolRepositoryClassical\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/02.SchoolRepositoryClassical"
+		Release.AspNetCompiler.PhysicalPath = "02.SchoolRepositoryClassical\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\02.SchoolRepositoryClassical\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49874"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "03.ImageSlider", "03.ImageSlider\", "{FD8E1DD0-8DE8-4A26-8946-FF85F6A2C505}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/03.ImageSlider"
+		Debug.AspNetCompiler.PhysicalPath = "03.ImageSlider\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\03.ImageSlider\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/03.ImageSlider"
+		Release.AspNetCompiler.PhysicalPath = "03.ImageSlider\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\03.ImageSlider\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49875"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "04.FavouriteSitesBar", "04.FavouriteSitesBar\", "{591DDF36-308C-43A9-A11D-E006040C1154}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/04.FavouriteSitesBar"
+		Debug.AspNetCompiler.PhysicalPath = "04.FavouriteSitesBar\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\04.FavouriteSitesBar\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/04.FavouriteSitesBar"
+		Release.AspNetCompiler.PhysicalPath = "04.FavouriteSitesBar\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\04.FavouriteSitesBar\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51674"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4329203F-595D-4101-AF41-2A431B50B079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4329203F-595D-4101-AF41-2A431B50B079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5BB18C-3A05-440D-B9DA-8D08C553A7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5BB18C-3A05-440D-B9DA-8D08C553A7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8E1DD0-8DE8-4A26-8946-FF85F6A2C505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8E1DD0-8DE8-4A26-8946-FF85F6A2C505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591DDF36-308C-43A9-A11D-E006040C1154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591DDF36-308C-43A9-A11D-E006040C1154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="../Scripts/jquery-2.0.2.js"></script>
+    <style>
+        #login-user-container {
+            width: 300px;
+            margin: 0 auto;
+        }
+
+            #login-user-container > label {
+                line-height: 26px;
+                display: inline-block;
+                width: 100px;
+            }
+
+            #login-user-container > input {
+                width: 190px;
+            }
+
+            #login-user-container > a {
+                float: right;
+                margin-top: 6px;
+            }
+    </style>
+</head>
+<body>
+    <div id="login-container"></div>
+
+    <script>
+        $('#login-container').html(drawLogInForm());
+
+        function drawLogInForm() {
+            return '<fieldset id="login-user-container">' +
+                        '<legend>Log In</legend>' +
+                        '<label for="login-user-nickname">Nickname</label>' +
+                        '<input id="login-user-nickname" type="text" name="name" value="" placeholder="Enter your nickname" autofocus="true" />' +
+                        '<label for="login-user-password">Password</label>' +
+                        '<input id="login-user-password" type="password" name="name" value="" placeholder="Enter your password" />' +
+                        '<button id="button-log-in">Log In</button>' +
+                        '<a id="register-now" href="#">Register now</a>' +
+                    '</fieldset>';
+        }
+    </script>
+</body>
+</html>

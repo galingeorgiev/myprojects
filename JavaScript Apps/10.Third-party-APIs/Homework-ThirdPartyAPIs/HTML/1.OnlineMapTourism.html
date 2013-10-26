@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Online Map Tourism</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta charset="utf-8" />
+    <script src="../Scripts/jquery-2.0.2.min.js"></script>
+    <link href="../Styles/1.OnlineMapTourism.css" rel="stylesheet" />
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script src="../MyScripts/1.OnlineMapTourism.js"></script>
+</head>
+<body>
+    <label for="capitalsList">Select capital: </label>
+    <select id="capitalsList" name="Select capital">
+        <option value="0">London</option>
+        <option value="1">Paris</option>
+        <option value="2">Marrid</option>
+        <option value="3">Praha</option>
+        <option value="4">Moscow</option>
+    </select>
+    <div id="container">
+        <div id="buttonHolderPrev"><a href="#">Previous</a></div>
+        <div id="capitalNameContainer"></div>
+        <div id="buttonHolderNext"><a href="#">Next</a></div>
+    </div>
+    <div id="map-canvas"></div>
+</body>
+</html>

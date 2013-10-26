@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students last-id="22">
+  <student id="1" firstname="Georgi" lastname="Todorov">
+    <marks>
+      <mark subject=".NET" score="3.6" />
+      <mark subject="OOP" score="4.47" />
+      <mark subject="C#" score="5.14" />
+      <mark subject="ASP.NET MVC" score="2.2" />
+      <mark subject="XAML" score="5.18" />
+      <mark subject="JavaScript" score="2.18" />
+      <mark subject="HTML/CSS" score="2.88" />
+    </marks>
+  </student>
+  <student id="5" firstname="Svetlin" lastname="Nakov">
+    <marks>
+      <mark subject="Biology" score="4.59" />
+      <mark subject="JavaScript" score="3.54" />
+      <mark subject="C#" score="3.18" />
+      <mark subject="Web" score="3.82" />
+      <mark subject="HTML/CSS" score="3.86" />
+      <mark subject=".NET" score="5.81" />
+    </marks>
+  </student>
+  <student id="9" firstname="Krasimir" lastname="Stamatov">
+    <marks>
+      <mark subject=".NET" score="4.6" />
+      <mark subject="OOP" score="5.08" />
+      <mark subject="JavaScript" score="3.58" />
+      <mark subject="C#" score="3.52" />
+      <mark subject="ASP.NET MVC" score="3.13" />
+      <mark subject="Math" score="2.36" />
+      <mark subject="Biology" score="5.11" />
+    </marks>
+  </student>
+</students>

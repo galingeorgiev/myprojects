@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<script src="scripts/jquery-2.0.2.js"></script>
+</head>
+<body>
+	<div id="http-response"></div>
+	<script>
+		$.ajax({
+			url: "scripts/data.js",
+			type: "GET",
+			contentType: "application/json",
+			success: function (data) {
+				$("#http-response").html(JSON.stringify(data));
+			}
+		});
+	</script>
+</body>
+</html>

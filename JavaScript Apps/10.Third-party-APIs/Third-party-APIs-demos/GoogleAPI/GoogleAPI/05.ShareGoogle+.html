@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Share On Google+</title>
+</head>
+<body>
+    <script src="https://apis.google.com/js/plusone.js"></script>
+    <g:plus action="share" href="http://youtube.com" id="share-tag"></g:plus>
+    <script type="text/javascript"> //put this after the last share tag
+        (function () {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+    </script>
+    <script>
+        var shareTag = document.getElementById('share-tag');
+        shareTag.setAttribute('href', 'http://abv.bg');
+    </script>
+</body>
+</html>

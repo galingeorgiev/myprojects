@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="../Styles/login.css" rel="stylesheet" />
+    <link href="../Styles/register.css" rel="stylesheet" />
+    <link href="../Styles/user-loged-in.css" rel="stylesheet" />
+    <script src="../Scripts/jquery-2.0.2.min.js"></script>
+    <script src="user-loged-in.js"></script>
+    <script src="../Scripts/MyScripts/parshel-render.js"></script>
+</head>
+<body>
+    <div id="login-container"></div>
+    <div id="register-container"></div>
+    <div id="loged-in-conatiner"></div>
+    <script>
+        $('#login-container').load('login.html');
+        $('#register-container').load('register.html');
+        //$('#loged-in-conatiner').load('user-loged-in.html');
+    </script>
+    <script src="../Scripts/MyScripts/BullsAndCows.DrawUI.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+C:\Users\EnikA\Desktop\FacebookDemos\FacebookDemos\bin\FacebookDemos.dll
+C:\Users\EnikA\Desktop\FacebookDemos\FacebookDemos\bin\FacebookDemos.pdb
+C:\Users\EnikA\Desktop\FacebookDemos\FacebookDemos\obj\Debug\FacebookDemos.csprojResolveAssemblyReference.cache
+C:\Users\EnikA\Desktop\FacebookDemos\FacebookDemos\obj\Debug\FacebookDemos.dll
+C:\Users\EnikA\Desktop\FacebookDemos\FacebookDemos\obj\Debug\FacebookDemos.pdb
+C:\Telerik\Training\8. JavaScript API\Demos\FacebookDemos\FacebookDemos\FacebookDemos\bin\FacebookDemos.dll
+C:\Telerik\Training\8. JavaScript API\Demos\FacebookDemos\FacebookDemos\FacebookDemos\bin\FacebookDemos.pdb
+C:\Telerik\Training\8. JavaScript API\Demos\FacebookDemos\FacebookDemos\FacebookDemos\obj\Debug\FacebookDemos.csprojResolveAssemblyReference.cache
+C:\Telerik\Training\8. JavaScript API\Demos\FacebookDemos\FacebookDemos\FacebookDemos\obj\Debug\FacebookDemos.dll
+C:\Telerik\Training\8. JavaScript API\Demos\FacebookDemos\FacebookDemos\FacebookDemos\obj\Debug\FacebookDemos.pdb
+D:\Telerik Academy\Telerik\JavaScript Apps\10.Third-party-APIs\Third-party-APIs-demos\FacebookDemos\FacebookDemos\FacebookDemos\bin\FacebookDemos.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\10.Third-party-APIs\Third-party-APIs-demos\FacebookDemos\FacebookDemos\FacebookDemos\bin\FacebookDemos.pdb
+D:\Telerik Academy\Telerik\JavaScript Apps\10.Third-party-APIs\Third-party-APIs-demos\FacebookDemos\FacebookDemos\FacebookDemos\obj\Debug\FacebookDemos.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\JavaScript Apps\10.Third-party-APIs\Third-party-APIs-demos\FacebookDemos\FacebookDemos\FacebookDemos\obj\Debug\FacebookDemos.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\10.Third-party-APIs\Third-party-APIs-demos\FacebookDemos\FacebookDemos\FacebookDemos\obj\Debug\FacebookDemos.pdb

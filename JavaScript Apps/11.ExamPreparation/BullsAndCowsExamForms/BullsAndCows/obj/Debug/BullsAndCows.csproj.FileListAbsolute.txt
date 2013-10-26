@@ -1,0 +1,90 @@
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csprojResolveAssemblyReference.cache
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\BullsAndCows.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\BullsAndCows.pdb
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\Antlr3.Runtime.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\EntityFramework.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\Newtonsoft.Json.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Net.Http.Formatting.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Spatial.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.Helpers.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.Http.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.Http.WebHost.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.Mvc.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.Optimization.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.Razor.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.WebPages.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.WebPages.Razor.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\Web.Optimization.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\WebGrease.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\Newtonsoft.Json.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Spatial.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.Helpers.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.Mvc.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.Razor.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.WebPages.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.WebPages.Razor.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\EntityFramework.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Net.Http.Formatting.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.Http.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.Http.WebHost.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\de\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\es\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\fr\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\it\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\ja\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\ko\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\ru\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.pdb
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.Cors.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows\bin\System.Web.Http.Cors.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\BullsAndCows.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\BullsAndCows.pdb
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\Antlr3.Runtime.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\EntityFramework.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\Microsoft.Web.Infrastructure.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\Newtonsoft.Json.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Net.Http.Formatting.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Spatial.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.Cors.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.Helpers.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.Http.Cors.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.Http.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.Http.WebHost.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.Mvc.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.Optimization.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.Razor.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.WebPages.Deployment.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.WebPages.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.WebPages.Razor.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\Web.Optimization.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\WebGrease.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\Newtonsoft.Json.xml
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Net.Http.Formatting.xml
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Spatial.xml
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.Helpers.xml
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.Http.xml
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.Mvc.xml
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.Razor.xml
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.WebPages.xml
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.WebPages.Deployment.xml
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.WebPages.Razor.xml
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\EntityFramework.xml
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\System.Web.Http.WebHost.xml
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\de\System.Spatial.resources.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\es\System.Spatial.resources.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\fr\System.Spatial.resources.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\it\System.Spatial.resources.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\ja\System.Spatial.resources.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\ko\System.Spatial.resources.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\ru\System.Spatial.resources.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\zh-Hans\System.Spatial.resources.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\bin\zh-Hant\System.Spatial.resources.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.dll
+C:\Dropbox\Work\js-apps\Lectures\10. Exam Preparation\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.pdb

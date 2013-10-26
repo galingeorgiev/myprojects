@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BullsAndCowsDbModelStoreContainer" CdmEntityContainer="BullsAndCowsEntities">
+    <EntitySetMapping Name="Games">
+      <EntityTypeMapping TypeName="BullsAndCowsDbModel.Game">
+        <MappingFragment StoreEntitySet="Games">
+          <ScalarProperty Name="GameStatusId" ColumnName="GameStatusId" />
+          <ScalarProperty Name="BlueUserId" ColumnName="BlueUserId" />
+          <ScalarProperty Name="RedUserId" ColumnName="RedUserId" />
+          <ScalarProperty Name="UserInTurn" ColumnName="UserInTurn" />
+          <ScalarProperty Name="BlueUserNumber" ColumnName="BlueUserNumber" />
+          <ScalarProperty Name="RedUserNumber" ColumnName="RedUserNumber" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GameStatuses">
+      <EntityTypeMapping TypeName="BullsAndCowsDbModel.GameStatus">
+        <MappingFragment StoreEntitySet="GameStatuses">
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Guesses">
+      <EntityTypeMapping TypeName="BullsAndCowsDbModel.Guess">
+        <MappingFragment StoreEntitySet="Guesses">
+          <ScalarProperty Name="GameId" ColumnName="GameId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Bulls" ColumnName="Bulls" />
+          <ScalarProperty Name="Cows" ColumnName="Cows" />
+          <ScalarProperty Name="Number" ColumnName="Number" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Messages">
+      <EntityTypeMapping TypeName="BullsAndCowsDbModel.Message">
+        <MappingFragment StoreEntitySet="Messages">
+          <ScalarProperty Name="MessageStateId" ColumnName="MessageStateId" />
+          <ScalarProperty Name="GameId" ColumnName="GameId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="MessageTypeId" ColumnName="MessageTypeId" />
+          <ScalarProperty Name="Text" ColumnName="Text" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MessageTypes">
+      <EntityTypeMapping TypeName="BullsAndCowsDbModel.MessageType">
+        <MappingFragment StoreEntitySet="MessageTypes">
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Scores">
+      <EntityTypeMapping TypeName="BullsAndCowsDbModel.Score">
+        <MappingFragment StoreEntitySet="Scores">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Value" ColumnName="Value" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="BullsAndCowsDbModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="SessionKey" ColumnName="SessionKey" />
+          <ScalarProperty Name="AuthCode" ColumnName="AuthCode" />
+          <ScalarProperty Name="Nickname" ColumnName="Nickname" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MessageStates">
+      <EntityTypeMapping TypeName="BullsAndCowsDbModel.MessageState">
+        <MappingFragment StoreEntitySet="MessageStates">
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

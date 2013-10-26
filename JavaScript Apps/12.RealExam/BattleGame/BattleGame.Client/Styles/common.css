@@ -1,0 +1,149 @@
+﻿body{
+    background-color:#e8dbdb;
+}
+
+body > p{
+    text-align:center;
+}
+
+input{
+    background-color:#f3e9e9;
+}
+
+h2:hover{
+    cursor:pointer;
+}
+
+#wrapper:after,
+#game-user-create:after,
+#game-user-join:after{
+    content:'';
+    display:block;
+    clear:both;
+    *zoom:1;
+}
+
+#wrapper{
+    width:960px;
+    margin:0 auto;
+}
+
+#left-side-bar,
+#right-side-bar,
+#current-game-container{
+    float:left;
+}
+
+#current-game-container{
+    width:48%;
+}
+
+#left-side-bar,
+#right-side-bar{
+    /*border:1px solid #bbaeae;*/
+    width:25%;
+    height:1px;
+}
+
+#left-side-bar h2,
+#right-side-bar h2{
+    text-align:center;
+}
+
+#left-side-bar ul,
+#right-side-bar ul{
+    list-style-type:none;
+    padding:0;
+    margin:0;
+}
+
+#left-side-bar ul li,
+#right-side-bar ul li{
+    border-top:1px solid #bbaeae;
+    padding:5px;
+    overflow:hidden;
+    background-color:#808080;
+}
+
+#left-side-bar ul li:nth-child(2n+1),
+#right-side-bar ul li:nth-child(2n+1){
+    background-color:#bbaeae;
+}
+
+#left-side-bar span,
+#right-side-bar span{
+    display:block;
+}
+
+#player-guess-text,
+#main-game-container > label{
+    display:block;
+    margin:10px auto;
+}
+
+#main-game-container > label{
+    text-align:center;
+}
+
+#game-state-container table{
+    border:1px solid black;
+    border-spacing:0;
+    border-collapse:collapse;
+    margin:0 auto;
+    width:98%;
+}
+
+#game-state-container table td,
+#game-state-container table th{
+    border:1px solid black;
+    width:10%;
+    height:20px;
+    text-align:center;
+}
+
+#game-state-container table td:hover{
+    cursor:pointer;
+}
+
+#error-messages,
+#win-game-container{
+    width:300px;
+    margin:10px auto;
+    color:red;
+    text-align:center;
+    overflow:hidden;
+}
+
+#game-user-create > label,
+#game-user-join > label {
+    line-height: 26px;
+    display: inline-block;
+    width: 100px;
+}
+
+#game-user-create > input,
+#game-user-join > input {
+    width: 190px;
+}
+
+#game-user-create > button,
+#game-user-join > button {
+    float:right;
+    width:60px;
+    margin:5px 5px 0 0;
+}
+
+#messages{
+    width:300px;
+    margin:10px auto;
+    text-align:center;
+    overflow:hidden;
+    color:#15d415;
+}
+
+#game-state-text,
+#game-name,
+#game-state-turn{
+    text-align:center;
+    font-weight:700;
+}

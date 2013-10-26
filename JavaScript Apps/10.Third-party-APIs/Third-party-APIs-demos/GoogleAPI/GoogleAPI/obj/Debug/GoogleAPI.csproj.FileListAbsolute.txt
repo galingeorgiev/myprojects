@@ -1,0 +1,10 @@
+C:\Telerik\Training\8. JavaScript API\Demos\GoogleAPI\GoogleAPI\bin\GoogleAPI.dll
+C:\Telerik\Training\8. JavaScript API\Demos\GoogleAPI\GoogleAPI\bin\GoogleAPI.pdb
+C:\Telerik\Training\8. JavaScript API\Demos\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.csprojResolveAssemblyReference.cache
+C:\Telerik\Training\8. JavaScript API\Demos\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.dll
+C:\Telerik\Training\8. JavaScript API\Demos\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.pdb
+D:\Telerik Academy\Telerik\JavaScript Apps\10.Third-party-APIs\Third-party-APIs-demos\GoogleAPI\GoogleAPI\bin\GoogleAPI.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\10.Third-party-APIs\Third-party-APIs-demos\GoogleAPI\GoogleAPI\bin\GoogleAPI.pdb
+D:\Telerik Academy\Telerik\JavaScript Apps\10.Third-party-APIs\Third-party-APIs-demos\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\JavaScript Apps\10.Third-party-APIs\Third-party-APIs-demos\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\10.Third-party-APIs\Third-party-APIs-demos\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.pdb

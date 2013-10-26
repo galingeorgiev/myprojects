@@ -1,0 +1,20 @@
+<html>
+<head>
+  <title></title>
+  <script type="text/javascript" src="scripts/prototype-extend.js"></script>
+</head>
+<body>
+  <div id="content"></div>
+
+  <script type="text/javascript">
+    var content = document.getElementById("content");
+
+    var text = "<h1>This is not escaped</h1>";
+    content.innerHTML += text;
+
+    text = "<h1>This is escaped</h1>";
+    content.innerHTML += text.htmlEscape();
+
+  </script>
+</body>
+</html>

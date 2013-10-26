@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BullsAndCowsDbModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="BullsAndCowsEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Games" EntityType="BullsAndCowsDbModel.Game" />
+    <EntitySet Name="GameStatuses" EntityType="BullsAndCowsDbModel.GameStatus" />
+    <EntitySet Name="Guesses" EntityType="BullsAndCowsDbModel.Guess" />
+    <EntitySet Name="Messages" EntityType="BullsAndCowsDbModel.Message" />
+    <EntitySet Name="MessageStates" EntityType="BullsAndCowsDbModel.MessageState" />
+    <EntitySet Name="MessageTypes" EntityType="BullsAndCowsDbModel.MessageType" />
+    <EntitySet Name="Scores" EntityType="BullsAndCowsDbModel.Score" />
+    <EntitySet Name="Users" EntityType="BullsAndCowsDbModel.User" />
+    <AssociationSet Name="FK_Games_0_0" Association="BullsAndCowsDbModel.FK_Games_0_0">
+      <End Role="GameStatuses" EntitySet="GameStatuses" />
+      <End Role="Games" EntitySet="Games" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Games_1_0" Association="BullsAndCowsDbModel.FK_Games_1_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Games" EntitySet="Games" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Games_2_0" Association="BullsAndCowsDbModel.FK_Games_2_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Games" EntitySet="Games" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Guesses_0_0" Association="BullsAndCowsDbModel.FK_Guesses_0_0">
+      <End Role="Games" EntitySet="Games" />
+      <End Role="Guesses" EntitySet="Guesses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Messages_1_0" Association="BullsAndCowsDbModel.FK_Messages_1_0">
+      <End Role="Games" EntitySet="Games" />
+      <End Role="Messages" EntitySet="Messages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Guesses_1_0" Association="BullsAndCowsDbModel.FK_Guesses_1_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Guesses" EntitySet="Guesses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Messages_0_0" Association="BullsAndCowsDbModel.FK_Messages_0_0">
+      <End Role="MessageStates" EntitySet="MessageStates" />
+      <End Role="Messages" EntitySet="Messages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Messages_2_0" Association="BullsAndCowsDbModel.FK_Messages_2_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Messages" EntitySet="Messages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Messages_3_0" Association="BullsAndCowsDbModel.FK_Messages_3_0">
+      <End Role="MessageTypes" EntitySet="MessageTypes" />
+      <End Role="Messages" EntitySet="Messages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Scores_0_0" Association="BullsAndCowsDbModel.FK_Scores_0_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Scores" EntitySet="Scores" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Game">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+    <Property Name="Password" Type="String" MaxLength="40" Unicode="true" FixedLength="false" />
+    <Property Name="RedUserNumber" Type="Int64" Nullable="false" />
+    <Property Name="BlueUserNumber" Type="Int64" />
+    <Property Name="UserInTurn" Type="Int64" />
+    <Property Name="RedUserId" Type="Int64" Nullable="false" />
+    <Property Name="BlueUserId" Type="Int64" />
+    <Property Name="GameStatusId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="GameStatus" Relationship="BullsAndCowsDbModel.FK_Games_0_0" FromRole="Games" ToRole="GameStatuses" />
+    <NavigationProperty Name="BlueUser" Relationship="BullsAndCowsDbModel.FK_Games_1_0" FromRole="Games" ToRole="Users" />
+    <NavigationProperty Name="RedUser" Relationship="BullsAndCowsDbModel.FK_Games_2_0" FromRole="Games" ToRole="Users" />
+    <NavigationProperty Name="Guesses" Relationship="BullsAndCowsDbModel.FK_Guesses_0_0" FromRole="Games" ToRole="Guesses" />
+    <NavigationProperty Name="Messages" Relationship="BullsAndCowsDbModel.FK_Messages_1_0" FromRole="Games" ToRole="Messages" />
+  </EntityType>
+  <EntityType Name="GameStatus">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Status" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Games" Relationship="BullsAndCowsDbModel.FK_Games_0_0" FromRole="GameStatuses" ToRole="Games" />
+  </EntityType>
+  <EntityType Name="Guess">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Number" Type="Int64" Nullable="false" />
+    <Property Name="Cows" Type="Int64" Nullable="false" />
+    <Property Name="Bulls" Type="Int64" Nullable="false" />
+    <Property Name="UserId" Type="Int64" Nullable="false" />
+    <Property Name="GameId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Game" Relationship="BullsAndCowsDbModel.FK_Guesses_0_0" FromRole="Guesses" ToRole="Games" />
+    <NavigationProperty Name="User" Relationship="BullsAndCowsDbModel.FK_Guesses_1_0" FromRole="Guesses" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Message">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Text" Type="String" Nullable="false" MaxLength="2147483647" Unicode="true" FixedLength="false" />
+    <Property Name="MessageTypeId" Type="Int64" Nullable="false" />
+    <Property Name="UserId" Type="Int64" Nullable="false" />
+    <Property Name="GameId" Type="Int64" Nullable="false" />
+    <Property Name="MessageStateId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Game" Relationship="BullsAndCowsDbModel.FK_Messages_1_0" FromRole="Messages" ToRole="Games" />
+    <NavigationProperty Name="MessageState" Relationship="BullsAndCowsDbModel.FK_Messages_0_0" FromRole="Messages" ToRole="MessageStates" />
+    <NavigationProperty Name="User" Relationship="BullsAndCowsDbModel.FK_Messages_2_0" FromRole="Messages" ToRole="Users" />
+    <NavigationProperty Name="MessageType" Relationship="BullsAndCowsDbModel.FK_Messages_3_0" FromRole="Messages" ToRole="MessageTypes" />
+  </EntityType>
+  <EntityType Name="MessageState">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="State" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Messages" Relationship="BullsAndCowsDbModel.FK_Messages_0_0" FromRole="MessageStates" ToRole="Messages" />
+  </EntityType>
+  <EntityType Name="MessageType">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Type" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Messages" Relationship="BullsAndCowsDbModel.FK_Messages_3_0" FromRole="MessageTypes" ToRole="Messages" />
+  </EntityType>
+  <EntityType Name="Score">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Value" Type="Int64" Nullable="false" />
+    <Property Name="UserId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="BullsAndCowsDbModel.FK_Scores_0_0" FromRole="Scores" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+    <Property Name="Nickname" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+    <Property Name="AuthCode" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+    <Property Name="SessionKey" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="GamesJoined" Relationship="BullsAndCowsDbModel.FK_Games_1_0" FromRole="Users" ToRole="Games" />
+    <NavigationProperty Name="GamesCreated" Relationship="BullsAndCowsDbModel.FK_Games_2_0" FromRole="Users" ToRole="Games" />
+    <NavigationProperty Name="Guesses" Relationship="BullsAndCowsDbModel.FK_Guesses_1_0" FromRole="Users" ToRole="Guesses" />
+    <NavigationProperty Name="Messages" Relationship="BullsAndCowsDbModel.FK_Messages_2_0" FromRole="Users" ToRole="Messages" />
+    <NavigationProperty Name="Scores" Relationship="BullsAndCowsDbModel.FK_Scores_0_0" FromRole="Users" ToRole="Scores" />
+  </EntityType>
+  <Association Name="FK_Games_0_0">
+    <End Role="GameStatuses" Type="BullsAndCowsDbModel.GameStatus" Multiplicity="1" />
+    <End Role="Games" Type="BullsAndCowsDbModel.Game" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GameStatuses">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Games">
+        <PropertyRef Name="GameStatusId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Games_1_0">
+    <End Role="Users" Type="BullsAndCowsDbModel.User" Multiplicity="0..1" />
+    <End Role="Games" Type="BullsAndCowsDbModel.Game" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Games">
+        <PropertyRef Name="BlueUserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Games_2_0">
+    <End Role="Users" Type="BullsAndCowsDbModel.User" Multiplicity="1" />
+    <End Role="Games" Type="BullsAndCowsDbModel.Game" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Games">
+        <PropertyRef Name="RedUserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Guesses_0_0">
+    <End Role="Games" Type="BullsAndCowsDbModel.Game" Multiplicity="1" />
+    <End Role="Guesses" Type="BullsAndCowsDbModel.Guess" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Games">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Guesses">
+        <PropertyRef Name="GameId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Messages_1_0">
+    <End Role="Games" Type="BullsAndCowsDbModel.Game" Multiplicity="1" />
+    <End Role="Messages" Type="BullsAndCowsDbModel.Message" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Games">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Messages">
+        <PropertyRef Name="GameId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Guesses_1_0">
+    <End Role="Users" Type="BullsAndCowsDbModel.User" Multiplicity="1" />
+    <End Role="Guesses" Type="BullsAndCowsDbModel.Guess" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Guesses">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Messages_0_0">
+    <End Role="MessageStates" Type="BullsAndCowsDbModel.MessageState" Multiplicity="1" />
+    <End Role="Messages" Type="BullsAndCowsDbModel.Message" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MessageStates">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Messages">
+        <PropertyRef Name="MessageStateId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Messages_2_0">
+    <End Role="Users" Type="BullsAndCowsDbModel.User" Multiplicity="1" />
+    <End Role="Messages" Type="BullsAndCowsDbModel.Message" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Messages">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Messages_3_0">
+    <End Role="MessageTypes" Type="BullsAndCowsDbModel.MessageType" Multiplicity="1" />
+    <End Role="Messages" Type="BullsAndCowsDbModel.Message" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MessageTypes">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Messages">
+        <PropertyRef Name="MessageTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Scores_0_0">
+    <End Role="Users" Type="BullsAndCowsDbModel.User" Multiplicity="1" />
+    <End Role="Scores" Type="BullsAndCowsDbModel.Score" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Scores">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

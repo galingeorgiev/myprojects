@@ -1,0 +1,18 @@
+﻿#login-user-container{
+    width:300px;
+    margin:0 auto;
+}
+
+#login-user-container > label{
+    line-height:26px;
+}
+
+    #login-user-container > input {
+        width:200px;
+        float: right;
+    }
+
+    #login-user-container > a{
+        float:right;
+        margin-top:6px;
+    }

@@ -1,0 +1,284 @@
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\BattleGame.Server.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\BattleGame.Server.pdb
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\Antlr3.Runtime.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\EntityFramework.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\Microsoft.Data.Edm.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\Microsoft.Data.OData.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\Newtonsoft.Json.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Net.Http.Formatting.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Spatial.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Cors.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Helpers.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Http.Cors.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Http.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Http.OData.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Http.Tracing.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Http.WebHost.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Mvc.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Optimization.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Providers.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Razor.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.WebPages.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Razor.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\WebGrease.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Net.Http.Formatting.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Http.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Http.OData.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Http.Tracing.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Http.WebHost.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\EntityFramework.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\Newtonsoft.Json.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Helpers.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Mvc.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.Razor.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.WebPages.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Razor.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\Microsoft.Data.Edm.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\Microsoft.Data.OData.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\System.Spatial.xml
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\de\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\es\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\fr\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\it\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\ja\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\ko\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\ru\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\obj\Debug\BattleGame.Server.csprojResolveAssemblyReference.cache
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\obj\Debug\BattleGame.Server.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BattleGame\BattleGame.Server\obj\Debug\BattleGame.Server.pdb
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\BattleGame.Server.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\BattleGame.Server.pdb
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\Antlr3.Runtime.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\EntityFramework.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\Microsoft.Data.Edm.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\Microsoft.Data.OData.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\Newtonsoft.Json.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Net.Http.Formatting.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Spatial.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Cors.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Helpers.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Http.Cors.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Http.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Http.OData.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Http.Tracing.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Http.WebHost.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Mvc.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Optimization.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Providers.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Razor.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.WebPages.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Razor.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\WebGrease.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Net.Http.Formatting.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Http.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Http.OData.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Http.Tracing.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Http.WebHost.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\EntityFramework.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\Newtonsoft.Json.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Helpers.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Mvc.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.Razor.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.WebPages.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Razor.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\Microsoft.Data.Edm.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\Microsoft.Data.OData.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\System.Spatial.xml
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\de\System.Spatial.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\es\System.Spatial.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\fr\System.Spatial.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\it\System.Spatial.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\ja\System.Spatial.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\ko\System.Spatial.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\ru\System.Spatial.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\obj\Debug\BattleGame.Server.csprojResolveAssemblyReference.cache
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\obj\Debug\BattleGame.Server.dll
+C:\Users\GGeorgiev\Downloads\BattleGame\BattleGame.Server\obj\Debug\BattleGame.Server.pdb
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\BattleGame.Server.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\BattleGame.Server.pdb
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Antlr3.Runtime.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Microsoft.Data.Edm.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Microsoft.Data.OData.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Microsoft.Web.Infrastructure.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Newtonsoft.Json.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Net.Http.Formatting.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Spatial.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Cors.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Helpers.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.Cors.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.OData.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.Tracing.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.WebHost.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Mvc.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Optimization.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Providers.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Razor.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Deployment.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.WebPages.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Razor.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\WebGrease.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Net.Http.Formatting.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.OData.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.Tracing.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.WebHost.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Newtonsoft.Json.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Helpers.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Mvc.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Razor.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.WebPages.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Deployment.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Razor.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Microsoft.Data.Edm.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Microsoft.Data.OData.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Spatial.xml
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\de\Microsoft.Data.OData.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\es\Microsoft.Data.OData.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\it\Microsoft.Data.OData.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\de\System.Spatial.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\es\System.Spatial.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\fr\System.Spatial.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\it\System.Spatial.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ja\System.Spatial.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ko\System.Spatial.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ru\System.Spatial.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\zh-Hans\System.Spatial.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\zh-Hant\System.Spatial.resources.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\obj\Debug\BattleGame.Server.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\obj\Debug\BattleGame.Server.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\obj\Debug\BattleGame.Server.pdb
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\BattleGame.Server.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\BattleGame.Server.pdb
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Antlr3.Runtime.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\EntityFramework.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Microsoft.Data.Edm.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Microsoft.Data.OData.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Microsoft.Web.Infrastructure.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Newtonsoft.Json.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Net.Http.Formatting.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Spatial.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Cors.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Helpers.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.Cors.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.OData.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.Tracing.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.WebHost.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Mvc.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Optimization.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Providers.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Razor.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Deployment.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.WebPages.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Razor.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\WebGrease.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Net.Http.Formatting.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.OData.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.Tracing.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Http.WebHost.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\EntityFramework.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Newtonsoft.Json.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Helpers.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Mvc.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.Razor.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.WebPages.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Deployment.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Web.WebPages.Razor.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Microsoft.Data.Edm.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\Microsoft.Data.OData.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\System.Spatial.xml
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\de\Microsoft.Data.OData.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\es\Microsoft.Data.OData.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\it\Microsoft.Data.OData.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\de\System.Spatial.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\es\System.Spatial.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\fr\System.Spatial.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\it\System.Spatial.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ja\System.Spatial.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ko\System.Spatial.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\ru\System.Spatial.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\zh-Hans\System.Spatial.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\bin\zh-Hant\System.Spatial.resources.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\obj\Debug\BattleGame.Server.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\obj\Debug\BattleGame.Server.dll
+F:\Telerik Academy\Telerik\JavaScript Apps\13.RealExam\BattleGame\BattleGame.Server\obj\Debug\BattleGame.Server.pdb

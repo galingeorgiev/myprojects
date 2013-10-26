@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BattleGameModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="BattleGameEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Games" EntityType="BattleGameModel.Game" />
+    <EntitySet Name="MessageStates" EntityType="BattleGameModel.MessageState" />
+    <EntitySet Name="Modes" EntityType="BattleGameModel.Mode" />
+    <EntitySet Name="Scores" EntityType="BattleGameModel.Score" />
+    <EntitySet Name="Statuses" EntityType="BattleGameModel.Status" />
+    <EntitySet Name="Units" EntityType="BattleGameModel.Unit" />
+    <EntitySet Name="UnitTypes" EntityType="BattleGameModel.UnitType" />
+    <EntitySet Name="UserMessages" EntityType="BattleGameModel.UserMessage" />
+    <EntitySet Name="UserMessagesTypes" EntityType="BattleGameModel.UserMessagesType" />
+    <EntitySet Name="Users" EntityType="BattleGameModel.User" />
+    <AssociationSet Name="FK_Games_0_0" Association="BattleGameModel.FK_Games_0_0">
+      <End Role="Statuses" EntitySet="Statuses" />
+      <End Role="Games" EntitySet="Games" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Games_1_0" Association="BattleGameModel.FK_Games_1_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Games" EntitySet="Games" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Games_2_0" Association="BattleGameModel.FK_Games_2_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Games" EntitySet="Games" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Units_2_0" Association="BattleGameModel.FK_Units_2_0">
+      <End Role="Games" EntitySet="Games" />
+      <End Role="Units" EntitySet="Units" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserMessages_0_0" Association="BattleGameModel.FK_UserMessages_0_0">
+      <End Role="Games" EntitySet="Games" />
+      <End Role="UserMessages" EntitySet="UserMessages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserMessages_2_0" Association="BattleGameModel.FK_UserMessages_2_0">
+      <End Role="MessageStates" EntitySet="MessageStates" />
+      <End Role="UserMessages" EntitySet="UserMessages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Units_1_0" Association="BattleGameModel.FK_Units_1_0">
+      <End Role="Modes" EntitySet="Modes" />
+      <End Role="Units" EntitySet="Units" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Scores_0_0" Association="BattleGameModel.FK_Scores_0_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Scores" EntitySet="Scores" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Units_0_0" Association="BattleGameModel.FK_Units_0_0">
+      <End Role="UnitTypes" EntitySet="UnitTypes" />
+      <End Role="Units" EntitySet="Units" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Units_3_0" Association="BattleGameModel.FK_Units_3_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Units" EntitySet="Units" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserMessages_1_0" Association="BattleGameModel.FK_UserMessages_1_0">
+      <End Role="UserMessagesTypes" EntitySet="UserMessagesTypes" />
+      <End Role="UserMessages" EntitySet="UserMessages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserMessages_3_0" Association="BattleGameModel.FK_UserMessages_3_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UserMessages" EntitySet="UserMessages" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Game">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+    <Property Name="Password" Type="String" MaxLength="40" Unicode="true" FixedLength="false" />
+    <Property Name="RedUserId" Type="Int64" Nullable="false" />
+    <Property Name="BlueUserId" Type="Int64" />
+    <Property Name="StatusId" Type="Int64" Nullable="false" />
+    <Property Name="UserInTurn" Type="Int64" />
+    <Property Name="Turn" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Status" Relationship="BattleGameModel.FK_Games_0_0" FromRole="Games" ToRole="Statuses" />
+    <NavigationProperty Name="BlueUser" Relationship="BattleGameModel.FK_Games_1_0" FromRole="Games" ToRole="Users" />
+    <NavigationProperty Name="RedUser" Relationship="BattleGameModel.FK_Games_2_0" FromRole="Games" ToRole="Users" />
+    <NavigationProperty Name="Units" Relationship="BattleGameModel.FK_Units_2_0" FromRole="Games" ToRole="Units" />
+    <NavigationProperty Name="UserMessages" Relationship="BattleGameModel.FK_UserMessages_0_0" FromRole="Games" ToRole="UserMessages" />
+  </EntityType>
+  <EntityType Name="MessageState">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="State" Type="String" MaxLength="20" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="UserMessages" Relationship="BattleGameModel.FK_UserMessages_2_0" FromRole="MessageStates" ToRole="UserMessages" />
+  </EntityType>
+  <EntityType Name="Mode">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Value" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Units" Relationship="BattleGameModel.FK_Units_1_0" FromRole="Modes" ToRole="Units" />
+  </EntityType>
+  <EntityType Name="Score">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Value" Type="Decimal" Nullable="false" Precision="53" Scale="0" />
+    <Property Name="UserId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="BattleGameModel.FK_Scores_0_0" FromRole="Scores" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Status">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Value" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Games" Relationship="BattleGameModel.FK_Games_0_0" FromRole="Statuses" ToRole="Games" />
+  </EntityType>
+  <EntityType Name="Unit">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="PositionX" Type="Int64" Nullable="false" />
+    <Property Name="PositionY" Type="Int64" Nullable="false" />
+    <Property Name="Attack" Type="Int64" Nullable="false" />
+    <Property Name="HitPoints" Type="Int64" Nullable="false" />
+    <Property Name="Armor" Type="Int64" Nullable="false" />
+    <Property Name="Range" Type="Int64" Nullable="false" />
+    <Property Name="Speed" Type="Int64" Nullable="false" />
+    <Property Name="OwnerId" Type="Int64" Nullable="false" />
+    <Property Name="GameId" Type="Int64" Nullable="false" />
+    <Property Name="ModeId" Type="Int64" Nullable="false" />
+    <Property Name="TypeId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Game" Relationship="BattleGameModel.FK_Units_2_0" FromRole="Units" ToRole="Games" />
+    <NavigationProperty Name="Mode" Relationship="BattleGameModel.FK_Units_1_0" FromRole="Units" ToRole="Modes" />
+    <NavigationProperty Name="UnitType" Relationship="BattleGameModel.FK_Units_0_0" FromRole="Units" ToRole="UnitTypes" />
+    <NavigationProperty Name="User" Relationship="BattleGameModel.FK_Units_3_0" FromRole="Units" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="UnitType">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Value" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Units" Relationship="BattleGameModel.FK_Units_0_0" FromRole="UnitTypes" ToRole="Units" />
+  </EntityType>
+  <EntityType Name="UserMessage">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Text" Type="String" Nullable="false" MaxLength="2147483647" Unicode="true" FixedLength="false" />
+    <Property Name="UserId" Type="Int64" Nullable="false" />
+    <Property Name="StateId" Type="Int64" Nullable="false" />
+    <Property Name="TypeId" Type="Int64" Nullable="false" />
+    <Property Name="GameId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Game" Relationship="BattleGameModel.FK_UserMessages_0_0" FromRole="UserMessages" ToRole="Games" />
+    <NavigationProperty Name="MessageState" Relationship="BattleGameModel.FK_UserMessages_2_0" FromRole="UserMessages" ToRole="MessageStates" />
+    <NavigationProperty Name="UserMessagesType" Relationship="BattleGameModel.FK_UserMessages_1_0" FromRole="UserMessages" ToRole="UserMessagesTypes" />
+    <NavigationProperty Name="User" Relationship="BattleGameModel.FK_UserMessages_3_0" FromRole="UserMessages" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="UserMessagesType">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Type" Type="String" Nullable="false" MaxLength="2147483647" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="UserMessages" Relationship="BattleGameModel.FK_UserMessages_1_0" FromRole="UserMessagesTypes" ToRole="UserMessages" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+    <Property Name="Nickname" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+    <Property Name="AuthCode" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+    <Property Name="SessionKey" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="GamesJoined" Relationship="BattleGameModel.FK_Games_1_0" FromRole="Users" ToRole="Games" />
+    <NavigationProperty Name="GamesCreated" Relationship="BattleGameModel.FK_Games_2_0" FromRole="Users" ToRole="Games" />
+    <NavigationProperty Name="Scores" Relationship="BattleGameModel.FK_Scores_0_0" FromRole="Users" ToRole="Scores" />
+    <NavigationProperty Name="Units" Relationship="BattleGameModel.FK_Units_3_0" FromRole="Users" ToRole="Units" />
+    <NavigationProperty Name="UserMessages" Relationship="BattleGameModel.FK_UserMessages_3_0" FromRole="Users" ToRole="UserMessages" />
+  </EntityType>
+  <Association Name="FK_Games_0_0">
+    <End Role="Statuses" Type="BattleGameModel.Status" Multiplicity="1" />
+    <End Role="Games" Type="BattleGameModel.Game" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Statuses">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Games">
+        <PropertyRef Name="StatusId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Games_1_0">
+    <End Role="Users" Type="BattleGameModel.User" Multiplicity="0..1" />
+    <End Role="Games" Type="BattleGameModel.Game" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Games">
+        <PropertyRef Name="BlueUserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Games_2_0">
+    <End Role="Users" Type="BattleGameModel.User" Multiplicity="1" />
+    <End Role="Games" Type="BattleGameModel.Game" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Games">
+        <PropertyRef Name="RedUserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Units_2_0">
+    <End Role="Games" Type="BattleGameModel.Game" Multiplicity="1" />
+    <End Role="Units" Type="BattleGameModel.Unit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Games">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Units">
+        <PropertyRef Name="GameId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserMessages_0_0">
+    <End Role="Games" Type="BattleGameModel.Game" Multiplicity="1" />
+    <End Role="UserMessages" Type="BattleGameModel.UserMessage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Games">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserMessages">
+        <PropertyRef Name="GameId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserMessages_2_0">
+    <End Role="MessageStates" Type="BattleGameModel.MessageState" Multiplicity="1" />
+    <End Role="UserMessages" Type="BattleGameModel.UserMessage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MessageStates">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserMessages">
+        <PropertyRef Name="StateId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Units_1_0">
+    <End Role="Modes" Type="BattleGameModel.Mode" Multiplicity="1" />
+    <End Role="Units" Type="BattleGameModel.Unit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Modes">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Units">
+        <PropertyRef Name="ModeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Scores_0_0">
+    <End Role="Users" Type="BattleGameModel.User" Multiplicity="1" />
+    <End Role="Scores" Type="BattleGameModel.Score" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Scores">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Units_0_0">
+    <End Role="UnitTypes" Type="BattleGameModel.UnitType" Multiplicity="1" />
+    <End Role="Units" Type="BattleGameModel.Unit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UnitTypes">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Units">
+        <PropertyRef Name="TypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Units_3_0">
+    <End Role="Users" Type="BattleGameModel.User" Multiplicity="1" />
+    <End Role="Units" Type="BattleGameModel.Unit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Units">
+        <PropertyRef Name="OwnerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserMessages_1_0">
+    <End Role="UserMessagesTypes" Type="BattleGameModel.UserMessagesType" Multiplicity="1" />
+    <End Role="UserMessages" Type="BattleGameModel.UserMessage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserMessagesTypes">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserMessages">
+        <PropertyRef Name="TypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserMessages_3_0">
+    <End Role="Users" Type="BattleGameModel.User" Multiplicity="1" />
+    <End Role="UserMessages" Type="BattleGameModel.UserMessage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserMessages">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

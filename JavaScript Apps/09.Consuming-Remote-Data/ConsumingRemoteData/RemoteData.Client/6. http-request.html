@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<script src="scripts/http-request.js"></script>
+</head>
+<body>
+	<div id="http-response"></div>
+	<script>
+		httpRequest.make({
+			url: "scripts/data.js",
+			success: function (data) {
+				var students = JSON.parse(data);
+				var list = "<ul>";
+				for (var i = 0; i < students.length; i += 1) {
+					var person = students[i];
+					list +=
+						"<li>" +
+							person.fname + " " + person.lname +
+						"</li>";
+				}
+				document.getElementById("http-response").innerHTML = list;
+			},
+			error: function (err) {
+				document.getElementById("http-response").innerHTML = "<div style='color:red;font-weight:bold'>Error</div>";
+			}
+		});
+
+	</script>
+</body>
+</html>

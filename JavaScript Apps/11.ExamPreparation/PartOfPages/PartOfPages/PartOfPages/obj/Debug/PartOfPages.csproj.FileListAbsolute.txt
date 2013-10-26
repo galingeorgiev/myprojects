@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\PartOfPages\PartOfPages\PartOfPages\bin\PartOfPages.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\PartOfPages\PartOfPages\PartOfPages\bin\PartOfPages.pdb
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\PartOfPages\PartOfPages\PartOfPages\obj\Debug\PartOfPages.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\PartOfPages\PartOfPages\PartOfPages\obj\Debug\PartOfPages.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\PartOfPages\PartOfPages\PartOfPages\obj\Debug\PartOfPages.pdb

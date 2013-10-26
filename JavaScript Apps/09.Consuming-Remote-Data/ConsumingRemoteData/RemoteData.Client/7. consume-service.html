@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Students Database</title>
+	<script src="scripts/class.js"></script>
+	<script src="scripts/http-request.js"></script>
+	<script src="scripts/jquery-2.0.2.js"></script>
+	<link href="Content/Site.css" rel="stylesheet" />
+</head>
+<body>
+	<h1>Students Database on another Domain</h1>
+	<div id="students-container"></div>
+	<script>
+		(function () {
+			var oldWindowLoad = window.onload;
+			window.onload = function () {
+				if (oldWindowLoad) {
+					oldWindowLoad();
+				}
+
+				studentsDb.getAll(function (data) {
+					var studentsList = controls.studentsList(data);
+					$("#students-container").html(studentsList);
+				});
+
+				$("#students-container").on("click", ".btn-delete", function () {
+					var dataId = $(this).parent().data("id");
+					console.log(dataId);
+					studentsDb.del(dataId, function () {
+						studentsDb.getAll(function (data) {
+							var studentsList = controls.studentsList(data);
+							$("#students-container").html(studentsList);
+						});
+					});
+				});
+			}
+	 
+			var controls = (function () {
+				function createStudentsList(students) {
+					var list = $("<ul />").addClass("list-students"),
+						student;
+					for (var i = 0, len = students.length; i < len; i += 1) {
+						student = students[i];
+						list.append(
+							$("<li />")
+								.append($("<strong />")
+									.text(student.fname + " " + student.lname))
+								.append($('<a />')
+									.attr("href", "#")
+									.text("x")
+									.addClass("btn-delete"))
+								.append(createMarksList(student.marks))
+								.data("id",student.id));
+					}
+					return list;
+				}
+
+				function createMarksList(marks) {
+					var list = $("<ul />"),
+						mark;
+					for (var i = 0, len = marks.length; i < len; i++) {
+						mark = marks[i];
+						list.append(
+							$("<li />")
+								.append($("<strong />")
+									.html(mark.subject + ": "))
+								.append($("<span />")
+									.html(mark.score.toFixed(2))));
+					}
+					return list;
+				}
+				return {
+					marksList: createMarksList,
+					studentsList: createStudentsList
+				};
+			}());
+
+
+			var StudentsDB = Class.create({
+				init: function (serviceUrl) {
+					this.serviceUrl = serviceUrl;
+				},
+				getAll: function (success, error) {
+					var self = this;
+					httpRequest.make({
+						url: self.serviceUrl + "all",
+						type: "GET",
+						contentType: "application/json",
+						accept: "text/json",
+						success: function (data) {
+							success(JSON.parse(data));
+						},
+						error:error
+					});	
+				},
+				details: function (id, success, error) {
+					httpRequest.getJSON(this.serviceUrl + "details/" + id, success, error);
+				},
+				add: function (student, success, error) {
+					httpRequest.postJSON(this.serviceUrl + "add", student, success, error);
+				},
+				del: function (id, success, error) {
+					httpRequest.getJSON(this.serviceUrl + "delete/" + id, success, error);
+				}
+			});
+
+			var studentsDb = new StudentsDB("http://localhost:59610/api/student/");
+		}());  
+	</script>
+</body>
+</html>

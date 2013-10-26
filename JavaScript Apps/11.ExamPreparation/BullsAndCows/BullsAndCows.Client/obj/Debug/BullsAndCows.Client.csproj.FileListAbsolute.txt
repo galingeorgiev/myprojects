@@ -1,0 +1,15 @@
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows.Client\bin\BullsAndCows.Client.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows.Client\bin\BullsAndCows.Client.pdb
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows.Client\obj\Debug\BullsAndCows.Client.csprojResolveAssemblyReference.cache
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows.Client\obj\Debug\BullsAndCows.Client.dll
+C:\Users\dminkov\Dropbox\Workspace\JavaScript\BullsAndCows\BullsAndCows.Client\obj\Debug\BullsAndCows.Client.pdb
+C:\Users\GGeorgiev\Downloads\BullsAndCows\BullsAndCows.Client\bin\BullsAndCows.Client.dll
+C:\Users\GGeorgiev\Downloads\BullsAndCows\BullsAndCows.Client\bin\BullsAndCows.Client.pdb
+C:\Users\GGeorgiev\Downloads\BullsAndCows\BullsAndCows.Client\obj\Debug\BullsAndCows.Client.csprojResolveAssemblyReference.cache
+C:\Users\GGeorgiev\Downloads\BullsAndCows\BullsAndCows.Client\obj\Debug\BullsAndCows.Client.dll
+C:\Users\GGeorgiev\Downloads\BullsAndCows\BullsAndCows.Client\obj\Debug\BullsAndCows.Client.pdb
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\BullsAndCows\BullsAndCows.Client\bin\BullsAndCows.Client.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\BullsAndCows\BullsAndCows.Client\bin\BullsAndCows.Client.pdb
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\BullsAndCows\BullsAndCows.Client\obj\Debug\BullsAndCows.Client.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\BullsAndCows\BullsAndCows.Client\obj\Debug\BullsAndCows.Client.dll
+D:\Telerik Academy\Telerik\JavaScript Apps\11.ExamPreparation\BullsAndCows\BullsAndCows.Client\obj\Debug\BullsAndCows.Client.pdb

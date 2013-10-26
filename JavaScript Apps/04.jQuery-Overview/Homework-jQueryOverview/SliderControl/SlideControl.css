@@ -1,0 +1,25 @@
+﻿html, body {
+    height: 100%;
+}
+
+div {
+    height: 150px;
+}
+
+    div > span {
+        display: inline-block;
+        vertical-align: middle;
+        line-height: 150px;
+    }
+
+    div > div {
+        display: inline-block;
+        height: 100%;
+        vertical-align: top;
+        margin-left: 10px;
+    }
+
+    div:first-of-type,
+    div:last-of-type {
+        cursor: pointer;
+    }

@@ -1,0 +1,19 @@
+﻿#login-user-container{
+    width:300px;
+    margin:0 auto;
+}
+
+#login-user-container > label{
+    line-height:26px;
+    display:inline-block;
+    width:100px;
+}
+
+    #login-user-container > input {
+        width:190px;
+    }
+
+    #login-user-container > a{
+        float:right;
+        margin-top:6px;
+    }
