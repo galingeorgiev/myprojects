@@ -1,0 +1,13 @@
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task09.TraverseFileSystem\bin\Debug\Task09.TraverseFileSystem.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task09.TraverseFileSystem\bin\Debug\Task09.TraverseFileSystem.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task09.TraverseFileSystem\bin\Debug\Task09.TraverseFileSystem.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task09.TraverseFileSystem\obj\Debug\Task09.TraverseFileSystem.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task09.TraverseFileSystem\obj\Debug\Task09.TraverseFileSystem.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task09.TraverseFileSystem\bin\Debug\Task09.TraverseFileSystem.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task09.TraverseFileSystem\obj\Debug\Task09.TraverseFileSystem.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task09.TraverseFileSystem\obj\Debug\Task09.TraverseFileSystem.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task09.TraverseFileSystem\bin\Debug\Task09.TraverseFileSystem.exe.config
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task09.TraverseFileSystem\obj\Debug\Task09.TraverseFileSystem.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task09.TraverseFileSystem\obj\Debug\Task09.TraverseFileSystem.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task09.TraverseFileSystem\bin\Debug\Task09.TraverseFileSystem.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task09.TraverseFileSystem\bin\Debug\Task09.TraverseFileSystem.pdb

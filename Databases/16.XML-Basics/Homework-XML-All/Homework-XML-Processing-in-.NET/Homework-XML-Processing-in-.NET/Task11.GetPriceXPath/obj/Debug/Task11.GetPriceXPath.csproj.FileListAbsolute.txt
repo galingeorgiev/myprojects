@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task11.GetPriceXPath\bin\Debug\Task11.GetPriceXPath.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task11.GetPriceXPath\bin\Debug\Task11.GetPriceXPath.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task11.GetPriceXPath\bin\Debug\Task11.GetPriceXPath.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task11.GetPriceXPath\obj\Debug\Task11.GetPriceXPath.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task11.GetPriceXPath\obj\Debug\Task11.GetPriceXPath.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task11.GetPriceXPath\obj\Debug\Task11.GetPriceXPath.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task11.GetPriceXPath\bin\Debug\Task11.GetPriceXPath.exe.config
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task11.GetPriceXPath\bin\Debug\Task11.GetPriceXPath.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task11.GetPriceXPath\bin\Debug\Task11.GetPriceXPath.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task11.GetPriceXPath\obj\Debug\Task11.GetPriceXPath.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task11.GetPriceXPath\obj\Debug\Task11.GetPriceXPath.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task11.GetPriceXPath\obj\Debug\Task11.GetPriceXPath.pdb

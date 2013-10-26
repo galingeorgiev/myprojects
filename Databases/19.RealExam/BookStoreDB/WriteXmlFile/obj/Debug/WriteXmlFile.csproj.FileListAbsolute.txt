@@ -1,0 +1,16 @@
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\bin\Debug\WriteXmlFile.exe.config
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\obj\Debug\WriteXmlFile.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\bin\Debug\WriteXmlFile.exe
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\bin\Debug\WriteXmlFile.pdb
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\bin\Debug\BookStore.Data.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\bin\Debug\BookStore.Data.pdb
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\obj\Debug\WriteXmlFile.exe
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\obj\Debug\WriteXmlFile.pdb
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\bin\Debug\Logs.Data.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\bin\Debug\Logs.Model.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\bin\Debug\Logs.Data.pdb
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\bin\Debug\Logs.Model.pdb
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\bin\Debug\Logs.Client.exe
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\WriteXmlFile\bin\Debug\Logs.Client.pdb

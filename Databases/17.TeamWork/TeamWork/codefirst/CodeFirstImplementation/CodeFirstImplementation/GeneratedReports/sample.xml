@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sales>
+	<sale vendor="Nestle Sofia">
+		<summary date="20-Jul-2013" total-sum="54,75" />
+		<summary date="21-Jul-2013" total-sum="40,35" />
+		<summary date="22-Jul-2013" total-sum="40,60" />
+	</sale>
+	<sale vendor="Targovishte">
+		<summary date="20-Jul-2013" total-sum="150,20" />
+		<summary date="21-Jul-2013" total-sum="709,30" />
+		<summary date="22-Jul-2013" total-sum="296,40" />
+	</sale>
+	<sale vendor="Zagorka">
+		<summary date="20-Jul-2013" total-sum="144,80" />
+		<summary date="21-Jul-2013" total-sum="341,59" />
+		<summary date="22-Jul-2013" total-sum="385,80" />
+	</sale>
+</Sales>

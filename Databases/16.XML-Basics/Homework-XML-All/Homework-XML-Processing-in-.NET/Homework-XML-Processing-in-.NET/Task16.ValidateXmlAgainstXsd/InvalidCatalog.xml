@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog xmlns="urn:catalog-shema">
+  <album>
+    <!-- Lines below are invalid -->
+    <!--<name>Unapologetic</name>
+    <artist>Rihanna</artist>-->
+    <year>2012</year>
+    <producer>Universal/Def Jam</producer>
+    <price>10</price>
+    <songs>
+      <title>Fresh Off The Runway lyrics</title>
+      <duration>147</duration>
+
+      <title>Diamonds lyrics</title>
+      <duration>180</duration>
+
+      <title>Numb (feat. Eminem) lyrics</title>
+      <duration>240</duration>
+
+      <title>Pour It Up lyrics</title>
+      <duration>250</duration>
+
+      <title>Loveeeeeee Song (feat. Future) lyrics</title>
+      <duration>231</duration>
+
+      <title>Jump lyrics</title>
+      <duration>543</duration>
+
+      <title>Right Now (feat. David Guetta) lyrics</title>
+      <duration>678</duration>
+
+      <title>What Now lyrics</title>
+      <duration>342</duration>
+
+      <title>Stay (feat. Mikky Ekko) lyrics</title>
+      <duration>348</duration>
+    </songs>
+  </album>
+
+  <album>
+    <name>Greatest Hits... So Far</name>
+    <artist>Pink</artist>
+    <year>2010</year>
+    <producer>Virginia</producer>
+    <price>15</price>
+    <songs>
+      <title>Get The Party Started lyrics</title>
+      <duration>645</duration>
+
+      <title>Most Girls lyrics</title>
+      <duration>423</duration>
+
+      <title>There You Go lyrics</title>
+      <duration>545</duration>
+
+      <title>Don't Let Me Get Me lyrics</title>
+      <duration>346</duration>
+
+      <title>Just Like A Pill lyrics</title>
+      <duration>531</duration>
+    </songs>
+  </album>
+
+  <album>
+    <name>Magna Carta Holy Grail</name>
+    <artist>Jay-Z</artist>
+    <year>2013</year>
+    <producer>Universal</producer>
+    <price>20</price>
+    <songs>
+      <title>Holy Grail (feat. Justin Timberlake) lyrics new song on LetsSingIt</title>
+      <duration>654</duration>
+
+      <title>Picasso Baby lyrics new song on LetsSingIt</title>
+      <duration>862</duration>
+
+      <title>Tom Ford lyrics new song on LetsSingIt</title>
+      <duration>579</duration>
+
+      <title>Fuckwithmeyouknowigotit lyrics new song on LetsSingIt</title>
+      <duration>234</duration>
+
+      <title>Oceans (feat. Frank Ocean) lyrics new song on LetsSingIt</title>
+      <duration>425</duration>
+
+      <title>F.U.T.W. lyrics new song on LetsSingIt</title>
+      <duration>792</duration>
+
+      <title>Somewhere In America lyrics new song on LetsSingIt</title>
+      <duration>358</duration>
+    </songs>
+  </album>
+
+  <album>
+    <name>Def Jam, Roc-A-Fella</name>
+    <artist>Jay-Z</artist>
+    <year>2003</year>
+    <producer>Def Jam, Roc-A-Fella</producer>
+    <price>25</price>
+    <songs>
+      <title>December 4th lyrics</title>
+      <duration>654</duration>
+
+      <title>What more can I say? lyrics</title>
+      <duration>862</duration>
+
+      <title>Encore lyrics</title>
+      <duration>579</duration>
+
+      <title>Change Clothes lyrics</title>
+      <duration>234</duration>
+
+      <title>Dirt Off Your Shoulder lyrics</title>
+      <duration>425</duration>
+
+      <title>Threat lyrics</title>
+      <duration>792</duration>
+
+      <title>Moment Of Clarity lyrics</title>
+      <duration>358</duration>
+    </songs>
+  </album>
+</catalog>

@@ -1,0 +1,15 @@
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\bin\Debug\Task04.DeleteFromCatalog.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\bin\Debug\Task04.DeleteFromCatalog.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\bin\Debug\Task04.DeleteFromCatalog.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\obj\Debug\Task04.DeleteFromCatalog.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\obj\Debug\Task04.DeleteFromCatalog.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\obj\Debug\Task04.DeleteFromCatalog.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\bin\Debug\Task04.DeleteFromCatalog.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\obj\Debug\Task04.DeleteFromCatalog.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\obj\Debug\Task04.DeleteFromCatalog.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\bin\Debug\Task04.DeleteFromCatalog.exe.config
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\obj\Debug\Task04.DeleteFromCatalog.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\obj\Debug\Task04.DeleteFromCatalog.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\bin\Debug\Task04.DeleteFromCatalog.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\bin\Debug\Task04.DeleteFromCatalog.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task04.DeleteFromCatalog\obj\Debug\Task04.DeleteFromCatalog.csprojResolveAssemblyReference.cache

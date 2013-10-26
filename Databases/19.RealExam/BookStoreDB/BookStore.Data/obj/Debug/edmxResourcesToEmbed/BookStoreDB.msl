@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BookStoreDBModelStoreContainer" CdmEntityContainer="BookStoreDBEntities">
+    <EntitySetMapping Name="Authors">
+      <EntityTypeMapping TypeName="BookStoreDBModel.Author">
+        <MappingFragment StoreEntitySet="Authors">
+          <ScalarProperty Name="AuthorId" ColumnName="AuthorId" />
+          <ScalarProperty Name="AuthorName" ColumnName="AuthorName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Books">
+      <EntityTypeMapping TypeName="BookStoreDBModel.Book">
+        <MappingFragment StoreEntitySet="Books">
+          <ScalarProperty Name="BookId" ColumnName="BookId" />
+          <ScalarProperty Name="BookTitle" ColumnName="BookTitle" />
+          <ScalarProperty Name="ISBN" ColumnName="ISBN" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="WebSite" ColumnName="WebSite" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rewiews">
+      <EntityTypeMapping TypeName="BookStoreDBModel.Rewiew">
+        <MappingFragment StoreEntitySet="Rewiews">
+          <ScalarProperty Name="RewiewId" ColumnName="RewiewId" />
+          <ScalarProperty Name="RewiewDate" ColumnName="RewiewDate" />
+          <ScalarProperty Name="AuthorId" ColumnName="AuthorId" />
+          <ScalarProperty Name="RewiewText" ColumnName="RewiewText" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="Books_Authors" TypeName="BookStoreDBModel.Books_Authors" StoreEntitySet="Books_Authors">
+      <EndProperty Name="Authors">
+        <ScalarProperty Name="AuthorId" ColumnName="AuthorId" />
+      </EndProperty>
+      <EndProperty Name="Books">
+        <ScalarProperty Name="BookId" ColumnName="BookId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="Books_Rewiews" TypeName="BookStoreDBModel.Books_Rewiews" StoreEntitySet="Books_Rewiews">
+      <EndProperty Name="Books">
+        <ScalarProperty Name="BookId" ColumnName="BookId" />
+      </EndProperty>
+      <EndProperty Name="Rewiews">
+        <ScalarProperty Name="RewiewId" ColumnName="RewiewId" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

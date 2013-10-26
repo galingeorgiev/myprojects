@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookStoreDBModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="BookStoreDBEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Authors" EntityType="BookStoreDBModel.Author" />
+    <EntitySet Name="Books" EntityType="BookStoreDBModel.Book" />
+    <EntitySet Name="Rewiews" EntityType="BookStoreDBModel.Rewiew" />
+    <AssociationSet Name="FK__Rewiews__AuthorI__145C0A3F" Association="BookStoreDBModel.FK__Rewiews__AuthorI__145C0A3F">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="Rewiews" EntitySet="Rewiews" />
+    </AssociationSet>
+    <AssociationSet Name="Books_Authors" Association="BookStoreDBModel.Books_Authors">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="Books_Rewiews" Association="BookStoreDBModel.Books_Rewiews">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="Rewiews" EntitySet="Rewiews" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Author">
+    <Key>
+      <PropertyRef Name="AuthorId" />
+    </Key>
+    <Property Name="AuthorId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="AuthorName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Rewiews" Relationship="BookStoreDBModel.FK__Rewiews__AuthorI__145C0A3F" FromRole="Authors" ToRole="Rewiews" />
+    <NavigationProperty Name="Books" Relationship="BookStoreDBModel.Books_Authors" FromRole="Authors" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="BookId" />
+    </Key>
+    <Property Name="BookId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="BookTitle" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="ISBN" Type="String" MaxLength="13" Unicode="false" FixedLength="true" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="WebSite" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Authors" Relationship="BookStoreDBModel.Books_Authors" FromRole="Books" ToRole="Authors" />
+    <NavigationProperty Name="Rewiews" Relationship="BookStoreDBModel.Books_Rewiews" FromRole="Books" ToRole="Rewiews" />
+  </EntityType>
+  <EntityType Name="Rewiew">
+    <Key>
+      <PropertyRef Name="RewiewId" />
+    </Key>
+    <Property Name="RewiewId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="RewiewDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="AuthorId" Type="Int32" />
+    <Property Name="RewiewText" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Author" Relationship="BookStoreDBModel.FK__Rewiews__AuthorI__145C0A3F" FromRole="Rewiews" ToRole="Authors" />
+    <NavigationProperty Name="Books" Relationship="BookStoreDBModel.Books_Rewiews" FromRole="Rewiews" ToRole="Books" />
+  </EntityType>
+  <Association Name="FK__Rewiews__AuthorI__145C0A3F">
+    <End Role="Authors" Type="BookStoreDBModel.Author" Multiplicity="0..1" />
+    <End Role="Rewiews" Type="BookStoreDBModel.Rewiew" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Authors">
+        <PropertyRef Name="AuthorId" />
+      </Principal>
+      <Dependent Role="Rewiews">
+        <PropertyRef Name="AuthorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Books_Authors">
+    <End Role="Authors" Type="BookStoreDBModel.Author" Multiplicity="*" />
+    <End Role="Books" Type="BookStoreDBModel.Book" Multiplicity="*" />
+  </Association>
+  <Association Name="Books_Rewiews">
+    <End Role="Books" Type="BookStoreDBModel.Book" Multiplicity="*" />
+    <End Role="Rewiews" Type="BookStoreDBModel.Rewiew" Multiplicity="*" />
+  </Association>
+</Schema>

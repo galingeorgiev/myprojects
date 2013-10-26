@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task06.ReadAllSongsXDocument\bin\Debug\Task06.ReadAllSongsXDocument.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task06.ReadAllSongsXDocument\bin\Debug\Task06.ReadAllSongsXDocument.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task06.ReadAllSongsXDocument\bin\Debug\Task06.ReadAllSongsXDocument.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task06.ReadAllSongsXDocument\obj\Debug\Task06.ReadAllSongsXDocument.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task06.ReadAllSongsXDocument\obj\Debug\Task06.ReadAllSongsXDocument.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task06.ReadAllSongsXDocument\bin\Debug\Task06.ReadAllSongsXDocument.exe.config
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task06.ReadAllSongsXDocument\bin\Debug\Task06.ReadAllSongsXDocument.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task06.ReadAllSongsXDocument\bin\Debug\Task06.ReadAllSongsXDocument.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task06.ReadAllSongsXDocument\obj\Debug\Task06.ReadAllSongsXDocument.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task06.ReadAllSongsXDocument\obj\Debug\Task06.ReadAllSongsXDocument.pdb

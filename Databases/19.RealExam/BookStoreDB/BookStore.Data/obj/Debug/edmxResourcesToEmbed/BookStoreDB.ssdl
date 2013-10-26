@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookStoreDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="BookStoreDBModelStoreContainer">
+    <EntitySet Name="Authors" EntityType="BookStoreDBModel.Store.Authors" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Books" EntityType="BookStoreDBModel.Store.Books" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Books_Authors" EntityType="BookStoreDBModel.Store.Books_Authors" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Books_Rewiews" EntityType="BookStoreDBModel.Store.Books_Rewiews" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Rewiews" EntityType="BookStoreDBModel.Store.Rewiews" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK__Rewiews__AuthorI__145C0A3F" Association="BookStoreDBModel.Store.FK__Rewiews__AuthorI__145C0A3F">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="Rewiews" EntitySet="Rewiews" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Books_Authors_Authors" Association="BookStoreDBModel.Store.FK_Books_Authors_Authors">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="Books_Authors" EntitySet="Books_Authors" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Books_Authors_Books" Association="BookStoreDBModel.Store.FK_Books_Authors_Books">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="Books_Authors" EntitySet="Books_Authors" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Books_Rewiews_Books" Association="BookStoreDBModel.Store.FK_Books_Rewiews_Books">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="Books_Rewiews" EntitySet="Books_Rewiews" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Books_Rewiews_Rewiews" Association="BookStoreDBModel.Store.FK_Books_Rewiews_Rewiews">
+      <End Role="Rewiews" EntitySet="Rewiews" />
+      <End Role="Books_Rewiews" EntitySet="Books_Rewiews" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Authors">
+    <Key>
+      <PropertyRef Name="AuthorId" />
+    </Key>
+    <Property Name="AuthorId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AuthorName" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Books">
+    <Key>
+      <PropertyRef Name="BookId" />
+    </Key>
+    <Property Name="BookId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="BookTitle" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="ISBN" Type="char" MaxLength="13" />
+    <Property Name="Price" Type="money" />
+    <Property Name="WebSite" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Books_Authors">
+    <Key>
+      <PropertyRef Name="BookId" />
+      <PropertyRef Name="AuthorId" />
+    </Key>
+    <Property Name="BookId" Type="int" Nullable="false" />
+    <Property Name="AuthorId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Books_Rewiews">
+    <Key>
+      <PropertyRef Name="BookId" />
+      <PropertyRef Name="RewiewId" />
+    </Key>
+    <Property Name="BookId" Type="int" Nullable="false" />
+    <Property Name="RewiewId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Rewiews">
+    <Key>
+      <PropertyRef Name="RewiewId" />
+    </Key>
+    <Property Name="RewiewId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RewiewDate" Type="date" Nullable="false" />
+    <Property Name="AuthorId" Type="int" />
+    <Property Name="RewiewText" Type="ntext" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Rewiews__AuthorI__145C0A3F">
+    <End Role="Authors" Type="BookStoreDBModel.Store.Authors" Multiplicity="0..1" />
+    <End Role="Rewiews" Type="BookStoreDBModel.Store.Rewiews" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Authors">
+        <PropertyRef Name="AuthorId" />
+      </Principal>
+      <Dependent Role="Rewiews">
+        <PropertyRef Name="AuthorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Books_Authors_Authors">
+    <End Role="Authors" Type="BookStoreDBModel.Store.Authors" Multiplicity="1" />
+    <End Role="Books_Authors" Type="BookStoreDBModel.Store.Books_Authors" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Authors">
+        <PropertyRef Name="AuthorId" />
+      </Principal>
+      <Dependent Role="Books_Authors">
+        <PropertyRef Name="AuthorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Books_Authors_Books">
+    <End Role="Books" Type="BookStoreDBModel.Store.Books" Multiplicity="1" />
+    <End Role="Books_Authors" Type="BookStoreDBModel.Store.Books_Authors" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Books">
+        <PropertyRef Name="BookId" />
+      </Principal>
+      <Dependent Role="Books_Authors">
+        <PropertyRef Name="BookId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Books_Rewiews_Books">
+    <End Role="Books" Type="BookStoreDBModel.Store.Books" Multiplicity="1" />
+    <End Role="Books_Rewiews" Type="BookStoreDBModel.Store.Books_Rewiews" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Books">
+        <PropertyRef Name="BookId" />
+      </Principal>
+      <Dependent Role="Books_Rewiews">
+        <PropertyRef Name="BookId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Books_Rewiews_Rewiews">
+    <End Role="Rewiews" Type="BookStoreDBModel.Store.Rewiews" Multiplicity="1" />
+    <End Role="Books_Rewiews" Type="BookStoreDBModel.Store.Books_Rewiews" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rewiews">
+        <PropertyRef Name="RewiewId" />
+      </Principal>
+      <Dependent Role="Books_Rewiews">
+        <PropertyRef Name="RewiewId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

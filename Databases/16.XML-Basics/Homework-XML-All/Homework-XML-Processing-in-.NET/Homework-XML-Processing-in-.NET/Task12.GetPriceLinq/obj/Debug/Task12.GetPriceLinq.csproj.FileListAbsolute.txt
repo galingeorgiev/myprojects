@@ -1,0 +1,13 @@
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task12.GetPriceLinq\bin\Debug\Task12.GetPriceLinq.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task12.GetPriceLinq\bin\Debug\Task12.GetPriceLinq.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task12.GetPriceLinq\bin\Debug\Task12.GetPriceLinq.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task12.GetPriceLinq\obj\Debug\Task12.GetPriceLinq.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task12.GetPriceLinq\obj\Debug\Task12.GetPriceLinq.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task12.GetPriceLinq\bin\Debug\Task12.GetPriceLinq.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task12.GetPriceLinq\obj\Debug\Task12.GetPriceLinq.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task12.GetPriceLinq\obj\Debug\Task12.GetPriceLinq.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task12.GetPriceLinq\bin\Debug\Task12.GetPriceLinq.exe.config
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task12.GetPriceLinq\bin\Debug\Task12.GetPriceLinq.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task12.GetPriceLinq\bin\Debug\Task12.GetPriceLinq.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task12.GetPriceLinq\obj\Debug\Task12.GetPriceLinq.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task12.GetPriceLinq\obj\Debug\Task12.GetPriceLinq.pdb

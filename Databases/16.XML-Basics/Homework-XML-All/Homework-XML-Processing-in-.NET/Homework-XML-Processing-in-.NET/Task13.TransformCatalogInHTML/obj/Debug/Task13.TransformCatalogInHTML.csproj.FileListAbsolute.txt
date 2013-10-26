@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task13.TransformCatalogInHTML\bin\Debug\Task13.TransformCatalogInHTML.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task13.TransformCatalogInHTML\bin\Debug\Task13.TransformCatalogInHTML.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task13.TransformCatalogInHTML\bin\Debug\Task13.TransformCatalogInHTML.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task13.TransformCatalogInHTML\obj\Debug\Task13.TransformCatalogInHTML.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task13.TransformCatalogInHTML\obj\Debug\Task13.TransformCatalogInHTML.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task13.TransformCatalogInHTML\bin\Debug\Task13.TransformCatalogInHTML.exe.config
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task13.TransformCatalogInHTML\bin\Debug\Task13.TransformCatalogInHTML.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task13.TransformCatalogInHTML\bin\Debug\Task13.TransformCatalogInHTML.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task13.TransformCatalogInHTML\obj\Debug\Task13.TransformCatalogInHTML.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task13.TransformCatalogInHTML\obj\Debug\Task13.TransformCatalogInHTML.pdb

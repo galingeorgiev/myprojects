@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task07.CreateXmlFile\bin\Debug\Task07.CreateXmlFile.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task07.CreateXmlFile\bin\Debug\Task07.CreateXmlFile.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task07.CreateXmlFile\bin\Debug\Task07.CreateXmlFile.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task07.CreateXmlFile\obj\Debug\Task07.CreateXmlFile.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task07.CreateXmlFile\obj\Debug\Task07.CreateXmlFile.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task07.CreateXmlFile\obj\Debug\Task07.CreateXmlFile.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task07.CreateXmlFile\bin\Debug\Task07.CreateXmlFile.exe.config
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task07.CreateXmlFile\bin\Debug\Task07.CreateXmlFile.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task07.CreateXmlFile\bin\Debug\Task07.CreateXmlFile.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task07.CreateXmlFile\obj\Debug\Task07.CreateXmlFile.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task07.CreateXmlFile\obj\Debug\Task07.CreateXmlFile.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task07.CreateXmlFile\obj\Debug\Task07.CreateXmlFile.pdb

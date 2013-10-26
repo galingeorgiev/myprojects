@@ -1,0 +1,15 @@
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\obj\Debug\Task03.GetDiffrentArtistsXPath.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\bin\Debug\Task03.GetDiffrentArtistsXPath.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\bin\Debug\Task03.GetDiffrentArtistsXPath.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\bin\Debug\Task03.GetDiffrentArtistsXPath.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\obj\Debug\Task03.GetDiffrentArtistsXPath.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\obj\Debug\Task03.GetDiffrentArtistsXPath.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\bin\Debug\Task03.GetDiffrentArtistsXPath.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\obj\Debug\Task03.GetDiffrentArtistsXPath.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\obj\Debug\Task03.GetDiffrentArtistsXPath.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\bin\Debug\Task03.GetDiffrentArtistsXPath.exe.config
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\bin\Debug\Task03.GetDiffrentArtistsXPath.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\bin\Debug\Task03.GetDiffrentArtistsXPath.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\obj\Debug\Task03.GetDiffrentArtistsXPath.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\obj\Debug\Task03.GetDiffrentArtistsXPath.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task03.GetDiffrentArtistsXPath\obj\Debug\Task03.GetDiffrentArtistsXPath.pdb

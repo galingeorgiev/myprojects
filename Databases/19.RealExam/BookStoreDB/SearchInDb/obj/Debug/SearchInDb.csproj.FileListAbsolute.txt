@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\SearchInDb\bin\Debug\SearchInDb.exe.config
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\SearchInDb\bin\Debug\SearchInDb.exe
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\SearchInDb\bin\Debug\SearchInDb.pdb
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\SearchInDb\bin\Debug\BookStore.Data.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\SearchInDb\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\SearchInDb\bin\Debug\BookStore.Data.pdb
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\SearchInDb\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\SearchInDb\obj\Debug\SearchInDb.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\SearchInDb\obj\Debug\SearchInDb.exe
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\SearchInDb\obj\Debug\SearchInDb.pdb

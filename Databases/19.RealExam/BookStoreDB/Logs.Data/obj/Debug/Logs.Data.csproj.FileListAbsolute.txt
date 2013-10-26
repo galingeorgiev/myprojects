@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Data\bin\Debug\Logs.Data.dll.config
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Data\bin\Debug\Logs.Data.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Data\bin\Debug\Logs.Data.pdb
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Data\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Data\bin\Debug\Logs.Model.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Data\bin\Debug\Logs.Model.pdb
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Data\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Data\obj\Debug\Logs.Data.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Data\obj\Debug\Logs.Data.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Data\obj\Debug\Logs.Data.pdb

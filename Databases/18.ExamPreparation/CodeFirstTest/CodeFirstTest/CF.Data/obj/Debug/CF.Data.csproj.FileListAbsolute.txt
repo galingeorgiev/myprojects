@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Data\bin\Debug\CF.Data.dll.config
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Data\bin\Debug\CF.Data.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Data\bin\Debug\CF.Data.pdb
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Data\bin\Debug\CF.Model.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Data\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Data\bin\Debug\CF.Model.pdb
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Data\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Data\obj\Debug\CF.Data.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Data\obj\Debug\CF.Data.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Data\obj\Debug\CF.Data.pdb

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<search-results>
+	<result-set>
+		<bookmark>
+			<username>peter</username>
+			<title>Nakov's books</title>
+			<url>http://www.nakov.com/books/</url>
+			<tags>, </tags>
+		</bookmark>
+		<bookmark>
+			<username>peter</username>
+			<title>Intro C# Book</title>
+			<url>http://www.introprogramming.info/intro-csharp-book/</url>
+			<tags>, </tags>
+			<notes>Fundamental book of programming. A must read!</notes>
+		</bookmark>
+	</result-set>
+	<result-set>
+		<bookmark>
+			<username>peter</username>
+			<title>Nakov's books</title>
+			<url>http://www.nakov.com/books/</url>
+			<tags>, </tags>
+		</bookmark>
+	</result-set>
+	<result-set />
+	<result-set>
+		<bookmark>
+			<username>peter</username>
+			<title>Nakov's books</title>
+			<url>http://www.nakov.com/books/</url>
+			<tags>, </tags>
+		</bookmark>
+	</result-set>
+	<result-set>
+		<bookmark>
+			<username>peter</username>
+			<title>Nakov's books</title>
+			<url>http://www.nakov.com/books/</url>
+			<tags>, </tags>
+		</bookmark>
+		<bookmark>
+			<username>todor</username>
+			<title>HTML 5 Demos and Examples</title>
+			<url>http://html5demos.com</url>
+			<tags>, </tags>
+		</bookmark>
+		<bookmark>
+			<username>maria</username>
+			<title>Telerik Academy</title>
+			<url>http://academy.telerik.com</url>
+			<tags>, </tags>
+		</bookmark>
+	</result-set>
+</search-results>

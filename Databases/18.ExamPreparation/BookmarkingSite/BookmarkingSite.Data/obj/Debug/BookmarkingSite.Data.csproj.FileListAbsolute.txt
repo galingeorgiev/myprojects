@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Data\bin\Debug\BookmarkingSite.Data.dll.config
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Data\bin\Debug\BookmarkingSite.Data.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Data\bin\Debug\BookmarkingSite.Data.pdb
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Data\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Data\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Data\obj\Debug\BookmarkingSite.Data.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Data\obj\Debug\BookmarkingSite.Data.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Data\obj\Debug\BookmarkingSite.Data.pdb

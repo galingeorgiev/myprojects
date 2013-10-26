@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\ImportDbFromXml\obj\Debug\ImportDbFromXml.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\ImportDbFromXml\bin\Debug\ImportDbFromXml.dll.config
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\ImportDbFromXml\bin\Debug\ImportDbFromXml.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\ImportDbFromXml\bin\Debug\ImportDbFromXml.pdb
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\ImportDbFromXml\bin\Debug\BookmarkingSite.Data.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\ImportDbFromXml\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\ImportDbFromXml\bin\Debug\BookmarkingSite.Data.pdb
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\ImportDbFromXml\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\ImportDbFromXml\obj\Debug\ImportDbFromXml.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\ImportDbFromXml\obj\Debug\ImportDbFromXml.pdb

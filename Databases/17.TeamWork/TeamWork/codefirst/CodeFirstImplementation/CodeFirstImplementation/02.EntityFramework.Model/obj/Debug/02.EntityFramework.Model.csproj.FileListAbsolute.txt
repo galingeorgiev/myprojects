@@ -1,0 +1,8 @@
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\02.EntityFramework.Model\bin\Debug\02.EntityFramework.Model.dll.config
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\02.EntityFramework.Model\bin\Debug\02.EntityFramework.Model.dll
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\02.EntityFramework.Model\bin\Debug\02.EntityFramework.Model.pdb
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\02.EntityFramework.Model\bin\Debug\EntityFramework.dll
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\02.EntityFramework.Model\bin\Debug\EntityFramework.xml
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\02.EntityFramework.Model\obj\Debug\02.EntityFramework.Model.csprojResolveAssemblyReference.cache
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\02.EntityFramework.Model\obj\Debug\02.EntityFramework.Model.dll
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\02.EntityFramework.Model\obj\Debug\02.EntityFramework.Model.pdb

@@ -1,0 +1,13 @@
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task16.ValidateXmlAgainstXsd\bin\Debug\Task16.ValidateXmlAgainstXsd.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task16.ValidateXmlAgainstXsd\bin\Debug\Task16.ValidateXmlAgainstXsd.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task16.ValidateXmlAgainstXsd\bin\Debug\Task16.ValidateXmlAgainstXsd.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task16.ValidateXmlAgainstXsd\obj\Debug\Task16.ValidateXmlAgainstXsd.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task16.ValidateXmlAgainstXsd\obj\Debug\Task16.ValidateXmlAgainstXsd.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task16.ValidateXmlAgainstXsd\bin\Debug\Task16.ValidateXmlAgainstXsd.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task16.ValidateXmlAgainstXsd\obj\Debug\Task16.ValidateXmlAgainstXsd.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task16.ValidateXmlAgainstXsd\obj\Debug\Task16.ValidateXmlAgainstXsd.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task16.ValidateXmlAgainstXsd\bin\Debug\Task16.ValidateXmlAgainstXsd.exe.config
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task16.ValidateXmlAgainstXsd\bin\Debug\Task16.ValidateXmlAgainstXsd.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task16.ValidateXmlAgainstXsd\bin\Debug\Task16.ValidateXmlAgainstXsd.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task16.ValidateXmlAgainstXsd\obj\Debug\Task16.ValidateXmlAgainstXsd.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task16.ValidateXmlAgainstXsd\obj\Debug\Task16.ValidateXmlAgainstXsd.pdb

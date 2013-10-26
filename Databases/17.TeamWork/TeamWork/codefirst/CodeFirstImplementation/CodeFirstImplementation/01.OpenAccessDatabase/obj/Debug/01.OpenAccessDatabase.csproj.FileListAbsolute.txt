@@ -1,0 +1,16 @@
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\01.OpenAccessDatabase\bin\Debug\01.OpenAccessDatabase.dll.config
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\01.OpenAccessDatabase\bin\Debug\01.OpenAccessDatabase.dll
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\01.OpenAccessDatabase\bin\Debug\01.OpenAccessDatabase.pdb
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\01.OpenAccessDatabase\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\01.OpenAccessDatabase\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\01.OpenAccessDatabase\obj\Debug\01.OpenAccessDatabase.csprojResolveAssemblyReference.cache
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\01.OpenAccessDatabase\obj\Debug\01.OpenAccessDatabase.dll
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\01.OpenAccessDatabase\obj\Debug\01.OpenAccessDatabase.pdb
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\01.OpenAccessDatabase\bin\Debug\01.OpenAccessDatabase.dll.config
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\01.OpenAccessDatabase\bin\Debug\01.OpenAccessDatabase.dll
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\01.OpenAccessDatabase\bin\Debug\01.OpenAccessDatabase.pdb
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\01.OpenAccessDatabase\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\01.OpenAccessDatabase\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\01.OpenAccessDatabase\obj\Debug\01.OpenAccessDatabase.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\01.OpenAccessDatabase\obj\Debug\01.OpenAccessDatabase.dll
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\01.OpenAccessDatabase\obj\Debug\01.OpenAccessDatabase.pdb

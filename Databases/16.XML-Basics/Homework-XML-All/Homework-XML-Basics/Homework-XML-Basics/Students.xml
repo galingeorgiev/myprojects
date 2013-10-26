@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Students.xslt"?>
+<!-- Create XML document students.xml, which contains 
+     structured description of students. For each student 
+     you should enter information for his name, sex, birth 
+     date, phone, email, course, specialty, faculty number 
+     and a list of taken exams (exam name, tutor, score).
+     
+     Add default namespace for the students "urn:students".
+ -->
+
+<students xmlns:urn="http://unique-url.com/students">
+  <student>
+    <name>Gosho Goshev</name>
+    <sex>Male</sex>
+    <birth-date>2013-07-25</birth-date>
+    <phone>0888/888888</phone>
+    <email>gosho@gmail.com</email>
+    <course>DB</course>
+    <speciality>C# Dev</speciality>
+    <faculty>Web</faculty>
+    <taken-exams>
+      <exam>
+        <name>DB Exam</name>
+        <tutor>Svetlin Nakov</tutor>
+        <score>155</score>
+        <enrollment>
+          <date>2013-07-25</date>
+          <exam-score>150</exam-score>
+        </enrollment>
+        <endorsements>Svetlin Nakov</endorsements>
+      </exam>
+    </taken-exams>
+  </student>
+
+  <student>
+    <name>Pesho Peshev</name>
+    <sex>Male</sex>
+    <birth-date>2013-07-25</birth-date>
+    <phone>0999/999999</phone>
+    <email>pesho@gmail.com</email>
+    <course>DB</course>
+    <speciality>C# Dev</speciality>
+    <faculty>Web</faculty>
+    <taken-exams>
+      <exam>
+        <name>DB Exam</name>
+        <tutor>Svetlin Nakov</tutor>
+        <score>250</score>
+        <enrollment>
+          <date>2013-07-25</date>
+          <exam-score>250</exam-score>
+        </enrollment>
+        <endorsements>Svetlin Nakov</endorsements>
+      </exam>
+    </taken-exams>
+  </student>
+</students>

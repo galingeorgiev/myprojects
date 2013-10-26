@@ -1,0 +1,14 @@
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Client\bin\Debug\BookmarkingSite.Client.exe.config
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Client\bin\Debug\BookmarkingSite.Client.exe
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Client\bin\Debug\BookmarkingSite.Client.pdb
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Client\obj\Debug\BookmarkingSite.Client.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Client\obj\Debug\BookmarkingSite.Client.exe
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Client\obj\Debug\BookmarkingSite.Client.pdb
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Client\bin\Debug\ImportDbFromXml.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Client\bin\Debug\ImportDbFromXml.pdb
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Client\bin\Debug\BookmarkingSite.Data.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Client\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Client\bin\Debug\BookmarkingSite.Data.pdb
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Client\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Client\bin\Debug\SearchInDb.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\BookmarkingSite\BookmarkingSite.Client\bin\Debug\SearchInDb.pdb

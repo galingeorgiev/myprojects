@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\ImportFromXmlToDb\bin\Debug\ImportFromXmlToDb.exe.config
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\ImportFromXmlToDb\obj\Debug\ImportFromXmlToDb.exe
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\ImportFromXmlToDb\obj\Debug\ImportFromXmlToDb.pdb
+F:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\ImportFromXmlToDb\bin\Debug\ImportFromXmlToDb.exe.config
+F:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\ImportFromXmlToDb\obj\Debug\ImportFromXmlToDb.exe
+F:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\ImportFromXmlToDb\obj\Debug\ImportFromXmlToDb.pdb

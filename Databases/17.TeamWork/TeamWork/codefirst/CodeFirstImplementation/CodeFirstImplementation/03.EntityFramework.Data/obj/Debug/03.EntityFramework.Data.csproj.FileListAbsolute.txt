@@ -1,0 +1,20 @@
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\03.EntityFramework.Data\bin\Debug\03.EntityFramework.Data.dll.config
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\03.EntityFramework.Data\bin\Debug\03.EntityFramework.Data.dll
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\03.EntityFramework.Data\bin\Debug\03.EntityFramework.Data.pdb
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\03.EntityFramework.Data\bin\Debug\02.EntityFramework.Model.dll
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\03.EntityFramework.Data\bin\Debug\EntityFramework.dll
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\03.EntityFramework.Data\bin\Debug\02.EntityFramework.Model.pdb
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\03.EntityFramework.Data\bin\Debug\EntityFramework.xml
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\03.EntityFramework.Data\obj\Debug\03.EntityFramework.Data.csprojResolveAssemblyReference.cache
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\03.EntityFramework.Data\obj\Debug\03.EntityFramework.Data.dll
+D:\TeamProject\TestCodeFirst\CodeFirstImplementation\03.EntityFramework.Data\obj\Debug\03.EntityFramework.Data.pdb
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\03.EntityFramework.Data\bin\Debug\03.EntityFramework.Data.dll.config
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\03.EntityFramework.Data\bin\Debug\03.EntityFramework.Data.dll
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\03.EntityFramework.Data\bin\Debug\03.EntityFramework.Data.pdb
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\03.EntityFramework.Data\bin\Debug\02.EntityFramework.Model.dll
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\03.EntityFramework.Data\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\03.EntityFramework.Data\bin\Debug\02.EntityFramework.Model.pdb
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\03.EntityFramework.Data\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\03.EntityFramework.Data\obj\Debug\03.EntityFramework.Data.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\03.EntityFramework.Data\obj\Debug\03.EntityFramework.Data.dll
+D:\Telerik Academy\Telerik\Databases\17.TeamWork\TeamWork\codefirst\CodeFirstImplementation\CodeFirstImplementation\03.EntityFramework.Data\obj\Debug\03.EntityFramework.Data.pdb

@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task08.CreateNewAlbum\bin\Debug\Task08.CreateNewAlbum.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task08.CreateNewAlbum\bin\Debug\Task08.CreateNewAlbum.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task08.CreateNewAlbum\bin\Debug\Task08.CreateNewAlbum.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task08.CreateNewAlbum\obj\Debug\Task08.CreateNewAlbum.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task08.CreateNewAlbum\obj\Debug\Task08.CreateNewAlbum.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task08.CreateNewAlbum\bin\Debug\Task08.CreateNewAlbum.exe.config
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task08.CreateNewAlbum\bin\Debug\Task08.CreateNewAlbum.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task08.CreateNewAlbum\bin\Debug\Task08.CreateNewAlbum.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task08.CreateNewAlbum\obj\Debug\Task08.CreateNewAlbum.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task08.CreateNewAlbum\obj\Debug\Task08.CreateNewAlbum.pdb

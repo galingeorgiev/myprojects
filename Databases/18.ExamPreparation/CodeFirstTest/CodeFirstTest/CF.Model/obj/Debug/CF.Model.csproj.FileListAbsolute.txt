@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Model\bin\Debug\CF.Model.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Model\bin\Debug\CF.Model.pdb
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Model\obj\Debug\CF.Model.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Model\obj\Debug\CF.Model.pdb

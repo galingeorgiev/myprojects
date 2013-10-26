@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<persons>
+	<person>
+		<name>Ivan Ivanov</name>
+		<adress>Sofia</adress>
+		<phone>0888/888888</phone>
+	</person>
+	<person>
+		<name>Petyr Petrov</name>
+		<adress>Plovdiv</adress>
+		<phone>0999/999999</phone>
+	</person>
+	<person>
+		<name>Svetlin Nakov</name>
+		<adress>Sofia</adress>
+		<phone>0777/777777</phone>
+	</person>
+	<person>
+		<name>Nikolay Kostov</name>
+		<adress>Sofia</adress>
+		<phone>0666/666666</phone>
+	</person>
+	<person>
+		<name>Doncho Minkov</name>
+		<adress>Burgas</adress>
+		<phone>0555/555555</phone>
+	</person>
+</persons>

@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Client\bin\Debug\CF.Client.exe.config
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Client\bin\Debug\CF.Client.exe
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Client\bin\Debug\CF.Client.pdb
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Client\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Client\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Client\obj\Debug\CF.Client.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Client\obj\Debug\CF.Client.exe
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Client\obj\Debug\CF.Client.pdb
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Client\bin\Debug\CF.Data.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Client\bin\Debug\CF.Model.dll
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Client\bin\Debug\CF.Data.pdb
+D:\Telerik Academy\Telerik\Databases\18.ExamPreparation\CodeFirstTest\CodeFirstTest\CF.Client\bin\Debug\CF.Model.pdb

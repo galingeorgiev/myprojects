@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookmarksDBModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="BookmarksDBEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Bookmarks" EntityType="BookmarksDBModel.Bookmark" />
+    <EntitySet Name="sysdiagrams" EntityType="BookmarksDBModel.sysdiagram" />
+    <EntitySet Name="Tags" EntityType="BookmarksDBModel.Tag" />
+    <EntitySet Name="Users" EntityType="BookmarksDBModel.User" />
+    <AssociationSet Name="FK__Bookmarks__UserI__1273C1CD" Association="BookmarksDBModel.FK__Bookmarks__UserI__1273C1CD">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Bookmarks" EntitySet="Bookmarks" />
+    </AssociationSet>
+    <AssociationSet Name="Bookmarks_Tags" Association="BookmarksDBModel.Bookmarks_Tags">
+      <End Role="Bookmarks" EntitySet="Bookmarks" />
+      <End Role="Tags" EntitySet="Tags" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Bookmark">
+    <Key>
+      <PropertyRef Name="BookmarkId" />
+    </Key>
+    <Property Name="BookmarkId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="URL" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="Notes" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="BookmarksDBModel.FK__Bookmarks__UserI__1273C1CD" FromRole="Bookmarks" ToRole="Users" />
+    <NavigationProperty Name="Tags" Relationship="BookmarksDBModel.Bookmarks_Tags" FromRole="Bookmarks" ToRole="Tags" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Tag">
+    <Key>
+      <PropertyRef Name="TagId" />
+    </Key>
+    <Property Name="TagId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="TagName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Bookmarks" Relationship="BookmarksDBModel.Bookmarks_Tags" FromRole="Tags" ToRole="Bookmarks" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="UserPassword" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="Name" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Bookmarks" Relationship="BookmarksDBModel.FK__Bookmarks__UserI__1273C1CD" FromRole="Users" ToRole="Bookmarks" />
+  </EntityType>
+  <Association Name="FK__Bookmarks__UserI__1273C1CD">
+    <End Role="Users" Type="BookmarksDBModel.User" Multiplicity="1" />
+    <End Role="Bookmarks" Type="BookmarksDBModel.Bookmark" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Bookmarks">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Bookmarks_Tags">
+    <End Role="Bookmarks" Type="BookmarksDBModel.Bookmark" Multiplicity="*" />
+    <End Role="Tags" Type="BookmarksDBModel.Tag" Multiplicity="*" />
+  </Association>
+</Schema>

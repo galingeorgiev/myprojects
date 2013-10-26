@@ -1,0 +1,15 @@
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\bin\Debug\Task02.GetDiffrentArtists.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\bin\Debug\Task02.GetDiffrentArtists.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\bin\Debug\Task02.GetDiffrentArtists.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\obj\Debug\Task02.GetDiffrentArtists.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\obj\Debug\Task02.GetDiffrentArtists.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\obj\Debug\Task02.GetDiffrentArtists.pdb
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\bin\Debug\Task02.GetDiffrentArtists.exe.config
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\obj\Debug\Task02.GetDiffrentArtists.exe
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\obj\Debug\Task02.GetDiffrentArtists.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\bin\Debug\Task02.GetDiffrentArtists.exe.config
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\bin\Debug\Task02.GetDiffrentArtists.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\bin\Debug\Task02.GetDiffrentArtists.pdb
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\obj\Debug\Task02.GetDiffrentArtists.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\obj\Debug\Task02.GetDiffrentArtists.exe
+F:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-All\Homework-XML-Processing-in-.NET\Homework-XML-Processing-in-.NET\Task02.GetDiffrentArtists\obj\Debug\Task02.GetDiffrentArtists.pdb

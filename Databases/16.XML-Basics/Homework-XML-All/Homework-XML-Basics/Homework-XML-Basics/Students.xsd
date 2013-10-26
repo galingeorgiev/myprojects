@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Create XSD Schema for the students.xml document. 
+     Add new elements in the schema: information for 
+     enrollment (date and exam score) and teacher's 
+     endorsements.
+ -->
+
+<xs:schema xmlns:urn="http://unique-url.com/students" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="students">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="student" maxOccurs="unbounded" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="student">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="name" type="xs:string" />
+        <xs:element name="sex" type="xs:string" />
+        <xs:element name="birth-date" type="xs:date" />
+        <xs:element name="phone" type="xs:string" />
+        <xs:element name="email" type="xs:string" />
+        <xs:element name="course" type="xs:string" />
+        <xs:element name="speciality" type="xs:string" />
+        <xs:element name="faculty" type="xs:string" />
+        <xs:element ref="taken-exams" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="taken-exams">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="exam">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string" />
+              <xs:element name="tutor" type="xs:string" />
+              <xs:element name="score" type="xs:int" />
+              <xs:element ref="enrollment" />
+              <xs:element name="endorsements" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="enrollment">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="date" />
+        <xs:element name="exam-score" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

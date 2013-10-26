@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Client\bin\Debug\Logs.Client.exe.config
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Client\bin\Debug\Logs.Client.exe
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Client\bin\Debug\Logs.Client.pdb
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Client\bin\Debug\Logs.Data.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Client\bin\Debug\Logs.Model.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Client\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Client\bin\Debug\Logs.Data.pdb
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Client\bin\Debug\Logs.Model.pdb
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Client\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Client\obj\Debug\Logs.Client.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Client\obj\Debug\Logs.Client.exe
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Client\obj\Debug\Logs.Client.pdb

@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Model\bin\Debug\Logs.Model.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Model\bin\Debug\Logs.Model.pdb
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Model\obj\Debug\Logs.Model.dll
+D:\Telerik Academy\Telerik\Databases\20.RealExam\BookStoreDB\Logs.Model\obj\Debug\Logs.Model.pdb
