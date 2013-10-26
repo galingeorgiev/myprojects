@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.DataLayer\bin\Debug\Places.DataLayer.dll.config
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.DataLayer\bin\Debug\Places.DataLayer.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.DataLayer\bin\Debug\Places.DataLayer.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.DataLayer\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.DataLayer\bin\Debug\Places.Models.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.DataLayer\bin\Debug\Places.Models.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.DataLayer\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.DataLayer\obj\Debug\Places.DataLayer.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.DataLayer\obj\Debug\Places.DataLayer.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.DataLayer\obj\Debug\Places.DataLayer.pdb

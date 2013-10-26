@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.Models\bin\Debug\Places.Models.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.Models\bin\Debug\Places.Models.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.Models\obj\Debug\Places.Models.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.Models\obj\Debug\Places.Models.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.Models\obj\Debug\Places.Models.pdb

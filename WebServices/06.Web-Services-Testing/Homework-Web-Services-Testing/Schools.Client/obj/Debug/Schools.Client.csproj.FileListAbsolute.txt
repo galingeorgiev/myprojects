@@ -1,0 +1,62 @@
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\obj\Debug\Schools.Client.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Schools.Client.exe.config
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Schools.Client.exe
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Schools.Client.pdb
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Schools.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\System.Net.Http.Formatting.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\EntityFramework.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\System.Web.Http.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\System.Web.Optimization.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\WebActivator.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\System.Web.Http.WebHost.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Newtonsoft.Json.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\WebGrease.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.Web.Http.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.Web.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Antlr3.Runtime.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Schools.pdb
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\System.Net.Http.Formatting.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\EntityFramework.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\System.Web.Http.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\WebActivator.pdb
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\System.Web.Http.WebHost.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Newtonsoft.Json.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.Web.Http.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.Web.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\obj\Debug\Schools.Client.exe
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\obj\Debug\Schools.Client.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Schools.Client.exe.config
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\obj\Debug\Schools.Client.exe
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\obj\Debug\Schools.Client.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Schools.Client.exe
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Schools.Client.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Schools.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\System.Net.Http.Formatting.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\System.Web.Http.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\System.Web.Optimization.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\WebActivator.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.Web.Http.WebHost.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\System.Web.Http.WebHost.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Newtonsoft.Json.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\WebGrease.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.Web.Http.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.Web.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Antlr3.Runtime.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Schools.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\System.Net.Http.Formatting.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\System.Web.Http.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\WebActivator.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.Web.Http.WebHost.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\System.Web.Http.WebHost.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\Newtonsoft.Json.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.Web.Http.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\bin\Debug\AttributeRouting.Web.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Homework-Web-Services-Testing\Schools.Client\obj\Debug\Schools.Client.csprojResolveAssemblyReference.cache

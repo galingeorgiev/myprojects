@@ -1,0 +1,30 @@
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.Repositories.Tests.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.Repositories.Tests.pdb
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\EntityFramework.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\EntityFramework.SqlServer.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.DataLayer.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.Models.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.Repositories.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.DataLayer.pdb
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.Models.pdb
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.Repositories.pdb
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\EntityFramework.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\EntityFramework.SqlServer.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\obj\Debug\Places.Repositories.Tests.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\obj\Debug\Places.Repositories.Tests.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\obj\Debug\Places.Repositories.Tests.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.Repositories.Tests.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.Repositories.Tests.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.DataLayer.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.Models.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.Repositories.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.DataLayer.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.Models.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\Places.Repositories.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\obj\Debug\Places.Repositories.Tests.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\obj\Debug\Places.Repositories.Tests.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Repositories.Tests\obj\Debug\Places.Repositories.Tests.pdb

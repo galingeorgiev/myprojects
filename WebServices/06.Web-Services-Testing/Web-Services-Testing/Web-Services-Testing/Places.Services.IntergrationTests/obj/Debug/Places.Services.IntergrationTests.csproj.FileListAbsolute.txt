@@ -1,0 +1,1 @@
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\Web-Services-Testing\Web-Services-Testing\Places.Services.IntergrationTests\obj\Debug\Places.Services.IntergrationTests.csprojResolveAssemblyReference.cache

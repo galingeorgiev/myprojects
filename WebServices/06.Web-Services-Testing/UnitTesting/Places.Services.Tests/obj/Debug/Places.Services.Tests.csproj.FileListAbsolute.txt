@@ -1,0 +1,50 @@
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\obj\Debug\Places.Services.Tests.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Services.Tests.dll.config
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Services.Tests.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Services.Tests.pdb
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Models.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Repositories.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Services.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\System.Web.Http.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\EntityFramework.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\System.Web.Optimization.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\System.Net.Http.Formatting.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\System.Web.Http.WebHost.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Newtonsoft.Json.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.DataLayer.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Models.pdb
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Repositories.pdb
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Services.pdb
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\System.Web.Http.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\EntityFramework.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\System.Net.Http.Formatting.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\System.Web.Http.WebHost.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.DataLayer.pdb
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\obj\Debug\Places.Services.Tests.dll
+F:\Telerik Academy\Telerik\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\obj\Debug\Places.Services.Tests.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Services.Tests.dll.config
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Services.Tests.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Services.Tests.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Models.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Repositories.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Services.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\System.Web.Http.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.DataLayer.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Models.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Repositories.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.Services.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\System.Web.Http.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\bin\Debug\Places.DataLayer.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\obj\Debug\Places.Services.Tests.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\obj\Debug\Places.Services.Tests.dll
+D:\Telerik Academy\Telerik Projects\myprojects\WebServices\06.Web-Services-Testing\UnitTesting\Places.Services.Tests\obj\Debug\Places.Services.Tests.pdb
