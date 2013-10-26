@@ -1,0 +1,55 @@
+﻿@model LaptopSystem.Web.Models.CommentViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<ul class="errors"></ul>
+
+@(Html.Kendo().Grid<LaptopSystem.Web.Models.CommentViewModel>()
+    .Name("Comments-grid")
+    .Editable()
+    .Sortable()
+    .Pageable()
+    .Filterable()
+    .Columns(col =>
+    {
+        col.Bound(c => c.User);
+        col.Bound(c => c.Content).ClientTemplate("#= cutContent(data) #");
+        col.Command(command => { command.Edit(); command.Destroy(); });
+    })
+    .DataSource(dataSource => dataSource
+        .Ajax()
+        .PageSize(10)
+        .Model(model => { model.Id(c => c.Id); model.Field(c => c.User).Editable(false); })
+        .Read(read => read.Action("Read", "CommentsAdmin"))
+        .Update(update => update.Action("Edit", "CommentsAdmin"))
+        .Destroy(delete => delete.Action("Delete", "CommentsAdmin"))
+        .ServerOperation(true)
+        .Events(events => events.Error("error_handler"))
+    )
+)
+
+<script type="text/javascript">
+    function error_handler(e) {
+        if (e.errors) {
+            var message = "Errors:\n";
+            $.each(e.errors, function (key, value) {
+                if ('errors' in value) {
+                    $.each(value.errors, function () {
+                        message += this + "\n";
+                    });
+                }
+            });
+            alert(message);
+        }
+    }
+
+    function cutContent(data) {
+        if (data.Content.length > 20) {
+            return data.Content.substring(0, 20) + '...';
+        }
+        else {
+            return data.Content;
+        }
+    }
+</script>

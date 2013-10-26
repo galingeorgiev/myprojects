@@ -1,0 +1,75 @@
+﻿@model LaptopSystem.Web.Models.LaptopDetailsViewModel
+@{
+    ViewBag.Title = "Details";
+}
+<div class="container-fluid">
+    <div class="row-fluid">
+        <div class="span4">
+            <h3>@Model.Manufacturer @Model.Model</h3>
+            <p><strong>Monitor: </strong>@Model.Monitor"</p>
+            <p><strong>RAM: </strong>@Model.Ram GB</p>
+            <p><strong>Price: </strong>$@Model.Price</p>
+        </div>
+        <div class="span4">
+            <img src="@Model.ImageUrl" alt="@Model.Manufacturer @Model.Model" />
+        </div>
+        <div class="span4">
+            @if (Model.Weight != 0d)
+            {
+                <p><strong>Weight: </strong>@Model.Weight Kg</p>
+            }
+            @if (!string.IsNullOrEmpty(Model.AdditionalParts))
+            {
+                <p><strong>Additional parts: </strong>@Model.AdditionalParts</p>
+            }
+            @if (!string.IsNullOrEmpty(Model.Description))
+            {
+                <p><strong>Description: </strong></p>
+                <p>@Model.Description</p>
+            }
+        </div>
+    </div>
+
+    <div class="row">
+        <div>Votes: <span id="votes-count">@Model.Votes</span></div>
+        @if (User.Identity.IsAuthenticated)
+        {
+            @Ajax.ActionLink("Vote", "Vote", new { id = Model.Id }, new AjaxOptions { UpdateTargetId = "votes-count", InsertionMode = InsertionMode.Replace, HttpMethod = "Post" }, new { @class = "k-button" })
+        }
+
+        <div id="comments" class="row">
+            @foreach (var comment in Model.Comments)
+            {
+                <div class="span7 divider">
+                    <p>Comment by @comment.User</p>
+                    <p>@comment.Content</p>
+                </div>
+            }
+        </div>
+        @if (true)
+        {
+            <div class="row">
+                @using (Ajax.BeginForm("Comment", new AjaxOptions
+        {
+            HttpMethod = "Post",
+            InsertionMode = InsertionMode.InsertAfter,
+            UpdateTargetId = "comments", OnSuccess = "clearTextArea"
+        }))
+                {
+                    <strong>Add comment</strong>
+                    <br />
+                    @Html.Hidden("Id", Model.Id);
+                    @Html.TextArea("Content");
+                    <br />
+                    <input type="submit" name="Comment laptop" value="Submit" />
+                }
+            </div>
+        }
+    </div>
+</div>
+
+<script>
+    function clearTextArea() {
+        $("#Content").val("");
+    }
+</script>

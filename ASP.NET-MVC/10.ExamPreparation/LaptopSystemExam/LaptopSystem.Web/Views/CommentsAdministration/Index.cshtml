@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@(Html.Kendo()
+    .Grid<LaptopSystem.Web.Models.CommentViewModel>()
+    .Name("comments-grid")
+    .Pageable()
+    .Sortable()
+    .Editable(edit =>
+            {
+                edit.Mode(GridEditMode.InLine);
+            })
+    .Filterable()
+    .Columns(col =>
+            {
+                col.Bound(m => m.Content);
+                col.Bound(m => m.AuthorUsername);
+                col.Command(com =>
+                            {
+                                com.Edit();
+                                com.Destroy();
+                            }).Title("Commands");
+            })
+    .DataSource(data =>
+            {
+                data.Ajax()
+                    .ServerOperation(true)
+                    .PageSize(10)
+                    .Model(m => 
+                        {
+                            m.Id("Id");
+                            m.Field(com => com.AuthorUsername).Editable(false);
+                        })
+                    .Read("ReadComments", "CommentsAdministration")
+                    .Update("UpdateComment", "CommentsAdministration")
+                    .Destroy("DestroyComment", "CommentsAdministration");
+            }))

@@ -1,0 +1,72 @@
+﻿@model IEnumerable<LaptopSystem.Web.Models.LaptopBasicViewModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+@using (Html.BeginForm("Search", "Laptops", FormMethod.Post))
+{
+    <p>By model</p>
+    @(Html.Kendo()
+    .AutoComplete()
+    .Name("SearchModel")
+    .Placeholder("Search...")
+    .MinLength(3)
+    .DataTextField("Model")
+    .DataSource(dataSource =>
+    {
+        dataSource.Read(read => read.Action("SearchModel", "Laptops").Data("onAdditionalData")).ServerFiltering(true);
+    })
+    )
+    
+    <p>Manufacturers</p>
+    @(Html.Kendo().DropDownList()
+        .Name("SearchManufacturer")
+        .DataTextField("Name")
+        .DataValueField("Id")
+        .DataSource(dataSource =>
+        {
+            dataSource.Read(read => read.Action("ManufacturerList", "Laptops"));
+        })
+    )
+    
+    <p>By price</p>
+    @(Html.Kendo()
+        .NumericTextBox()
+        .Name("PriceSearch")
+        .Min(500)
+        .Max(6000)
+        .Placeholder("Price"))
+    
+    <div>
+        <input type="submit" name="Search for laptop" value="Search" />
+    </div>
+}
+
+<script>
+    function onAdditionalData() {
+        return {
+            text: $('#SearchModel').val()
+        };
+    }
+</script>
+
+<script type="text/x-kendo-tmpl" id="template">
+    <div class="row">
+        <div class="span4"><img src="#:ImageUrl#" alt="#:Manufacturer# image" width="150" /></div>
+        <div class="span4"><h3>#:Manufacturer# #:Model#</h3></div>
+        <div class="span3"><a class="k-button" href="/Laptops/Details/#:Id#">Price $#:Price#</a></div>
+    </div>
+</script>
+
+@(Html.Kendo().ListView<LaptopSystem.Web.Models.LaptopBasicViewModel>(Model)
+    .Name("listView")
+    .TagName("div")
+    .ClientTemplateId("template")
+    .DataSource(dataSource =>
+    {
+        dataSource.Read(read => read.Action("AllLaptops", "Laptops"));
+        dataSource.PageSize(5);
+        dataSource.ServerOperation(true);
+    })
+    .Pageable()
+)

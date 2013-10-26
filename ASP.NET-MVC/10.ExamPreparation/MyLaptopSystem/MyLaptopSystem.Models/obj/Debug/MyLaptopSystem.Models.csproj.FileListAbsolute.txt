@@ -1,0 +1,28 @@
+D:\Telerik Academy\Telerik\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\MyLaptopSystem.Models.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\MyLaptopSystem.Models.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\MyLaptopSystem.Models.pdb
+D:\Telerik Academy\Telerik\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\obj\Debug\MyLaptopSystem.Models.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\obj\Debug\MyLaptopSystem.Models.pdb
+D:\Telerik Academy\Telerik\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\obj\Debug\MyLaptopSystem.Models.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\MyLaptopSystem.Models.dll.config
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\MyLaptopSystem.Models.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\MyLaptopSystem.Models.pdb
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\obj\Debug\MyLaptopSystem.Models.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\obj\Debug\MyLaptopSystem.Models.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\10.ExamPreparation\MyLaptopSystem\MyLaptopSystem.Models\obj\Debug\MyLaptopSystem.Models.pdb

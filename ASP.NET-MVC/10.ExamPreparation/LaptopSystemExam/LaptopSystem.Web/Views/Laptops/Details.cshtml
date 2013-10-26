@@ -1,0 +1,59 @@
+﻿@model LaptopSystem.Web.Models.LaptopDetailsViewModel
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>@Model.ManufacturerName @Model.Model</h2>
+<div class="row">
+    <div class="span4">
+        <div><strong>Monitor:</strong> @Model.MonitorSize''</div>
+        <div><strong>RAM:</strong> @Model.RamMemorySize GB</div>
+        <div><strong>Price:</strong> $@Model.Price</div>
+    </div>
+    <div class="span4">
+        <img src="@Model.ImageUrl" alt="@Model.ManufacturerName @Model.Model" />
+    </div>
+    <div class="span4">
+        @if (Model.Weight.HasValue) { <div><strong>Weight:</strong> @Model.Weight Kg</div> }
+        @if (!string.IsNullOrEmpty(Model.AdditionalParts)) { <div><strong>Additional parts:</strong> @Model.AdditionalParts</div> }
+        @if (!string.IsNullOrEmpty(Model.Description)) { <div><strong>Description:</strong><br />@Model.Description</div> }
+    </div>
+</div>
+
+<div>
+    Votes: <span id="laptop-votes">@Model.Votes</span> 
+    @if (User.Identity.IsAuthenticated && Model.UserCanVote)
+    {
+        @Ajax.ActionLink("Vote", "Vote", new { id = Model.Id }, new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "laptop-votes", HttpMethod = "Post", OnSuccess = "hideVoteButton" }, new { id="vote-button", @class = "btn" })
+    }
+</div>
+<br />
+<div id="Comments">
+    @foreach (var comment in Model.Comments)
+    {
+        @Html.Partial("_CommentPartial", comment)
+    }
+</div>
+@if (User.Identity.IsAuthenticated)
+{
+    using(Ajax.BeginForm("PostComment", new AjaxOptions { HttpMethod = "Post", InsertionMode = InsertionMode.InsertAfter, UpdateTargetId = "Comments", OnFailure="commentPostFailure" }))
+    {
+        @Html.Hidden("LaptopId", Model.Id)
+        @Html.TextArea("comment")
+        @Html.AntiForgeryToken()
+        <input type="submit" value="Submit comment" />
+    }
+}
+
+@section scripts{
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        function commentPostFailure() {
+            alert("Error");
+        }
+
+        function hideVoteButton() {
+            $("#vote-button").hide();
+        }
+    </script>
+}
