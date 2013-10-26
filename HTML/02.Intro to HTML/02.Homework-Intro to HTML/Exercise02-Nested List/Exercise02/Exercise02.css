@@ -1,0 +1,30 @@
+﻿body {
+}
+
+h1 {
+    font-size:16px;
+}
+
+.UpperRomanListSimbol {
+    list-style:upper-roman;
+}
+
+.lowerAlphaListSimbol {
+    list-style:lower-alpha;
+}
+
+.decimalListSimbol {
+    list-style:decimal;
+}
+
+.circleListSimbol {
+    list-style:circle;
+}
+
+.squareListSimbol {
+    list-style:square;
+}
+
+.discListSimbol {
+    list-style:disc;
+}

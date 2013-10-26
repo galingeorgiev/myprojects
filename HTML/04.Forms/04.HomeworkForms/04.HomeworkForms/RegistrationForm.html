@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Registration Form</title>
+    <link href="AllHomeworksStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <form class="registrationForm">
+        <table>
+            <tr>
+                <td>Last Name</td>
+                <td colspan="3">
+                    <input type="text" name="lastName" value=" " />
+                </td>
+            </tr>
+            <tr>
+                <td>First Name</td>
+                <td colspan="3">
+                    <input type="text" name="firstName" value=" " />
+                </td>
+            </tr>
+            <tr>
+                <td>Address</td>
+                <td colspan="3">
+                    <textarea rows="4" cols="20"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td>City</td>
+                <td>
+                    <input type="text" name="city" value=" " />
+                </td>
+                <td>State</td>
+                <td>
+                    <input type="text" name="state" value=" " />
+                </td>
+            </tr>
+            <tr>
+                <td>ZIP/Post Code</td>
+                <td colspan="3">
+                    <input type="text" name="zip" value=" " />
+                </td>
+            </tr>
+            <tr>
+                <td>Phone(country code, area code, number)</td>
+                <td colspan="3">
+                    (<input type="text" name="countryCode" value=" " />) <input type="text" name="areaCode" value=" " /> - <input type="text" name="number" value=" " />
+                </td>
+            </tr>
+            <tr>
+                <td>E-mail</td>
+                <td colspan="3">
+                    <input type="email" name="email" value=" " />
+                </td>
+            </tr>
+            <tr>
+                <td>Birth date</td>
+                <td colspan="3">
+                    <label>Month</label><input type="text" name="month" value=" " />
+                    <label>Day</label><input type="text" name="day" value=" " />
+                    <label>Year</label><input type="text" name="year" value=" " />
+                </td>
+            </tr>
+            <tr>
+                <td>Gender</td>
+                <td colspan="3">
+                    <select>
+                        <option value="value" selected="selected">Male</option>
+                        <option>Female</option>
+                        <option>Not specified</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Starting date</td>
+                <td colspan="3">
+                    <input type="radio" name="startingDate" value=" " /><label>Spring 2006</label>
+                    <input type="radio" name="startingDate" value=" " /><label>Summer 2006</label>
+                </td>
+            </tr>
+            <tr>
+                <td>Comments/Questions</td>
+                <td colspan="3">
+                    <textarea rows="4" cols="20"></textarea>
+                </td>
+            </tr>
+            <tfoot>
+                <tr>
+                    <td id="footer" colspan="4">
+                        <input type="submit" name="name" value=" Submit " />
+                        <input type="reset" name="name" value=" Clear This Form " />
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </form>
+</body>
+</html>

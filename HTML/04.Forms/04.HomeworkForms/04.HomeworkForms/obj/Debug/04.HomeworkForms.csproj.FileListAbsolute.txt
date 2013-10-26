@@ -1,0 +1,9 @@
+C:\Users\Galin\Desktop\04.HomeworkForms\04.HomeworkForms\bin\04.HomeworkForms.dll
+C:\Users\Galin\Desktop\04.HomeworkForms\04.HomeworkForms\bin\04.HomeworkForms.pdb
+C:\Users\Galin\Desktop\04.HomeworkForms\04.HomeworkForms\obj\Debug\04.HomeworkForms.dll
+C:\Users\Galin\Desktop\04.HomeworkForms\04.HomeworkForms\obj\Debug\04.HomeworkForms.pdb
+D:\Telerik Academy\Telerik\HTML\04.Forms\04.HomeworkForms\04.HomeworkForms\bin\04.HomeworkForms.dll
+D:\Telerik Academy\Telerik\HTML\04.Forms\04.HomeworkForms\04.HomeworkForms\bin\04.HomeworkForms.pdb
+D:\Telerik Academy\Telerik\HTML\04.Forms\04.HomeworkForms\04.HomeworkForms\obj\Debug\04.HomeworkForms.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\HTML\04.Forms\04.HomeworkForms\04.HomeworkForms\obj\Debug\04.HomeworkForms.dll
+D:\Telerik Academy\Telerik\HTML\04.Forms\04.HomeworkForms\04.HomeworkForms\obj\Debug\04.HomeworkForms.pdb

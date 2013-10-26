@@ -1,0 +1,59 @@
+﻿body {
+}
+
+.registrationForm table tr td {
+    border:1px solid;
+    border-color:rgba(0, 0, 0, 0.50)
+}
+
+.registrationForm table {
+    border-spacing:0px;
+    border:2px solid;
+    border-color:rgba(0, 0, 0, 0.50)
+}
+
+#footer {
+    background-color:rgba(0, 0, 0, 0.40);
+}
+
+    #footer input {
+        margin:auto;
+    }
+
+.schoolBook {
+    border:0px solid;
+}
+
+.schoolBookTable {
+    border:2px solid;
+    border-spacing:0px;
+    margin:10px;
+}
+
+    .schoolBookTable th, td {
+        border:1px solid;
+    }
+
+.dataTable table {
+    border:2px solid;
+}
+
+    .dataTable table thead
+    {
+        background-color: #0ff;
+    }
+
+
+    .dataTable table tr th, td {
+        border:1px solid;
+    }
+
+body #AppleLaptopsForm ul li
+{
+    list-style-type:none;
+}
+
+body #AppleLaptopsForm table tr td
+{
+    border:none;
+}

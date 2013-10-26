@@ -1,0 +1,10 @@
+C:\Users\Lidia\Desktop\Telerik\HTML\02\Exercise02\Exercise02\bin\Exercise02.dll
+C:\Users\Lidia\Desktop\Telerik\HTML\02\Exercise02\Exercise02\bin\Exercise02.pdb
+C:\Users\Lidia\Desktop\Telerik\HTML\02\Exercise02\Exercise02\obj\Debug\Exercise02.csprojResolveAssemblyReference.cache
+C:\Users\Lidia\Desktop\Telerik\HTML\02\Exercise02\Exercise02\obj\Debug\Exercise02.dll
+C:\Users\Lidia\Desktop\Telerik\HTML\02\Exercise02\Exercise02\obj\Debug\Exercise02.pdb
+C:\Users\Lidia\Desktop\Telerik\HTML\02.Intro to HTML\02.Homework-Intro to HTML\Exercise02\Exercise02\bin\Exercise02.dll
+C:\Users\Lidia\Desktop\Telerik\HTML\02.Intro to HTML\02.Homework-Intro to HTML\Exercise02\Exercise02\bin\Exercise02.pdb
+C:\Users\Lidia\Desktop\Telerik\HTML\02.Intro to HTML\02.Homework-Intro to HTML\Exercise02\Exercise02\obj\Debug\Exercise02.csprojResolveAssemblyReference.cache
+C:\Users\Lidia\Desktop\Telerik\HTML\02.Intro to HTML\02.Homework-Intro to HTML\Exercise02\Exercise02\obj\Debug\Exercise02.dll
+C:\Users\Lidia\Desktop\Telerik\HTML\02.Intro to HTML\02.Homework-Intro to HTML\Exercise02\Exercise02\obj\Debug\Exercise02.pdb

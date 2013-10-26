@@ -1,0 +1,38 @@
+﻿body {
+}
+
+.secondTable {
+    border:1px solid;
+    margin:0px;
+    border-spacing:0px;
+}
+
+    .secondTable td {
+        border:1px solid;
+        margin:0px;
+        text-align:center;
+        min-width:30px;
+        min-height:30px;
+    }
+
+form .inputSubmit {
+    width:59px;
+    height:36px;
+}
+
+.calculatorTable {
+    border:1px solid;
+    border-spacing:0px;
+}
+
+    .calculatorTable td {
+        border:1px solid;
+        margin:0px;
+        text-align:center;
+        min-height:30px;
+        min-width:30px;
+    }
+
+    .calculatorTable tr input {
+        border:none;
+    }

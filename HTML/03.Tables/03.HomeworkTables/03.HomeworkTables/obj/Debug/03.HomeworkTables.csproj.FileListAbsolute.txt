@@ -1,0 +1,8 @@
+C:\Users\Galin\Desktop\03.HomeworkTables\03.HomeworkTables\bin\03.HomeworkTables.dll
+C:\Users\Galin\Desktop\03.HomeworkTables\03.HomeworkTables\bin\03.HomeworkTables.pdb
+C:\Users\Galin\Desktop\03.HomeworkTables\03.HomeworkTables\obj\Debug\03.HomeworkTables.dll
+C:\Users\Galin\Desktop\03.HomeworkTables\03.HomeworkTables\obj\Debug\03.HomeworkTables.pdb
+D:\Telerik Academy\Telerik\HTML\03.Tables\03.HomeworkTables\03.HomeworkTables\bin\03.HomeworkTables.dll
+D:\Telerik Academy\Telerik\HTML\03.Tables\03.HomeworkTables\03.HomeworkTables\bin\03.HomeworkTables.pdb
+D:\Telerik Academy\Telerik\HTML\03.Tables\03.HomeworkTables\03.HomeworkTables\obj\Debug\03.HomeworkTables.dll
+D:\Telerik Academy\Telerik\HTML\03.Tables\03.HomeworkTables\03.HomeworkTables\obj\Debug\03.HomeworkTables.pdb

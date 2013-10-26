@@ -1,0 +1,10 @@
+C:\Users\Lidia\Desktop\Telerik\HTML\02\PersonalWebPage-DonchoMinkov\PersonalWebPage-DonchoMinkov\bin\PersonalWebPage-DonchoMinkov.dll
+C:\Users\Lidia\Desktop\Telerik\HTML\02\PersonalWebPage-DonchoMinkov\PersonalWebPage-DonchoMinkov\bin\PersonalWebPage-DonchoMinkov.pdb
+C:\Users\Lidia\Desktop\Telerik\HTML\02\PersonalWebPage-DonchoMinkov\PersonalWebPage-DonchoMinkov\obj\Debug\PersonalWebPage-DonchoMinkov.csprojResolveAssemblyReference.cache
+C:\Users\Lidia\Desktop\Telerik\HTML\02\PersonalWebPage-DonchoMinkov\PersonalWebPage-DonchoMinkov\obj\Debug\PersonalWebPage-DonchoMinkov.dll
+C:\Users\Lidia\Desktop\Telerik\HTML\02\PersonalWebPage-DonchoMinkov\PersonalWebPage-DonchoMinkov\obj\Debug\PersonalWebPage-DonchoMinkov.pdb
+C:\Users\Lidia\Desktop\Telerik\HTML\02.Intro to HTML\02.Homework-Intro to HTML\Exercise03-PersonalWebPage-DonchoMinkov\PersonalWebPage-DonchoMinkov\bin\PersonalWebPage-DonchoMinkov.dll
+C:\Users\Lidia\Desktop\Telerik\HTML\02.Intro to HTML\02.Homework-Intro to HTML\Exercise03-PersonalWebPage-DonchoMinkov\PersonalWebPage-DonchoMinkov\bin\PersonalWebPage-DonchoMinkov.pdb
+C:\Users\Lidia\Desktop\Telerik\HTML\02.Intro to HTML\02.Homework-Intro to HTML\Exercise03-PersonalWebPage-DonchoMinkov\PersonalWebPage-DonchoMinkov\obj\Debug\PersonalWebPage-DonchoMinkov.csprojResolveAssemblyReference.cache
+C:\Users\Lidia\Desktop\Telerik\HTML\02.Intro to HTML\02.Homework-Intro to HTML\Exercise03-PersonalWebPage-DonchoMinkov\PersonalWebPage-DonchoMinkov\obj\Debug\PersonalWebPage-DonchoMinkov.dll
+C:\Users\Lidia\Desktop\Telerik\HTML\02.Intro to HTML\02.Homework-Intro to HTML\Exercise03-PersonalWebPage-DonchoMinkov\PersonalWebPage-DonchoMinkov\obj\Debug\PersonalWebPage-DonchoMinkov.pdb
