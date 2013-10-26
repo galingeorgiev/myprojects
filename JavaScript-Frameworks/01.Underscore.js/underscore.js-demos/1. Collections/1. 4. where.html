@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<script src="../Scripts/class.js"></script>
+	<script src="../Scripts/underscore.js"></script>
+</head>
+<body>
+	<div id="result"></div>
+	<script>
+		var Person = Class.create({
+			init: function (fname, lname, age) {
+				this.fname = fname;
+				this.lname = lname;
+				this.age = age;
+			},
+			toString: function () {
+				return this.fname + " " + this.lname;
+			}
+		});
+
+
+		var people = [];
+		for (var i = 0; i < 10; i++) {
+			people[i] = new Person("Person", "#" + i, (i) % 5 + 10);
+		}
+		console.log(_.map(people, function (p) { return p.age }));			  
+
+		var elevenYearOlds = _.where(people, { age: 11 });					  
+		console.log(_.map(elevenYearOlds, function (p) { return p.age }));	  
+	</script>
+</body>
+</html>

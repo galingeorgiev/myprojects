@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Most Popular Author</title>
+    <script src="../Scripts/underscore.js"></script>
+    <script src="../Scripts/class.js"></script>
+</head>
+<body>
+    <!-- By a given collection of books, find the most popular author (the author with the biggest number of books) -->
+
+    <script>
+        var Book = Class.create({
+            init: function (name, author) {
+                this.name = name;
+                this.author = author;
+            },
+            toString: function () {
+                return this.name + " -> " + this.author;
+            }
+        });
+
+        var books = [new Book('Intro C#', 'Svetlin Nakov'),
+                     new Book('Intro Web API', 'Nikolay Kostov'),
+                     new Book('Intro Win8', 'Georgi Georgiev'),
+                     new Book('Intro JS', 'Doncho Minkov'),
+                     new Book('Intro Java', 'Svetlin Nakov')];
+
+        var mostPopularAuthor = _.chain(books)
+            .groupBy(function (book) { return book.author })
+            .sortBy(function (booksByAuthors) { return booksByAuthors.length })
+            .last()
+            .value();
+
+        console.log(_.first(mostPopularAuthor).author);
+    </script>
+</body>
+</html>

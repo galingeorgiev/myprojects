@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<title>Modernizr.load()</title>
+	<script src="scripts/modernizr.load.audio.js"></script>
+	<script>
+		Modernizr.load({
+			test: Modernizr.audio,
+			nope: 'http://api.html5media.info/1.1.5/html5media.min.js'
+		});
+	</script>
+</head>
+
+<body>
+    <div>
+	    MP3 Audio Example. The default player will be used
+	    or Flash-based FlowPlayer if the &lt;audio&gt; tag is not supported.
+    </div>
+	<audio src="http://www.stephaniequinn.com/Music/Vivaldi%20-%20Spring%20from%20Four%20Seasons.mp3"
+		controls="controls" autoplay="autoplay" />
+</body>
+
+</html>

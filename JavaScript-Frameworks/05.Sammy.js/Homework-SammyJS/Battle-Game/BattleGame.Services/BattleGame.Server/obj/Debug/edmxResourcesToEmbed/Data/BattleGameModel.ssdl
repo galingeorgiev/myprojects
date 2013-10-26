@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BattleGameModel.Store" Alias="Self" Provider="System.Data.SQLite" ProviderManifestToken="ISO8601" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="BattleGameModelStoreContainer">
+    <EntitySet Name="Games" EntityType="BattleGameModel.Store.Games" store:Type="Tables" />
+    <EntitySet Name="MessageStates" EntityType="BattleGameModel.Store.MessageStates" store:Type="Tables" />
+    <EntitySet Name="Modes" EntityType="BattleGameModel.Store.Modes" store:Type="Tables" />
+    <EntitySet Name="Scores" EntityType="BattleGameModel.Store.Scores" store:Type="Tables" />
+    <EntitySet Name="Statuses" EntityType="BattleGameModel.Store.Statuses" store:Type="Tables" />
+    <EntitySet Name="Units" EntityType="BattleGameModel.Store.Units" store:Type="Tables" />
+    <EntitySet Name="UnitTypes" EntityType="BattleGameModel.Store.UnitTypes" store:Type="Tables" />
+    <EntitySet Name="UserMessages" EntityType="BattleGameModel.Store.UserMessages" store:Type="Tables" />
+    <EntitySet Name="UserMessagesTypes" EntityType="BattleGameModel.Store.UserMessagesTypes" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="BattleGameModel.Store.Users" store:Type="Tables" />
+    <AssociationSet Name="FK_Games_0_0" Association="BattleGameModel.Store.FK_Games_0_0">
+      <End Role="Statuses" EntitySet="Statuses" />
+      <End Role="Games" EntitySet="Games" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Games_1_0" Association="BattleGameModel.Store.FK_Games_1_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Games" EntitySet="Games" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Games_2_0" Association="BattleGameModel.Store.FK_Games_2_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Games" EntitySet="Games" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Scores_0_0" Association="BattleGameModel.Store.FK_Scores_0_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Scores" EntitySet="Scores" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Units_0_0" Association="BattleGameModel.Store.FK_Units_0_0">
+      <End Role="UnitTypes" EntitySet="UnitTypes" />
+      <End Role="Units" EntitySet="Units" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Units_1_0" Association="BattleGameModel.Store.FK_Units_1_0">
+      <End Role="Modes" EntitySet="Modes" />
+      <End Role="Units" EntitySet="Units" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Units_2_0" Association="BattleGameModel.Store.FK_Units_2_0">
+      <End Role="Games" EntitySet="Games" />
+      <End Role="Units" EntitySet="Units" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Units_3_0" Association="BattleGameModel.Store.FK_Units_3_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Units" EntitySet="Units" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserMessages_0_0" Association="BattleGameModel.Store.FK_UserMessages_0_0">
+      <End Role="Games" EntitySet="Games" />
+      <End Role="UserMessages" EntitySet="UserMessages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserMessages_1_0" Association="BattleGameModel.Store.FK_UserMessages_1_0">
+      <End Role="UserMessagesTypes" EntitySet="UserMessagesTypes" />
+      <End Role="UserMessages" EntitySet="UserMessages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserMessages_2_0" Association="BattleGameModel.Store.FK_UserMessages_2_0">
+      <End Role="MessageStates" EntitySet="MessageStates" />
+      <End Role="UserMessages" EntitySet="UserMessages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserMessages_3_0" Association="BattleGameModel.Store.FK_UserMessages_3_0">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UserMessages" EntitySet="UserMessages" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Games">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="Password" Type="nvarchar" MaxLength="40" />
+    <Property Name="RedUserId" Type="integer" Nullable="false" />
+    <Property Name="BlueUserId" Type="integer" />
+    <Property Name="StatusId" Type="integer" Nullable="false" />
+    <Property Name="UserInTurn" Type="integer" />
+    <Property Name="Turn" Type="integer" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MessageStates">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="State" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Modes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Value" Type="nvarchar" Nullable="false" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Scores">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Value" Type="decimal" Nullable="false" Precision="53" />
+    <Property Name="UserId" Type="integer" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Statuses">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Value" Type="nvarchar" Nullable="false" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Units">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PositionX" Type="integer" Nullable="false" />
+    <Property Name="PositionY" Type="integer" Nullable="false" />
+    <Property Name="Attack" Type="integer" Nullable="false" />
+    <Property Name="HitPoints" Type="integer" Nullable="false" />
+    <Property Name="Armor" Type="integer" Nullable="false" />
+    <Property Name="Range" Type="integer" Nullable="false" />
+    <Property Name="Speed" Type="integer" Nullable="false" />
+    <Property Name="OwnerId" Type="integer" Nullable="false" />
+    <Property Name="GameId" Type="integer" Nullable="false" />
+    <Property Name="ModeId" Type="integer" Nullable="false" />
+    <Property Name="TypeId" Type="integer" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UnitTypes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Value" Type="nvarchar" Nullable="false" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="UserMessages">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Text" Type="nvarchar" Nullable="false" />
+    <Property Name="UserId" Type="integer" Nullable="false" />
+    <Property Name="StateId" Type="integer" Nullable="false" />
+    <Property Name="TypeId" Type="integer" Nullable="false" />
+    <Property Name="GameId" Type="integer" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UserMessagesTypes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Type" Type="nvarchar" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="nvarchar" Nullable="false" MaxLength="30" />
+    <Property Name="Nickname" Type="nvarchar" Nullable="false" MaxLength="30" />
+    <Property Name="AuthCode" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="SessionKey" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Games_0_0">
+    <End Role="Statuses" Type="BattleGameModel.Store.Statuses" Multiplicity="1" />
+    <End Role="Games" Type="BattleGameModel.Store.Games" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Statuses">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Games">
+        <PropertyRef Name="StatusId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Games_1_0">
+    <End Role="Users" Type="BattleGameModel.Store.Users" Multiplicity="0..1" />
+    <End Role="Games" Type="BattleGameModel.Store.Games" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Games">
+        <PropertyRef Name="BlueUserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Games_2_0">
+    <End Role="Users" Type="BattleGameModel.Store.Users" Multiplicity="1" />
+    <End Role="Games" Type="BattleGameModel.Store.Games" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Games">
+        <PropertyRef Name="RedUserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Scores_0_0">
+    <End Role="Users" Type="BattleGameModel.Store.Users" Multiplicity="1" />
+    <End Role="Scores" Type="BattleGameModel.Store.Scores" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Scores">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Units_0_0">
+    <End Role="UnitTypes" Type="BattleGameModel.Store.UnitTypes" Multiplicity="1" />
+    <End Role="Units" Type="BattleGameModel.Store.Units" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UnitTypes">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Units">
+        <PropertyRef Name="TypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Units_1_0">
+    <End Role="Modes" Type="BattleGameModel.Store.Modes" Multiplicity="1" />
+    <End Role="Units" Type="BattleGameModel.Store.Units" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Modes">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Units">
+        <PropertyRef Name="ModeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Units_2_0">
+    <End Role="Games" Type="BattleGameModel.Store.Games" Multiplicity="1" />
+    <End Role="Units" Type="BattleGameModel.Store.Units" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Games">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Units">
+        <PropertyRef Name="GameId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Units_3_0">
+    <End Role="Users" Type="BattleGameModel.Store.Users" Multiplicity="1" />
+    <End Role="Units" Type="BattleGameModel.Store.Units" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Units">
+        <PropertyRef Name="OwnerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserMessages_0_0">
+    <End Role="Games" Type="BattleGameModel.Store.Games" Multiplicity="1" />
+    <End Role="UserMessages" Type="BattleGameModel.Store.UserMessages" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Games">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserMessages">
+        <PropertyRef Name="GameId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserMessages_1_0">
+    <End Role="UserMessagesTypes" Type="BattleGameModel.Store.UserMessagesTypes" Multiplicity="1" />
+    <End Role="UserMessages" Type="BattleGameModel.Store.UserMessages" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserMessagesTypes">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserMessages">
+        <PropertyRef Name="TypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserMessages_2_0">
+    <End Role="MessageStates" Type="BattleGameModel.Store.MessageStates" Multiplicity="1" />
+    <End Role="UserMessages" Type="BattleGameModel.Store.UserMessages" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MessageStates">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserMessages">
+        <PropertyRef Name="StateId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserMessages_3_0">
+    <End Role="Users" Type="BattleGameModel.Store.Users" Multiplicity="1" />
+    <End Role="UserMessages" Type="BattleGameModel.Store.UserMessages" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserMessages">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

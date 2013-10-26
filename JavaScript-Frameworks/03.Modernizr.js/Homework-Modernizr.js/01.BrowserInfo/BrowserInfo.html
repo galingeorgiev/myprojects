@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Browser Info</title>
+    <script src="../Scripts/jquery-2.0.3.js"></script>
+    <script src="Modernizr-Full.js"></script>
+    <script src="UA-parser.js"></script>
+    <script>
+        //<![CDATA[ 
+        // Populate the #features table when the document is ready
+        jQuery(function ($) {
+            var parser = new UAParser();
+            var broserInfo = parser.getBrowser();
+            $('#browser-info').html('Browser: ' + broserInfo.name + ' - Version: ' + broserInfo.version);
+
+            var target = $('#features > tbody');
+            
+            var traverse = function (object, prefix) {
+                prefix = prefix ? prefix + '.' : '';
+
+                for (property in object) {
+                    if (typeof object[property] == 'object') {
+                        traverse(object[property], prefix + property);
+                    } else if (typeof object[property] == 'boolean') {
+                        var
+                            tr = $('<tr />'),
+                            name = $('<th />', {
+                                text: prefix + property
+                            }),
+                            value = $('<td />', {
+                                text: object[property] ? 'Yes' : 'Nope'
+                            });
+
+                        target.append(tr.append(name).append(value));
+                    }
+                }
+            };
+
+            traverse(Modernizr, 'Modernizr');
+        });
+        //]]>  
+    </script>
+    <style>
+        tr:nth-child(2n+1){
+            background-color:#0ff;
+        }
+
+        table thead{
+            background-color:#0f0;
+        }
+    </style>
+</head>
+<body>
+    <p id="browser-info"></p>
+    <table id="features">
+        <thead><tr><th colspan="2">Browser Features</th></tr></thead>
+        <tbody></tbody>
+    </table>
+</body>
+</html>

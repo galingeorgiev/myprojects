@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<script src="../Scripts/class.js"></script>
+	<script src="../Scripts/underscore.js"></script>
+</head>
+<body>
+	<div id="result"></div>
+	<script>
+		var text = "I am studing currently in Telerik Software Academy";
+
+		var counts = {};
+		_.each(text, function (char) {
+			var c = char.toLowerCase();
+			if (!counts[c]) {
+				counts[c] = 0;
+			}
+			counts[c]++;
+		});
+
+		_.each(counts, function (char, value) {
+			console.log(char + " -> " + value);
+		});
+
+		var Person = Class.create({
+			init: function (fname, lname) {
+				this.fname = fname;
+				this.lname = lname;
+			},
+			toString: function () {
+				return this.fname + " " + this.lname;
+			}
+		});
+
+		var person = new Person("Doncho", "Minkov");
+		_.each(_.map(console, function (item) {
+			return item.toString();
+		}), function (item) {
+			console.log(item);
+		});
+
+
+	</script>
+</body>
+</html>

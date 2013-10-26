@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<script src="../Scripts/class.js"></script>
+	<script src="../Scripts/underscore.js"></script>
+</head>
+<body>
+	<div id="result"></div>
+	<script>
+		var Person = Class.create({
+			init: function (fname, lname, age) {
+				this.fname = fname;
+				this.lname = lname;
+				this.age = age;
+			},
+			toString: function () {
+				return this.fname + " " + this.lname;
+			}
+		});
+		var people = [
+			new Person("Doncho", "Minkov", 18),
+			new Person("Joro", "Georgiev", 48),
+			new Person("Niki", "Kostov", 21),
+			new Person("Svetlin", "Nakov", 16),
+			new Person("Ivaylo", "Kenov", 87)];				 
+
+		var fnames = _.pluck(people, 'fname');								  
+		console.log(fnames);
+
+		var fullNames = _.pluck(people, function (item) {
+			return item.toString();
+		});
+		console.log(fullNames);
+
+	</script>
+</body>
+</html>

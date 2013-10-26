@@ -1,0 +1,34 @@
+﻿body {
+}
+
+#combo-box{
+    border:1px solid black;
+    width:400px;
+    height:120px;
+    overflow:hidden;
+    padding:10px;
+    margin:10px;
+}
+
+.person-item{
+    width:300px;
+    height:110px;
+    margin:10px;
+}
+
+.person-name,
+.person-age{
+    float:left;
+}
+
+.person-item img{
+    float:right;
+}
+
+
+
+
+/*'<div class="person-item" id="person-item-{{id}}">' +
+    '<strong class="person-name">{{name}}</strong><p class="person-age">{{age}}</p>' +
+    '<img src="{{avatarUrl}}" width="100px" />' +
+    '</div>';*/

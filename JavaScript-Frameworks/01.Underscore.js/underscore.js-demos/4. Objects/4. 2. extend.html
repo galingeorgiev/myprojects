@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<script src="../Scripts/class.js"></script>
+	<script src="../Scripts/underscore.js"></script>
+</head>
+<body>
+	<script>
+		var Person = {
+			init: function (fname, lname) {
+				this.fname = fname;
+				this.lname = lname;
+				return this;
+			},
+			toString: function () {
+				return this.fname + " " + this.lname;
+			}
+		};
+
+		var people = [
+		  _.extend(Person).init("Doncho", "Minkov"),
+		  _.extend(Person).init("Joro", "Georgiev"),
+		  _.extend(Person).init("Ivaylo", "Kenov"),
+		  _.extend(Person).init("Niki", "Kostov"),
+		  _.extend(Person).init("Svetlin", "Nakov")
+		];
+											  
+		_.each(people, function (person) {
+			console.log(person.toString());
+		});
+	</script>
+</body>
+</html>

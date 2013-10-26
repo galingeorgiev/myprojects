@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<script src="Scripts/class.js"></script>
+	<script src="Scripts/mustache.js"></script>
+</head>
+<body>
+
+	<div id="content"></div>
+	<script>
+		var Person = Class.create({
+			init: function (fname, lname) {
+				this.fname = fname;
+				this.lname = lname
+			},
+			fullname: function () {
+				return this.fname + " " + this.lname;
+			},
+			render: function () {
+				return function (text, render) {
+					return "<strong>" + render(text) + "</strong>";
+				}
+			}
+		});
+
+		var person = {
+			fname: "Doncho",
+			lname: "Minkov",
+			fullname: function () { return this.fname + " " + this.lname; },
+			render: function () {
+				return function (text, render) {
+					return "<strong>" + render(text) + "</strong>";
+				}
+			}
+		};
+
+		var template = "{{#render}} {{fullname}} {{/render}}";
+
+		var donchoPerson = new Person("Doncho", "Minkov");
+
+		var output = Mustache.render(template, donchoPerson);
+
+		var content = document.getElementById("content");
+		content.innerHTML = output;
+
+	</script>
+</body>
+</html>

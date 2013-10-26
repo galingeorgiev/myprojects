@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Sort Animals By Number Of Legs</title>
+    <script src="../Scripts/underscore.js"></script>
+    <script src="../Scripts/class.js"></script>
+</head>
+<body>
+    <!-- Write a function that by a given array of animals, groups them by species and sorts them by number of legs -->
+
+    <script>
+        var Animal = Class.create({
+            init: function (species, numberOfLegs) {
+                this.species = species;
+                this.numberOfLegs = numberOfLegs;
+            },
+            toString: function () {
+                return this.species + " -> " + this.numberOfLegs + ' legs.';
+            }
+        });
+
+        var animals = [
+			new Animal('Dog', 4),
+			new Animal('Cat', 4),
+            new Animal('Dog', 4),
+			new Animal('Cat', 4),
+			new Animal('Duck', 2),
+			new Animal('Centipede', 100),
+			new Animal('Centipede', 100),
+            new Animal('Duck', 2)];
+
+        var highestMarksStudent = _.chain(animals)
+            .groupBy(function (animal) {
+                return animal.species;
+            }).sortBy(function (animal) {
+                return _.first(animal).numberOfLegs;
+            }).each(function (groupedAnimals) {
+                console.log('------------------------------');
+                _.each(groupedAnimals, function (a) {
+                    console.log(a.toString());
+                })
+            });
+    </script>
+</body>
+</html>

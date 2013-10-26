@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>TotalNumberOfLegs</title>
+    <script src="../Scripts/underscore.js"></script>
+    <script src="../Scripts/class.js"></script>
+</head>
+<body>
+    <!-- By a given array of animals, find the total number of legs
+         Each animal can have 2, 4, 6, 8 or 100 legs
+     -->
+
+    <script>
+        var Animal = Class.create({
+            init: function (species, numberOfLegs) {
+                this.species = species;
+                this.numberOfLegs = numberOfLegs;
+            },
+            toString: function () {
+                return this.species + " -> " + this.numberOfLegs + ' legs.';
+            }
+        });
+
+        var animals = [
+			new Animal('Dog', 4),
+			new Animal('Cat', 4),
+            new Animal('Dog', 4),
+			new Animal('Cat', 4),
+			new Animal('Duck', 2),
+			new Animal('Centipede', 100),
+			new Animal('Centipede', 100),
+            new Animal('Duck', 2)];
+
+        var legsCount = _.reduce(animals, function (memo, animal) {
+            return memo + animal.numberOfLegs;
+        }, 0);
+
+        console.log(legsCount);
+    </script>
+</body>
+</html>

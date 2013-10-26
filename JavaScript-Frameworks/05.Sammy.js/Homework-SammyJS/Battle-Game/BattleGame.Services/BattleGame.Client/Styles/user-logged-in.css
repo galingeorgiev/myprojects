@@ -1,0 +1,15 @@
+﻿#user-loged-in {
+    border: 1px solid #606060;
+    width: 300px;
+    padding: 13px;
+    margin: 0 auto;
+}
+
+    #user-loged-in > p {
+        text-align: center;
+    }
+
+    #user-loged-in > button {
+        display: block;
+        margin: 5px auto;
+    }

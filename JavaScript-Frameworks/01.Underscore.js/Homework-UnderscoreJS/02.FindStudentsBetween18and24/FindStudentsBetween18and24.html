@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Find Students Between 18 and 24</title>
+    <script src="../Scripts/underscore.js"></script>
+    <script src="../Scripts/class.js"></script>
+</head>
+<body>
+    <!-- Write function that finds the first name and last name 
+         of all students with age between 18 and 24. Use Underscore.js
+        -->
+
+    <script>
+        var Student = Class.create({
+            init: function (fname, lname, age) {
+                this.fname = fname;
+                this.lname = lname;
+                this.age = age;
+            },
+            toString: function () {
+                return this.fname + " " + this.lname;
+            }
+        });
+
+        var students = [
+			new Student("Doncho", "Minkov", 18),
+			new Student("Joro", "Georgiev", 48),
+			new Student("Niki", "Kostov", 21),
+			new Student("Svetlin", "Nakov", 16),
+			new Student("Ivaylo", "Kenov", 87)];
+
+        var studentsBetween18and24 = _.filter(students, function (student) {
+            return student.age >= 18 && student.age <= 24;
+        });
+
+        _.each(studentsBetween18and24, function (st) {
+            console.log(st.toString() + ' -> ' + st.age);
+        });
+    </script>
+</body>
+</html>

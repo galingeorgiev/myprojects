@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Most Common First And Last Name</title>
+    <script src="../Scripts/underscore.js"></script>
+    <script src="../Scripts/class.js"></script>
+</head>
+<body>
+    <!-- By an array of people find the most common first and last name. Use underscore. -->
+
+    <script>
+        var Person = Class.create({
+            init: function (fname, lname) {
+                this.fname = fname;
+                this.lname = lname;
+            },
+            toString: function () {
+                return this.fname + " " + this.lname;
+            }
+        });
+        var people = [
+			new Person("Doncho", "Minkov"),
+			new Person("Joro", "Georgiev"),
+			new Person("Niki", "Kostov"),
+			new Person("Svetlin", "Nakov"),
+			new Person("Ivaylo", "Nakov"),
+            new Person("Svetlin", "Kenov"),
+            new Person("Doncho", "Nakov"),
+            new Person("Svetlin", "Minkov"),
+            new Person("Doncho", "Kenov"),
+            new Person("Doncho", "Nakov")];
+
+        // Result is Doncho Nakov
+        var mostPopularFirstName = _.chain(people)
+            .groupBy(function (person) { return person.fname; }) // Group by fname
+            .sortBy(function (peopleByFName) { return peopleByFName.length }) // Sort by most popular fname
+            .last() // Get array of people with most popular fname 
+            .first() // Get first person of this array
+            .value() // Get value, because UnderlineJS wrap object in chaining
+            .fname; // Get most popular fname
+
+        var mostPopularLastName = _.chain(people)
+            .groupBy(function (person) { return person.lname; })
+            .sortBy(function (peopleByFName) { return peopleByFName.length })
+            .last()
+            .first()
+            .value()
+            .lname;
+
+        console.log(mostPopularFirstName + ' ' + mostPopularLastName);
+    </script>
+</body>
+</html>

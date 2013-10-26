@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Date Picker</title>
+    <script src="../Scripts/modernizr.custom.83785.js"></script>
+    <script>
+        Modernizr.load({
+            test: Modernizr.inputtypes.date,
+            nope: ['http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js', 'http://code.jquery.com/ui/1.10.3/jquery-ui.js', 'jquery-ui.css'],
+            complete: function () {
+                $('input[type=date]').datepicker({
+                    dateFormat: 'yy-mm-dd'
+                });
+            }
+        });
+    </script>
+</head>
+<body>
+    <form>
+        <label for="date">Date</label>
+        <input id="datepicker" type="date" name="date" />
+    </form>
+</body>
+</html>

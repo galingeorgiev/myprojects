@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<script src="../Scripts/class.js"></script>
+	<script src="../Scripts/underscore.js"></script>
+</head>
+<body>
+	<div id="result"></div>
+	<script>
+		var Person = Class.create({
+			init: function (fname, lname) {
+				this.fname = fname;
+				this.lname = lname;
+			},
+			toString: function () {
+				return this.fname + " " + this.lname;
+			}
+		});
+
+		var people = [
+			new Person("Doncho", "Minkov"),
+			new Person("Joro", "Georgiev"),
+			new Person("Niki", "Kostov"),
+			new Person("Svetlin", "Nakov"),
+			new Person("Ivaylo", "Kenov")];
+
+
+		var withFamilynameWithK = _.filter(people, function (p) {
+			return p.lname[0] == "K";
+		});
+
+		console.log("People whose lastname starts with 'K':")
+		_.each(withFamilynameWithK, function (p) {
+			console.log(p.toString())
+		});
+
+		var withoutFamilynameWithK = _.reject(people, function (p) {
+			return p.lname[0] == "K";
+		});
+
+		console.log("People whose lastname does not start with 'K':")
+		_.each(withoutFamilynameWithK, function (p) {
+			console.log(p.toString())
+		});
+
+	</script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\05.Sammy.js\Sammy.js\Sammy.js\bin\Sammy.js.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\05.Sammy.js\Sammy.js\Sammy.js\bin\Sammy.js.pdb
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\05.Sammy.js\Sammy.js\Sammy.js\obj\Debug\Sammy.js.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\05.Sammy.js\Sammy.js\Sammy.js\obj\Debug\Sammy.js.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\05.Sammy.js\Sammy.js\Sammy.js\obj\Debug\Sammy.js.pdb

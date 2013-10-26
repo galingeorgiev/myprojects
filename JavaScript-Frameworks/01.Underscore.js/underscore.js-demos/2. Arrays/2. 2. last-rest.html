@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<script src="../Scripts/class.js"></script>
+	<script src="../Scripts/underscore.js"></script>
+</head>
+<body>
+
+	<script>
+		var Person = Class.create({
+			init: function (fname, lname, age) {
+				this.fname = fname;
+				this.lname = lname;
+				this.age = age;
+			},
+			toString: function () {
+				return this.fname + " " + this.lname;
+			}
+		});
+		var people = [
+			new Person("Doncho", "Minkov", 18),
+			new Person("Joro", "Georgiev", 48),
+			new Person("Niki", "Kostov", 21),
+			new Person("Svetlin", "Nakov", 16),
+			new Person("Ivaylo", "Kenov", 87)];
+
+
+		var first = _.first(people);
+		console.log(first.toString());
+		var initial = _.initial(people);
+		console.log(initial.join(", "));
+
+
+	</script>
+
+</body>
+</html>

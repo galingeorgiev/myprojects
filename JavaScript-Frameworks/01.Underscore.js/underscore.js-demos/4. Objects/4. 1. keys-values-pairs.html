@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<script src="../Scripts/class.js"></script>
+	<script src="../Scripts/underscore.js"></script>
+</head>
+<body>
+	<script>
+		var Person = Class.create({
+			init: function (fname, lname, age) {
+				this.fname = fname;
+				this.lname = lname;
+				this.age = age;
+			},
+			toString: function () {
+				return this.fname + " " + this.lname;
+			}
+		});
+		var donchoPerson = new Person("Doncho", "Minkov", 18);
+
+		console.log(_.keys(donchoPerson));
+		console.log(_.values(donchoPerson));
+		console.log(_.pairs(donchoPerson));
+
+		console.log(_.invert(donchoPerson));	
+		
+	</script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title></title>
+		<script src="Scripts/class.js"></script>
+		<script src="Scripts/mustache.js"></script>
+	</head>
+	<body>
+		<ul>
+			{{#trainers}}
+				<li>{{.}}</li>
+			{{/trainers}}
+		</ul>
+
+		<div id="content"></div>
+		<script>
+
+			var contentDiv = document.getElementById("content");
+
+			var view = {
+			  trainers: ["Doncho", "Niki", "Joro", "Ivaylo", "Nakov"]
+			};
+
+			var template =
+
+			"<ul>" +
+			"{{#trainers}}" +
+			"<li>{{.}}</li>" + 
+			"{{/trainers}}" + 
+			"</ul>"
+
+			contentDiv.innerHTML = Mustache.render(template, view);		
+		</script>
+	</body>
+</html>

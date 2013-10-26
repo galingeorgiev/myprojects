@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<script src="Scripts/class.js"></script>
+	<script src="Scripts/mustache.js"></script>
+</head>
+<body>
+
+	<div id="content"></div>
+	<script>
+
+		var student = {
+			name: "Pesho Georgiev",
+			marks: [
+			{
+				subject: "Math",
+				score: "5.5"
+			},
+			{
+				subject: "Math",
+				score: "5.5"
+			}]
+		};
+
+		var template = "{{name}} has " +
+			"{{#marks}}{{marks.length}}" + "{{/marks}} marks";
+
+		var output = Mustache.render(template, student);
+		alert(output);
+
+
+
+
+	</script>
+</body>
+</html>

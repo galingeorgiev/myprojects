@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>First Name Is Before Last</title>
+    <script src="../Scripts/underscore.js"></script>
+    <script src="../Scripts/class.js"></script>
+</head>
+<body>
+    <!-- Write a method that from a given array of students finds all students
+         whose first name is before its last name alphabetically. Print the
+         students in descending order by full name. Use Underscore.js
+        -->
+
+    <script>
+        var Student = Class.create({
+            init: function (fname, lname) {
+                this.fname = fname;
+                this.lname = lname;
+            },
+            toString: function () {
+                return this.fname + " " + this.lname;
+            }
+        });
+
+        var students = [
+			new Student("Doncho", "Minkov"),
+			new Student("Joro", "Georgiev"),
+			new Student("Niki", "Kostov"),
+			new Student("Svetlin", "Nakov"),
+			new Student("Ivaylo", "Kenov")];
+
+        var sortedStudents = _.filter(students, function (student) {
+            return student.fname < student.lname;
+        }).sort(function (firstStudent, secondStudent) {
+            // If we want to change from descending to ascending just add '!'.
+            return secondStudent.toString().localeCompare(firstStudent.toString()); 
+        });
+
+        _.each(sortedStudents, function (st) {
+            console.log(st.toString());
+        });
+    </script>
+</body>
+</html>

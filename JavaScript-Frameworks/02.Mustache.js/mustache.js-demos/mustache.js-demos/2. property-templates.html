@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<script src="Scripts/class.js"></script>
+	<script src="Scripts/mustache.js"></script>
+</head>
+<body>
+
+	<div id="content"></div>
+	<script>
+
+		var phone = {
+			vendor: "Samsung",
+			model: "Galaxy S4",
+			os: {
+				name: "Android",
+				version: "Jelly Bean"
+			}
+		}
+
+		var template = "My phone is {{vendor}} {{model}} and it is running {{os.name}} {{os.version}}";
+		var output = Mustache.render(template, phone);
+
+		document.getElementById("content").innerHTML = output;
+
+	</script>
+</body>
+</html>

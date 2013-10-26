@@ -1,0 +1,66 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\obj\Debug\StudentsService.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\StudentsService.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\StudentsService.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.Http.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.Providers.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.Razor.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\WebGrease.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.Http.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.Razor.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\obj\Debug\StudentsService.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Homework-MustacheJS\StudentsService\obj\Debug\StudentsService.pdb
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\obj\Debug\StudentsService.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\obj\Debug\StudentsService.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\StudentsService.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\StudentsService.pdb
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\Antlr3.Runtime.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\EntityFramework.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\Microsoft.Web.Infrastructure.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\Newtonsoft.Json.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Net.Http.Formatting.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.Cors.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.Helpers.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.Http.Cors.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.Http.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.Http.WebHost.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.Mvc.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.Optimization.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.Providers.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.Razor.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.WebPages.Deployment.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.WebPages.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.WebPages.Razor.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\WebGrease.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\Newtonsoft.Json.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Net.Http.Formatting.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.Http.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.Http.WebHost.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\EntityFramework.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.Helpers.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.Mvc.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.Razor.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.WebPages.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.WebPages.Deployment.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\bin\System.Web.WebPages.Razor.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\02.Mustache.js\Homework-MustacheJS-Service\StudentsService\obj\Debug\StudentsService.pdb

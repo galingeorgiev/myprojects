@@ -1,0 +1,5 @@
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\05.Sammy.js\Homework-SammyJS\Battle-Game\BattleGame.Services\BattleGame.Client\bin\BattleGame.Client.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\05.Sammy.js\Homework-SammyJS\Battle-Game\BattleGame.Services\BattleGame.Client\bin\BattleGame.Client.pdb
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\05.Sammy.js\Homework-SammyJS\Battle-Game\BattleGame.Services\BattleGame.Client\obj\Debug\BattleGame.Client.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\05.Sammy.js\Homework-SammyJS\Battle-Game\BattleGame.Services\BattleGame.Client\obj\Debug\BattleGame.Client.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\05.Sammy.js\Homework-SammyJS\Battle-Game\BattleGame.Services\BattleGame.Client\obj\Debug\BattleGame.Client.pdb

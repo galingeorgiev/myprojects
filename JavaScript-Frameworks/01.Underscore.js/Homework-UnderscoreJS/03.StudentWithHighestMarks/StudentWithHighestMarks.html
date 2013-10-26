@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Student With Highest Marks</title>
+    <script src="../Scripts/underscore.js"></script>
+    <script src="../Scripts/class.js"></script>
+</head>
+<body>
+    <!-- Write a function that by a given array of students finds the student with highest marks -->
+
+    <script>
+        var Student = Class.create({
+            init: function (fname, lname, marks) {
+                this.fname = fname;
+                this.lname = lname;
+                this.marks = marks;
+            },
+            toString: function () {
+                return this.fname + " " + this.lname;
+            }
+        });
+
+        var students = [
+			new Student("Doncho", "Minkov", [3, 4, 5, 4]),
+			new Student("Joro", "Georgiev", [6, 4, 5, 4]),
+			new Student("Niki", "Kostov", [5, 4, 5, 5]),
+			new Student("Svetlin", "Nakov", [6, 6, 6, 6]),
+			new Student("Ivaylo", "Kenov", [3, 4, 5, 5])];
+
+        var highestMarksStudent = _.chain(students)
+            .sortBy(function (student) {
+            return student.marks.reduce(function (a, b) {
+                return a + b;
+            }) / student.marks.length;
+            })
+            .last()
+            .value();
+
+        console.log(highestMarksStudent.toString());
+    </script>
+</body>
+</html>
