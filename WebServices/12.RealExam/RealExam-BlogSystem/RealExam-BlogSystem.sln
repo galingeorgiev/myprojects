@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogSystem", "BlogSystem\BlogSystem.csproj", "{DC9CC211-01BD-443C-A2DB-EBEDF3B6C399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogSystem.Tests", "BlogSystem.Tests\BlogSystem.Tests.csproj", "{BC796DCE-8556-4332-852C-DD520ECAFCB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{527476FB-F898-4D0D-B13C-6CDF45392253}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC9CC211-01BD-443C-A2DB-EBEDF3B6C399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9CC211-01BD-443C-A2DB-EBEDF3B6C399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9CC211-01BD-443C-A2DB-EBEDF3B6C399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9CC211-01BD-443C-A2DB-EBEDF3B6C399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC796DCE-8556-4332-852C-DD520ECAFCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC796DCE-8556-4332-852C-DD520ECAFCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC796DCE-8556-4332-852C-DD520ECAFCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC796DCE-8556-4332-852C-DD520ECAFCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

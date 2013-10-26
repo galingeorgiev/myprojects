@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustIronMQChat", "JustIronMQChat\JustIronMQChat.csproj", "{D2467511-851C-44EB-97C6-83EF3E8D81B5}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "JustPubNubChat", "http://localhost:59363", "{FBCDFD87-7AD1-4344-AFE8-47245DD02B5B}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59363"
+		Debug.AspNetCompiler.PhysicalPath = "JustPubNubChat\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59363\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59363"
+		Release.AspNetCompiler.PhysicalPath = "JustPubNubChat\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59363\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "JustPubNubChat\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustPhotoAlbum", "JustPhotoAlbum\JustPhotoAlbum.csproj", "{AFDFEDAE-7035-4A9A-B78D-952AC217BBD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{46811945-E81D-4D16-A832-84321A697C3C}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2467511-851C-44EB-97C6-83EF3E8D81B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2467511-851C-44EB-97C6-83EF3E8D81B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2467511-851C-44EB-97C6-83EF3E8D81B5}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D2467511-851C-44EB-97C6-83EF3E8D81B5}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D2467511-851C-44EB-97C6-83EF3E8D81B5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D2467511-851C-44EB-97C6-83EF3E8D81B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2467511-851C-44EB-97C6-83EF3E8D81B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2467511-851C-44EB-97C6-83EF3E8D81B5}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D2467511-851C-44EB-97C6-83EF3E8D81B5}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D2467511-851C-44EB-97C6-83EF3E8D81B5}.Release|x86.ActiveCfg = Release|Any CPU
+		{FBCDFD87-7AD1-4344-AFE8-47245DD02B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCDFD87-7AD1-4344-AFE8-47245DD02B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCDFD87-7AD1-4344-AFE8-47245DD02B5B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{FBCDFD87-7AD1-4344-AFE8-47245DD02B5B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{FBCDFD87-7AD1-4344-AFE8-47245DD02B5B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FBCDFD87-7AD1-4344-AFE8-47245DD02B5B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCDFD87-7AD1-4344-AFE8-47245DD02B5B}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{FBCDFD87-7AD1-4344-AFE8-47245DD02B5B}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{FBCDFD87-7AD1-4344-AFE8-47245DD02B5B}.Release|Mixed Platforms.Build.0 = Debug|Any CPU
+		{FBCDFD87-7AD1-4344-AFE8-47245DD02B5B}.Release|x86.ActiveCfg = Debug|Any CPU
+		{AFDFEDAE-7035-4A9A-B78D-952AC217BBD6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AFDFEDAE-7035-4A9A-B78D-952AC217BBD6}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{AFDFEDAE-7035-4A9A-B78D-952AC217BBD6}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{AFDFEDAE-7035-4A9A-B78D-952AC217BBD6}.Debug|x86.ActiveCfg = Debug|x86
+		{AFDFEDAE-7035-4A9A-B78D-952AC217BBD6}.Debug|x86.Build.0 = Debug|x86
+		{AFDFEDAE-7035-4A9A-B78D-952AC217BBD6}.Release|Any CPU.ActiveCfg = Release|x86
+		{AFDFEDAE-7035-4A9A-B78D-952AC217BBD6}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{AFDFEDAE-7035-4A9A-B78D-952AC217BBD6}.Release|Mixed Platforms.Build.0 = Release|x86
+		{AFDFEDAE-7035-4A9A-B78D-952AC217BBD6}.Release|x86.ActiveCfg = Release|x86
+		{AFDFEDAE-7035-4A9A-B78D-952AC217BBD6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

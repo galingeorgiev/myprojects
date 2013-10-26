@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="d944a157-6f8a-4367-bfcf-d6a0e3d11517">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>JustForum/Content/themes/base/minified/jquery-ui.min.css</FileRelativePath>
+        <ProjectRelativePath>JustForum/JustForum.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>17064505958358012336</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>JustForum/Content/themes/base/minified/jquery.ui.datepicker.min.css</FileRelativePath>
+        <ProjectRelativePath>JustForum/JustForum.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>13384481137087175592</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

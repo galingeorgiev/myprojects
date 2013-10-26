@@ -1,0 +1,84 @@
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\obj\Debug\ZorroChat.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\ZorroChat.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\ZorroChat.pdb
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\Antlr3.Runtime.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\EntityFramework.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\Microsoft.Web.Infrastructure.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\Newtonsoft.Json.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Net.Http.Formatting.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Helpers.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Http.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Http.WebHost.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Mvc.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Optimization.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Providers.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Razor.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.WebPages.Deployment.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.WebPages.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.WebPages.Razor.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\WebGrease.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\EntityFramework.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\Newtonsoft.Json.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Net.Http.Formatting.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Helpers.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Http.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Http.WebHost.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Mvc.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Razor.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.WebPages.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.WebPages.Deployment.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.WebPages.Razor.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\obj\Debug\ZorroChat.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\obj\Debug\ZorroChat.pdb
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.Web.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.Web.Http.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.Web.Http.WebHost.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\WebActivator.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.Web.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.Web.Http.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.Web.Http.WebHost.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\WebActivator.pdb
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\ZorroChat.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\ZorroChat.pdb
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\Antlr3.Runtime.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.Web.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.Web.Http.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.Web.Http.WebHost.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\Microsoft.Web.Infrastructure.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\Newtonsoft.Json.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Net.Http.Formatting.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Helpers.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Http.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Http.WebHost.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Mvc.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Optimization.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Providers.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Razor.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.WebPages.Deployment.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.WebPages.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.WebPages.Razor.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\WebActivator.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\WebGrease.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.Web.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.Web.Http.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\AttributeRouting.Web.Http.WebHost.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\Newtonsoft.Json.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Net.Http.Formatting.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Http.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Http.WebHost.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Helpers.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Mvc.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.Razor.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.WebPages.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.WebPages.Deployment.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\System.Web.WebPages.Razor.xml
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\bin\WebActivator.pdb
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\obj\Debug\ZorroChat.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\obj\Debug\ZorroChat.dll
+D:\Telerik Academy\Telerik Projects\WebServices\10.TeamWork\ZorroChat\ZorroChat.Server\ZorroChat\obj\Debug\ZorroChat.pdb

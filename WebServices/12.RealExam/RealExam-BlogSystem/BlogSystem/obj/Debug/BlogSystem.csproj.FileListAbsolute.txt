@@ -1,0 +1,64 @@
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\BlogSystem.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\BlogSystem.pdb
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\Antlr3.Runtime.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\EntityFramework.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\Newtonsoft.Json.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Net.Http.Formatting.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Helpers.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Http.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Http.WebHost.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Mvc.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Optimization.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Providers.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Razor.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.WebPages.Deployment.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.WebPages.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.WebPages.Razor.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\WebGrease.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\EntityFramework.xml
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\Newtonsoft.Json.xml
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Net.Http.Formatting.xml
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Helpers.xml
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Http.xml
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Http.WebHost.xml
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Mvc.xml
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Razor.xml
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.WebPages.xml
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.WebPages.Deployment.xml
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.WebPages.Razor.xml
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\obj\Debug\BlogSystem.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\obj\Debug\BlogSystem.dll
+F:\Telerik Academy\Telerik\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\obj\Debug\BlogSystem.pdb
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\BlogSystem.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\BlogSystem.pdb
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\Antlr3.Runtime.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\Newtonsoft.Json.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Net.Http.Formatting.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Helpers.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Http.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Http.WebHost.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Mvc.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Optimization.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Providers.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Razor.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.WebPages.Deployment.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.WebPages.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.WebPages.Razor.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\WebGrease.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\Newtonsoft.Json.xml
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Net.Http.Formatting.xml
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Helpers.xml
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Http.xml
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Http.WebHost.xml
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Mvc.xml
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.Razor.xml
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.WebPages.xml
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.WebPages.Deployment.xml
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\bin\System.Web.WebPages.Razor.xml
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\obj\Debug\BlogSystem.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\obj\Debug\BlogSystem.dll
+D:\Telerik Academy\Telerik Projects\WebServices\12.RealExam\RealExam-BlogSystem\BlogSystem\obj\Debug\BlogSystem.pdb

@@ -1,0 +1,50 @@
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Forum.Tests.dll.config
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Forum.Tests.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Forum.Tests.pdb
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\EntityFramework.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Forum.WebAPI.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Newtonsoft.Json.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\System.Web.Http.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\System.Web.Optimization.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\DataLayer.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Forum.Model.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\System.Web.Http.WebHost.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\System.Net.Http.Formatting.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\WebGrease.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Antlr3.Runtime.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Forum.WebAPI.pdb
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\EntityFramework.xml
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\System.Web.Http.xml
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\DataLayer.pdb
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Forum.Model.pdb
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\System.Web.Http.WebHost.xml
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\System.Net.Http.Formatting.xml
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\obj\Debug\Forum.Tests.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\obj\Debug\Forum.Tests.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\obj\Debug\Forum.Tests.pdb
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Forum.Tests.dll.config
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Forum.Tests.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Forum.Tests.pdb
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Forum.WebAPI.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\System.Web.Http.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\DataLayer.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Forum.Model.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\WebGrease.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Forum.WebAPI.pdb
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\System.Web.Http.xml
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\DataLayer.pdb
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\Forum.Model.pdb
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\obj\Debug\Forum.Tests.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\obj\Debug\Forum.Tests.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Tests\obj\Debug\Forum.Tests.pdb

@@ -1,0 +1,18 @@
+F:\Telerik Academy\Telerik\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\obj\x86\Debug\Dropbox-Example.exe
+F:\Telerik Academy\Telerik\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\obj\x86\Debug\Dropbox-Example.pdb
+F:\Telerik Academy\Telerik\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\bin\Debug\Dropbox-Example.exe
+F:\Telerik Academy\Telerik\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\bin\Debug\Dropbox-Example.pdb
+F:\Telerik Academy\Telerik\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\bin\Debug\Common.Logging.dll
+F:\Telerik Academy\Telerik\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\bin\Debug\Spring.Rest.dll
+F:\Telerik Academy\Telerik\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\bin\Debug\Spring.Social.Core.dll
+F:\Telerik Academy\Telerik\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\bin\Debug\Spring.Social.Dropbox.dll
+F:\Telerik Academy\Telerik\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\obj\x86\Debug\JustPhotoAlbum.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\bin\Debug\Dropbox-Example.exe
+D:\Telerik Academy\Telerik Projects\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\bin\Debug\Dropbox-Example.pdb
+D:\Telerik Academy\Telerik Projects\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\bin\Debug\Common.Logging.dll
+D:\Telerik Academy\Telerik Projects\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\bin\Debug\Spring.Rest.dll
+D:\Telerik Academy\Telerik Projects\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\bin\Debug\Spring.Social.Core.dll
+D:\Telerik Academy\Telerik Projects\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\bin\Debug\Spring.Social.Dropbox.dll
+D:\Telerik Academy\Telerik Projects\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\obj\x86\Debug\JustPhotoAlbum.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\obj\x86\Debug\Dropbox-Example.exe
+D:\Telerik Academy\Telerik Projects\WebServices\09.Cloud-Services\Homework-CloudServices\JustPhotoAlbum\obj\x86\Debug\Dropbox-Example.pdb

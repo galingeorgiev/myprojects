@@ -1,0 +1,10 @@
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Model\bin\Debug\Forum.Model.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Model\bin\Debug\Forum.Model.pdb
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Model\obj\Debug\Forum.Model.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Model\obj\Debug\Forum.Model.dll
+F:\Telerik Academy\Telerik\WebServices\11.ExamPreparation\Forum\Forum\Forum.Model\obj\Debug\Forum.Model.pdb
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Model\bin\Debug\Forum.Model.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Model\bin\Debug\Forum.Model.pdb
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Model\obj\Debug\Forum.Model.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Model\obj\Debug\Forum.Model.dll
+D:\Telerik Academy\Telerik Projects\WebServices\11.ExamPreparation\Forum\Forum\Forum.Model\obj\Debug\Forum.Model.pdb

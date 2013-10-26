@@ -1,0 +1,21 @@
+﻿#register-user-container{
+    width:300px;
+    margin:0 auto;
+}
+
+#register-user-container > label{
+    line-height:26px;
+    display:inline-block;
+    width:100px;
+    overflow:hidden;
+}
+
+    #register-user-container > input {
+        width:190px;
+    }
+
+    #register-user-container #back-to-homepage,
+    #register-user-container #button-register{
+        float:right;
+        margin:5px 5px 0 0;
+    }
