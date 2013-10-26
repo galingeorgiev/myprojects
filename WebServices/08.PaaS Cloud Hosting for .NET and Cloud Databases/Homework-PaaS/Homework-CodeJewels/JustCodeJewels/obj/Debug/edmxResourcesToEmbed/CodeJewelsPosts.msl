@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbbe876cd32b9d4b25884fa21d0079b56fModelStoreContainer" CdmEntityContainer="dbbe876cd32b9d4b25884fa21d0079b56fEntities">
+    <EntitySetMapping Name="Posts">
+      <EntityTypeMapping TypeName="dbbe876cd32b9d4b25884fa21d0079b56fModel.Post">
+        <MappingFragment StoreEntitySet="Posts">
+          <ScalarProperty Name="PostId" ColumnName="PostId" />
+          <ScalarProperty Name="SourceCode" ColumnName="SourceCode" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+          <ScalarProperty Name="AuthorMail" ColumnName="AuthorMail" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

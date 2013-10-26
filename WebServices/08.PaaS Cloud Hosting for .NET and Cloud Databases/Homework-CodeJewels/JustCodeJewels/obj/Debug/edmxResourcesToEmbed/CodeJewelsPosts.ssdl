@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbbe876cd32b9d4b25884fa21d0079b56fModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="dbbe876cd32b9d4b25884fa21d0079b56fModelStoreContainer">
+    <EntitySet Name="Posts" EntityType="dbbe876cd32b9d4b25884fa21d0079b56fModel.Store.Posts" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Posts">
+    <Key>
+      <PropertyRef Name="PostId" />
+    </Key>
+    <Property Name="PostId" Type="int" Nullable="false" />
+    <Property Name="SourceCode" Type="nchar" Nullable="false" MaxLength="1000" />
+    <Property Name="Rating" Type="int" Nullable="false" />
+    <Property Name="AuthorMail" Type="nchar" Nullable="false" MaxLength="50" />
+    <Property Name="Category" Type="nchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+</Schema>

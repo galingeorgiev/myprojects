@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="JustCodeJewels.Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="JustCodeJewelsModelStoreContainer">
+    <EntitySet Name="Posts" EntityType="JustCodeJewels.Model.Store.Posts" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Posts">
+    <Key>
+      <PropertyRef Name="PostId" />
+    </Key>
+    <Property Name="PostId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SourceCode" Type="nvarchar" Nullable="false" MaxLength="1000" />
+    <Property Name="Rating" Type="int" Nullable="false" />
+    <Property Name="AuthorMail" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Category" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+</Schema>

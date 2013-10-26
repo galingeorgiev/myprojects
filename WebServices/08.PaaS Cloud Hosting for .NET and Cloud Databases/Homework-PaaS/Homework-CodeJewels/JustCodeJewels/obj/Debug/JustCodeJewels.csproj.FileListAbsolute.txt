@@ -1,0 +1,59 @@
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\JustCodeJewels.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\JustCodeJewels.pdb
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\Antlr3.Runtime.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\EntityFramework.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\Microsoft.Web.Infrastructure.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\Newtonsoft.Json.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Net.Http.Formatting.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Helpers.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Http.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Http.WebHost.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Mvc.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Optimization.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Providers.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Razor.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.WebPages.Deployment.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.WebPages.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.WebPages.Razor.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\WebGrease.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\EntityFramework.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\Newtonsoft.Json.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Net.Http.Formatting.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Helpers.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Http.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Http.WebHost.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Mvc.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Razor.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.WebPages.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.WebPages.Deployment.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\bin\System.Web.WebPages.Razor.xml
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\obj\Debug\JustCodeJewels.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\obj\Debug\JustCodeJewels.dll
+F:\Telerik Academy\Telerik\WebServices\10.TeamWork\ZorroChat\Homework-CodeJewels\JustCodeJewels\obj\Debug\JustCodeJewels.pdb
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\JustCodeJewels.dll
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\JustCodeJewels.pdb
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\Microsoft.Web.Infrastructure.dll
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Net.Http.Formatting.dll
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Helpers.dll
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Http.dll
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Http.WebHost.dll
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Mvc.dll
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Razor.dll
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.WebPages.Deployment.dll
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.WebPages.dll
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.WebPages.Razor.dll
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\EntityFramework.xml
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\Microsoft.Web.Infrastructure.xml
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\Newtonsoft.Json.xml
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Net.Http.Formatting.xml
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Helpers.xml
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Http.xml
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Http.WebHost.xml
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Mvc.xml
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.Razor.xml
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.WebPages.xml
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.WebPages.Deployment.xml
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\bin\System.Web.WebPages.Razor.xml
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\obj\Debug\JustCodeJewels.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\obj\Debug\JustCodeJewels.dll
+F:\Telerik Academy\Telerik\WebServices\08.PaaS Cloud Hosting for .NET and Cloud Databases\Homework-PaaS\Homework-CodeJewels\JustCodeJewels\obj\Debug\JustCodeJewels.pdb
