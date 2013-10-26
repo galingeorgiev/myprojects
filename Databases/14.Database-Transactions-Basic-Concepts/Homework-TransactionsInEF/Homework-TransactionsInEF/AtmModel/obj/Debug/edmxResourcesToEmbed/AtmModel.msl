@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ATMModelStoreContainer" CdmEntityContainer="ATMEntities">
+    <EntitySetMapping Name="CardAccounts">
+      <EntityTypeMapping TypeName="ATMModel.CardAccount">
+        <MappingFragment StoreEntitySet="CardAccounts">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CardNimber" ColumnName="CardNimber" />
+          <ScalarProperty Name="CardPIN" ColumnName="CardPIN" />
+          <ScalarProperty Name="CardCash" ColumnName="CardCash" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TransactionsHistories">
+      <EntityTypeMapping TypeName="ATMModel.TransactionsHistory">
+        <MappingFragment StoreEntitySet="TransactionsHistory">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CardNumber" ColumnName="CardNumber" />
+          <ScalarProperty Name="TransactionDate" ColumnName="TransactionDate" />
+          <ScalarProperty Name="Ammount" ColumnName="Ammount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

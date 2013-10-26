@@ -1,0 +1,11 @@
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\RedisTests\Homework-NoSQL-Databases\MongoDBDictionary\bin\Debug\MongoDBDictionary.exe.config
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\MongoDBDictionary\bin\Debug\MongoDBDictionary.exe.config
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\MongoDBDictionary\bin\Debug\MongoDBDictionary.exe
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\MongoDBDictionary\bin\Debug\MongoDBDictionary.pdb
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\MongoDBDictionary\bin\Debug\MongoDB.Bson.dll
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\MongoDBDictionary\bin\Debug\MongoDB.Driver.dll
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\MongoDBDictionary\bin\Debug\MongoDB.Bson.xml
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\MongoDBDictionary\bin\Debug\MongoDB.Driver.xml
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\MongoDBDictionary\obj\Debug\MongoDBDictionary.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\MongoDBDictionary\obj\Debug\MongoDBDictionary.exe
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\MongoDBDictionary\obj\Debug\MongoDBDictionary.pdb

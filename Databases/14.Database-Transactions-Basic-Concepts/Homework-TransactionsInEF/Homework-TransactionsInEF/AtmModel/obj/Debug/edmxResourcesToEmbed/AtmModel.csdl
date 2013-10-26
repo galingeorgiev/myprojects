@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ATMModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ATMEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="CardAccounts" EntityType="ATMModel.CardAccount" />
+    <EntitySet Name="TransactionsHistories" EntityType="ATMModel.TransactionsHistory" />
+  </EntityContainer>
+  <EntityType Name="CardAccount">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="CardNimber" Type="String" MaxLength="10" Unicode="false" FixedLength="true" />
+    <Property Name="CardPIN" Type="String" MaxLength="4" Unicode="false" FixedLength="true" />
+    <Property Name="CardCash" Type="Decimal" Precision="19" Scale="4" ConcurrencyMode="Fixed" />
+  </EntityType>
+  <EntityType Name="TransactionsHistory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="CardNumber" Type="String" MaxLength="10" Unicode="false" FixedLength="true" />
+    <Property Name="TransactionDate" Type="DateTime" Precision="0" />
+    <Property Name="Ammount" Type="Decimal" Precision="19" Scale="4" />
+  </EntityType>
+</Schema>

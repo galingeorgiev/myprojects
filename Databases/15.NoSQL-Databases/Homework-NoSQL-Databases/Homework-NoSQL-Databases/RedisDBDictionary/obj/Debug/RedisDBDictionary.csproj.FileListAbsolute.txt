@@ -1,0 +1,14 @@
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\RedisDBDictionary\obj\Debug\RedisDBDictionary.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\RedisDBDictionary\bin\Debug\RedisDBDictionary.exe.config
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\RedisDBDictionary\bin\Debug\RedisDBDictionary.exe
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\RedisDBDictionary\bin\Debug\RedisDBDictionary.pdb
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\RedisDBDictionary\bin\Debug\ServiceStack.Common.dll
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\RedisDBDictionary\bin\Debug\ServiceStack.Interfaces.dll
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\RedisDBDictionary\bin\Debug\ServiceStack.Redis.dll
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\RedisDBDictionary\bin\Debug\ServiceStack.Text.dll
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\RedisDBDictionary\bin\Debug\ServiceStack.Common.xml
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\RedisDBDictionary\bin\Debug\ServiceStack.Interfaces.xml
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\RedisDBDictionary\bin\Debug\ServiceStack.Redis.xml
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\RedisDBDictionary\bin\Debug\ServiceStack.Text.xml
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\RedisDBDictionary\obj\Debug\RedisDBDictionary.exe
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\Homework-NoSQL-Databases\Homework-NoSQL-Databases\RedisDBDictionary\obj\Debug\RedisDBDictionary.pdb

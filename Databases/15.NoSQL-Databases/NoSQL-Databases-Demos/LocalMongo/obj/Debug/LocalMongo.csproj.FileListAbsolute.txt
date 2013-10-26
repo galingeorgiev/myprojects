@@ -1,0 +1,9 @@
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalMongo\bin\Debug\LocalMongo.exe
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalMongo\bin\Debug\LocalMongo.pdb
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalMongo\bin\Debug\MongoDB.Bson.dll
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalMongo\bin\Debug\MongoDB.Driver.dll
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalMongo\bin\Debug\MongoDB.Bson.xml
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalMongo\bin\Debug\MongoDB.Driver.xml
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalMongo\obj\Debug\LocalMongo.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalMongo\obj\Debug\LocalMongo.exe
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalMongo\obj\Debug\LocalMongo.pdb

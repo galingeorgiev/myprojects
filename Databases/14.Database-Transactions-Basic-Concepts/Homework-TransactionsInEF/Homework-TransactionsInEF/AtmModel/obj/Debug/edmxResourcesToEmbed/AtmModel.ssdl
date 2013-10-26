@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ATMModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ATMModelStoreContainer">
+    <EntitySet Name="CardAccounts" EntityType="ATMModel.Store.CardAccounts" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TransactionsHistory" EntityType="ATMModel.Store.TransactionsHistory" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="CardAccounts">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CardNimber" Type="char" MaxLength="10" />
+    <Property Name="CardPIN" Type="char" MaxLength="4" />
+    <Property Name="CardCash" Type="money" />
+  </EntityType>
+  <EntityType Name="TransactionsHistory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CardNumber" Type="char" MaxLength="10" />
+    <Property Name="TransactionDate" Type="date" />
+    <Property Name="Ammount" Type="money" />
+  </EntityType>
+</Schema>

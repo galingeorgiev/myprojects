@@ -1,0 +1,11 @@
+D:\Telerik Academy\Telerik\Databases\16.XML-Basics\Homework-XML-Processing-in-.NET\Homework-TransactionsInEF\AtmSystem\bin\Debug\AtmSystem.exe.config
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmSystem\bin\Debug\AtmSystem.exe.config
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmSystem\bin\Debug\AtmSystem.exe
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmSystem\bin\Debug\AtmSystem.pdb
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmSystem\bin\Debug\AtmModel.dll
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmSystem\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmSystem\bin\Debug\AtmModel.pdb
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmSystem\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmSystem\obj\Debug\AtmSystem.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmSystem\obj\Debug\AtmSystem.exe
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmSystem\obj\Debug\AtmSystem.pdb

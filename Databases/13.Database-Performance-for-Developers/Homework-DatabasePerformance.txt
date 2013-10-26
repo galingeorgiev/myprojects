@@ -1,0 +1,166 @@
+-----------------------------------------------------------------------
+--My computer needs of many time to make 10 milion recordes.
+--Tests work good with 100000 records.
+-----------------------------------------------------------------------
+--Task 1
+--Create a table in SQL Server with 10 000 000 log entries
+--(date + text). Search in the table by date range. Check 
+--the speed (without caching).
+
+create database UsersLogs
+GO
+
+use UsersLogs
+create table Logs
+(
+LogId int identity(1, 1) not null,
+DateAdded date not null,
+LogText text not null,
+CONSTRAINT PK_Logs_LogId PRIMARY KEY (LogId)
+)
+GO
+
+use UsersLogs
+GO
+
+create procedure uspAddLogs
+as
+begin
+	declare @counter int
+	declare @year int
+	declare @dateStr nvarchar(10)
+	set @counter = 0
+	while (@counter < 10000000)
+	begin
+		select @year = 2010 + (@counter % 10)
+		select @dateStr = convert(nvarchar, @year) + '-' + convert(nvarchar, ((@counter % 10) + 1)) + '-01'
+		insert into Logs (DateAdded, LogText)
+		values (convert(date, @dateStr), 'Text for log: ' + convert(nvarchar, @counter))
+		set @counter = @counter + 1
+	end
+end
+GO
+
+exec uspAddLogs
+GO
+
+use UsersLogs
+select *
+from Logs l
+where l.DateAdded > '01-01-2015' and l.DateAdded < '01-01-2016'
+GO
+
+CHECKPOINT; DBCC DROPCLEANBUFFERS; -- Empty the SQL Server cache
+
+-----------------------------------------------------------------------
+--Task 2
+--Add an index to speed-up the search by date. 
+--Test the search speed (after cleaning the cache).
+
+CHECKPOINT; DBCC DROPCLEANBUFFERS; -- Empty the SQL Server cache
+
+create index IDX_Logs_DateAdded ON Logs(DateAdded)
+GO
+
+use UsersLogs
+select *
+from Logs l
+where l.DateAdded > '01-01-2015' and l.DateAdded < '01-01-2016'
+GO
+
+-----------------------------------------------------------------------
+--Task 3
+--Add a full text index for the text column.
+--Try to search with and without the full-text
+--index and compare the speed.
+
+use UsersLogs
+select *
+from Logs l
+where l.LogText like '%1%'
+GO
+
+create fulltext catalog FullTextLogText
+with accent_sensitivity = OFF
+GO
+
+create fulltext index on Logs(LogText)
+key index PK_Logs_LogId
+on FullTextLogText
+with change_tracking auto
+GO
+
+CHECKPOINT; DBCC DROPCLEANBUFFERS; -- Empty the SQL Server cache
+
+use UsersLogs
+select *
+from Logs l
+where l.LogText like '%1%'
+GO
+
+-----------------------------------------------------------------------
+--Task 4
+--Create the same table in MySQL and partition it by date 
+--(1990, 2000, 2010). Fill 1 000 000 log entries. 
+--Compare the searching speed in all partitions 
+--(random dates) to certain partition (e.g. year 1995).
+
+create database UsersLogs;
+
+use UsersLogs;
+
+create table Logs
+(
+LogId int primary key auto_increment not null,
+DateAdded date not null,
+LogText text not null
+);
+
+use UsersLogs;
+
+DELIMITER $$ 
+create procedure uspAddLogs()
+begin
+	declare counter int default 1;
+	declare yearInt int default 1;
+	declare dateStr varchar(10);
+	set counter = 0;
+	while (counter < 1000000) do
+		set yearInt = 1990 + ((counter % 10) * 3);
+		set dateStr = concat(yearInt, '-', ((counter % 10) + 1), '-01');
+		insert into Logs (DateAdded, LogText)
+		values (cast(dateStr as date), concat('Text for log: ', counter));
+		set counter = counter + 1;
+	end while;
+end $$
+
+select *
+from logspartitioning
+where year(DateAdded) < 2015;
+
+call uspAddLogs();
+
+create table LogsPartitioning
+(
+LogId int auto_increment not null,
+DateAdded date not null,
+LogText text not null,
+primary key (LogId, DateAdded)
+)
+partition by range(year(DateAdded)) (
+   partition Before1990 values less than (1990),
+   partition Before2000 values less than (2000),
+   partition Before2010 values less than (2010),
+   partition After2010 values less than maxvalue
+);
+
+use UsersLogs;
+
+insert logspartitioning
+select *
+from logs;
+
+select *
+from logspartitioning
+where year(DateAdded) < 2015;
+-----------------------------------------------------------------------

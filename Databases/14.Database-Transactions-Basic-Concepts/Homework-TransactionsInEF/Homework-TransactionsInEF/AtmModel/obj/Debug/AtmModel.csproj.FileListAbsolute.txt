@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmModel\bin\Debug\AtmModel.dll.config
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmModel\bin\Debug\AtmModel.dll
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmModel\bin\Debug\AtmModel.pdb
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmModel\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmModel\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmModel\obj\Debug\AtmModel.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmModel\obj\Debug\AtmModel.dll
+D:\Telerik Academy\Telerik\Databases\14.Database-Transactions-Basic-Concepts\Homework-TransactionsInEF\Homework-TransactionsInEF\AtmModel\obj\Debug\AtmModel.pdb

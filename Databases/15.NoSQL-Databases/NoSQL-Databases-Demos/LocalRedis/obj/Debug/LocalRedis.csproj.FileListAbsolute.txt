@@ -1,0 +1,13 @@
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalRedis\bin\Debug\LocalRedis.exe
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalRedis\bin\Debug\LocalRedis.pdb
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalRedis\bin\Debug\ServiceStack.Common.dll
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalRedis\bin\Debug\ServiceStack.Interfaces.dll
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalRedis\bin\Debug\ServiceStack.Redis.dll
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalRedis\bin\Debug\ServiceStack.Text.dll
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalRedis\bin\Debug\ServiceStack.Common.xml
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalRedis\bin\Debug\ServiceStack.Interfaces.xml
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalRedis\bin\Debug\ServiceStack.Redis.xml
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalRedis\bin\Debug\ServiceStack.Text.xml
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalRedis\obj\Debug\LocalRedis.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalRedis\obj\Debug\LocalRedis.exe
+D:\Telerik Academy\Telerik\Databases\15.NoSQL-Databases\NoSQL-Databases-Demos\LocalRedis\obj\Debug\LocalRedis.pdb

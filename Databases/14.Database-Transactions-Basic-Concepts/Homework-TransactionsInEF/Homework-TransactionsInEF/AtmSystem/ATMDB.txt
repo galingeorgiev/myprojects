@@ -1,0 +1,35 @@
+﻿-- Use code below to create sample database
+create database ATM
+GO
+
+use ATM
+create table CardAccounts
+(
+Id int primary key identity(1,1) not null,
+CardNimber char(10),
+CardPIN char(4),
+CardCash money
+)
+GO
+
+use ATM
+insert into CardAccounts(CardNimber, CardPIN, CardCash)
+values ('7985743543', '1234', 1500),
+	('4654767567', '1234', 5000),
+	('8765345766', '2345', 2500),
+	('3455756821', '3456', 15000),
+	('8674345278', '4567', 34000),
+	('3454567655', '6789', 500),
+	('3454574512', '7890', 4300),
+	('6477657876', '0987', 6700),
+	('7866474275', '9876', 23900)
+
+use ATM
+create table TransactionsHistory
+(
+Id int primary key identity(1,1) not null,
+CardNumber char(10),
+TransactionDate date,
+Ammount money
+)
+GO
