@@ -1,0 +1,16 @@
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\bin\Debug\Northwind.Client.exe.config
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\obj\Debug\Northwind.Client.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\bin\Debug\Northwind.Client.exe
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\bin\Debug\Northwind.Client.pdb
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\bin\Debug\Northwind.Model.dll
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\bin\Debug\NorthwindFramework.dll
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\bin\Debug\Telerik.OpenAccess.40.Extensions.dll
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\bin\Debug\Telerik.OpenAccess.Web.40.dll
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\bin\Debug\Northwind.Model.pdb
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\bin\Debug\NorthwindFramework.pdb
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\bin\Debug\Telerik.OpenAccess.40.Extensions.xml
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\bin\Debug\Telerik.OpenAccess.Web.40.xml
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\obj\Debug\Northwind.Client.exe
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Client\obj\Debug\Northwind.Client.pdb

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UsersDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="UsersDBModelStoreContainer">
+    <EntitySet Name="Groups" EntityType="UsersDBModel.Store.Groups" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Users" EntityType="UsersDBModel.Store.Users" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK__Users__GroupId__1273C1CD" Association="UsersDBModel.Store.FK__Users__GroupId__1273C1CD">
+      <End Role="Groups" EntitySet="Groups" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Groups">
+    <Key>
+      <PropertyRef Name="GroupId" />
+    </Key>
+    <Property Name="GroupId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="GroupName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="nvarchar" MaxLength="50" />
+    <Property Name="GroupId" Type="int" />
+  </EntityType>
+  <Association Name="FK__Users__GroupId__1273C1CD">
+    <End Role="Groups" Type="UsersDBModel.Store.Groups" Multiplicity="0..1" />
+    <End Role="Users" Type="UsersDBModel.Store.Users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Groups">
+        <PropertyRef Name="GroupId" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="GroupId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

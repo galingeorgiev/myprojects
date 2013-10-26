@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task09.AddNewOrder\bin\Debug\Task09.AddNewOrder.exe.config
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task09.AddNewOrder\bin\Debug\Task09.AddNewOrder.exe
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task09.AddNewOrder\bin\Debug\Task09.AddNewOrder.pdb
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task09.AddNewOrder\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task09.AddNewOrder\bin\Debug\NorthwindEFModel.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task09.AddNewOrder\bin\Debug\NorthwindEFModel.pdb
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task09.AddNewOrder\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task09.AddNewOrder\obj\Debug\Task09.AddNewOrder.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task09.AddNewOrder\obj\Debug\Task09.AddNewOrder.exe
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task09.AddNewOrder\obj\Debug\Task09.AddNewOrder.pdb

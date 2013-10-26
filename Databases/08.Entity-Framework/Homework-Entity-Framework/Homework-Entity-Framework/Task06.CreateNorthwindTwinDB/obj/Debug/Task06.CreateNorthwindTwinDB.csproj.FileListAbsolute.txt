@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task06.CreateNorthwindTwinDB\bin\Debug\Task06.CreateNorthwindTwinDB.exe.config
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task06.CreateNorthwindTwinDB\bin\Debug\Task06.CreateNorthwindTwinDB.exe
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task06.CreateNorthwindTwinDB\bin\Debug\Task06.CreateNorthwindTwinDB.pdb
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task06.CreateNorthwindTwinDB\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task06.CreateNorthwindTwinDB\bin\Debug\NorthwindEFModel.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task06.CreateNorthwindTwinDB\bin\Debug\NorthwindEFModel.pdb
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task06.CreateNorthwindTwinDB\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task06.CreateNorthwindTwinDB\obj\Debug\Task06.CreateNorthwindTwinDB.exe
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task06.CreateNorthwindTwinDB\obj\Debug\Task06.CreateNorthwindTwinDB.pdb
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task06.CreateNorthwindTwinDB\obj\Debug\Task06.CreateNorthwindTwinDB.csprojResolveAssemblyReference.cache

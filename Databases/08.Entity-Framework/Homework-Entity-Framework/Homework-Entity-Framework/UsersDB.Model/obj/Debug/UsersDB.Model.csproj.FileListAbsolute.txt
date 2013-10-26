@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\UsersDB.Model\bin\Debug\UsersDB.Model.dll.config
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\UsersDB.Model\bin\Debug\UsersDB.Model.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\UsersDB.Model\bin\Debug\UsersDB.Model.pdb
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\UsersDB.Model\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\UsersDB.Model\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\UsersDB.Model\obj\Debug\UsersDB.Model.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\UsersDB.Model\obj\Debug\UsersDB.Model.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\UsersDB.Model\obj\Debug\UsersDB.Model.pdb

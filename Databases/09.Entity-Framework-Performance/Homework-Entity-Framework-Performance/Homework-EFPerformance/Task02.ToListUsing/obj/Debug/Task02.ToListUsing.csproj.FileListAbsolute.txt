@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task02.ToListUsing\bin\Debug\Task02.ToListUsing.exe.config
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task02.ToListUsing\obj\Debug\Task02.ToListUsing.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task02.ToListUsing\bin\Debug\Task02.ToListUsing.exe
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task02.ToListUsing\bin\Debug\Task02.ToListUsing.pdb
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task02.ToListUsing\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task02.ToListUsing\bin\Debug\TelerikAcademy.Model.dll
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task02.ToListUsing\bin\Debug\TelerikAcademy.Model.pdb
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task02.ToListUsing\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task02.ToListUsing\obj\Debug\Task02.ToListUsing.exe
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task02.ToListUsing\obj\Debug\Task02.ToListUsing.pdb

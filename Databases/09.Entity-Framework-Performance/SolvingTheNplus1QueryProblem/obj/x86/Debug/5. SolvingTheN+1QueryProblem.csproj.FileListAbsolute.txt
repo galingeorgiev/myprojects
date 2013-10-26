@@ -1,0 +1,12 @@
+C:\Telerik\2013\Databases\2013\8. Entity Framework\Entity-Framework-Demos\SolvingTheNplus1QueryProblem\bin\Debug\ResolvingTheNplus1QueryProblem.exe.config
+C:\Telerik\2013\Databases\2013\8. Entity Framework\Entity-Framework-Demos\SolvingTheNplus1QueryProblem\bin\Debug\ResolvingTheNplus1QueryProblem.exe
+C:\Telerik\2013\Databases\2013\8. Entity Framework\Entity-Framework-Demos\SolvingTheNplus1QueryProblem\bin\Debug\ResolvingTheNplus1QueryProblem.pdb
+C:\Telerik\2013\Databases\2013\8. Entity Framework\Entity-Framework-Demos\SolvingTheNplus1QueryProblem\bin\Debug\EFProviderWrapperToolkit.dll
+C:\Telerik\2013\Databases\2013\8. Entity Framework\Entity-Framework-Demos\SolvingTheNplus1QueryProblem\bin\Debug\EFTracingProvider.dll
+C:\Telerik\2013\Databases\2013\8. Entity Framework\Entity-Framework-Demos\SolvingTheNplus1QueryProblem\bin\Debug\UsingEntityFrameworkModel.dll
+C:\Telerik\2013\Databases\2013\8. Entity Framework\Entity-Framework-Demos\SolvingTheNplus1QueryProblem\bin\Debug\UsingEntityFrameworkModel.pdb
+C:\Telerik\2013\Databases\2013\8. Entity Framework\Entity-Framework-Demos\SolvingTheNplus1QueryProblem\obj\x86\Debug\5. SolvingTheN+1QueryProblem.csprojResolveAssemblyReference.cache
+C:\Telerik\2013\Databases\2013\8. Entity Framework\Entity-Framework-Demos\SolvingTheNplus1QueryProblem\obj\x86\Debug\ResolvingTheNplus1QueryProblem.exe
+C:\Telerik\2013\Databases\2013\8. Entity Framework\Entity-Framework-Demos\SolvingTheNplus1QueryProblem\obj\x86\Debug\ResolvingTheNplus1QueryProblem.pdb
+C:\Telerik\2013\Databases\2013\8. Entity Framework\Entity-Framework-Demos\SolvingTheNplus1QueryProblem\bin\Debug\EntityFramework.dll
+C:\Telerik\2013\Databases\2013\8. Entity Framework\Entity-Framework-Demos\SolvingTheNplus1QueryProblem\bin\Debug\EntityFramework.xml

@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task07.ConcurrentChanges\bin\Debug\Task07.ConcurrentChanges.exe.config
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task07.ConcurrentChanges\bin\Debug\Task07.ConcurrentChanges.exe
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task07.ConcurrentChanges\bin\Debug\Task07.ConcurrentChanges.pdb
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task07.ConcurrentChanges\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task07.ConcurrentChanges\bin\Debug\NorthwindEFModel.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task07.ConcurrentChanges\bin\Debug\NorthwindEFModel.pdb
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task07.ConcurrentChanges\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task07.ConcurrentChanges\obj\Debug\Task07.ConcurrentChanges.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task07.ConcurrentChanges\obj\Debug\Task07.ConcurrentChanges.exe
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task07.ConcurrentChanges\obj\Debug\Task07.ConcurrentChanges.pdb

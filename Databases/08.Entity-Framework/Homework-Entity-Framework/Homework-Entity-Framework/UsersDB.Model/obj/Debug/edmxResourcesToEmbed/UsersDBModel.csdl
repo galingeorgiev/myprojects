@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UsersDBModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="UsersDBEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Groups" EntityType="UsersDBModel.Group" />
+    <EntitySet Name="Users" EntityType="UsersDBModel.User" />
+    <AssociationSet Name="FK__Users__GroupId__1273C1CD" Association="UsersDBModel.FK__Users__GroupId__1273C1CD">
+      <End Role="Groups" EntitySet="Groups" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Group">
+    <Key>
+      <PropertyRef Name="GroupId" />
+    </Key>
+    <Property Name="GroupId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="GroupName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Users" Relationship="UsersDBModel.FK__Users__GroupId__1273C1CD" FromRole="Groups" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="GroupId" Type="Int32" />
+    <NavigationProperty Name="Group" Relationship="UsersDBModel.FK__Users__GroupId__1273C1CD" FromRole="Users" ToRole="Groups" />
+  </EntityType>
+  <Association Name="FK__Users__GroupId__1273C1CD">
+    <End Role="Groups" Type="UsersDBModel.Group" Multiplicity="0..1" />
+    <End Role="Users" Type="UsersDBModel.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Groups">
+        <PropertyRef Name="GroupId" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="GroupId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

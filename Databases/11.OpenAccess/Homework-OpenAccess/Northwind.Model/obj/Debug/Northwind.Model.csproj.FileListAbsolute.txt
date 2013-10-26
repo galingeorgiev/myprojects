@@ -1,0 +1,8 @@
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Model\bin\Debug\Northwind.Model.dll.config
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Model\bin\Debug\Northwind.Model.dll
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Model\bin\Debug\Northwind.Model.pdb
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Model\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Model\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Model\obj\Debug\Northwind.Model.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Model\obj\Debug\Northwind.Model.dll
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\Northwind.Model\obj\Debug\Northwind.Model.pdb

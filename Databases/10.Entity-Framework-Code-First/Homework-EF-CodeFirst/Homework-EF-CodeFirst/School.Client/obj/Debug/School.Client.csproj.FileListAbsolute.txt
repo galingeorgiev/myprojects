@@ -1,0 +1,13 @@
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-EF-CodeFirst\School.Client\bin\Debug\School.Client.exe.config
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Client\bin\Debug\School.Client.exe.config
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Client\bin\Debug\School.Client.exe
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Client\bin\Debug\School.Client.pdb
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Client\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Client\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Client\obj\Debug\School.Client.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Client\obj\Debug\School.Client.exe
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Client\obj\Debug\School.Client.pdb
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Client\bin\Debug\School.Data.dll
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Client\bin\Debug\School.Model.dll
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Client\bin\Debug\School.Data.pdb
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Client\bin\Debug\School.Model.pdb

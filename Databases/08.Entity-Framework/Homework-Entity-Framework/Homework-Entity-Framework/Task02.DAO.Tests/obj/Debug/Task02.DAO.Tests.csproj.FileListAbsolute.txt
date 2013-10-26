@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task02.DAO.Tests\bin\Debug\Task02.DAO.Tests.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task02.DAO.Tests\bin\Debug\Task02.DAO.Tests.pdb
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task02.DAO.Tests\obj\Debug\Task02.DAO.Tests.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task02.DAO.Tests\obj\Debug\Task02.DAO.Tests.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task02.DAO.Tests\obj\Debug\Task02.DAO.Tests.pdb
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task02.DAO.Tests\bin\Debug\Task02.DAO.Tests.dll.config
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task02.DAO.Tests\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task02.DAO.Tests\bin\Debug\NorthwindEFModel.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task02.DAO.Tests\bin\Debug\Task02.DAO.exe
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task02.DAO.Tests\bin\Debug\NorthwindEFModel.pdb
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task02.DAO.Tests\bin\Debug\Task02.DAO.pdb
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task02.DAO.Tests\bin\Debug\EntityFramework.xml

@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task04.FindCustomersSQLQuery\bin\Debug\Task04.FindCustomersSQLQuery.exe.config
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task04.FindCustomersSQLQuery\bin\Debug\Task04.FindCustomersSQLQuery.exe
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task04.FindCustomersSQLQuery\bin\Debug\Task04.FindCustomersSQLQuery.pdb
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task04.FindCustomersSQLQuery\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task04.FindCustomersSQLQuery\bin\Debug\NorthwindEFModel.dll
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task04.FindCustomersSQLQuery\bin\Debug\NorthwindEFModel.pdb
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task04.FindCustomersSQLQuery\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task04.FindCustomersSQLQuery\obj\Debug\Task04.FindCustomersSQLQuery.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task04.FindCustomersSQLQuery\obj\Debug\Task04.FindCustomersSQLQuery.exe
+D:\Telerik Academy\Telerik\Databases\08.Entity-Framework\Homework-Entity-Framework\Homework-Entity-Framework\Task04.FindCustomersSQLQuery\obj\Debug\Task04.FindCustomersSQLQuery.pdb

@@ -1,0 +1,1277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DomainModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="2.0.0.0" name="NorthwindModel" namespace="Northwind.Model" showPropertiesCompartment="true" xmlns="http://www.telerik.com/ORM">
+  <orm:orm name="NorthwindModel" backend="mssql" default-schema="dbo" xmlns:orm="http://tempuri.org/ORM">
+    <orm:namespace name="Northwind.Model" default="true">
+      <orm:class name="Territory" uniqueId="7342de1f-64d8-4775-b8eb-474b019c4f8d">
+        <orm:table name="Territories" />
+        <orm:identity>
+          <orm:single-field field-name="_territoryID" />
+        </orm:identity>
+        <orm:concurrency strategy="changed" />
+        <orm:field name="_territoryID" property="TerritoryID" behavior="readwrite" uniqueId="545b147e-d712-4751-acb0-46a48a3dda9a" type="System.String">
+          <orm:column name="TerritoryID" sql-type="nvarchar" nullable="false" length="20" scale="0" primary-key="true" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_territoryDescription" property="TerritoryDescription" behavior="readwrite" uniqueId="19d8d88d-8f5a-4d9e-aba7-22b33fe3f713" type="System.String">
+          <orm:column name="TerritoryDescription" sql-type="nchar" nullable="false" length="50" scale="0" ado-type="UnicodeStringFixedLength" />
+        </orm:field>
+        <orm:field name="_regionID" property="RegionID" behavior="readwrite" uniqueId="02b969a8-0def-4acd-a902-73b0f1608c73" type="System.Int32">
+          <orm:column name="RegionID" sql-type="int" nullable="false" length="0" scale="0" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_region" property="Region" behavior="readwrite" uniqueId="57250f7a-ea43-4818-bb7f-a60c2074b80e" type="Northwind.Model.Region">
+          <orm:reference uniqueId="c145c65f-4413-44c2-a146-37262080cb68">
+            <orm:sharedfield name="_regionID" target-class="Northwind.Model.Region" target-field="_regionID" />
+            <orm:constraint name="FK_Territories_Region" destination-table="Region" />
+          </orm:reference>
+        </orm:field>
+        <orm:field name="_employees" property="Employees" behavior="readwrite" uniqueId="206723eb-80e9-423f-ac0a-b9d37902e2fb" type="Northwind.Model.Employee">
+          <orm:collection element-class="Northwind.Model.Employee" inverse-field="_territories" order-by="" uniqueId="fc519be3-e89e-47c3-bb06-f1cbdedadf30" />
+        </orm:field>
+      </orm:class>
+      <orm:class name="Supplier" uniqueId="f7a08c25-21aa-4de7-ae02-8a32c349ed1c">
+        <orm:table name="Suppliers" />
+        <orm:identity>
+          <orm:key-generator name="autoinc" />
+          <orm:single-field field-name="_supplierID" />
+        </orm:identity>
+        <orm:concurrency strategy="changed" />
+        <orm:field name="_supplierID" property="SupplierID" behavior="readwrite" uniqueId="926edfdc-a822-4c8c-bbb8-2206b1186fdd" type="System.Int32">
+          <orm:column name="SupplierID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" backend-calculated="true" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_companyName" property="CompanyName" behavior="readwrite" uniqueId="ccdbeece-edce-4b8b-b838-72ddffc8aa66" type="System.String">
+          <orm:column name="CompanyName" sql-type="nvarchar" nullable="false" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_contactName" property="ContactName" behavior="readwrite" uniqueId="474f7085-a9c8-4ab8-8a4d-97f1aa9340ee" type="System.String">
+          <orm:column name="ContactName" sql-type="nvarchar" nullable="true" length="30" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_contactTitle" property="ContactTitle" behavior="readwrite" uniqueId="1442449b-00ef-475f-970c-a4d366617669" type="System.String">
+          <orm:column name="ContactTitle" sql-type="nvarchar" nullable="true" length="30" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_address" property="Address" behavior="readwrite" uniqueId="30d30079-47a1-408d-b55a-1c2c3ccf0d11" type="System.String">
+          <orm:column name="Address" sql-type="nvarchar" nullable="true" length="60" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_city" property="City" behavior="readwrite" uniqueId="a525064c-ca31-4e63-b95e-05a713001a4b" type="System.String">
+          <orm:column name="City" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_region" property="Region" behavior="readwrite" uniqueId="a41bcb13-29d2-4c71-9c36-667989dae574" type="System.String">
+          <orm:column name="Region" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_postalCode" property="PostalCode" behavior="readwrite" uniqueId="025ae75a-bfc1-4825-829e-2320325e23d5" type="System.String">
+          <orm:column name="PostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_country" property="Country" behavior="readwrite" uniqueId="de00b433-995c-4e56-b57e-6100f7803320" type="System.String">
+          <orm:column name="Country" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_phone" property="Phone" behavior="readwrite" uniqueId="ba700c2d-655d-45f2-802b-a46a9762f367" type="System.String">
+          <orm:column name="Phone" sql-type="nvarchar" nullable="true" length="24" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_fax" property="Fax" behavior="readwrite" uniqueId="8d4662ff-2ab7-450e-987f-c96ae47e63ad" type="System.String">
+          <orm:column name="Fax" sql-type="nvarchar" nullable="true" length="24" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_homePage" property="HomePage" behavior="readwrite" uniqueId="c6b86609-5883-49d3-9dbf-c5d79757498d" type="System.String">
+          <orm:column name="HomePage" sql-type="ntext" nullable="true" length="0" scale="0" ado-type="UnicodeStringInfiniteLength" />
+        </orm:field>
+        <orm:field name="_products" property="Products" behavior="readwrite" uniqueId="7dcb264d-b760-45e0-8adf-818acc3809a4" type="Northwind.Model.Product">
+          <orm:collection element-class="Northwind.Model.Product" inverse-field="_supplier" order-by="" uniqueId="cabc528e-cc99-4256-a0ce-5d8acaf02bfd" />
+        </orm:field>
+        <orm:index name="CompanyName">
+          <orm:columnMapping>
+            <orm:column name="CompanyName" sql-type="nvarchar" nullable="false" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="PostalCode">
+          <orm:columnMapping>
+            <orm:column name="PostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+      </orm:class>
+      <orm:class name="Shipper" uniqueId="57beef14-bff3-48e9-b300-d3164253d7d1">
+        <orm:table name="Shippers" />
+        <orm:identity>
+          <orm:key-generator name="autoinc" />
+          <orm:single-field field-name="_shipperID" />
+        </orm:identity>
+        <orm:concurrency strategy="changed" />
+        <orm:field name="_shipperID" property="ShipperID" behavior="readwrite" uniqueId="bd8b4ef0-423f-4cf2-b12e-fe2119eb1714" type="System.Int32">
+          <orm:column name="ShipperID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" backend-calculated="true" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_companyName" property="CompanyName" behavior="readwrite" uniqueId="91450a30-3456-49c4-b84e-69ddbfdbb137" type="System.String">
+          <orm:column name="CompanyName" sql-type="nvarchar" nullable="false" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_phone" property="Phone" behavior="readwrite" uniqueId="b653db00-dadc-4966-a1c6-470c0859bbe0" type="System.String">
+          <orm:column name="Phone" sql-type="nvarchar" nullable="true" length="24" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_orders" property="Orders" behavior="readwrite" uniqueId="92bbbb59-40b9-4db9-adbc-4c2ee3eded2e" type="Northwind.Model.Order">
+          <orm:collection element-class="Northwind.Model.Order" inverse-field="_shipper" order-by="" uniqueId="7870b747-8a3e-47ba-b3f2-831ea73eab1e" />
+        </orm:field>
+      </orm:class>
+      <orm:class name="Region" uniqueId="c78d4fdf-58fa-410d-97db-be0cbbc502b2">
+        <orm:table name="Region" />
+        <orm:identity>
+          <orm:single-field field-name="_regionID" />
+        </orm:identity>
+        <orm:concurrency strategy="changed" />
+        <orm:field name="_regionID" property="RegionID" behavior="readwrite" uniqueId="62382968-8879-4b29-bb12-fb2dc23eb8ce" type="System.Int32">
+          <orm:column name="RegionID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_regionDescription" property="RegionDescription" behavior="readwrite" uniqueId="799ad953-b67c-43cd-adc2-0d3a8b36f604" type="System.String">
+          <orm:column name="RegionDescription" sql-type="nchar" nullable="false" length="50" scale="0" ado-type="UnicodeStringFixedLength" />
+        </orm:field>
+        <orm:field name="_territories" property="Territories" behavior="readwrite" uniqueId="1877dce1-5b9c-455f-992a-23906b491db4" type="Northwind.Model.Territory">
+          <orm:collection element-class="Northwind.Model.Territory" inverse-field="_region" order-by="" uniqueId="c145c65f-4413-44c2-a146-37262080cb68" />
+        </orm:field>
+      </orm:class>
+      <orm:class name="Product" uniqueId="c1918c04-ef8d-4a0c-9d6a-57f1fd668fa6">
+        <orm:table name="Products" />
+        <orm:identity>
+          <orm:key-generator name="autoinc" />
+          <orm:single-field field-name="_productID" />
+        </orm:identity>
+        <orm:concurrency strategy="changed" />
+        <orm:field name="_productID" property="ProductID" behavior="readwrite" uniqueId="f43392ac-e407-4155-9c21-d45b60c28537" type="System.Int32">
+          <orm:column name="ProductID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" backend-calculated="true" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_productName" property="ProductName" behavior="readwrite" uniqueId="11e9af77-e123-41de-a350-80941af1cbc5" type="System.String">
+          <orm:column name="ProductName" sql-type="nvarchar" nullable="false" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_supplierID" property="SupplierID" behavior="readwrite" uniqueId="d9627f11-c0b9-461b-b75c-fc59420f9cd7" type="System.Nullable`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="SupplierID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_categoryID" property="CategoryID" behavior="readwrite" uniqueId="0d0d2359-3619-4d74-97d0-ca9b43001773" type="System.Nullable`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="CategoryID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_quantityPerUnit" property="QuantityPerUnit" behavior="readwrite" uniqueId="a09ccbba-7fb3-4897-a809-bb73cae16d50" type="System.String">
+          <orm:column name="QuantityPerUnit" sql-type="nvarchar" nullable="true" length="20" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_unitPrice" property="UnitPrice" behavior="readwrite" uniqueId="119567fc-8a9b-4023-a9b1-f1f59eec4229" type="System.Nullable`1[[System.Decimal, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="UnitPrice" sql-type="money" nullable="true" length="0" scale="0" has-default-value="true" ado-type="Currency" />
+        </orm:field>
+        <orm:field name="_unitsInStock" property="UnitsInStock" behavior="readwrite" uniqueId="94f84951-3dbf-40d8-b1a0-f51a5316d022" type="System.Nullable`1[[System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="UnitsInStock" sql-type="smallint" nullable="true" length="0" scale="0" has-default-value="true" ado-type="Int16" />
+        </orm:field>
+        <orm:field name="_unitsOnOrder" property="UnitsOnOrder" behavior="readwrite" uniqueId="a1f52f3c-19c1-495a-b4ed-f208b4d90895" type="System.Nullable`1[[System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="UnitsOnOrder" sql-type="smallint" nullable="true" length="0" scale="0" has-default-value="true" ado-type="Int16" />
+        </orm:field>
+        <orm:field name="_reorderLevel" property="ReorderLevel" behavior="readwrite" uniqueId="5bc2324c-2c1e-4caf-84f6-fb89fb90e032" type="System.Nullable`1[[System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="ReorderLevel" sql-type="smallint" nullable="true" length="0" scale="0" has-default-value="true" ado-type="Int16" />
+        </orm:field>
+        <orm:field name="_discontinued" property="Discontinued" behavior="readwrite" uniqueId="d54c2485-14f9-4b3a-84d1-eecfbffd4752" type="System.Boolean">
+          <orm:column name="Discontinued" sql-type="bit" nullable="false" length="0" scale="0" has-default-value="true" ado-type="Bit" />
+        </orm:field>
+        <orm:field name="_category" property="Category" behavior="readwrite" uniqueId="6a59efe5-fcba-48a9-b59b-a86328b2206f" type="Northwind.Model.Category">
+          <orm:reference uniqueId="e913ccda-caa4-4917-89f2-951514e93dd7">
+            <orm:sharedfield name="_categoryID" target-class="Northwind.Model.Category" target-field="_categoryID" />
+            <orm:constraint name="FK_Products_Categories" destination-table="Categories" />
+          </orm:reference>
+        </orm:field>
+        <orm:field name="_supplier" property="Supplier" behavior="readwrite" uniqueId="42062f77-e60e-428a-80d1-a0eb712eb52a" type="Northwind.Model.Supplier">
+          <orm:reference uniqueId="cabc528e-cc99-4256-a0ce-5d8acaf02bfd">
+            <orm:sharedfield name="_supplierID" target-class="Northwind.Model.Supplier" target-field="_supplierID" />
+            <orm:constraint name="FK_Products_Suppliers" destination-table="Suppliers" />
+          </orm:reference>
+        </orm:field>
+        <orm:field name="_orderDetails" property="OrderDetails" behavior="readwrite" uniqueId="fb7b5d9f-fd3c-4e7f-a9dd-7b87adb740bf" type="Northwind.Model.OrderDetail">
+          <orm:collection element-class="Northwind.Model.OrderDetail" inverse-field="_product" order-by="" uniqueId="1a569726-06bb-4c0d-8068-1c0d0567b987" />
+        </orm:field>
+        <orm:index name="CategoriesProducts">
+          <orm:columnMapping>
+            <orm:column name="CategoryID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="CategoryID">
+          <orm:columnMapping>
+            <orm:column name="CategoryID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="ProductName">
+          <orm:columnMapping>
+            <orm:column name="ProductName" sql-type="nvarchar" nullable="false" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="SupplierID">
+          <orm:columnMapping>
+            <orm:column name="SupplierID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="SuppliersProducts">
+          <orm:columnMapping>
+            <orm:column name="SupplierID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+      </orm:class>
+      <orm:class name="Order" uniqueId="b13218f6-625b-48cb-8f83-f718f52edfbd">
+        <orm:table name="Orders" />
+        <orm:identity>
+          <orm:key-generator name="autoinc" />
+          <orm:single-field field-name="_orderID" />
+        </orm:identity>
+        <orm:concurrency strategy="changed" />
+        <orm:field name="_orderID" property="OrderID" behavior="readwrite" uniqueId="5052e36b-8279-4b52-90c3-16876600b140" type="System.Int32">
+          <orm:column name="OrderID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" backend-calculated="true" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_customerID" property="CustomerID" behavior="readwrite" uniqueId="c956bda1-8a2e-4b9b-bbb3-59381318b001" type="System.String">
+          <orm:column name="CustomerID" sql-type="nchar" nullable="true" length="5" scale="0" ado-type="UnicodeStringFixedLength" />
+        </orm:field>
+        <orm:field name="_employeeID" property="EmployeeID" behavior="readwrite" uniqueId="9d451036-1481-4dba-adf7-1037ed241cd7" type="System.Nullable`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="EmployeeID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_orderDate" property="OrderDate" behavior="readwrite" uniqueId="65364db5-199e-4163-8f33-d05463a2cd8f" type="System.Nullable`1[[System.DateTime, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="OrderDate" sql-type="datetime" nullable="true" length="0" scale="0" ado-type="DateTime" />
+        </orm:field>
+        <orm:field name="_requiredDate" property="RequiredDate" behavior="readwrite" uniqueId="fcee7ee4-8ffe-4d0e-8e6b-15450c35ac2d" type="System.Nullable`1[[System.DateTime, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="RequiredDate" sql-type="datetime" nullable="true" length="0" scale="0" ado-type="DateTime" />
+        </orm:field>
+        <orm:field name="_shippedDate" property="ShippedDate" behavior="readwrite" uniqueId="e58a2a61-da00-4e41-835b-f46888c2cdc1" type="System.Nullable`1[[System.DateTime, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="ShippedDate" sql-type="datetime" nullable="true" length="0" scale="0" ado-type="DateTime" />
+        </orm:field>
+        <orm:field name="_shipVia" property="ShipVia" behavior="readwrite" uniqueId="68dac7b0-a033-481c-a694-0715c8f8ee6e" type="System.Nullable`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="ShipVia" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_freight" property="Freight" behavior="readwrite" uniqueId="f61c7a33-4448-4190-84fc-a6b97f360e2c" type="System.Nullable`1[[System.Decimal, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="Freight" sql-type="money" nullable="true" length="0" scale="0" has-default-value="true" ado-type="Currency" />
+        </orm:field>
+        <orm:field name="_shipName" property="ShipName" behavior="readwrite" uniqueId="49c702c2-ae2f-479b-89b4-e250179b7b30" type="System.String">
+          <orm:column name="ShipName" sql-type="nvarchar" nullable="true" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_shipAddress" property="ShipAddress" behavior="readwrite" uniqueId="64521b0b-33ad-4446-ab04-b1a63c9fd5e4" type="System.String">
+          <orm:column name="ShipAddress" sql-type="nvarchar" nullable="true" length="60" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_shipCity" property="ShipCity" behavior="readwrite" uniqueId="35257c92-5376-42ad-96b0-ffdfaeb700af" type="System.String">
+          <orm:column name="ShipCity" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_shipRegion" property="ShipRegion" behavior="readwrite" uniqueId="f99dda1c-1684-4dff-abaf-e20b88ed1fb1" type="System.String">
+          <orm:column name="ShipRegion" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_shipPostalCode" property="ShipPostalCode" behavior="readwrite" uniqueId="e665c839-79f4-4274-aa67-4fc5d11aba8e" type="System.String">
+          <orm:column name="ShipPostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_shipCountry" property="ShipCountry" behavior="readwrite" uniqueId="d38acd2a-6487-4b67-8f90-4f6b6df10078" type="System.String">
+          <orm:column name="ShipCountry" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_customer" property="Customer" behavior="readwrite" uniqueId="efbd361a-814f-4121-8b3f-3d00aaeb8e65" type="Northwind.Model.Customer">
+          <orm:reference uniqueId="7b48f718-0815-4a61-a8c4-8530a1059dec">
+            <orm:sharedfield name="_customerID" target-class="Northwind.Model.Customer" target-field="_customerID" />
+            <orm:constraint name="FK_Orders_Customers" destination-table="Customers" />
+          </orm:reference>
+        </orm:field>
+        <orm:field name="_employee" property="Employee" behavior="readwrite" uniqueId="5d9c703e-c691-44d4-8d6e-302e26d65259" type="Northwind.Model.Employee">
+          <orm:reference uniqueId="ffa77bd3-f9a6-4c9f-a138-b738403c8814">
+            <orm:sharedfield name="_employeeID" target-class="Northwind.Model.Employee" target-field="_employeeID" />
+            <orm:constraint name="FK_Orders_Employees" destination-table="Employees" />
+          </orm:reference>
+        </orm:field>
+        <orm:field name="_shipper" property="Shipper" behavior="readwrite" uniqueId="defe4aa9-496f-409c-af7c-1adf22a1fc25" type="Northwind.Model.Shipper">
+          <orm:reference uniqueId="7870b747-8a3e-47ba-b3f2-831ea73eab1e">
+            <orm:sharedfield name="_shipVia" target-class="Northwind.Model.Shipper" target-field="_shipperID" />
+            <orm:constraint name="FK_Orders_Shippers" destination-table="Shippers" />
+          </orm:reference>
+        </orm:field>
+        <orm:field name="_orderDetails" property="OrderDetails" behavior="readwrite" uniqueId="078bec22-8144-4ec1-95a9-88165d540c39" type="Northwind.Model.OrderDetail">
+          <orm:collection element-class="Northwind.Model.OrderDetail" inverse-field="_order" order-by="" uniqueId="6069ea7d-8508-4e57-9ef3-db1856c7eec2" />
+        </orm:field>
+        <orm:index name="CustomerID">
+          <orm:columnMapping>
+            <orm:column name="CustomerID" sql-type="nchar" nullable="true" length="5" scale="0" ado-type="UnicodeStringFixedLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="CustomersOrders">
+          <orm:columnMapping>
+            <orm:column name="CustomerID" sql-type="nchar" nullable="true" length="5" scale="0" ado-type="UnicodeStringFixedLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="EmployeeID">
+          <orm:columnMapping>
+            <orm:column name="EmployeeID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="EmployeesOrders">
+          <orm:columnMapping>
+            <orm:column name="EmployeeID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="OrderDate">
+          <orm:columnMapping>
+            <orm:column name="OrderDate" sql-type="datetime" nullable="true" length="0" scale="0" ado-type="DateTime" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="ShippedDate">
+          <orm:columnMapping>
+            <orm:column name="ShippedDate" sql-type="datetime" nullable="true" length="0" scale="0" ado-type="DateTime" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="ShippersOrders">
+          <orm:columnMapping>
+            <orm:column name="ShipVia" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="ShipPostalCode">
+          <orm:columnMapping>
+            <orm:column name="ShipPostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+      </orm:class>
+      <orm:class name="OrderDetail" uniqueId="40eb8deb-113f-4df8-812f-fb5661567a41">
+        <orm:table name="Order Details" />
+        <orm:identity>
+          <orm:multiple-field>
+            <orm:single-field field-name="_orderID" />
+            <orm:single-field field-name="_productID" />
+          </orm:multiple-field>
+        </orm:identity>
+        <orm:concurrency strategy="changed" />
+        <orm:field name="_orderID" property="OrderID" behavior="readwrite" uniqueId="0f7cde57-159c-4550-88a3-cbea3e1c2328" type="System.Int32">
+          <orm:column name="OrderID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_productID" property="ProductID" behavior="readwrite" uniqueId="5e24f12d-58cf-4cd9-beaa-d2bd21732483" type="System.Int32">
+          <orm:column name="ProductID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_unitPrice" property="UnitPrice" behavior="readwrite" uniqueId="4fb72d17-00e1-4f51-bd04-e4cba4885480" type="System.Decimal">
+          <orm:column name="UnitPrice" sql-type="money" nullable="false" length="0" scale="0" has-default-value="true" ado-type="Currency" />
+        </orm:field>
+        <orm:field name="_quantity" property="Quantity" behavior="readwrite" uniqueId="cb2e7703-363e-46a0-8c41-277516c728e5" type="System.Int16">
+          <orm:column name="Quantity" sql-type="smallint" nullable="false" length="0" scale="0" has-default-value="true" ado-type="Int16" />
+        </orm:field>
+        <orm:field name="_discount" property="Discount" behavior="readwrite" uniqueId="c23a694a-48db-40bc-a72c-ae431c842ec1" type="System.Single">
+          <orm:column name="Discount" sql-type="real" nullable="false" length="0" scale="0" has-default-value="true" ado-type="Real" />
+        </orm:field>
+        <orm:field name="_order" property="Order" behavior="readwrite" uniqueId="5ed4a0be-ad8c-443e-9daa-96ae011af67e" type="Northwind.Model.Order">
+          <orm:reference uniqueId="6069ea7d-8508-4e57-9ef3-db1856c7eec2">
+            <orm:sharedfield name="_orderID" target-class="Northwind.Model.Order" target-field="_orderID" />
+            <orm:constraint name="FK_Order_Details_Orders" destination-table="Orders" />
+          </orm:reference>
+        </orm:field>
+        <orm:field name="_product" property="Product" behavior="readwrite" uniqueId="abf1be88-fcf5-4d1d-b1f4-8a3eefd71e26" type="Northwind.Model.Product">
+          <orm:reference uniqueId="1a569726-06bb-4c0d-8068-1c0d0567b987">
+            <orm:sharedfield name="_productID" target-class="Northwind.Model.Product" target-field="_productID" />
+            <orm:constraint name="FK_Order_Details_Products" destination-table="Products" />
+          </orm:reference>
+        </orm:field>
+        <orm:index name="OrderID">
+          <orm:columnMapping>
+            <orm:column name="OrderID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="OrdersOrder_Details">
+          <orm:columnMapping>
+            <orm:column name="OrderID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="ProductID">
+          <orm:columnMapping>
+            <orm:column name="ProductID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="ProductsOrder_Details">
+          <orm:columnMapping>
+            <orm:column name="ProductID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+      </orm:class>
+      <orm:class name="Employee" uniqueId="ea66548f-e5a4-44c1-826f-0833fe160f0e">
+        <orm:table name="Employees" />
+        <orm:identity>
+          <orm:key-generator name="autoinc" />
+          <orm:single-field field-name="_employeeID" />
+        </orm:identity>
+        <orm:concurrency strategy="changed" />
+        <orm:field name="_employeeID" property="EmployeeID" behavior="readwrite" uniqueId="a78bb0dc-ff67-4c63-9866-1089c0ed5b45" type="System.Int32">
+          <orm:column name="EmployeeID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" backend-calculated="true" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_lastName" property="LastName" behavior="readwrite" uniqueId="a25aaaf5-078f-4491-b43e-d276fa2a1092" type="System.String">
+          <orm:column name="LastName" sql-type="nvarchar" nullable="false" length="20" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_firstName" property="FirstName" behavior="readwrite" uniqueId="08b4ac7e-0ab0-4113-a8ee-b2462a450841" type="System.String">
+          <orm:column name="FirstName" sql-type="nvarchar" nullable="false" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_title" property="Title" behavior="readwrite" uniqueId="f1630e34-f6de-48fd-bc14-892e4d635c55" type="System.String">
+          <orm:column name="Title" sql-type="nvarchar" nullable="true" length="30" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_titleOfCourtesy" property="TitleOfCourtesy" behavior="readwrite" uniqueId="f3a579f0-b896-4864-b9fb-6e935d513fe8" type="System.String">
+          <orm:column name="TitleOfCourtesy" sql-type="nvarchar" nullable="true" length="25" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_birthDate" property="BirthDate" behavior="readwrite" uniqueId="9b47a9f4-c44a-4b93-8dc2-7bfb30d800cf" type="System.Nullable`1[[System.DateTime, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="BirthDate" sql-type="datetime" nullable="true" length="0" scale="0" ado-type="DateTime" />
+        </orm:field>
+        <orm:field name="_hireDate" property="HireDate" behavior="readwrite" uniqueId="bf47a007-3402-4974-8fd3-7a30642c5809" type="System.Nullable`1[[System.DateTime, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="HireDate" sql-type="datetime" nullable="true" length="0" scale="0" ado-type="DateTime" />
+        </orm:field>
+        <orm:field name="_address" property="Address" behavior="readwrite" uniqueId="96d8526f-4a4d-430e-8207-780605cef4bd" type="System.String">
+          <orm:column name="Address" sql-type="nvarchar" nullable="true" length="60" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_city" property="City" behavior="readwrite" uniqueId="2e152b9a-fe11-4252-8a51-d09008a14c6b" type="System.String">
+          <orm:column name="City" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_region" property="Region" behavior="readwrite" uniqueId="a79a90c9-43d1-4eee-8700-c806d52e2aee" type="System.String">
+          <orm:column name="Region" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_postalCode" property="PostalCode" behavior="readwrite" uniqueId="87d02292-ea98-4754-bed7-62114ec0cd2f" type="System.String">
+          <orm:column name="PostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_country" property="Country" behavior="readwrite" uniqueId="94c7a12c-b967-462a-b10f-e1bfe9ef15a2" type="System.String">
+          <orm:column name="Country" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_homePhone" property="HomePhone" behavior="readwrite" uniqueId="fc8c909e-ef60-4129-8b19-4db54a319134" type="System.String">
+          <orm:column name="HomePhone" sql-type="nvarchar" nullable="true" length="24" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_extension" property="Extension" behavior="readwrite" uniqueId="71293e07-2717-4bc7-a528-8da58a832d93" type="System.String">
+          <orm:column name="Extension" sql-type="nvarchar" nullable="true" length="4" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_photo" property="Photo" behavior="readwrite" uniqueId="5faada76-299f-4b4b-9019-266e81880eff" type="System.Byte[]">
+          <orm:column name="Photo" sql-type="image" nullable="true" length="0" scale="0" ado-type="LongVarBinary" />
+        </orm:field>
+        <orm:field name="_notes" property="Notes" behavior="readwrite" uniqueId="ae9d76bb-6481-4e9b-91d2-43efcd2471e0" type="System.String">
+          <orm:column name="Notes" sql-type="ntext" nullable="true" length="0" scale="0" ado-type="UnicodeStringInfiniteLength" />
+        </orm:field>
+        <orm:field name="_reportsTo" property="ReportsTo" behavior="readwrite" uniqueId="ae54169e-2b52-47f3-a99b-24f480dca97c" type="System.Nullable`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]">
+          <orm:column name="ReportsTo" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_photoPath" property="PhotoPath" behavior="readwrite" uniqueId="b88a867b-debd-4ac8-90aa-05a06a064a79" type="System.String">
+          <orm:column name="PhotoPath" sql-type="nvarchar" nullable="true" length="255" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_employee1" property="Employee1" behavior="readwrite" uniqueId="75a82148-b8fe-495f-93d5-b1ae32467eee" type="Northwind.Model.Employee">
+          <orm:reference uniqueId="2359ece4-5555-41ec-a6fa-cc0442515a57">
+            <orm:sharedfield name="_reportsTo" target-class="Northwind.Model.Employee" target-field="_employeeID" />
+            <orm:constraint name="FK_Employees_Employees" destination-table="Employees" />
+          </orm:reference>
+        </orm:field>
+        <orm:field name="_territories" property="Territories" behavior="readwrite" uniqueId="ef366fb1-d5f6-4433-8d1b-9854dcd12a89" type="Northwind.Model.Territory">
+          <orm:join-table uniqueId="fc519be3-e89e-47c3-bb06-f1cbdedadf30" association-name="EmployeesHaveTerritories">
+            <orm:table name="EmployeeTerritories" join-table="true" />
+            <orm:owner>
+              <orm:constraint name="FK_EmployeeTerritories_Employees" destination-table="Employees">
+                <orm:column name="EmployeeID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" target-class="Northwind.Model.Employee" target-field="_employeeID" />
+              </orm:constraint>
+            </orm:owner>
+            <orm:value>
+              <orm:constraint name="FK_EmployeeTerritories_Territories" destination-table="Territories">
+                <orm:column name="TerritoryID" sql-type="nvarchar" nullable="false" length="20" scale="0" primary-key="true" ado-type="UnicodeStringVariableLength" target-class="Northwind.Model.Territory" target-field="_territoryID" />
+              </orm:constraint>
+            </orm:value>
+          </orm:join-table>
+        </orm:field>
+        <orm:field name="_orders" property="Orders" behavior="readwrite" uniqueId="47a5d584-aed8-4a75-98db-468a1bb2cd35" type="Northwind.Model.Order">
+          <orm:collection element-class="Northwind.Model.Order" inverse-field="_employee" order-by="" uniqueId="ffa77bd3-f9a6-4c9f-a138-b738403c8814" />
+        </orm:field>
+        <orm:field name="_employees" property="Employees" behavior="readwrite" uniqueId="170c39f7-bd4e-42b9-b528-10719d8fea77" type="Northwind.Model.Employee">
+          <orm:collection element-class="Northwind.Model.Employee" inverse-field="_employee1" order-by="" uniqueId="2359ece4-5555-41ec-a6fa-cc0442515a57" />
+        </orm:field>
+        <orm:index name="LastName">
+          <orm:columnMapping>
+            <orm:column name="LastName" sql-type="nvarchar" nullable="false" length="20" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="PostalCode">
+          <orm:columnMapping>
+            <orm:column name="PostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+      </orm:class>
+      <orm:class name="Customer" uniqueId="979b5ad4-252c-4db0-b6ad-54aafc6c9c36">
+        <orm:table name="Customers" />
+        <orm:identity>
+          <orm:single-field field-name="_customerID" />
+        </orm:identity>
+        <orm:concurrency strategy="changed" />
+        <orm:field name="_customerID" property="CustomerID" behavior="readwrite" uniqueId="75684fed-d140-4224-84e6-5392ade7bbbe" type="System.String">
+          <orm:column name="CustomerID" sql-type="nchar" nullable="false" length="5" scale="0" primary-key="true" ado-type="UnicodeStringFixedLength" />
+        </orm:field>
+        <orm:field name="_companyName" property="CompanyName" behavior="readwrite" uniqueId="761bc3bd-8955-4b0e-b095-9bd7d769ab77" type="System.String">
+          <orm:column name="CompanyName" sql-type="nvarchar" nullable="false" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_contactName" property="ContactName" behavior="readwrite" uniqueId="2cb3c947-0465-4a7e-9873-8e43d8abe178" type="System.String">
+          <orm:column name="ContactName" sql-type="nvarchar" nullable="true" length="30" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_contactTitle" property="ContactTitle" behavior="readwrite" uniqueId="9281ab5a-abae-4966-ba58-e87e7507277b" type="System.String">
+          <orm:column name="ContactTitle" sql-type="nvarchar" nullable="true" length="30" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_address" property="Address" behavior="readwrite" uniqueId="62028b32-221c-4cda-aac3-fc5d7802e9b5" type="System.String">
+          <orm:column name="Address" sql-type="nvarchar" nullable="true" length="60" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_city" property="City" behavior="readwrite" uniqueId="7e02830a-7470-45dc-af16-672fbe2a7ba1" type="System.String">
+          <orm:column name="City" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_region" property="Region" behavior="readwrite" uniqueId="8bc335f1-9240-4794-a439-cce2de371964" type="System.String">
+          <orm:column name="Region" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_postalCode" property="PostalCode" behavior="readwrite" uniqueId="645efa88-1e4a-4e5e-8604-21c850920d0d" type="System.String">
+          <orm:column name="PostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_country" property="Country" behavior="readwrite" uniqueId="efc8b7a3-c895-469d-a072-416571e50cd5" type="System.String">
+          <orm:column name="Country" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_phone" property="Phone" behavior="readwrite" uniqueId="64e38796-53a2-4582-85f6-6b074acdf7d0" type="System.String">
+          <orm:column name="Phone" sql-type="nvarchar" nullable="true" length="24" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_fax" property="Fax" behavior="readwrite" uniqueId="d04b6500-b3a4-4974-ab03-db012be3d0c0" type="System.String">
+          <orm:column name="Fax" sql-type="nvarchar" nullable="true" length="24" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_orders" property="Orders" behavior="readwrite" uniqueId="b219aa95-f31e-4705-9ef7-ad0a212f9409" type="Northwind.Model.Order">
+          <orm:collection element-class="Northwind.Model.Order" inverse-field="_customer" order-by="" uniqueId="7b48f718-0815-4a61-a8c4-8530a1059dec" />
+        </orm:field>
+        <orm:field name="_customerDemographics" property="CustomerDemographics" behavior="readwrite" uniqueId="e9eac557-a128-4691-9893-b9120e29d3da" type="Northwind.Model.CustomerDemographic">
+          <orm:collection element-class="Northwind.Model.CustomerDemographic" inverse-field="_customers" order-by="" uniqueId="0a052b66-454c-4521-9118-a3511f4edb9b" />
+        </orm:field>
+        <orm:index name="City">
+          <orm:columnMapping>
+            <orm:column name="City" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="CompanyName">
+          <orm:columnMapping>
+            <orm:column name="CompanyName" sql-type="nvarchar" nullable="false" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="PostalCode">
+          <orm:columnMapping>
+            <orm:column name="PostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="Region">
+          <orm:columnMapping>
+            <orm:column name="Region" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+      </orm:class>
+      <orm:class name="CustomerDemographic" uniqueId="8a545780-34b4-4f70-8ee2-613c089d7fc9">
+        <orm:table name="CustomerDemographics" />
+        <orm:identity>
+          <orm:single-field field-name="_customerTypeID" />
+        </orm:identity>
+        <orm:concurrency strategy="changed" />
+        <orm:field name="_customerTypeID" property="CustomerTypeID" behavior="readwrite" uniqueId="65a32c32-20d5-4b26-bea8-0db5bf787602" type="System.String">
+          <orm:column name="CustomerTypeID" sql-type="nchar" nullable="false" length="10" scale="0" primary-key="true" ado-type="UnicodeStringFixedLength" />
+        </orm:field>
+        <orm:field name="_customerDesc" property="CustomerDesc" behavior="readwrite" uniqueId="7732e1e3-e64f-43c7-88b4-73c7eba6116a" type="System.String">
+          <orm:column name="CustomerDesc" sql-type="ntext" nullable="true" length="0" scale="0" ado-type="UnicodeStringInfiniteLength" />
+        </orm:field>
+        <orm:field name="_customers" property="Customers" behavior="readwrite" uniqueId="e700082e-9652-40c0-bf4e-c03cba0db061" type="Northwind.Model.Customer">
+          <orm:join-table uniqueId="0a052b66-454c-4521-9118-a3511f4edb9b" association-name="CustomerDemographicsHaveCustomers">
+            <orm:table name="CustomerCustomerDemo" join-table="true" />
+            <orm:owner>
+              <orm:constraint name="FK_CustomerCustomerDemo" destination-table="CustomerDemographics">
+                <orm:column name="CustomerTypeID" sql-type="nchar" nullable="false" length="10" scale="0" primary-key="true" ado-type="UnicodeStringFixedLength" target-class="Northwind.Model.CustomerDemographic" target-field="_customerTypeID" />
+              </orm:constraint>
+            </orm:owner>
+            <orm:value>
+              <orm:constraint name="FK_CustomerCustomerDemo_Customers" destination-table="Customers">
+                <orm:column name="CustomerID" sql-type="nchar" nullable="false" length="5" scale="0" primary-key="true" ado-type="UnicodeStringFixedLength" target-class="Northwind.Model.Customer" target-field="_customerID" />
+              </orm:constraint>
+            </orm:value>
+          </orm:join-table>
+        </orm:field>
+      </orm:class>
+      <orm:class name="Category" uniqueId="a76b1998-8eff-4d3f-bf26-22de03164ce9">
+        <orm:table name="Categories" />
+        <orm:identity>
+          <orm:key-generator name="autoinc" />
+          <orm:single-field field-name="_categoryID" />
+        </orm:identity>
+        <orm:concurrency strategy="changed" />
+        <orm:field name="_categoryID" property="CategoryID" behavior="readwrite" uniqueId="3591aedd-228f-4ba9-9e7c-795a31b81953" type="System.Int32">
+          <orm:column name="CategoryID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" backend-calculated="true" ado-type="Int32" />
+        </orm:field>
+        <orm:field name="_categoryName" property="CategoryName" behavior="readwrite" uniqueId="7db8511a-c901-4e17-8c2d-7962e940d3c4" type="System.String">
+          <orm:column name="CategoryName" sql-type="nvarchar" nullable="false" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        </orm:field>
+        <orm:field name="_description" property="Description" behavior="readwrite" uniqueId="768d276c-b933-4b2f-97a3-de40096ba4a0" type="System.String">
+          <orm:column name="Description" sql-type="ntext" nullable="true" length="0" scale="0" ado-type="UnicodeStringInfiniteLength" />
+        </orm:field>
+        <orm:field name="_picture" property="Picture" behavior="readwrite" uniqueId="901308a0-bebc-4826-b0f2-d0a99bbf09ae" type="System.Byte[]">
+          <orm:column name="Picture" sql-type="image" nullable="true" length="0" scale="0" ado-type="LongVarBinary" />
+        </orm:field>
+        <orm:field name="_products" property="Products" behavior="readwrite" uniqueId="3f0f5251-0130-49df-b083-fb79cfa93176" type="Northwind.Model.Product">
+          <orm:collection element-class="Northwind.Model.Product" inverse-field="_category" order-by="" uniqueId="e913ccda-caa4-4917-89f2-951514e93dd7" />
+        </orm:field>
+        <orm:index name="CategoryName">
+          <orm:columnMapping>
+            <orm:column name="CategoryName" sql-type="nvarchar" nullable="false" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+      </orm:class>
+    </orm:namespace>
+    <orm:schema schema="">
+      <orm:table name="Territories">
+        <orm:column name="TerritoryID" sql-type="nvarchar" nullable="false" length="20" scale="0" primary-key="true" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="TerritoryDescription" sql-type="nchar" nullable="false" length="50" scale="0" ado-type="UnicodeStringFixedLength" />
+        <orm:column name="RegionID" sql-type="int" nullable="false" length="0" scale="0" ado-type="Int32" />
+        <orm:constraint name="FK_Territories_Region" destination-table="Region">
+          <orm:column name="RegionID" sql-type="int" nullable="false" length="0" scale="0" ado-type="Int32" />
+        </orm:constraint>
+      </orm:table>
+      <orm:table name="Suppliers">
+        <orm:column name="SupplierID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" backend-calculated="true" ado-type="Int32" />
+        <orm:column name="CompanyName" sql-type="nvarchar" nullable="false" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="ContactName" sql-type="nvarchar" nullable="true" length="30" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="ContactTitle" sql-type="nvarchar" nullable="true" length="30" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Address" sql-type="nvarchar" nullable="true" length="60" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="City" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Region" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="PostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Country" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Phone" sql-type="nvarchar" nullable="true" length="24" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Fax" sql-type="nvarchar" nullable="true" length="24" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="HomePage" sql-type="ntext" nullable="true" length="0" scale="0" ado-type="UnicodeStringInfiniteLength" />
+        <orm:index name="CompanyName">
+          <orm:columnMapping>
+            <orm:column name="CompanyName" sql-type="nvarchar" nullable="false" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="PostalCode">
+          <orm:columnMapping>
+            <orm:column name="PostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+      </orm:table>
+      <orm:table name="Shippers">
+        <orm:column name="ShipperID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" backend-calculated="true" ado-type="Int32" />
+        <orm:column name="CompanyName" sql-type="nvarchar" nullable="false" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Phone" sql-type="nvarchar" nullable="true" length="24" scale="0" ado-type="UnicodeStringVariableLength" />
+      </orm:table>
+      <orm:table name="Region">
+        <orm:column name="RegionID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+        <orm:column name="RegionDescription" sql-type="nchar" nullable="false" length="50" scale="0" ado-type="UnicodeStringFixedLength" />
+      </orm:table>
+      <orm:table name="Products">
+        <orm:column name="ProductID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" backend-calculated="true" ado-type="Int32" />
+        <orm:column name="ProductName" sql-type="nvarchar" nullable="false" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="SupplierID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        <orm:column name="CategoryID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        <orm:column name="QuantityPerUnit" sql-type="nvarchar" nullable="true" length="20" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="UnitPrice" sql-type="money" nullable="true" length="0" scale="0" has-default-value="true" ado-type="Currency" />
+        <orm:column name="UnitsInStock" sql-type="smallint" nullable="true" length="0" scale="0" has-default-value="true" ado-type="Int16" />
+        <orm:column name="UnitsOnOrder" sql-type="smallint" nullable="true" length="0" scale="0" has-default-value="true" ado-type="Int16" />
+        <orm:column name="ReorderLevel" sql-type="smallint" nullable="true" length="0" scale="0" has-default-value="true" ado-type="Int16" />
+        <orm:column name="Discontinued" sql-type="bit" nullable="false" length="0" scale="0" has-default-value="true" ado-type="Bit" />
+        <orm:index name="CategoriesProducts">
+          <orm:columnMapping>
+            <orm:column name="CategoryID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="CategoryID">
+          <orm:columnMapping>
+            <orm:column name="CategoryID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="ProductName">
+          <orm:columnMapping>
+            <orm:column name="ProductName" sql-type="nvarchar" nullable="false" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="SupplierID">
+          <orm:columnMapping>
+            <orm:column name="SupplierID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="SuppliersProducts">
+          <orm:columnMapping>
+            <orm:column name="SupplierID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:constraint name="FK_Products_Categories" destination-table="Categories">
+          <orm:column name="CategoryID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        </orm:constraint>
+        <orm:constraint name="FK_Products_Suppliers" destination-table="Suppliers">
+          <orm:column name="SupplierID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        </orm:constraint>
+      </orm:table>
+      <orm:table name="Orders">
+        <orm:column name="OrderID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" backend-calculated="true" ado-type="Int32" />
+        <orm:column name="CustomerID" sql-type="nchar" nullable="true" length="5" scale="0" ado-type="UnicodeStringFixedLength" />
+        <orm:column name="EmployeeID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        <orm:column name="OrderDate" sql-type="datetime" nullable="true" length="0" scale="0" ado-type="DateTime" />
+        <orm:column name="RequiredDate" sql-type="datetime" nullable="true" length="0" scale="0" ado-type="DateTime" />
+        <orm:column name="ShippedDate" sql-type="datetime" nullable="true" length="0" scale="0" ado-type="DateTime" />
+        <orm:column name="ShipVia" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        <orm:column name="Freight" sql-type="money" nullable="true" length="0" scale="0" has-default-value="true" ado-type="Currency" />
+        <orm:column name="ShipName" sql-type="nvarchar" nullable="true" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="ShipAddress" sql-type="nvarchar" nullable="true" length="60" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="ShipCity" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="ShipRegion" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="ShipPostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="ShipCountry" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:index name="CustomerID">
+          <orm:columnMapping>
+            <orm:column name="CustomerID" sql-type="nchar" nullable="true" length="5" scale="0" ado-type="UnicodeStringFixedLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="CustomersOrders">
+          <orm:columnMapping>
+            <orm:column name="CustomerID" sql-type="nchar" nullable="true" length="5" scale="0" ado-type="UnicodeStringFixedLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="EmployeeID">
+          <orm:columnMapping>
+            <orm:column name="EmployeeID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="EmployeesOrders">
+          <orm:columnMapping>
+            <orm:column name="EmployeeID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="OrderDate">
+          <orm:columnMapping>
+            <orm:column name="OrderDate" sql-type="datetime" nullable="true" length="0" scale="0" ado-type="DateTime" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="ShippedDate">
+          <orm:columnMapping>
+            <orm:column name="ShippedDate" sql-type="datetime" nullable="true" length="0" scale="0" ado-type="DateTime" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="ShippersOrders">
+          <orm:columnMapping>
+            <orm:column name="ShipVia" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="ShipPostalCode">
+          <orm:columnMapping>
+            <orm:column name="ShipPostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:constraint name="FK_Orders_Customers" destination-table="Customers">
+          <orm:column name="CustomerID" sql-type="nchar" nullable="true" length="5" scale="0" ado-type="UnicodeStringFixedLength" />
+        </orm:constraint>
+        <orm:constraint name="FK_Orders_Employees" destination-table="Employees">
+          <orm:column name="EmployeeID" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        </orm:constraint>
+        <orm:constraint name="FK_Orders_Shippers" destination-table="Shippers">
+          <orm:column name="ShipVia" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        </orm:constraint>
+      </orm:table>
+      <orm:table name="Order Details">
+        <orm:column name="OrderID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+        <orm:column name="ProductID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+        <orm:column name="UnitPrice" sql-type="money" nullable="false" length="0" scale="0" has-default-value="true" ado-type="Currency" />
+        <orm:column name="Quantity" sql-type="smallint" nullable="false" length="0" scale="0" has-default-value="true" ado-type="Int16" />
+        <orm:column name="Discount" sql-type="real" nullable="false" length="0" scale="0" has-default-value="true" ado-type="Real" />
+        <orm:index name="OrderID">
+          <orm:columnMapping>
+            <orm:column name="OrderID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="OrdersOrder_Details">
+          <orm:columnMapping>
+            <orm:column name="OrderID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="ProductID">
+          <orm:columnMapping>
+            <orm:column name="ProductID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="ProductsOrder_Details">
+          <orm:columnMapping>
+            <orm:column name="ProductID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:constraint name="FK_Order_Details_Orders" destination-table="Orders">
+          <orm:column name="OrderID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+        </orm:constraint>
+        <orm:constraint name="FK_Order_Details_Products" destination-table="Products">
+          <orm:column name="ProductID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+        </orm:constraint>
+      </orm:table>
+      <orm:table name="EmployeeTerritories" join-table="true">
+        <orm:column name="EmployeeID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+        <orm:column name="TerritoryID" sql-type="nvarchar" nullable="false" length="20" scale="0" primary-key="true" ado-type="UnicodeStringVariableLength" />
+        <orm:constraint name="FK_EmployeeTerritories_Employees" destination-table="Employees">
+          <orm:column name="EmployeeID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" ado-type="Int32" />
+        </orm:constraint>
+        <orm:constraint name="FK_EmployeeTerritories_Territories" destination-table="Territories">
+          <orm:column name="TerritoryID" sql-type="nvarchar" nullable="false" length="20" scale="0" primary-key="true" ado-type="UnicodeStringVariableLength" />
+        </orm:constraint>
+      </orm:table>
+      <orm:table name="Employees">
+        <orm:column name="EmployeeID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" backend-calculated="true" ado-type="Int32" />
+        <orm:column name="LastName" sql-type="nvarchar" nullable="false" length="20" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="FirstName" sql-type="nvarchar" nullable="false" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Title" sql-type="nvarchar" nullable="true" length="30" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="TitleOfCourtesy" sql-type="nvarchar" nullable="true" length="25" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="BirthDate" sql-type="datetime" nullable="true" length="0" scale="0" ado-type="DateTime" />
+        <orm:column name="HireDate" sql-type="datetime" nullable="true" length="0" scale="0" ado-type="DateTime" />
+        <orm:column name="Address" sql-type="nvarchar" nullable="true" length="60" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="City" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Region" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="PostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Country" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="HomePhone" sql-type="nvarchar" nullable="true" length="24" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Extension" sql-type="nvarchar" nullable="true" length="4" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Photo" sql-type="image" nullable="true" length="0" scale="0" ado-type="LongVarBinary" />
+        <orm:column name="Notes" sql-type="ntext" nullable="true" length="0" scale="0" ado-type="UnicodeStringInfiniteLength" />
+        <orm:column name="ReportsTo" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        <orm:column name="PhotoPath" sql-type="nvarchar" nullable="true" length="255" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:index name="LastName">
+          <orm:columnMapping>
+            <orm:column name="LastName" sql-type="nvarchar" nullable="false" length="20" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="PostalCode">
+          <orm:columnMapping>
+            <orm:column name="PostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:constraint name="FK_Employees_Employees" destination-table="Employees">
+          <orm:column name="ReportsTo" sql-type="int" nullable="true" length="0" scale="0" ado-type="Int32" />
+        </orm:constraint>
+      </orm:table>
+      <orm:table name="Customers">
+        <orm:column name="CustomerID" sql-type="nchar" nullable="false" length="5" scale="0" primary-key="true" ado-type="UnicodeStringFixedLength" />
+        <orm:column name="CompanyName" sql-type="nvarchar" nullable="false" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="ContactName" sql-type="nvarchar" nullable="true" length="30" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="ContactTitle" sql-type="nvarchar" nullable="true" length="30" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Address" sql-type="nvarchar" nullable="true" length="60" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="City" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Region" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="PostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Country" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Phone" sql-type="nvarchar" nullable="true" length="24" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Fax" sql-type="nvarchar" nullable="true" length="24" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:index name="City">
+          <orm:columnMapping>
+            <orm:column name="City" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="CompanyName">
+          <orm:columnMapping>
+            <orm:column name="CompanyName" sql-type="nvarchar" nullable="false" length="40" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="PostalCode">
+          <orm:columnMapping>
+            <orm:column name="PostalCode" sql-type="nvarchar" nullable="true" length="10" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+        <orm:index name="Region">
+          <orm:columnMapping>
+            <orm:column name="Region" sql-type="nvarchar" nullable="true" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+      </orm:table>
+      <orm:table name="CustomerDemographics">
+        <orm:column name="CustomerTypeID" sql-type="nchar" nullable="false" length="10" scale="0" primary-key="true" ado-type="UnicodeStringFixedLength" />
+        <orm:column name="CustomerDesc" sql-type="ntext" nullable="true" length="0" scale="0" ado-type="UnicodeStringInfiniteLength" />
+      </orm:table>
+      <orm:table name="CustomerCustomerDemo" join-table="true">
+        <orm:column name="CustomerID" sql-type="nchar" nullable="false" length="5" scale="0" primary-key="true" ado-type="UnicodeStringFixedLength" />
+        <orm:column name="CustomerTypeID" sql-type="nchar" nullable="false" length="10" scale="0" primary-key="true" ado-type="UnicodeStringFixedLength" />
+        <orm:constraint name="FK_CustomerCustomerDemo" destination-table="CustomerDemographics">
+          <orm:column name="CustomerTypeID" sql-type="nchar" nullable="false" length="10" scale="0" primary-key="true" ado-type="UnicodeStringFixedLength" />
+        </orm:constraint>
+        <orm:constraint name="FK_CustomerCustomerDemo_Customers" destination-table="Customers">
+          <orm:column name="CustomerID" sql-type="nchar" nullable="false" length="5" scale="0" primary-key="true" ado-type="UnicodeStringFixedLength" />
+        </orm:constraint>
+      </orm:table>
+      <orm:table name="Categories">
+        <orm:column name="CategoryID" sql-type="int" nullable="false" length="0" scale="0" primary-key="true" backend-calculated="true" ado-type="Int32" />
+        <orm:column name="CategoryName" sql-type="nvarchar" nullable="false" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+        <orm:column name="Description" sql-type="ntext" nullable="true" length="0" scale="0" ado-type="UnicodeStringInfiniteLength" />
+        <orm:column name="Picture" sql-type="image" nullable="true" length="0" scale="0" ado-type="LongVarBinary" />
+        <orm:index name="CategoryName">
+          <orm:columnMapping>
+            <orm:column name="CategoryName" sql-type="nvarchar" nullable="false" length="15" scale="0" ado-type="UnicodeStringVariableLength" />
+          </orm:columnMapping>
+        </orm:index>
+      </orm:table>
+    </orm:schema>
+    <orm:relational-naming-settings>
+      <orm:remove-camel-case>False</orm:remove-camel-case>
+      <orm:source-strategy>Property</orm:source-strategy>
+    </orm:relational-naming-settings>
+  </orm:orm>
+  <ModelSettings xmlns="">
+    <AppConfigConnectionPropertyName>NORTHWNDConnection</AppConfigConnectionPropertyName>
+    <AppConfigConnectionString>Data Source=.;Initial Catalog=NORTHWND;Integrated Security=True</AppConfigConnectionString>
+    <InitialCatalog>NORTHWND</InitialCatalog>
+    <NamingSettings>
+      <ClassRules>
+        <CaseMode>PascalCase</CaseMode>
+        <PluralizationMode>Singularize</PluralizationMode>
+      </ClassRules>
+      <FieldRules>
+        <AddPrefix>_</AddPrefix>
+        <CaseMode>CamelCase</CaseMode>
+      </FieldRules>
+      <PropertyRules>
+        <CaseMode>PascalCase</CaseMode>
+      </PropertyRules>
+    </NamingSettings>
+    <CodeGenerationSettings>
+      <MappingDefinitionType>Xml</MappingDefinitionType>
+    </CodeGenerationSettings>
+    <SchemaUpdateSettings />
+    <BackendConfigurationSettings>
+      <BackendConfiguration>
+        <Backend>MsSql</Backend>
+        <ProviderName>System.Data.SqlClient</ProviderName>
+      </BackendConfiguration>
+    </BackendConfigurationSettings>
+  </ModelSettings>
+  <Types>
+    <DomainClass Id="7342de1f-64d8-4775-b8eb-474b019c4f8d" name="Territory" namespace="Northwind.Model" showPropertiesCompartment="true" concurrencyMode="Changed" showNavigationCompartment="true" showImplementationCompartment="true">
+      <Property Id="545b147e-d712-4751-acb0-46a48a3dda9a" name="TerritoryID" label="TerritoryID : String" kind="Persistent" identity="true" fieldName="_territoryID" />
+      <Property Id="02b969a8-0def-4acd-a902-73b0f1608c73" name="RegionID" type="Int32" label="RegionID : Int32" kind="Persistent" fieldName="_regionID" />
+      <Property Id="19d8d88d-8f5a-4d9e-aba7-22b33fe3f713" name="TerritoryDescription" label="TerritoryDescription : String" kind="Persistent" fieldName="_territoryDescription" />
+      <AssociationTargets>
+        <Association Id="c145c65f-4413-44c2-a146-37262080cb68" SourceMultiplicity="One" name="TerritoryHasRegion">
+          <DomainClassMoniker name="/NorthwindModel/Region" />
+          <targetNavigationalProperty>
+            <associationDefinesTargetProperty Id="757f56c5-6baa-4e81-82e4-be145383678a">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Region/Territories" />
+            </associationDefinesTargetProperty>
+          </targetNavigationalProperty>
+          <sourceNavigationalProperty>
+            <associationDefinesSourceProperty Id="b91fc2d7-170e-4a1d-96e5-43d0a99b32f2">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Territory/Region" />
+            </associationDefinesSourceProperty>
+          </sourceNavigationalProperty>
+        </Association>
+      </AssociationTargets>
+      <navigationalProperties>
+        <classHasNavigationalProperties Id="dbc2d6bd-73d5-4de9-9aba-12cf64235232">
+          <NavigationalProperty Id="57250f7a-ea43-4818-bb7f-a60c2074b80e" name="Region" type="Region" label="Region : Region" nullable="true" kind="Persistent" fieldName="_region" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+        <classHasNavigationalProperties Id="d36bcc8e-1474-4cfd-831e-0ac397409863">
+          <NavigationalProperty Id="206723eb-80e9-423f-ac0a-b9d37902e2fb" name="Employees" type="IList&lt;Employee&gt;" label="Employees : IList&lt;Employee&gt;" nullable="true" kind="Persistent" fieldName="_employees" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+      </navigationalProperties>
+    </DomainClass>
+    <DomainClass Id="f7a08c25-21aa-4de7-ae02-8a32c349ed1c" name="Supplier" namespace="Northwind.Model" showPropertiesCompartment="true" identityMechanism="DatabaseServerCalculated" concurrencyMode="Changed" showNavigationCompartment="true" showImplementationCompartment="true">
+      <Property Id="926edfdc-a822-4c8c-bbb8-2206b1186fdd" name="SupplierID" type="Int32" label="SupplierID : Int32" kind="Persistent" identity="true" fieldName="_supplierID" />
+      <Property Id="30d30079-47a1-408d-b55a-1c2c3ccf0d11" name="Address" label="Address : String" kind="Persistent" fieldName="_address" />
+      <Property Id="a525064c-ca31-4e63-b95e-05a713001a4b" name="City" label="City : String" kind="Persistent" fieldName="_city" />
+      <Property Id="ccdbeece-edce-4b8b-b838-72ddffc8aa66" name="CompanyName" label="CompanyName : String" kind="Persistent" fieldName="_companyName" />
+      <Property Id="474f7085-a9c8-4ab8-8a4d-97f1aa9340ee" name="ContactName" label="ContactName : String" kind="Persistent" fieldName="_contactName" />
+      <Property Id="1442449b-00ef-475f-970c-a4d366617669" name="ContactTitle" label="ContactTitle : String" kind="Persistent" fieldName="_contactTitle" />
+      <Property Id="de00b433-995c-4e56-b57e-6100f7803320" name="Country" label="Country : String" kind="Persistent" fieldName="_country" />
+      <Property Id="8d4662ff-2ab7-450e-987f-c96ae47e63ad" name="Fax" label="Fax : String" kind="Persistent" fieldName="_fax" />
+      <Property Id="c6b86609-5883-49d3-9dbf-c5d79757498d" name="HomePage" label="HomePage : String" kind="Persistent" fieldName="_homePage" />
+      <Property Id="ba700c2d-655d-45f2-802b-a46a9762f367" name="Phone" label="Phone : String" kind="Persistent" fieldName="_phone" />
+      <Property Id="025ae75a-bfc1-4825-829e-2320325e23d5" name="PostalCode" label="PostalCode : String" kind="Persistent" fieldName="_postalCode" />
+      <Property Id="a41bcb13-29d2-4c71-9c36-667989dae574" name="Region" label="Region : String" kind="Persistent" fieldName="_region" />
+      <navigationalProperties>
+        <classHasNavigationalProperties Id="54d0ae76-c565-4eb6-ba79-8976766d375d">
+          <NavigationalProperty Id="7dcb264d-b760-45e0-8adf-818acc3809a4" name="Products" type="IList&lt;Product&gt;" label="Products : IList&lt;Product&gt;" nullable="true" kind="Persistent" fieldName="_products" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+      </navigationalProperties>
+    </DomainClass>
+    <DomainClass Id="57beef14-bff3-48e9-b300-d3164253d7d1" name="Shipper" namespace="Northwind.Model" showPropertiesCompartment="true" identityMechanism="DatabaseServerCalculated" concurrencyMode="Changed" showNavigationCompartment="true" showImplementationCompartment="true">
+      <Property Id="bd8b4ef0-423f-4cf2-b12e-fe2119eb1714" name="ShipperID" type="Int32" label="ShipperID : Int32" kind="Persistent" identity="true" fieldName="_shipperID" />
+      <Property Id="91450a30-3456-49c4-b84e-69ddbfdbb137" name="CompanyName" label="CompanyName : String" kind="Persistent" fieldName="_companyName" />
+      <Property Id="b653db00-dadc-4966-a1c6-470c0859bbe0" name="Phone" label="Phone : String" kind="Persistent" fieldName="_phone" />
+      <navigationalProperties>
+        <classHasNavigationalProperties Id="4e15b96a-5a82-4238-b91d-471e6aee5c02">
+          <NavigationalProperty Id="92bbbb59-40b9-4db9-adbc-4c2ee3eded2e" name="Orders" type="IList&lt;Order&gt;" label="Orders : IList&lt;Order&gt;" nullable="true" kind="Persistent" fieldName="_orders" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+      </navigationalProperties>
+    </DomainClass>
+    <DomainClass Id="c78d4fdf-58fa-410d-97db-be0cbbc502b2" name="Region" namespace="Northwind.Model" showPropertiesCompartment="true" concurrencyMode="Changed" showNavigationCompartment="true" showImplementationCompartment="true">
+      <Property Id="62382968-8879-4b29-bb12-fb2dc23eb8ce" name="RegionID" type="Int32" label="RegionID : Int32" kind="Persistent" identity="true" fieldName="_regionID" />
+      <Property Id="799ad953-b67c-43cd-adc2-0d3a8b36f604" name="RegionDescription" label="RegionDescription : String" kind="Persistent" fieldName="_regionDescription" />
+      <navigationalProperties>
+        <classHasNavigationalProperties Id="869d7e64-f7bc-4345-8ab1-332fa20214a1">
+          <NavigationalProperty Id="1877dce1-5b9c-455f-992a-23906b491db4" name="Territories" type="IList&lt;Territory&gt;" label="Territories : IList&lt;Territory&gt;" nullable="true" kind="Persistent" fieldName="_territories" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+      </navigationalProperties>
+    </DomainClass>
+    <DomainClass Id="c1918c04-ef8d-4a0c-9d6a-57f1fd668fa6" name="Product" namespace="Northwind.Model" showPropertiesCompartment="true" identityMechanism="DatabaseServerCalculated" concurrencyMode="Changed" showNavigationCompartment="true" showImplementationCompartment="true">
+      <Property Id="f43392ac-e407-4155-9c21-d45b60c28537" name="ProductID" type="Int32" label="ProductID : Int32" kind="Persistent" identity="true" fieldName="_productID" />
+      <Property Id="0d0d2359-3619-4d74-97d0-ca9b43001773" name="CategoryID" type="Int32" label="CategoryID : Int32" nullable="true" kind="Persistent" fieldName="_categoryID" />
+      <Property Id="d54c2485-14f9-4b3a-84d1-eecfbffd4752" name="Discontinued" type="Boolean" label="Discontinued : Boolean" kind="Persistent" fieldName="_discontinued" />
+      <Property Id="11e9af77-e123-41de-a350-80941af1cbc5" name="ProductName" label="ProductName : String" kind="Persistent" fieldName="_productName" />
+      <Property Id="a09ccbba-7fb3-4897-a809-bb73cae16d50" name="QuantityPerUnit" label="QuantityPerUnit : String" kind="Persistent" fieldName="_quantityPerUnit" />
+      <Property Id="5bc2324c-2c1e-4caf-84f6-fb89fb90e032" name="ReorderLevel" type="Int16" label="ReorderLevel : Int16" nullable="true" kind="Persistent" fieldName="_reorderLevel" />
+      <Property Id="d9627f11-c0b9-461b-b75c-fc59420f9cd7" name="SupplierID" type="Int32" label="SupplierID : Int32" nullable="true" kind="Persistent" fieldName="_supplierID" />
+      <Property Id="119567fc-8a9b-4023-a9b1-f1f59eec4229" name="UnitPrice" type="Decimal" label="UnitPrice : Decimal" nullable="true" kind="Persistent" fieldName="_unitPrice" />
+      <Property Id="94f84951-3dbf-40d8-b1a0-f51a5316d022" name="UnitsInStock" type="Int16" label="UnitsInStock : Int16" nullable="true" kind="Persistent" fieldName="_unitsInStock" />
+      <Property Id="a1f52f3c-19c1-495a-b4ed-f208b4d90895" name="UnitsOnOrder" type="Int16" label="UnitsOnOrder : Int16" nullable="true" kind="Persistent" fieldName="_unitsOnOrder" />
+      <AssociationTargets>
+        <Association Id="e913ccda-caa4-4917-89f2-951514e93dd7" SourceMultiplicity="ZeroOne" name="ProductHasCategory">
+          <DomainClassMoniker name="/NorthwindModel/Category" />
+          <targetNavigationalProperty>
+            <associationDefinesTargetProperty Id="bc1ce0f4-bd08-4c81-bdab-c9a05d8a0412">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Category/Products" />
+            </associationDefinesTargetProperty>
+          </targetNavigationalProperty>
+          <sourceNavigationalProperty>
+            <associationDefinesSourceProperty Id="c4fa8ec4-df1c-4d4d-aaac-116530a0e814">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Product/Category" />
+            </associationDefinesSourceProperty>
+          </sourceNavigationalProperty>
+        </Association>
+        <Association Id="cabc528e-cc99-4256-a0ce-5d8acaf02bfd" SourceMultiplicity="ZeroOne" name="ProductHasSupplier">
+          <DomainClassMoniker name="/NorthwindModel/Supplier" />
+          <targetNavigationalProperty>
+            <associationDefinesTargetProperty Id="b73061ce-cf03-46fb-9740-a727b8ca3ecd">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Supplier/Products" />
+            </associationDefinesTargetProperty>
+          </targetNavigationalProperty>
+          <sourceNavigationalProperty>
+            <associationDefinesSourceProperty Id="48508da1-1682-4f66-9b06-566a5c138c7e">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Product/Supplier" />
+            </associationDefinesSourceProperty>
+          </sourceNavigationalProperty>
+        </Association>
+      </AssociationTargets>
+      <navigationalProperties>
+        <classHasNavigationalProperties Id="847c312b-c3e5-4441-821a-924d118efb14">
+          <NavigationalProperty Id="6a59efe5-fcba-48a9-b59b-a86328b2206f" name="Category" type="Category" label="Category : Category" nullable="true" kind="Persistent" fieldName="_category" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+        <classHasNavigationalProperties Id="f020a7d7-573b-48ba-b33a-a74a0032f561">
+          <NavigationalProperty Id="42062f77-e60e-428a-80d1-a0eb712eb52a" name="Supplier" type="Supplier" label="Supplier : Supplier" nullable="true" kind="Persistent" fieldName="_supplier" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+        <classHasNavigationalProperties Id="0ca68ac9-ebf8-45d8-8780-b0b78cdf440b">
+          <NavigationalProperty Id="fb7b5d9f-fd3c-4e7f-a9dd-7b87adb740bf" name="OrderDetails" type="IList&lt;OrderDetail&gt;" label="OrderDetails : IList&lt;OrderDetail&gt;" nullable="true" kind="Persistent" fieldName="_orderDetails" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+      </navigationalProperties>
+    </DomainClass>
+    <DomainClass Id="b13218f6-625b-48cb-8f83-f718f52edfbd" name="Order" namespace="Northwind.Model" showPropertiesCompartment="true" identityMechanism="DatabaseServerCalculated" concurrencyMode="Changed" showNavigationCompartment="true" showImplementationCompartment="true">
+      <Property Id="5052e36b-8279-4b52-90c3-16876600b140" name="OrderID" type="Int32" label="OrderID : Int32" kind="Persistent" identity="true" fieldName="_orderID" />
+      <Property Id="c956bda1-8a2e-4b9b-bbb3-59381318b001" name="CustomerID" label="CustomerID : String" kind="Persistent" fieldName="_customerID" />
+      <Property Id="9d451036-1481-4dba-adf7-1037ed241cd7" name="EmployeeID" type="Int32" label="EmployeeID : Int32" nullable="true" kind="Persistent" fieldName="_employeeID" />
+      <Property Id="f61c7a33-4448-4190-84fc-a6b97f360e2c" name="Freight" type="Decimal" label="Freight : Decimal" nullable="true" kind="Persistent" fieldName="_freight" />
+      <Property Id="65364db5-199e-4163-8f33-d05463a2cd8f" name="OrderDate" type="DateTime" label="OrderDate : DateTime" nullable="true" kind="Persistent" fieldName="_orderDate" />
+      <Property Id="fcee7ee4-8ffe-4d0e-8e6b-15450c35ac2d" name="RequiredDate" type="DateTime" label="RequiredDate : DateTime" nullable="true" kind="Persistent" fieldName="_requiredDate" />
+      <Property Id="64521b0b-33ad-4446-ab04-b1a63c9fd5e4" name="ShipAddress" label="ShipAddress : String" kind="Persistent" fieldName="_shipAddress" />
+      <Property Id="35257c92-5376-42ad-96b0-ffdfaeb700af" name="ShipCity" label="ShipCity : String" kind="Persistent" fieldName="_shipCity" />
+      <Property Id="d38acd2a-6487-4b67-8f90-4f6b6df10078" name="ShipCountry" label="ShipCountry : String" kind="Persistent" fieldName="_shipCountry" />
+      <Property Id="49c702c2-ae2f-479b-89b4-e250179b7b30" name="ShipName" label="ShipName : String" kind="Persistent" fieldName="_shipName" />
+      <Property Id="e58a2a61-da00-4e41-835b-f46888c2cdc1" name="ShippedDate" type="DateTime" label="ShippedDate : DateTime" nullable="true" kind="Persistent" fieldName="_shippedDate" />
+      <Property Id="e665c839-79f4-4274-aa67-4fc5d11aba8e" name="ShipPostalCode" label="ShipPostalCode : String" kind="Persistent" fieldName="_shipPostalCode" />
+      <Property Id="f99dda1c-1684-4dff-abaf-e20b88ed1fb1" name="ShipRegion" label="ShipRegion : String" kind="Persistent" fieldName="_shipRegion" />
+      <Property Id="68dac7b0-a033-481c-a694-0715c8f8ee6e" name="ShipVia" type="Int32" label="ShipVia : Int32" nullable="true" kind="Persistent" fieldName="_shipVia" />
+      <AssociationTargets>
+        <Association Id="7b48f718-0815-4a61-a8c4-8530a1059dec" SourceMultiplicity="ZeroOne" name="OrderHasCustomer">
+          <DomainClassMoniker name="/NorthwindModel/Customer" />
+          <targetNavigationalProperty>
+            <associationDefinesTargetProperty Id="fd53129a-d64a-43ef-aa53-a9b415326ca4">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Customer/Orders" />
+            </associationDefinesTargetProperty>
+          </targetNavigationalProperty>
+          <sourceNavigationalProperty>
+            <associationDefinesSourceProperty Id="906c8a62-7293-449d-8380-6238e996c5a7">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Order/Customer" />
+            </associationDefinesSourceProperty>
+          </sourceNavigationalProperty>
+        </Association>
+        <Association Id="ffa77bd3-f9a6-4c9f-a138-b738403c8814" SourceMultiplicity="ZeroOne" name="OrderHasEmployee">
+          <DomainClassMoniker name="/NorthwindModel/Employee" />
+          <targetNavigationalProperty>
+            <associationDefinesTargetProperty Id="a8adf382-9d50-42cc-b094-941d3d3f4ba0">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Employee/Orders" />
+            </associationDefinesTargetProperty>
+          </targetNavigationalProperty>
+          <sourceNavigationalProperty>
+            <associationDefinesSourceProperty Id="60f9dae0-39e4-479d-9461-db36364e4735">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Order/Employee" />
+            </associationDefinesSourceProperty>
+          </sourceNavigationalProperty>
+        </Association>
+        <Association Id="7870b747-8a3e-47ba-b3f2-831ea73eab1e" SourceMultiplicity="ZeroOne" name="OrderHasShipper">
+          <DomainClassMoniker name="/NorthwindModel/Shipper" />
+          <targetNavigationalProperty>
+            <associationDefinesTargetProperty Id="acea8a7d-d572-4a0e-b6de-d08bbc2f37f8">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Shipper/Orders" />
+            </associationDefinesTargetProperty>
+          </targetNavigationalProperty>
+          <sourceNavigationalProperty>
+            <associationDefinesSourceProperty Id="34747560-6a0c-487c-b51b-553ccbe2b7e1">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Order/Shipper" />
+            </associationDefinesSourceProperty>
+          </sourceNavigationalProperty>
+        </Association>
+      </AssociationTargets>
+      <navigationalProperties>
+        <classHasNavigationalProperties Id="6a841850-8972-49f6-a03c-9ea925164430">
+          <NavigationalProperty Id="efbd361a-814f-4121-8b3f-3d00aaeb8e65" name="Customer" type="Customer" label="Customer : Customer" nullable="true" kind="Persistent" fieldName="_customer" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+        <classHasNavigationalProperties Id="2899e4db-f852-4880-a0c6-06970773ca01">
+          <NavigationalProperty Id="5d9c703e-c691-44d4-8d6e-302e26d65259" name="Employee" type="Employee" label="Employee : Employee" nullable="true" kind="Persistent" fieldName="_employee" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+        <classHasNavigationalProperties Id="5fb84cb7-48ce-4918-9ec1-5b6ae70b3bca">
+          <NavigationalProperty Id="defe4aa9-496f-409c-af7c-1adf22a1fc25" name="Shipper" type="Shipper" label="Shipper : Shipper" nullable="true" kind="Persistent" fieldName="_shipper" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+        <classHasNavigationalProperties Id="706325de-2479-4184-96d5-1218aa89cc1d">
+          <NavigationalProperty Id="078bec22-8144-4ec1-95a9-88165d540c39" name="OrderDetails" type="IList&lt;OrderDetail&gt;" label="OrderDetails : IList&lt;OrderDetail&gt;" nullable="true" kind="Persistent" fieldName="_orderDetails" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+      </navigationalProperties>
+    </DomainClass>
+    <DomainClass Id="40eb8deb-113f-4df8-812f-fb5661567a41" name="OrderDetail" namespace="Northwind.Model" showPropertiesCompartment="true" concurrencyMode="Changed" showNavigationCompartment="true" showImplementationCompartment="true">
+      <Property Id="0f7cde57-159c-4550-88a3-cbea3e1c2328" name="OrderID" type="Int32" label="OrderID : Int32" kind="Persistent" identity="true" fieldName="_orderID" />
+      <Property Id="5e24f12d-58cf-4cd9-beaa-d2bd21732483" name="ProductID" type="Int32" label="ProductID : Int32" kind="Persistent" identity="true" fieldName="_productID" />
+      <Property Id="c23a694a-48db-40bc-a72c-ae431c842ec1" name="Discount" type="Single" label="Discount : Single" kind="Persistent" fieldName="_discount" />
+      <Property Id="cb2e7703-363e-46a0-8c41-277516c728e5" name="Quantity" type="Int16" label="Quantity : Int16" kind="Persistent" fieldName="_quantity" />
+      <Property Id="4fb72d17-00e1-4f51-bd04-e4cba4885480" name="UnitPrice" type="Decimal" label="UnitPrice : Decimal" kind="Persistent" fieldName="_unitPrice" />
+      <AssociationTargets>
+        <Association Id="6069ea7d-8508-4e57-9ef3-db1856c7eec2" SourceMultiplicity="One" name="OrderDetailHasOrder">
+          <DomainClassMoniker name="/NorthwindModel/Order" />
+          <targetNavigationalProperty>
+            <associationDefinesTargetProperty Id="acc68651-5df5-4336-9a21-f8a230449151">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Order/OrderDetails" />
+            </associationDefinesTargetProperty>
+          </targetNavigationalProperty>
+          <sourceNavigationalProperty>
+            <associationDefinesSourceProperty Id="66a6c2d2-c343-427a-985f-37c303f4d9c8">
+              <NavigationalPropertyMoniker name="/NorthwindModel/OrderDetail/Order" />
+            </associationDefinesSourceProperty>
+          </sourceNavigationalProperty>
+        </Association>
+        <Association Id="1a569726-06bb-4c0d-8068-1c0d0567b987" SourceMultiplicity="One" name="OrderDetailHasProduct">
+          <DomainClassMoniker name="/NorthwindModel/Product" />
+          <targetNavigationalProperty>
+            <associationDefinesTargetProperty Id="c57ab858-ebbf-4b01-be33-493ec6307ae4">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Product/OrderDetails" />
+            </associationDefinesTargetProperty>
+          </targetNavigationalProperty>
+          <sourceNavigationalProperty>
+            <associationDefinesSourceProperty Id="bbd6a540-7119-442d-9753-fbafa90b19a8">
+              <NavigationalPropertyMoniker name="/NorthwindModel/OrderDetail/Product" />
+            </associationDefinesSourceProperty>
+          </sourceNavigationalProperty>
+        </Association>
+      </AssociationTargets>
+      <navigationalProperties>
+        <classHasNavigationalProperties Id="4751898e-1948-4d7b-9076-bde66ce5a780">
+          <NavigationalProperty Id="5ed4a0be-ad8c-443e-9daa-96ae011af67e" name="Order" type="Order" label="Order : Order" nullable="true" kind="Persistent" fieldName="_order" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+        <classHasNavigationalProperties Id="0a3f5eab-c7eb-47bd-9af8-f573590da878">
+          <NavigationalProperty Id="abf1be88-fcf5-4d1d-b1f4-8a3eefd71e26" name="Product" type="Product" label="Product : Product" nullable="true" kind="Persistent" fieldName="_product" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+      </navigationalProperties>
+    </DomainClass>
+    <DomainClass Id="ea66548f-e5a4-44c1-826f-0833fe160f0e" name="Employee" namespace="Northwind.Model" showPropertiesCompartment="true" identityMechanism="DatabaseServerCalculated" concurrencyMode="Changed" showNavigationCompartment="true" showImplementationCompartment="true">
+      <Property Id="a78bb0dc-ff67-4c63-9866-1089c0ed5b45" name="EmployeeID" type="Int32" label="EmployeeID : Int32" kind="Persistent" identity="true" fieldName="_employeeID" />
+      <Property Id="96d8526f-4a4d-430e-8207-780605cef4bd" name="Address" label="Address : String" kind="Persistent" fieldName="_address" />
+      <Property Id="9b47a9f4-c44a-4b93-8dc2-7bfb30d800cf" name="BirthDate" type="DateTime" label="BirthDate : DateTime" nullable="true" kind="Persistent" fieldName="_birthDate" />
+      <Property Id="2e152b9a-fe11-4252-8a51-d09008a14c6b" name="City" label="City : String" kind="Persistent" fieldName="_city" />
+      <Property Id="94c7a12c-b967-462a-b10f-e1bfe9ef15a2" name="Country" label="Country : String" kind="Persistent" fieldName="_country" />
+      <Property Id="71293e07-2717-4bc7-a528-8da58a832d93" name="Extension" label="Extension : String" kind="Persistent" fieldName="_extension" />
+      <Property Id="08b4ac7e-0ab0-4113-a8ee-b2462a450841" name="FirstName" label="FirstName : String" kind="Persistent" fieldName="_firstName" />
+      <Property Id="bf47a007-3402-4974-8fd3-7a30642c5809" name="HireDate" type="DateTime" label="HireDate : DateTime" nullable="true" kind="Persistent" fieldName="_hireDate" />
+      <Property Id="fc8c909e-ef60-4129-8b19-4db54a319134" name="HomePhone" label="HomePhone : String" kind="Persistent" fieldName="_homePhone" />
+      <Property Id="a25aaaf5-078f-4491-b43e-d276fa2a1092" name="LastName" label="LastName : String" kind="Persistent" fieldName="_lastName" />
+      <Property Id="ae9d76bb-6481-4e9b-91d2-43efcd2471e0" name="Notes" label="Notes : String" kind="Persistent" fieldName="_notes" />
+      <Property Id="5faada76-299f-4b4b-9019-266e81880eff" name="Photo" type="Byte[]" label="Photo : Byte[]" kind="Persistent" fieldName="_photo" />
+      <Property Id="b88a867b-debd-4ac8-90aa-05a06a064a79" name="PhotoPath" label="PhotoPath : String" kind="Persistent" fieldName="_photoPath" />
+      <Property Id="87d02292-ea98-4754-bed7-62114ec0cd2f" name="PostalCode" label="PostalCode : String" kind="Persistent" fieldName="_postalCode" />
+      <Property Id="a79a90c9-43d1-4eee-8700-c806d52e2aee" name="Region" label="Region : String" kind="Persistent" fieldName="_region" />
+      <Property Id="ae54169e-2b52-47f3-a99b-24f480dca97c" name="ReportsTo" type="Int32" label="ReportsTo : Int32" nullable="true" kind="Persistent" fieldName="_reportsTo" />
+      <Property Id="f1630e34-f6de-48fd-bc14-892e4d635c55" name="Title" label="Title : String" kind="Persistent" fieldName="_title" />
+      <Property Id="f3a579f0-b896-4864-b9fb-6e935d513fe8" name="TitleOfCourtesy" label="TitleOfCourtesy : String" kind="Persistent" fieldName="_titleOfCourtesy" />
+      <AssociationTargets>
+        <Association Id="2359ece4-5555-41ec-a6fa-cc0442515a57" SourceMultiplicity="ZeroOne" name="EmployeeHasEmployee">
+          <DomainClassMoniker name="/NorthwindModel/Employee" />
+          <targetNavigationalProperty>
+            <associationDefinesTargetProperty Id="90894b00-8efb-4e2c-aedc-9f47171654d7">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Employee/Employees" />
+            </associationDefinesTargetProperty>
+          </targetNavigationalProperty>
+          <sourceNavigationalProperty>
+            <associationDefinesSourceProperty Id="27d0d732-ff15-428b-b859-098d49b97a53">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Employee/Employee1" />
+            </associationDefinesSourceProperty>
+          </sourceNavigationalProperty>
+        </Association>
+        <Association Id="fc519be3-e89e-47c3-bb06-f1cbdedadf30" name="EmployeesHaveTerritories">
+          <DomainClassMoniker name="/NorthwindModel/Territory" />
+          <targetNavigationalProperty>
+            <associationDefinesTargetProperty Id="466eb45c-3141-486e-a5bd-12db54b984cf">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Territory/Employees" />
+            </associationDefinesTargetProperty>
+          </targetNavigationalProperty>
+          <sourceNavigationalProperty>
+            <associationDefinesSourceProperty Id="5011f2cd-8ea5-47ed-b069-5b9a11de4c21">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Employee/Territories" />
+            </associationDefinesSourceProperty>
+          </sourceNavigationalProperty>
+        </Association>
+      </AssociationTargets>
+      <navigationalProperties>
+        <classHasNavigationalProperties Id="37c16a27-cf3c-495d-ad93-41906b9f2b06">
+          <NavigationalProperty Id="47a5d584-aed8-4a75-98db-468a1bb2cd35" name="Orders" type="IList&lt;Order&gt;" label="Orders : IList&lt;Order&gt;" nullable="true" kind="Persistent" fieldName="_orders" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+        <classHasNavigationalProperties Id="a925d473-819c-4886-9cfc-f12438d9ff5f">
+          <NavigationalProperty Id="75a82148-b8fe-495f-93d5-b1ae32467eee" name="Employee1" type="Employee" label="Employee1 : Employee" nullable="true" kind="Persistent" fieldName="_employee1" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+        <classHasNavigationalProperties Id="939eb031-39f6-46bf-8ae8-87ec37d9a427">
+          <NavigationalProperty Id="170c39f7-bd4e-42b9-b528-10719d8fea77" name="Employees" type="IList&lt;Employee&gt;" label="Employees : IList&lt;Employee&gt;" nullable="true" kind="Persistent" fieldName="_employees" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+        <classHasNavigationalProperties Id="7fc2322f-86c2-4463-b1a4-082a2a61608f">
+          <NavigationalProperty Id="ef366fb1-d5f6-4433-8d1b-9854dcd12a89" name="Territories" type="IList&lt;Territory&gt;" label="Territories : IList&lt;Territory&gt;" nullable="true" kind="Persistent" fieldName="_territories" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+      </navigationalProperties>
+    </DomainClass>
+    <DomainClass Id="979b5ad4-252c-4db0-b6ad-54aafc6c9c36" name="Customer" namespace="Northwind.Model" showPropertiesCompartment="true" concurrencyMode="Changed" showNavigationCompartment="true" showImplementationCompartment="true">
+      <Property Id="75684fed-d140-4224-84e6-5392ade7bbbe" name="CustomerID" label="CustomerID : String" kind="Persistent" identity="true" fieldName="_customerID" />
+      <Property Id="62028b32-221c-4cda-aac3-fc5d7802e9b5" name="Address" label="Address : String" kind="Persistent" fieldName="_address" />
+      <Property Id="7e02830a-7470-45dc-af16-672fbe2a7ba1" name="City" label="City : String" kind="Persistent" fieldName="_city" />
+      <Property Id="761bc3bd-8955-4b0e-b095-9bd7d769ab77" name="CompanyName" label="CompanyName : String" kind="Persistent" fieldName="_companyName" />
+      <Property Id="2cb3c947-0465-4a7e-9873-8e43d8abe178" name="ContactName" label="ContactName : String" kind="Persistent" fieldName="_contactName" />
+      <Property Id="9281ab5a-abae-4966-ba58-e87e7507277b" name="ContactTitle" label="ContactTitle : String" kind="Persistent" fieldName="_contactTitle" />
+      <Property Id="efc8b7a3-c895-469d-a072-416571e50cd5" name="Country" label="Country : String" kind="Persistent" fieldName="_country" />
+      <Property Id="d04b6500-b3a4-4974-ab03-db012be3d0c0" name="Fax" label="Fax : String" kind="Persistent" fieldName="_fax" />
+      <Property Id="64e38796-53a2-4582-85f6-6b074acdf7d0" name="Phone" label="Phone : String" kind="Persistent" fieldName="_phone" />
+      <Property Id="645efa88-1e4a-4e5e-8604-21c850920d0d" name="PostalCode" label="PostalCode : String" kind="Persistent" fieldName="_postalCode" />
+      <Property Id="8bc335f1-9240-4794-a439-cce2de371964" name="Region" label="Region : String" kind="Persistent" fieldName="_region" />
+      <navigationalProperties>
+        <classHasNavigationalProperties Id="fc1e04de-a1bb-4b8c-8f4c-f198ad24ca1c">
+          <NavigationalProperty Id="b219aa95-f31e-4705-9ef7-ad0a212f9409" name="Orders" type="IList&lt;Order&gt;" label="Orders : IList&lt;Order&gt;" nullable="true" kind="Persistent" fieldName="_orders" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+        <classHasNavigationalProperties Id="1f7a2365-5272-45bd-94b2-3f73c1bb0d7d">
+          <NavigationalProperty Id="e9eac557-a128-4691-9893-b9120e29d3da" name="CustomerDemographics" type="IList&lt;CustomerDemographic&gt;" label="CustomerDemographics : IList&lt;CustomerDemographic&gt;" nullable="true" kind="Persistent" fieldName="_customerDemographics" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+      </navigationalProperties>
+    </DomainClass>
+    <DomainClass Id="8a545780-34b4-4f70-8ee2-613c089d7fc9" name="CustomerDemographic" namespace="Northwind.Model" showPropertiesCompartment="true" concurrencyMode="Changed" showNavigationCompartment="true" showImplementationCompartment="true">
+      <Property Id="65a32c32-20d5-4b26-bea8-0db5bf787602" name="CustomerTypeID" label="CustomerTypeID : String" kind="Persistent" identity="true" fieldName="_customerTypeID" />
+      <Property Id="7732e1e3-e64f-43c7-88b4-73c7eba6116a" name="CustomerDesc" label="CustomerDesc : String" kind="Persistent" fieldName="_customerDesc" />
+      <AssociationTargets>
+        <Association Id="0a052b66-454c-4521-9118-a3511f4edb9b" name="CustomerDemographicsHaveCustomers">
+          <DomainClassMoniker name="/NorthwindModel/Customer" />
+          <targetNavigationalProperty>
+            <associationDefinesTargetProperty Id="ec0690e3-badc-4151-9e64-8728c404e418">
+              <NavigationalPropertyMoniker name="/NorthwindModel/Customer/CustomerDemographics" />
+            </associationDefinesTargetProperty>
+          </targetNavigationalProperty>
+          <sourceNavigationalProperty>
+            <associationDefinesSourceProperty Id="cf47fcc9-565f-496a-9490-552ba0b82438">
+              <NavigationalPropertyMoniker name="/NorthwindModel/CustomerDemographic/Customers" />
+            </associationDefinesSourceProperty>
+          </sourceNavigationalProperty>
+        </Association>
+      </AssociationTargets>
+      <navigationalProperties>
+        <classHasNavigationalProperties Id="020a1a0e-f30a-4c48-b095-34b939415690">
+          <NavigationalProperty Id="e700082e-9652-40c0-bf4e-c03cba0db061" name="Customers" type="IList&lt;Customer&gt;" label="Customers : IList&lt;Customer&gt;" nullable="true" kind="Persistent" fieldName="_customers" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+      </navigationalProperties>
+    </DomainClass>
+    <DomainClass Id="a76b1998-8eff-4d3f-bf26-22de03164ce9" name="Category" namespace="Northwind.Model" showPropertiesCompartment="true" identityMechanism="DatabaseServerCalculated" concurrencyMode="Changed" showNavigationCompartment="true" showImplementationCompartment="true">
+      <Property Id="3591aedd-228f-4ba9-9e7c-795a31b81953" name="CategoryID" type="Int32" label="CategoryID : Int32" kind="Persistent" identity="true" fieldName="_categoryID" />
+      <Property Id="7db8511a-c901-4e17-8c2d-7962e940d3c4" name="CategoryName" label="CategoryName : String" kind="Persistent" fieldName="_categoryName" />
+      <Property Id="768d276c-b933-4b2f-97a3-de40096ba4a0" name="Description" label="Description : String" kind="Persistent" fieldName="_description" />
+      <Property Id="901308a0-bebc-4826-b0f2-d0a99bbf09ae" name="Picture" type="Byte[]" label="Picture : Byte[]" kind="Persistent" fieldName="_picture" />
+      <navigationalProperties>
+        <classHasNavigationalProperties Id="90cad993-39d3-45aa-bee6-4976b28251a2">
+          <NavigationalProperty Id="3f0f5251-0130-49df-b083-fb79cfa93176" name="Products" type="IList&lt;Product&gt;" label="Products : IList&lt;Product&gt;" nullable="true" kind="Persistent" fieldName="_products" isDependent="false" isManaged="false" />
+        </classHasNavigationalProperties>
+      </navigationalProperties>
+    </DomainClass>
+  </Types>
+  <domainContext>
+    <domainModelHasDomainContext Id="8e9475b1-1832-4103-9eb2-6c314cae868a">
+      <domainContainer name="NorthwindModel" namespace="Northwind.Model" showPropertiesCompartment="true">
+        <entitySetProperty name="Territories" namespace="Northwind.Model" type="Territory" label="Territories : IQueryable&lt;Northwind.Model.Territory&gt;" />
+        <entitySetProperty name="Suppliers" namespace="Northwind.Model" type="Supplier" label="Suppliers : IQueryable&lt;Northwind.Model.Supplier&gt;" />
+        <entitySetProperty name="Shippers" namespace="Northwind.Model" type="Shipper" label="Shippers : IQueryable&lt;Northwind.Model.Shipper&gt;" />
+        <entitySetProperty name="Regions" namespace="Northwind.Model" type="Region" label="Regions : IQueryable&lt;Northwind.Model.Region&gt;" />
+        <entitySetProperty name="Products" namespace="Northwind.Model" type="Product" label="Products : IQueryable&lt;Northwind.Model.Product&gt;" />
+        <entitySetProperty name="Orders" namespace="Northwind.Model" type="Order" label="Orders : IQueryable&lt;Northwind.Model.Order&gt;" />
+        <entitySetProperty name="OrderDetails" namespace="Northwind.Model" type="OrderDetail" label="OrderDetails : IQueryable&lt;Northwind.Model.OrderDetail&gt;" />
+        <entitySetProperty name="Employees" namespace="Northwind.Model" type="Employee" label="Employees : IQueryable&lt;Northwind.Model.Employee&gt;" />
+        <entitySetProperty name="Customers" namespace="Northwind.Model" type="Customer" label="Customers : IQueryable&lt;Northwind.Model.Customer&gt;" />
+        <entitySetProperty name="CustomerDemographics" namespace="Northwind.Model" type="CustomerDemographic" label="CustomerDemographics : IQueryable&lt;Northwind.Model.CustomerDemographic&gt;" />
+        <entitySetProperty name="Categories" namespace="Northwind.Model" type="Category" label="Categories : IQueryable&lt;Northwind.Model.Category&gt;" />
+      </domainContainer>
+    </domainModelHasDomainContext>
+  </domainContext>
+</DomainModel>

@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task01.PerformanceTests\bin\Debug\Task01.PerformanceTests.exe.config
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task01.PerformanceTests\bin\Debug\Task01.PerformanceTests.exe
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task01.PerformanceTests\bin\Debug\Task01.PerformanceTests.pdb
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task01.PerformanceTests\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task01.PerformanceTests\bin\Debug\TelerikAcademy.Model.dll
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task01.PerformanceTests\bin\Debug\TelerikAcademy.Model.pdb
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task01.PerformanceTests\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task01.PerformanceTests\obj\Debug\Task01.PerformanceTests.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task01.PerformanceTests\obj\Debug\Task01.PerformanceTests.exe
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Homework-Entity-Framework-Performance\Homework-EFPerformance\Task01.PerformanceTests\obj\Debug\Task01.PerformanceTests.pdb

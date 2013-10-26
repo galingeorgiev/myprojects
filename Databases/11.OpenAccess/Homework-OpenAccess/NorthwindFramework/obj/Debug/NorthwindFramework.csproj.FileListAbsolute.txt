@@ -1,0 +1,4 @@
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\NorthwindFramework\bin\Debug\NorthwindFramework.dll
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\NorthwindFramework\bin\Debug\NorthwindFramework.pdb
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\NorthwindFramework\obj\Debug\NorthwindFramework.dll
+F:\Telerik Academy\Telerik\Databases\11.OpenAccess\Homework-OpenAccess\NorthwindFramework\obj\Debug\NorthwindFramework.pdb

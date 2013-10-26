@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Model\bin\Debug\School.Model.dll
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Model\bin\Debug\School.Model.pdb
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Model\obj\Debug\School.Model.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Model\obj\Debug\School.Model.dll
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Model\obj\Debug\School.Model.pdb

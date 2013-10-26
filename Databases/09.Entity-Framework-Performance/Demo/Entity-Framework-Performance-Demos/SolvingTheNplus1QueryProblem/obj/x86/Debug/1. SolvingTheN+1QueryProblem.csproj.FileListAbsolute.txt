@@ -1,0 +1,1 @@
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Demo\Entity-Framework-Performance-Demos\SolvingTheNplus1QueryProblem\bin\Debug\ResolvingTheNplus1QueryProblem.exe.config

@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Data\bin\Debug\School.Data.dll.config
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Data\bin\Debug\School.Data.dll
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Data\bin\Debug\School.Data.pdb
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Data\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Data\bin\Debug\School.Model.dll
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Data\bin\Debug\School.Model.pdb
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Data\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Data\obj\Debug\School.Data.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Data\obj\Debug\School.Data.dll
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Data\obj\Debug\School.Data.pdb
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Data\obj\Debug\School.Data.Migrations.InitialCreate.resources
+D:\Telerik Academy\Telerik\Databases\10.Entity-Framework-Code-First\Homework-EF-CodeFirst\Homework-EF-CodeFirst\School.Data\obj\Debug\School.Data.csproj.GenerateResource.Cache

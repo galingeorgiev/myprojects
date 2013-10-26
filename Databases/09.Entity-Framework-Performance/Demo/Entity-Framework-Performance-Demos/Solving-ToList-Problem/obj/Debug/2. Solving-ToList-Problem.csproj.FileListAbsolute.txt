@@ -1,0 +1,1 @@
+D:\Telerik Academy\Telerik\Databases\09.Entity-Framework-Performance\Demo\Entity-Framework-Performance-Demos\Solving-ToList-Problem\bin\Debug\Solving-ToList-Problem.exe.config
