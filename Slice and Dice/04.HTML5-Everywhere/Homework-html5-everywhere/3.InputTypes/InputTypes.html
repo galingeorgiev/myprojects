@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <!--[if lte IE 9]>
+        <script type="text/javascript" src="shims/fd-slider.min.js"></script>
+        <link rel="stylesheet" type="text/css" media="screen, projection" href="http://www.frequency-decoder.com/demo/fd-slider/css/fd-slider.mhtml.min.css" />
+        <![endif]-->
+        <title>Input types</title>
+        <script src="jquery-1.9.1.min.js"></script>
+        <!-- Needed to work input type color in old brosers -->
+        <script src='spectrum.js'></script>
+        <!-- Needed to work Webshims lib -->
+        <script src="modernizr.custom.68454.js"></script>
+        <script src="js-webshim/minified/polyfiller.js"></script>
+        <!-- Needed for forms validation -->
+        <script src="html5Forms.js"></script>
+        <!-- Needed to work input type datetime -->
+        <script src="datetime-polyfill.js"></script>
+        <!-- Needed to work input type week -->
+        <script src="week-polyfill.js"></script>
+        <script>
+            $.webshims.polyfill('forms');
+        </script>
+        <link rel='stylesheet' href='spectrum.css' />
+    </head>
+    <body>
+        <!-- Create a web page that contains the following input types
+             range, number, email, date, color, datetime, month, search, tel, time, url, week
+             And it must work on all desktop browsers (IE7+)
+             Research about Webshims Lib -->
+
+        <form action="/" method="post">
+            <p>Input type range</p>
+            <input type="range" name="name" value=" " />
+            <p>Input type number</p>
+            <input type="number" name="name" value=" " />
+            <p>Input type email</p>
+            <input type="email" name="name" value=" " />
+            <p>Input type date</p>
+            <input type="date" name="name" value=" " />
+            <p>Input type color</p>
+            <input type="color" name="name" value=" " />
+            <p>Input type datetime</p>
+            <input type="datetime" name="name" value=" " />
+            <p>Input type month</p>
+            <input type="month" name="name" value=" " />
+            <p>Input type search</p>
+            <input type="search" name="name" value=" " />
+            <p>Input type tel</p>
+            <input type="tel" name="name" value=" " />
+            <p>Input type time</p>
+            <input type="time" name="name" value=" " />
+            <p>Input type url</p>
+            <input type="url" name="name" value=" " />
+            <p>Input type week</p>
+            <input type="week" name="name" value=" " />
+            <br />
+            <input type="submit" name="name" value="Submit" />
+        </form>
+    </body>
+</html>

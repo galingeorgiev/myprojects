@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html >
+<html >
+    <head >
+        <title > Show my geolocation</title >
+        <script src="modernizr.custom.63935.js"></script>
+        <style>
+            #mapholder{
+                height:500px;
+                width:500px;
+                background-color: rgb(229, 227, 223);
+                overflow:hidden;
+                padding:5px;
+                border:1px solid blue;
+            }
+        </style>
+    </head >
+    <body onload="getMyLocation()">
+        <!-- Make a web page that detects the current geolocation
+             The web page should work fine in all desktop browsers, including IE7 -->
+
+        <p id="demo" > </p>
+        <div id="mapholder"></div>
+
+        <!-- Tested in IE7, IE8, IE9, IE10, Chrome, FF -->
+
+        <script>
+            var map = document.getElementById("demo");
+        
+            function showMyPosition(position) {
+                map .innerHTML = "Latitude: " + position.coords.latitude + "<br>Longitude: " + position.coords.longitude;
+                var latlon = position.coords.latitude + "," + position.coords.longitude;
+                var img_url = "http://maps.googleapis.com/maps/api/staticmap?center=" + latlon + "&zoom=17&size=500x500&sensor=false";
+                document .getElementById("mapholder").innerHTML = "<img src='" + img_url + "'>";
+            }
+            
+            function showMyPositionError(error) {
+                switch (error.code) {
+                    case error.PERMISSION_DENIED:
+                        map.innerHTML = "User denied the request for Geolocation."
+                        break;
+                    case error.POSITION_UNAVAILABLE:
+                        map.innerHTML = "Location information is unavailable."
+                        break;
+                    case error.TIMEOUT:
+                        map.innerHTML = "The request to get user location timed out."
+                        break;
+                    case error.UNKNOWN_ERROR:
+                        map.innerHTML = "An unknown error occurred."
+                        break;
+                }
+            }
+            
+            function getMyLocation() {
+                if (navigator.geolocation) {
+                    navigator.geolocation.getCurrentPosition(showMyPosition, showMyPositionError);
+                }
+                else {
+                    map.innerHTML = "Geolocation is not supported by this browser.";
+                }
+            }
+        </script>
+    </body>
+</html>

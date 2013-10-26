@@ -1,0 +1,23 @@
+﻿@media only screen and (max-width: 480px) {
+    body #wrapper{
+        width:98%;
+    }
+
+    body #wrapper > header{
+        width:90%;
+    }
+
+    body #wrapper header nav{
+        float:none;
+    }
+
+    body #wrapper header nav ul li{
+        display:block;
+        width:90%;
+        margin:5px 0 5px 0;
+    }
+
+    body #wrapper footer{
+        position:static;
+    }
+}

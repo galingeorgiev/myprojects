@@ -1,0 +1,368 @@
+﻿body, header, footer, ul, li, span, p{
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-color: #f4f4f4;
+}
+
+#wrapper{
+    width:960px;
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+#main-navigation:after,
+#search:after,
+#body:after,
+#body > section:after,
+#sidebar:after,
+#body .post .post-button:after,
+#body .post:after,
+#body #pagination:after,
+footer:after{
+    content:"";
+    zoom:1;
+    display:block;
+    clear:both;
+}
+
+/*---------- Header ----------*/
+#logo{
+    color: #549eb9;
+    font-size:24px;
+    font-family:'Myriad Pro';
+    font-weight:600;
+    display:inline-block;
+    margin:50px 50px 55px 55px;
+}
+
+#logo > span{
+    color: #656464;
+}
+
+#search{
+    float:right;
+    margin:50px;
+    border:1px solid #fafafa;
+    background:url(Images/Search.png);
+    background-repeat:no-repeat;
+    background-position-x:130px;
+    background-position-y:2px;
+}
+
+#main-navigation{
+    list-style-type:none;
+    color: #c6c6c6;
+    margin:0;
+    padding:0;
+    font-size:12px;
+    font-family:'Myriad Pro';
+    border-top:3px solid #c6c6c6;
+    border-bottom:1px solid #c6c6c6;
+}
+
+#main-navigation > li{
+    float:left;
+    padding:10px 15px 10px 15px;
+    border-right:1px dotted #c6c6c6;
+    position:relative;
+}
+
+#main-navigation #social-links{
+    float:right;
+    padding:5px 15px 0 0;
+    border:none;
+}
+
+#main-navigation #social-links:hover{
+    background-color: #fff;
+}
+
+#main-navigation > .selected{
+    color: #656464;
+}
+
+#main-navigation > li > ul{
+    display:none;
+}
+
+#main-navigation > li:hover{
+    color: #fff;
+    background-color: #549eb9;
+}
+
+#main-navigation > li:hover ul{
+    color: #fff;
+    background-color: #549eb9;
+    display:block;
+    position:absolute;
+    left:0;
+    top:34px;
+    width:225px;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    z-index:999;
+}
+
+#main-navigation > li ul li{
+    padding:15px 25px 15px 25px;
+}
+
+#main-navigation > li ul li:hover{
+    color: #fff;
+    background-color: #4b93ad;
+}
+
+/*---------- Body ----------*/
+#body{
+    border-bottom:1px solid #f7f7f7;
+    padding-bottom:45px;
+}
+
+/*---------- Section ----------*/
+#body > section{
+    width:62.5%;
+    padding-right:30px;
+    float:left;
+}
+
+#body #site-navigator{
+    margin:40px 0 0 40px;
+    font-family:Georgia;
+    font-size:13px;
+    color: #e5e5e5;
+}
+
+#body .post{
+    margin-left:100px;
+    padding-top:35px;
+    position:relative;
+}
+
+#body .post .post-date{
+    color: #fff;
+    width:60px;
+    height:60px;
+    border-radius:30px;
+    position:absolute;
+    top:35px;
+    left:-75px;
+    background-color: #549eb9;
+}
+
+#body .post .post-date > span{
+    display:block;
+    text-align:center;
+    font-family:'Myriad Pro';
+}
+
+#body .post .post-date .month{
+    margin-top:13px;
+    font-size:11px;
+}
+
+#body .post .post-date .day{
+    font-size:26px;
+    line-height:22px;
+}
+
+#body .post .post-title{
+    font-family:'Myriad Pro';
+    font-size:30px;
+    font-weight:500;
+    color: #656464;
+    margin:0;
+}
+
+#body .post .post-info{
+    font-family:Georgia;
+    font-size:13px;
+    color: #c6c6c6;
+    margin-top:15px;
+}
+
+#body .post .image-simulator{
+    width:480px;
+    height:230px;
+    padding:5px;
+    margin-top:20px;
+    border:1px solid rgba(0, 0, 0, 0.07);
+}
+
+#body .post .image-simulator > div{
+    background-color: #549eb9;
+    height:100%;
+}
+
+#body .post .post-content{
+    font-family:'Myriad Pro';
+    font-size:13px;
+    color: #656464;
+    margin-top:25px;
+}
+
+#body .post .post-button{
+    float:right;
+    padding:5px 13px;
+    border-radius:20px;
+    border:none;
+    font-size:13px;
+    font-family:'Myriad Pro';
+    color: #656464;
+}
+
+#body #pagination{
+    float:right;
+    margin-top:50px;
+    color: #797a7a;
+    font-family:'Myriad Pro';
+    font-size:14px;
+}
+
+#body #pagination > div{
+    float:left;
+    width:30px;
+    height:30px;
+    border-radius:15px;
+    background-color: #ebebeb;
+    margin-right:5px;
+    line-height:30px;
+    text-align:center;
+}
+
+#body #pagination > div:hover{
+    background-color: #549eb9;
+    color: #fff;
+}
+
+/*---------- Sidebar ----------*/
+#sidebar{
+    width:330px;
+    float:right;
+}
+
+#sidebar .sidebar-widget > h2{
+    font-family:'Myriad Pro';
+    font-size:24px;
+    color: #1f262d;
+    font-weight:500;
+    margin:40px 0 0 0;
+}
+
+#sidebar ul{
+    padding-left:30px;
+    font-family:'Myriad Pro';
+    font-size:13px;
+    color: #656464;
+    list-style-image:url(Images/Sidebar-list-stile.png)
+}
+
+#sidebar ul li{
+    margin-top:15px;
+}
+
+/*---------- footer ----------*/
+footer{
+    background-color: #fcfcfc;
+    padding:35px 25px;
+    border-top:3px solid #f4f4f4;
+}
+
+.footer-widget{
+    width:273px;
+    float:left;
+    padding:0 15px;
+}
+
+.footer-widget .widget-title{
+    margin:0;
+    font-family:'Myriad Pro';
+    font-size:24px;
+    color: #1f262d;
+    font-weight:500;
+}
+
+.footer-widget .widget-content{
+    margin-top:15px;
+    font-family:'Myriad Pro';
+    font-size:13px;
+    color: #656464;
+}
+
+/*---------- For resolution 768px -----------*/
+@media only screen and (max-width: 768px){
+    #wrapper{
+        width:768px;
+    }
+
+    #body .post .image-simulator{
+        width:100%;
+    }
+
+    #sidebar{
+        width:255px;
+    }
+
+    .footer-widget{
+        width:29%;
+    }
+}
+
+/*---------- For resolution 480px -----------*/
+@media only screen and (max-width: 480px){
+    #wrapper{
+        width:480px;
+    }
+
+    #wrapper > header > a{
+        margin:0 auto;
+        display:block;
+        text-align:center;
+    }
+
+    #logo{
+        margin:30px auto 0 auto;
+    }
+
+    #search{
+        float:none;
+        margin:auto;
+        display:block;
+        margin-top:20px;
+    }
+
+    #main-navigation{
+        position:relative;
+        margin-top:27px;
+    }
+
+    #main-navigation > li{
+        float:none;
+        text-align:center;
+        width:100%;
+        padding: 10px 0 10px 0;
+    }
+
+    #main-navigation #social-links{
+        float:none;
+        position:absolute;
+        top:-28px;
+        padding:0;
+    }
+
+    #body > section{
+        width:445px;
+        padding-right:35px;
+    }
+
+    #sidebar{
+        display:none;
+    }
+
+    .footer-widget{
+        width:100%;
+    }
+}

@@ -1,0 +1,31 @@
+﻿#wrapper {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.image-container {
+    background: url(../../common/icons/image-sprites.png) no-repeat top left;
+    margin-top:10px;
+    padding-left:20px;
+}
+
+    .image-container.sprite-icons-comment {
+        background: url(../../common/icons/image-sprites.png) no-repeat top left;
+        background-position: 0 0;
+    }
+
+    .image-container.sprite-icons-comment_add {
+        background-position: 0 -21px;
+    }
+
+    .image-container.sprite-icons-comment_delete {
+        background-position: 0 -42px;
+    }
+
+    .image-container.sprite-icons-comment_edit {
+        background-position: 0 -63px;
+    }
+
+    .image-container.sprite-icons-comments {
+        background-position: 0 -84px;
+    }

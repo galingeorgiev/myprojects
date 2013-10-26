@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "1.ModifyWebPage", "http://localhost:49509", "{A2C8C01C-ED72-4E1E-8501-814BD3C74498}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49509"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Telerik Academy\Telerik\Slice and Dice\04.HTML5-Everywhere\Homework-html5-everywhere\1.ModifyWebPage\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49509\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49509"
+		Release.AspNetCompiler.PhysicalPath = "D:\Telerik Academy\Telerik\Slice and Dice\04.HTML5-Everywhere\Homework-html5-everywhere\1.ModifyWebPage\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49509\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "D:\Telerik Academy\Telerik\Slice and Dice\04.HTML5-Everywhere\Homework-html5-everywhere\1.ModifyWebPage\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "2.MyCurrentGeoocation", "http://localhost:50034", "{13A096B6-09A2-4182-891F-FB5DC742105D}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50034"
+		Debug.AspNetCompiler.PhysicalPath = "2.MyCurrentGeoocation\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50034\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50034"
+		Release.AspNetCompiler.PhysicalPath = "2.MyCurrentGeoocation\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50034\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "2.MyCurrentGeoocation\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "3.InputTypes", "http://localhost:50038", "{49E80564-1728-45D5-982F-D57CAC46FEBB}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50038"
+		Debug.AspNetCompiler.PhysicalPath = "3.InputTypes\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50038\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50038"
+		Release.AspNetCompiler.PhysicalPath = "3.InputTypes\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50038\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "3.InputTypes\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C8C01C-ED72-4E1E-8501-814BD3C74498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C8C01C-ED72-4E1E-8501-814BD3C74498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A096B6-09A2-4182-891F-FB5DC742105D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A096B6-09A2-4182-891F-FB5DC742105D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E80564-1728-45D5-982F-D57CAC46FEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E80564-1728-45D5-982F-D57CAC46FEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,42 @@
+﻿body {
+}
+
+a{
+    display:inline-block;
+}
+
+.button{
+    height:47px;
+    border:none;
+    line-height:47px;
+    padding: 0 22px;
+    background: none;
+}
+
+.button .middle{
+    background: url(Images/button.png);
+    height:47px;
+    display:block;
+    line-height:47px;
+    font-size:25px;
+}
+
+.button .left{
+    background:url(Images/button-left.png);
+    float:left;
+    width:22px;
+    height:47px;
+    background-position: 0 0;
+    background-repeat:no-repeat;
+    margin-left: -22px;
+}
+
+.button .right{
+    background:url(Images/button-right.png);
+    float:right;
+    width:22px;
+    height:47px;
+    background-position: 0 0;
+    background-repeat:no-repeat;
+    margin-right: -22px;
+}
