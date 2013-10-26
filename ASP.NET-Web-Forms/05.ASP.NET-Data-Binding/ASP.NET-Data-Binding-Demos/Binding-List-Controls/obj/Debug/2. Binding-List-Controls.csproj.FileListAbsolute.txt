@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\Binding-List-Controls\bin\Binding-List-Controls.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\Binding-List-Controls\bin\Binding-List-Controls.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\Binding-List-Controls\obj\Debug\Binding-List-Controls.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\Binding-List-Controls\obj\Debug\Binding-List-Controls.pdb

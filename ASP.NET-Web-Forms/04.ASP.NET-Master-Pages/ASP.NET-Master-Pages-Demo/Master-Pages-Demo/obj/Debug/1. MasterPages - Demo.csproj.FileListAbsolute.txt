@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\04.ASP.NET-Master-Pages\ASP.NET-Master-Pages-Demo\Master-Pages-Demo\bin\MasterPageDemo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\04.ASP.NET-Master-Pages\ASP.NET-Master-Pages-Demo\Master-Pages-Demo\bin\MasterPageDemo.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\04.ASP.NET-Master-Pages\ASP.NET-Master-Pages-Demo\Master-Pages-Demo\obj\Debug\1. MasterPages - Demo.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\04.ASP.NET-Master-Pages\ASP.NET-Master-Pages-Demo\Master-Pages-Demo\obj\Debug\MasterPageDemo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\04.ASP.NET-Master-Pages\ASP.NET-Master-Pages-Demo\Master-Pages-Demo\obj\Debug\MasterPageDemo.pdb

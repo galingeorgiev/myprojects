@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\AssebmlyLocation\bin\AssebmlyLocation.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\AssebmlyLocation\bin\AssebmlyLocation.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\AssebmlyLocation\bin\AssebmlyLocation.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\AssebmlyLocation\obj\Debug\AssebmlyLocation.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\AssebmlyLocation\obj\Debug\AssebmlyLocation.pdb
+D:\Telerik Academy\Telerik Projects\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\AssebmlyLocation\bin\AssebmlyLocation.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\AssebmlyLocation\bin\AssebmlyLocation.pdb
+D:\Telerik Academy\Telerik Projects\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\AssebmlyLocation\obj\Debug\AssebmlyLocation.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\AssebmlyLocation\obj\Debug\AssebmlyLocation.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\AssebmlyLocation\obj\Debug\AssebmlyLocation.pdb

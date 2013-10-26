@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\ListView-DataPager-Demo\bin\ListView-DataPager-Demo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\ListView-DataPager-Demo\bin\ListView-DataPager-Demo.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\ListView-DataPager-Demo\obj\Debug\8. ListView-DataPager-Demo.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\ListView-DataPager-Demo\obj\Debug\ListView-DataPager-Demo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\ListView-DataPager-Demo\obj\Debug\ListView-DataPager-Demo.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-Web-and-HTML-Controls\RegistrationForm\bin\RegistrationForm.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-Web-and-HTML-Controls\RegistrationForm\bin\RegistrationForm.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-Web-and-HTML-Controls\RegistrationForm\bin\RegistrationForm.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-Web-and-HTML-Controls\RegistrationForm\obj\Debug\RegistrationForm.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-Web-and-HTML-Controls\RegistrationForm\obj\Debug\RegistrationForm.pdb

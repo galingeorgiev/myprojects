@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\DetailsViewDemo\bin\DetailsViewDemo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\DetailsViewDemo\bin\DetailsViewDemo.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\DetailsViewDemo\obj\Debug\DetailsViewDemo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\DetailsViewDemo\obj\Debug\DetailsViewDemo.pdb

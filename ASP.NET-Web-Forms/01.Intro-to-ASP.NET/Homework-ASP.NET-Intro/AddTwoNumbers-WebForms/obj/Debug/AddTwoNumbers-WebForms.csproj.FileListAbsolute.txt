@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\01.Intro-to-ASP.NET\Homework-ASP.NET-Intro\AddTwoNumbers-WebForms\bin\AddTwoNumbers-WebForms.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\01.Intro-to-ASP.NET\Homework-ASP.NET-Intro\AddTwoNumbers-WebForms\bin\AddTwoNumbers-WebForms.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\01.Intro-to-ASP.NET\Homework-ASP.NET-Intro\AddTwoNumbers-WebForms\obj\Debug\AddTwoNumbers-WebForms.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\01.Intro-to-ASP.NET\Homework-ASP.NET-Intro\AddTwoNumbers-WebForms\obj\Debug\AddTwoNumbers-WebForms.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\01.Intro-to-ASP.NET\Homework-ASP.NET-Intro\AddTwoNumbers-WebForms\obj\Debug\AddTwoNumbers-WebForms.pdb

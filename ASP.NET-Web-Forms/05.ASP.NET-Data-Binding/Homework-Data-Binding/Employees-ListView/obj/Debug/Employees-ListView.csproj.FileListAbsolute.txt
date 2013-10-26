@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-ListView\bin\Employees-ListView.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-ListView\bin\Employees-ListView.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-ListView\bin\Employees-ListView.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-ListView\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-ListView\bin\Northwind.Data.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-ListView\bin\Northwind.Data.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-ListView\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-ListView\obj\Debug\Employees-ListView.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-ListView\obj\Debug\Employees-ListView.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-ListView\obj\Debug\Employees-ListView.pdb

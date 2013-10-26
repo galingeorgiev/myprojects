@@ -1,0 +1,19 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true"
+    MasterPageFile="~/Site.Master"
+    CodeBehind="BG.master.cs"
+    Inherits="InternationalCompany.BG.BG" %>
+
+<asp:Content runat="server" ContentPlaceHolderID="MainContainer">
+    <div>
+        <aside id="BNavigationSidebar">
+            <ul>
+                <li><a href="HomeBG.aspx">Начална страница</a></li>
+                <li><a href="About.aspx">За нас</a></li>
+                <li><a href="Contacts.aspx">Контакти</a></li>
+            </ul>
+        </aside>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolderBGMain" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+</asp:Content>
+

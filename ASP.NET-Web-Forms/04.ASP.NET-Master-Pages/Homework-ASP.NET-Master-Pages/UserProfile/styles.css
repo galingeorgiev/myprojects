@@ -1,0 +1,31 @@
+﻿body {
+}
+
+header,
+footer{
+    border:1px solid black;
+}
+
+header p,
+footer p{
+    text-align:center;
+}
+
+#wrapper{
+    width:960px;
+    margin:0 auto;
+}
+
+#BNavigationSidebar{
+    float:left;
+    width:250px;
+    height:500px;
+    border:1px solid black;
+}
+
+#mainContainer{
+    float:left;
+    width:706px;
+    height:500px;
+    border:1px solid black;
+}

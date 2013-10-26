@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="InternationalCompany.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>International Company</title>
+    <link href="styles.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <ul>
+                <li><asp:HyperLink runat="server" NavigateUrl="~/BG/HomeBG.aspx">BG</asp:HyperLink></li>
+                <li><asp:HyperLink runat="server" NavigateUrl="~/UK/Home.aspx">UK</asp:HyperLink></li>
+            </ul>
+        </header>
+        <div id="BodyContainer">
+            <form runat="server" id="MainForm">
+                <asp:ContentPlaceHolder ID="MainContainer" runat="server">
+                </asp:ContentPlaceHolder>
+            </form>
+        </div>
+        <footer>
+            <p>Footer is here!</p>
+        </footer>
+    </div>
+</body>
+</html>

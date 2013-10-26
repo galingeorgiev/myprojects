@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-Repeater\bin\Employees-Repeater.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-Repeater\bin\Employees-Repeater.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-Repeater\bin\Employees-Repeater.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-Repeater\bin\Northwind.Data.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-Repeater\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-Repeater\bin\Northwind.Data.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-Repeater\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-Repeater\obj\Debug\Employees-Repeater.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-Repeater\obj\Debug\Employees-Repeater.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees-Repeater\obj\Debug\Employees-Repeater.pdb

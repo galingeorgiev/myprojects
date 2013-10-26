@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\01.Intro-to-ASP.NET\Homework-ASP.NET-Intro\TextAsImage\bin\TextAsImage.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\01.Intro-to-ASP.NET\Homework-ASP.NET-Intro\TextAsImage\bin\TextAsImage.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\01.Intro-to-ASP.NET\Homework-ASP.NET-Intro\TextAsImage\obj\Debug\TextAsImage.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\01.Intro-to-ASP.NET\Homework-ASP.NET-Intro\TextAsImage\obj\Debug\TextAsImage.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\RepeaterDemo\bin\RepeaterDemo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\RepeaterDemo\bin\RepeaterDemo.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\RepeaterDemo\obj\Debug\7. Repeater-Demo.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\RepeaterDemo\obj\Debug\RepeaterDemo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\RepeaterDemo\obj\Debug\RepeaterDemo.pdb

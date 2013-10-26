@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees\bin\Employees.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees\bin\Employees.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees\bin\Employees.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees\bin\Northwind.Data.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees\bin\Northwind.Data.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees\obj\Debug\Employees.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\Homework-Data-Binding\Employees\obj\Debug\Employees.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\FormView-Demo\bin\FormView-Demo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\FormView-Demo\bin\FormView-Demo.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\FormView-Demo\obj\Debug\6. FormView-Demo.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\FormView-Demo\obj\Debug\FormView-Demo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\05.ASP.NET-Data-Binding\ASP.NET-Data-Binding-Demos\FormView-Demo\obj\Debug\FormView-Demo.pdb

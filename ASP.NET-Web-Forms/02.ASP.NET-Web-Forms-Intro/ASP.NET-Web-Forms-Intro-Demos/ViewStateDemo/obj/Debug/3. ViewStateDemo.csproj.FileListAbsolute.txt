@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\ASP.NET-Web-Forms-Intro-Demos\ViewStateDemo\bin\ViewStateDemo.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\ASP.NET-Web-Forms-Intro-Demos\ViewStateDemo\bin\ViewStateDemo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\ASP.NET-Web-Forms-Intro-Demos\ViewStateDemo\bin\ViewStateDemo.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\ASP.NET-Web-Forms-Intro-Demos\ViewStateDemo\obj\Debug\3. ViewStateDemo.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\ASP.NET-Web-Forms-Intro-Demos\ViewStateDemo\obj\Debug\ViewStateDemo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\ASP.NET-Web-Forms-Intro-Demos\ViewStateDemo\obj\Debug\ViewStateDemo.pdb

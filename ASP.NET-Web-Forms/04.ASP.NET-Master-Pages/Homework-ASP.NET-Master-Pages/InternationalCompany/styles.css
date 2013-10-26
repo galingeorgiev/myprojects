@@ -1,0 +1,47 @@
+﻿body {
+}
+
+header,
+footer{
+    border:1px solid black;
+}
+
+header ul{
+    list-style-type:none;
+}
+
+header ul li{
+    display:inline-block;
+}
+
+footer p{
+    text-align:center;
+}
+
+#wrapper{
+    width:960px;
+    margin:0 auto;
+}
+
+#BodyContainer{
+    height:500px;
+    border:1px solid black;
+}
+
+#BNavigationSidebar{
+    float:left;
+    width:250px;
+    height:500px;
+    border:1px solid black;
+}
+
+#mainContainer{
+    float:left;
+    width:706px;
+    height:500px;
+    border:1px solid black;
+}
+
+p{
+    margin-top: 0;
+}

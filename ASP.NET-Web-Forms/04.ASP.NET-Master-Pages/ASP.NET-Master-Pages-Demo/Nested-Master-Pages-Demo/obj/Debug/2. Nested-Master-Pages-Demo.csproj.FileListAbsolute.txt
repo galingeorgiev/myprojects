@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\04.ASP.NET-Master-Pages\ASP.NET-Master-Pages-Demo\Nested-Master-Pages-Demo\bin\Nested-Master-Pages-Demo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\04.ASP.NET-Master-Pages\ASP.NET-Master-Pages-Demo\Nested-Master-Pages-Demo\bin\Nested-Master-Pages-Demo.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\04.ASP.NET-Master-Pages\ASP.NET-Master-Pages-Demo\Nested-Master-Pages-Demo\obj\Debug\2. Nested-Master-Pages-Demo.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\04.ASP.NET-Master-Pages\ASP.NET-Master-Pages-Demo\Nested-Master-Pages-Demo\obj\Debug\Nested-Master-Pages-Demo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\04.ASP.NET-Master-Pages\ASP.NET-Master-Pages-Demo\Nested-Master-Pages-Demo\obj\Debug\Nested-Master-Pages-Demo.pdb

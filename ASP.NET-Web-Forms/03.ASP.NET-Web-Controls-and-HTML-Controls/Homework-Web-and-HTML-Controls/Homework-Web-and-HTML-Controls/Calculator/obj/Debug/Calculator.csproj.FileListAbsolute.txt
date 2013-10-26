@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-Web-and-HTML-Controls\Calculator\bin\Calculator.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-Web-and-HTML-Controls\Calculator\bin\Calculator.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-Web-and-HTML-Controls\Calculator\bin\Calculator.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-Web-and-HTML-Controls\Calculator\obj\Debug\Calculator.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-Web-and-HTML-Controls\Calculator\obj\Debug\Calculator.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\02.ASP.NET-Web-Forms-Intro\Homework-ASP.NET-Web-Forms-Intro\Homework-Web-and-HTML-Controls\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\03.ASP.NET-Web-Controls-and-HTML-Controls\Homework-Web-and-HTML-Controls\Homework-Web-and-HTML-Controls\Calculator\bin\Calculator.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\03.ASP.NET-Web-Controls-and-HTML-Controls\Homework-Web-and-HTML-Controls\Homework-Web-and-HTML-Controls\Calculator\bin\Calculator.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\03.ASP.NET-Web-Controls-and-HTML-Controls\Homework-Web-and-HTML-Controls\Homework-Web-and-HTML-Controls\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\03.ASP.NET-Web-Controls-and-HTML-Controls\Homework-Web-and-HTML-Controls\Homework-Web-and-HTML-Controls\Calculator\obj\Debug\Calculator.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\03.ASP.NET-Web-Controls-and-HTML-Controls\Homework-Web-and-HTML-Controls\Homework-Web-and-HTML-Controls\Calculator\obj\Debug\Calculator.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\03.ASP.NET-Web-Controls-and-HTML-Controls\Homework-Web-and-HTML-Controls\Homework-Web-and-HTML-Controls\Calculator\bin\Calculator.dll.config
