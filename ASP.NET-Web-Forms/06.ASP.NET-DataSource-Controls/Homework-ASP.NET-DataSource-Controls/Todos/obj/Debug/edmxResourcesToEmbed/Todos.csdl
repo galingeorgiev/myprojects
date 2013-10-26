@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TodosDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="1" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Todos" Relationship="Self.FK__Todos__CategoryI__1273C1CD" FromRole="Categories" ToRole="Todos" />
+  </EntityType>
+  <EntityType Name="Todo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="1" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Text" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CategoryId" Type="Int32" />
+    <NavigationProperty Name="Category" Relationship="Self.FK__Todos__CategoryI__1273C1CD" FromRole="Todos" ToRole="Categories" />
+  </EntityType>
+  <Association Name="FK__Todos__CategoryI__1273C1CD">
+    <End Role="Categories" Type="Self.Category" Multiplicity="0..1" />
+    <End Role="Todos" Type="Self.Todo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Todos">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TodosDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categories" EntityType="Self.Category" />
+    <EntitySet Name="Todos" EntityType="Self.Todo" />
+    <AssociationSet Name="FK__Todos__CategoryI__1273C1CD" Association="Self.FK__Todos__CategoryI__1273C1CD">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="Todos" EntitySet="Todos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

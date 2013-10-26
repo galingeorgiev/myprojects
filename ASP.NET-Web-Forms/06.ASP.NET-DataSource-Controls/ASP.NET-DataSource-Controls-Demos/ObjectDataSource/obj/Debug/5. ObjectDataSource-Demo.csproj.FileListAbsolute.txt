@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\ObjectDataSource\bin\ObjectDataSource.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\ObjectDataSource\bin\ObjectDataSource.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\ObjectDataSource\obj\Debug\5. ObjectDataSource-Demo.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\ObjectDataSource\obj\Debug\ObjectDataSource.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\ObjectDataSource\obj\Debug\ObjectDataSource.pdb

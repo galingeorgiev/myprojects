@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\SqlDataSourceDemo\bin\SqlDataSourceDemo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\SqlDataSourceDemo\bin\SqlDataSourceDemo.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.pdb

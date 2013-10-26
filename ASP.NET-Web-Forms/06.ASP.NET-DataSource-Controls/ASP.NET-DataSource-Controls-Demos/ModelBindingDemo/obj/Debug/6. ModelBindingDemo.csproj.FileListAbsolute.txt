@@ -1,0 +1,7 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\ModelBindingDemo\bin\ModelBindingDemo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\ModelBindingDemo\bin\ModelBindingDemo.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\ModelBindingDemo\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\ModelBindingDemo\bin\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\ModelBindingDemo\obj\Debug\6. ModelBindingDemo.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\ModelBindingDemo\obj\Debug\ModelBindingDemo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\ModelBindingDemo\obj\Debug\ModelBindingDemo.pdb

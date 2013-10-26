@@ -1,0 +1,7 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\EFDataSourceEditableListView\bin\EntityDataSourceDemo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\EFDataSourceEditableListView\bin\EntityDataSourceDemo.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\EFDataSourceEditableListView\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\EFDataSourceEditableListView\bin\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\EFDataSourceEditableListView\obj\Debug\4. EFDataSourceEditableListView.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\EFDataSourceEditableListView\obj\Debug\EntityDataSourceDemo.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\ASP.NET-DataSource-Controls-Demos\EFDataSourceEditableListView\obj\Debug\EntityDataSourceDemo.pdb

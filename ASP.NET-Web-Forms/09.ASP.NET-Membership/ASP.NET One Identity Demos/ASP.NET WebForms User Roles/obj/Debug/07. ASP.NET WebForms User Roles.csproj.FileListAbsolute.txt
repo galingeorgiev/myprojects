@@ -1,0 +1,49 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\ASP.NET WebForms User Roles.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\ASP.NET WebForms User Roles.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\ASP.NET WebForms User Roles.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Antlr3.Runtime.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\AspNet.ScriptManager.jQuery.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Security.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Security.Google.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Web.Infrastructure.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Newtonsoft.Json.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Owin.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\System.Web.Optimization.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\System.Web.Providers.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\WebGrease.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Security.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Security.Google.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Newtonsoft.Json.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\obj\Debug\07. ASP.NET WebForms User Roles.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\obj\Debug\ASP.NET WebForms User Roles.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\09.ASP.NET-Membership\ASP.NET One Identity Demos\ASP.NET WebForms User Roles\obj\Debug\ASP.NET WebForms User Roles.pdb

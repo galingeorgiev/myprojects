@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word.Model\bin\Debug\Word.Model.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word.Model\bin\Debug\Word.Model.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word.Model\obj\Debug\Word.Model.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word.Model\obj\Debug\Word.Model.pdb

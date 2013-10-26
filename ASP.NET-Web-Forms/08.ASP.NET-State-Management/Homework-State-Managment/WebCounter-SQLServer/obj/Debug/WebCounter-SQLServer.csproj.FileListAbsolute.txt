@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\08.ASP.NET-State-Management\Homework-State-Managment\WebCounter-SQLServer\obj\Debug\WebCounter-SQLServer.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\08.ASP.NET-State-Management\Homework-State-Managment\WebCounter-SQLServer\bin\WebCounter-SQLServer.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\08.ASP.NET-State-Management\Homework-State-Managment\WebCounter-SQLServer\bin\WebCounter-SQLServer.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\08.ASP.NET-State-Management\Homework-State-Managment\WebCounter-SQLServer\bin\WebCounter-SQLServer.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\08.ASP.NET-State-Management\Homework-State-Managment\WebCounter-SQLServer\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\08.ASP.NET-State-Management\Homework-State-Managment\WebCounter-SQLServer\bin\WebCounter.Data.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\08.ASP.NET-State-Management\Homework-State-Managment\WebCounter-SQLServer\bin\WebCounter.Model.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\08.ASP.NET-State-Management\Homework-State-Managment\WebCounter-SQLServer\bin\WebCounter.Data.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\08.ASP.NET-State-Management\Homework-State-Managment\WebCounter-SQLServer\bin\WebCounter.Model.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\08.ASP.NET-State-Management\Homework-State-Managment\WebCounter-SQLServer\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\08.ASP.NET-State-Management\Homework-State-Managment\WebCounter-SQLServer\obj\Debug\WebCounter-SQLServer.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\08.ASP.NET-State-Management\Homework-State-Managment\WebCounter-SQLServer\obj\Debug\WebCounter-SQLServer.pdb

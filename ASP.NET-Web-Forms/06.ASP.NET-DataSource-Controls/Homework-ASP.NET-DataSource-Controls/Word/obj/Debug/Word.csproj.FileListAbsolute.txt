@@ -1,0 +1,12 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word\bin\Word.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word\bin\Word.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word\bin\Word.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word\obj\Debug\Word.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word\obj\Debug\Word.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word\obj\Debug\Word.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word\bin\Word.Data.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word\bin\Word.Model.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word\bin\Word.Data.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word\bin\Word.Model.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Word\bin\EntityFramework.xml

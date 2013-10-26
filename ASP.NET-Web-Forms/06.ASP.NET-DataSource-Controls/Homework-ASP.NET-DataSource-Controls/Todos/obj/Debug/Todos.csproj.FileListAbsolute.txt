@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Todos\bin\Todos.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Todos\bin\Todos.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Todos\bin\Todos.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Todos\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Todos\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Todos\obj\Debug\Todos.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Todos\obj\Debug\Todos.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\06.ASP.NET-DataSource-Controls\Homework-ASP.NET-DataSource-Controls\Todos\obj\Debug\Todos.csprojResolveAssemblyReference.cache
