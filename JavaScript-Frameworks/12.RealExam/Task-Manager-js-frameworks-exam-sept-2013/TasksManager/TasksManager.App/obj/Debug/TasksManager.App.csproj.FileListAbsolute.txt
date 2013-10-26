@@ -1,0 +1,60 @@
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.App.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.App.pdb
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\EntityFramework.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\Microsoft.Web.Infrastructure.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\Newtonsoft.Json.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Net.Http.Formatting.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Web.Http.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Web.Http.WebHost.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.Data.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.Models.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.Data.pdb
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.Models.pdb
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\EntityFramework.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\Newtonsoft.Json.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Net.Http.Formatting.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Web.Http.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Web.Http.WebHost.xml
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.pdb
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.App.dll
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.App.pdb
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\Microsoft.Web.Infrastructure.dll
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\Newtonsoft.Json.dll
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Net.Http.Formatting.dll
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Web.Http.dll
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Web.Http.WebHost.dll
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.Data.dll
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.Models.dll
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.Data.pdb
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.Models.pdb
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\Newtonsoft.Json.xml
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Net.Http.Formatting.xml
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Web.Http.xml
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Web.Http.WebHost.xml
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.dll
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.App.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.App.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\Microsoft.Web.Infrastructure.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\Newtonsoft.Json.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Net.Http.Formatting.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Web.Http.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Web.Http.WebHost.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.Data.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.Models.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.Data.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\TasksManager.Models.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\Newtonsoft.Json.xml
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Net.Http.Formatting.xml
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Web.Http.xml
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\bin\System.Web.Http.WebHost.xml
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.pdb

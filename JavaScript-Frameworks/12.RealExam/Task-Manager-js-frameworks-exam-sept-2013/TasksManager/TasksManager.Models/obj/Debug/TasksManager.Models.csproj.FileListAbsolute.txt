@@ -1,0 +1,15 @@
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\bin\Debug\TasksManager.Models.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\bin\Debug\TasksManager.Models.pdb
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.pdb
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\bin\Debug\TasksManager.Models.dll
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\bin\Debug\TasksManager.Models.pdb
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.dll
+D:\Telerik Academy\Telerik\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\bin\Debug\TasksManager.Models.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\bin\Debug\TasksManager.Models.pdb
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.dll
+D:\Telerik Academy\Telerik Projects\myprojects\JavaScript-Frameworks\12.RealExam\Task-Manager-js-frameworks-exam-sept-2013\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.pdb

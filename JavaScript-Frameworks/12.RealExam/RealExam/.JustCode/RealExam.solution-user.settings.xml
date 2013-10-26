@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="6333c5d4-005e-4f60-b96a-f7156215f756">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>RealExam/Content/themes/base/minified/jquery-ui.min.css</FileRelativePath>
+        <ProjectRelativePath>RealExam/RealExam.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>17064505958358012336</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>RealExam/Content/themes/base/minified/jquery.ui.datepicker.min.css</FileRelativePath>
+        <ProjectRelativePath>RealExam/RealExam.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>13384481137087175592</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

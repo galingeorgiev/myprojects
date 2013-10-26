@@ -1,0 +1,11 @@
+﻿<form id="register-form">
+    <fieldset class="k-block k-shadow">
+        <legend>Create new TODO</legend>
+        <label class="c-label" for="tb-text">TODO Text</label>
+        <input data-bind="value: text" type="text" id="tb-text" class="k-textbox" />
+        <br />
+
+        <input type="submit" data-bind="click: save" class="k-button" value="Create" />
+        <span class="err-msg" data-bind="text: errMsg"></span>
+    </fieldset>
+</form>

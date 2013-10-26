@@ -1,0 +1,57 @@
+﻿<fieldset class="k-block k-shadow">
+    <legend>Get appointment by date</legend>
+
+    <label class="c-label" for="tb-day">Day</label>
+    <input data-bind="value: day" type="text" id="tb-day" class="k-textbox" pattern="^[0-9]{2}$" title="Duration must be between 1 - 31." required="required" />
+    <br />
+    <label class="c-label" for="tb-month">Month</label>
+    <input data-bind="value: month" type="text" id="tb-month" class="k-textbox" pattern="^[0-9]{2}$" title="Duration must be between 1 - 12." required="required" />
+    <br />
+    <label class="c-label" for="tb-year">Year</label>
+    <input data-bind="value: year" type="text" id="tb-year" class="k-textbox" pattern="^[0-9]{4}$" title="Duration must be between 1900 - 2020." required="required" />
+    <button data-bind="click: create" class="k-button">Get</button>
+    <span class="err-msg" data-bind="text: errMsg"></span>
+</fieldset>
+
+<h4>By date appointments</h4>
+<div data-role="grid"
+    data-sortable="true"
+    data-editable="true"
+    data-pageable="{pageSize: '5'}"
+    data-columns='[{
+                    field: "subject",
+                    width: "20%",
+                    title: "Subject",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "description",
+                    width: "25%",
+                    title: "Description",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "createdAt",
+                    width: "10%",
+                    title: "Created At",
+                    type: "date",
+                    format: "{0:dd/MM/yyyy}",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "appointmentDate",
+                    width: "15%",
+                    title: "Appointment Date",
+                    type: "date",
+                    format: "{0:dd/MM/yyyy}",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "duration",
+                    width: "10%",
+                    title: "Duration",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "state",
+                    width: "10%",
+                    title: "State",
+                    attributes: { style: "text-align:center" }
+                    }]',
+                    data-bind="source: data">
+</div>

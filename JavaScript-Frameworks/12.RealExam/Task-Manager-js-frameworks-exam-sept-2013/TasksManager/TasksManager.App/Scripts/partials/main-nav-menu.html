@@ -1,0 +1,22 @@
+﻿<div id="main-nav-menu">
+    <ul id="menu">
+        <li>Appointments
+            <ul>
+                <li data-bind="click: newAppontment">Create new</li>
+                <li data-bind="click: allAppointments">Show all</li>
+                <li data-bind="click: comming">Show comming</li>
+                <li data-bind="click: byDate">Get by date</li>
+                <li data-bind="click: today">Show today</li>
+                <li data-bind="click: current">Show current</li>
+            </ul>
+        </li>
+        <li>Lists
+            <ul>
+                <li data-bind="click: newTodo">Create new</li>
+                <li data-bind="click: allTodos">Show all</li>
+            </ul>
+        </li>
+        <li data-bind="click: logout">Logout</li>
+    </ul>
+    <span data-bind="text: errMsg"></span>
+</div>

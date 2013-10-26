@@ -1,0 +1,19 @@
+﻿<fieldset class="k-block k-shadow">
+    <legend>Create new appointment</legend>
+    <label class="c-label" for="tb-subject">Subject</label>
+    <input data-bind="value: subject" type="text" id="tb-subject" class="k-textbox" pattern="^[A-Za-z0-9 _]{6,100}$" title="Subject can consist lowercase, uppercase letters and underscore." required="required" />
+    <br />
+    <label class="c-label" for="tb-description">Description</label>
+    <input data-bind="value: description" type="text" id="tb-description" class="k-textbox" pattern="^[A-Za-z0-9 _]{6,100}$" title="Description can consist lowercase, uppercase letters and underscore." required="required" />
+    <br />
+    <label class="c-label" for="tb-date">Date</label>
+    <span id="appointment-date">
+        <input data-role="datepicker" id="tb-date" data-bind="value: appointmentDate" />
+    </span>
+    <br />
+    <label class="c-label" for="tb-duration">Duration</label>
+    <input data-bind="value: duration" type="text" id="tb-duration" class="k-textbox" pattern="^[0-9]{1,3}$" title="Duration must be between 1 - 999  minutes." required="required" />
+
+    <button data-bind="click: create" class="k-button">Create</button>
+    <span class="err-msg" data-bind="text: errMsg"></span>
+</fieldset>

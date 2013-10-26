@@ -1,0 +1,52 @@
+﻿body {
+}
+
+#wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#header,
+#main-container,
+#transaction-logs,
+#footer {
+    width: 100%;
+    margin: 0;
+}
+
+.err-msg {
+    color: red;
+    font-size: 18px;
+}
+
+.c-label {
+    display: inline-block;
+    width: 80px;
+}
+
+.k-button {
+    margin-left: 20px;
+}
+
+.k-textbox {
+    margin: 5px;
+}
+
+#create-account-form {
+    width: 400px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#tb-title,
+#tb-text{
+    width:70%;
+    height:50px;
+    overflow:hidden;
+}
+
+#appointment-date,
+#get-appointment-date{
+    width:100px;
+    margin-left:5px;
+}

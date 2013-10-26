@@ -1,0 +1,16 @@
+﻿<form id="register-form">
+    <fieldset class="k-block k-shadow">
+        <legend>Register</legend>
+        <label class="c-label" for="tb-username">Username</label>
+        <input data-bind="value: username" type="text" id="tb-username" class="k-textbox" pattern="^[A-Za-z0-9_]{6,30}$" title="Username can consist lowercase, uppercase letters and underscore." required="required" />
+        <br />
+        <label class="c-label" for="tb-password">Password</label>
+        <input data-bind="value: password" type="password" id="tb-password" class="k-textbox" />
+        <br />
+        <label class="c-label" for="tb-email">E-mail</label>
+        <input data-bind="value: email" type="text" id="tb-email" class="k-textbox" />
+
+        <input type="submit" data-bind="click: register" class="k-button" value="Register" />
+        <span class="err-msg" data-bind="text: errMsg"></span>
+    </fieldset>
+</form>

@@ -1,0 +1,32 @@
+﻿<h4>All Lists</h4>
+<div data-role="grid"
+    data-sortable="true"
+    data-editable="true"
+    data-pageable="{pageSize: '5'}"
+    data-columns='[{
+                    field: "title",
+                    width: "60%",
+                    title: "Text",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    "command": [{name: "Details", click: kmodel.ShowDetails, text: "Show Details"},
+                                {name: "AddTODO", click: kmodel.Add, text: "AddTODO"}]}]',
+                    data-bind="source: todos">
+</div>
+
+<script>
+    var kmodel = new kendo.observable({
+        ShowDetails: function (e) {
+            e.preventDefault();
+
+            var dataItem = this.dataItem($(e.currentTarget).closest("tr"));
+            window.location.href = "#/todo-lists/" + dataItem.id + '/todos/show';
+        },
+        Add: function (e) {
+            e.preventDefault();
+
+            var dataItem = this.dataItem($(e.currentTarget).closest("tr"));
+            window.location.href = "#/todo-lists/" + dataItem.id + '/create/todo';
+        }
+    });
+</script>

@@ -1,0 +1,42 @@
+﻿<h4>All appointments</h4>
+<div data-role="grid"
+    data-sortable="true"
+    data-editable="true"
+    data-pageable="{pageSize: '5'}"
+    data-columns='[{
+                    field: "subject",
+                    width: "20%",
+                    title: "Subject",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "description",
+                    width: "25%",
+                    title: "Description",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "createdAt",
+                    width: "10%",
+                    title: "Created At",
+                    type: "date",
+                    format: "{0:dd/MM/yyyy}",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "appointmentDate",
+                    width: "15%",
+                    title: "Appointment Date",
+                    type: "date",
+                    format: "{0:dd/MM/yyyy}",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "duration",
+                    width: "10%",
+                    title: "Duration",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "state",
+                    width: "10%",
+                    title: "State",
+                    attributes: { style: "text-align:center" }
+                    }]',
+                    data-bind="source: appointments">
+</div>

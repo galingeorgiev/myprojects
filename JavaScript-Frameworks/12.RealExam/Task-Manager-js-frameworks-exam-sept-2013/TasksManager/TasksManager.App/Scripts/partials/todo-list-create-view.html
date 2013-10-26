@@ -1,0 +1,11 @@
+﻿<form id="register-form">
+    <fieldset class="k-block k-shadow">
+        <legend>Create new TODO list</legend>
+        <label class="c-label" for="tb-title">Title</label>
+        <input data-bind="value: title" type="text" id="tb-title" class="k-textbox" pattern="^[A-Za-z0-9_ ]{6,100}$" title="Title can consist lowercase, uppercase letters and underscore. Lenght is between 6 and 100 characters." />
+        <br />
+
+        <input type="submit" data-bind="click: save" class="k-button" value="Create" />
+        <span class="err-msg" data-bind="text: errMsg"></span>
+    </fieldset>
+</form>
