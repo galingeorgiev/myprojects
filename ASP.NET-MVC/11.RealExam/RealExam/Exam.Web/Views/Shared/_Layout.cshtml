@@ -1,0 +1,66 @@
+﻿@using Microsoft.AspNet.Identity
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Styles.Render("~/Content/kendo")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/kendo")
+</head>
+<body>
+    <div class="container navbar-fixed-top">
+        @(Html.Kendo().Menu()
+                .Name("Kendo-Menu")
+                .Items(items =>
+                    {
+                        if (User.Identity.IsAuthenticated)
+                        {
+                            items.Add().Text("Ticketing System").Action("Index", "Home");
+                            items.Add().Text("Home").Action("Index", "Home");
+                            items.Add().Text("AddTicket").Action("Create", "Tickets");
+                            items.Add().Text("View all tickets").Action("TicketsList", "Tickets");
+                            
+                            if (User.IsInRole("Admin"))
+                            {
+                                items.Add().Text("Administartion").Items(children => 
+                                {
+                                    children.Add().Text("Comments Admin").Action("Index", "CommentsAdmin");
+                                    children.Add().Text("Categories Admin").Action("Index", "CategoriesAdmin");
+                                });
+                            }
+
+                            items.Add().Text("Logout").HtmlAttributes(new { onclick = "getElementById('logoutForm').submit()", style = "float:right" });
+                            items.Add().Text("Hello, " + User.Identity.GetUserName() + "!").Action("Manage", "Account").HtmlAttributes(new { style = "float:right" });
+                        }
+                        else
+                        {
+                            items.Add().Text("Ticketing System").Action("Index", "Home");
+                            items.Add().Text("Home").Action("Index", "Home");
+                            items.Add().Text("Login").Action("Login", "Account");
+                            items.Add().Text("Register").Action("Register", "Account");
+                        }
+                    }))
+    </div>
+
+    <div class="container">
+        <h1>Ticketing System</h1>
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    @using (Html.BeginForm("LogOff", "Account", new { area = "" }, FormMethod.Post, new { id = "logoutForm" }))
+    {
+        @Html.AntiForgeryToken()
+    }
+</body>
+</html>

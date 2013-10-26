@@ -1,0 +1,43 @@
+﻿@model Exam.Web.Models.CategoryViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+@(Html.Kendo().Grid<Exam.Web.Models.CategoryViewModel>()
+    .Name("Categories-grid")
+    .Editable()
+    .Sortable()
+    .Pageable()
+    .Filterable()
+    .Columns(col =>
+    {
+        col.Bound(c => c.Name);
+        col.Command(command => { command.Edit(); command.Destroy(); });
+    })
+    .DataSource(dataSource => dataSource
+        .Ajax()
+        .PageSize(10)
+        .Model(model => { model.Id(c => c.Id); model.Field(c => c.Name).Editable(true); })
+        .Read(read => read.Action("Read", "CategoriesAdmin"))
+        .Update(update => update.Action("Edit", "CategoriesAdmin"))
+        .Destroy(delete => delete.Action("Delete", "CategoriesAdmin"))
+        .ServerOperation(true)
+        .Events(events => events.Error("error_handler"))
+    )
+)
+
+<script type="text/javascript">
+    function error_handler(e) {
+        if (e.errors) {
+            var message = "Errors:\n";
+            $.each(e.errors, function (key, value) {
+                if ('errors' in value) {
+                    $.each(value.errors, function () {
+                        message += this + "\n";
+                    });
+                }
+            });
+            alert(message);
+        }
+    }
+</script>

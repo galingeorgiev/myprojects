@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Exam.Web.Models.TicketListReturnViewModel>
+@{
+    ViewBag.Title = "TicketsList";
+}
+
+@using (Html.BeginForm("Search", "Tickets", FormMethod.Post))
+{
+    <p>Manufacturers</p>
+    @(Html.Kendo().DropDownList()
+        .Name("SearchedCategory")
+        .OptionLabel("Select category...")
+        .DataTextField("Name")
+        .DataValueField("Id")
+        .DataSource(dataSource =>
+        {
+            dataSource.Read(read => read.Action("CategoriesList", "Tickets"));
+        })
+    )
+
+    <div>
+        <input type="submit" name="Search for ticket" value="Search" />
+    </div>
+}
+
+<div class="row">
+    <div class="span3"><strong>Title</strong></div>
+    <div class="span2"><strong>Category</strong></div>
+    <div class="span2"><strong>Author</strong></div>
+    <div class="span2"><strong>Priority</strong></div>
+    <div class="span2"></div>
+</div>
+
+<script type="text/x-kendo-tmpl" id="template">
+    <div class="row">
+        <div class="span3"><strong>#:Title#</strong></div>
+        <div class="span2"><strong>#:Category#</strong></div>
+        <div class="span2"><strong>#:Author#</strong></div>
+        <div class="span2"><strong>#:Priority#</strong></div>
+        <div class="span2"><a class="k-button" href="/Tickets/Details/#:Id#">See details</a></div>
+    </div>
+</script>
+
+@(Html.Kendo().ListView<Exam.Web.Models.TicketListReturnViewModel>(Model)
+    .Name("listView")
+    .TagName("div")
+    .ClientTemplateId("template")
+    .DataSource(dataSource =>
+    {
+        dataSource.Read(read => read.Action("AllTickets", "Tickets"));
+        dataSource.PageSize(5);
+        dataSource.ServerOperation(true);
+    })
+    .Pageable()
+)
+

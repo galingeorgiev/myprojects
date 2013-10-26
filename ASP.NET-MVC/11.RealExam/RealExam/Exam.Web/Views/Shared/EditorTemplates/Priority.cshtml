@@ -1,0 +1,13 @@
+﻿@using Exam.Web.Controllers
+@using Exam.Models
+//@model Exam.Models.Priority
+
+@{
+    Layout = null;
+}
+
+@(Html.Kendo()
+    .DropDownList()
+    .Name("Status")
+    .BindTo(EnumsController.EnumToDropDownList(typeof(Priority)))
+)

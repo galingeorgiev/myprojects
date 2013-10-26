@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Exam.Web.Models.TicketBasicViewModel>
+
+@{
+    ViewBag.Title = "Home Page";  
+}
+
+<p>Admin account is: <strong>Username: admin and password: admin123</strong></p>
+
+<div class="row-fluid">
+    @for (int i = 1; i <= 6; i++)
+    {
+        var currentTicket = Model.ElementAt(i - 1);
+
+        <div class="span4">
+            <h3>@currentTicket.Title</h3>
+            <p><strong>Category:</strong> @currentTicket.Category</p>
+            <p><strong>Author:</strong> @currentTicket.Author</p>
+            <p>@currentTicket.CommentsCount comment(s)</p>
+            <br />
+            <a class="k-button" href="/Tickets/Details/@currentTicket.Id">More details...</a>
+        </div>
+
+        if (i % 3 == 0 && i != 6)
+        {
+            @:</div>
+            @:<div class="row-fluid">
+        }
+    }
+</div>
