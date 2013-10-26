@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\12.ASP.NET-AJAX\Homework-ASP.NET-AJAX\EmployeesAndOrders\obj\Debug\EmployeesAndOrders.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\12.ASP.NET-AJAX\Homework-ASP.NET-AJAX\EmployeesAndOrders\bin\EmployeesAndOrders.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\12.ASP.NET-AJAX\Homework-ASP.NET-AJAX\EmployeesAndOrders\bin\EmployeesAndOrders.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\12.ASP.NET-AJAX\Homework-ASP.NET-AJAX\EmployeesAndOrders\bin\EmployeesAndOrders.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\12.ASP.NET-AJAX\Homework-ASP.NET-AJAX\EmployeesAndOrders\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\12.ASP.NET-AJAX\Homework-ASP.NET-AJAX\EmployeesAndOrders\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\12.ASP.NET-AJAX\Homework-ASP.NET-AJAX\EmployeesAndOrders\obj\Debug\EmployeesAndOrders.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\12.ASP.NET-AJAX\Homework-ASP.NET-AJAX\EmployeesAndOrders\obj\Debug\EmployeesAndOrders.pdb

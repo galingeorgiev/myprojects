@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20623.1 VSUPREVIEW
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisterForm", "RegisterForm\RegisterForm.csproj", "{EDF05810-C1D4-454A-9402-D75F89A2A85E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisterFormGrouping", "RegisterFormGrouping\RegisterFormGrouping.csproj", "{90B934FB-2651-45CC-8EE4-21E732D3C462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF05810-C1D4-454A-9402-D75F89A2A85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF05810-C1D4-454A-9402-D75F89A2A85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF05810-C1D4-454A-9402-D75F89A2A85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF05810-C1D4-454A-9402-D75F89A2A85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B934FB-2651-45CC-8EE4-21E732D3C462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B934FB-2651-45CC-8EE4-21E732D3C462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B934FB-2651-45CC-8EE4-21E732D3C462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B934FB-2651-45CC-8EE4-21E732D3C462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

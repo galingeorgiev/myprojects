@@ -1,0 +1,19 @@
+﻿.Image-Galery{
+    border:1px solid black;
+}
+
+#Content-Container{
+    width:505px;
+    margin: 0 auto;
+}
+
+.Image-Info{
+    text-align:center;
+    margin:auto auto;
+    display:block;
+}
+
+#Buttons-Container{
+    width:150px;
+    margin:0 auto;
+}

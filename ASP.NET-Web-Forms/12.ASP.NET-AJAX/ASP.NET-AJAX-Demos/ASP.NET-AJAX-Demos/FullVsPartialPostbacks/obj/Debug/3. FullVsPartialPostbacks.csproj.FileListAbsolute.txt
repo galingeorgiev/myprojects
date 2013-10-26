@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\12.ASP.NET-AJAX\ASP.NET-AJAX-Demos\ASP.NET-AJAX-Demos\FullVsPartialPostbacks\bin\FullVsPartialPostbacks.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\12.ASP.NET-AJAX\ASP.NET-AJAX-Demos\ASP.NET-AJAX-Demos\FullVsPartialPostbacks\bin\FullVsPartialPostbacks.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\12.ASP.NET-AJAX\ASP.NET-AJAX-Demos\ASP.NET-AJAX-Demos\FullVsPartialPostbacks\obj\Debug\3. FullVsPartialPostbacks.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\12.ASP.NET-AJAX\ASP.NET-AJAX-Demos\ASP.NET-AJAX-Demos\FullVsPartialPostbacks\obj\Debug\FullVsPartialPostbacks.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\12.ASP.NET-AJAX\ASP.NET-AJAX-Demos\ASP.NET-AJAX-Demos\FullVsPartialPostbacks\obj\Debug\FullVsPartialPostbacks.pdb

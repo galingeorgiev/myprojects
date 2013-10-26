@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20623.1 VSUPREVIEW
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesAndOrders", "EmployeesAndOrders\EmployeesAndOrders.csproj", "{F60BFD0D-A3BF-43D4-92AF-1284A96792E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatApplication", "ChatApplication\ChatApplication.csproj", "{4656B020-C526-4BE3-A465-8BC467E5FD71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoAlbum", "PhotoAlbum\PhotoAlbum.csproj", "{25A076F8-5C96-4823-B323-81B45D6D682F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{EABCABF4-226A-4B19-A2CB-16777A20781F}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60BFD0D-A3BF-43D4-92AF-1284A96792E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60BFD0D-A3BF-43D4-92AF-1284A96792E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60BFD0D-A3BF-43D4-92AF-1284A96792E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60BFD0D-A3BF-43D4-92AF-1284A96792E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4656B020-C526-4BE3-A465-8BC467E5FD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4656B020-C526-4BE3-A465-8BC467E5FD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4656B020-C526-4BE3-A465-8BC467E5FD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4656B020-C526-4BE3-A465-8BC467E5FD71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A076F8-5C96-4823-B323-81B45D6D682F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A076F8-5C96-4823-B323-81B45D6D682F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A076F8-5C96-4823-B323-81B45D6D682F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A076F8-5C96-4823-B323-81B45D6D682F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

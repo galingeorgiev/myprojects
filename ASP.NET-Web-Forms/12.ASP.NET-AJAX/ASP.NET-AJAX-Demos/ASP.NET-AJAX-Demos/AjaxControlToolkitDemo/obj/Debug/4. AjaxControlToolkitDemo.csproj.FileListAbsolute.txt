@@ -1,0 +1,1 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\12.ASP.NET-AJAX\ASP.NET-AJAX-Demos\ASP.NET-AJAX-Demos\AjaxControlToolkitDemo\obj\Debug\4. AjaxControlToolkitDemo.csprojResolveAssemblyReference.cache

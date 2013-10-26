@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\13.User-Controls\Homework-User-Controls\UserControl\obj\Debug\UserControl.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\13.User-Controls\Homework-User-Controls\UserControl\bin\UserControl.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\13.User-Controls\Homework-User-Controls\UserControl\bin\UserControl.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\13.User-Controls\Homework-User-Controls\UserControl\bin\UserControl.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\13.User-Controls\Homework-User-Controls\UserControl\obj\Debug\UserControl.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\13.User-Controls\Homework-User-Controls\UserControl\obj\Debug\UserControl.pdb

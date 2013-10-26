@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\11.Validation-Controls\Homework-Validation-Controls\RegisterForm\bin\RegisterForm.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\11.Validation-Controls\Homework-Validation-Controls\RegisterForm\bin\RegisterForm.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\11.Validation-Controls\Homework-Validation-Controls\RegisterForm\bin\RegisterForm.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\11.Validation-Controls\Homework-Validation-Controls\RegisterForm\obj\Debug\RegisterForm.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\11.Validation-Controls\Homework-Validation-Controls\RegisterForm\obj\Debug\RegisterForm.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\11.Validation-Controls\Homework-Validation-Controls\RegisterForm\obj\Debug\RegisterForm.pdb

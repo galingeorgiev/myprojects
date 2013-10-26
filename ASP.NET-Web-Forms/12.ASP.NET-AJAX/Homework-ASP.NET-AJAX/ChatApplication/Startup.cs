@@ -1,0 +1,10 @@
+using Owin;
+
+namespace ChatApplication
+{
+    public partial class Startup {
+        public void Configuration(IAppBuilder app) {
+            ConfigureAuth(app);
+        }
+    }
+}
