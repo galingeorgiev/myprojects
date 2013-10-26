@@ -1,0 +1,7 @@
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\09.BooksDB\bin\Debug\09.BooksDB.exe.config
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\09.BooksDB\bin\Debug\09.BooksDB.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\09.BooksDB\bin\Debug\09.BooksDB.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\09.BooksDB\bin\Debug\MySql.Data.dll
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\09.BooksDB\obj\Debug\09.BooksDB.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\09.BooksDB\obj\Debug\09.BooksDB.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\09.BooksDB\obj\Debug\09.BooksDB.pdb

@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\08.SearchProductsByName\bin\Debug\08.SearchProductsByName.exe.config
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\08.SearchProductsByName\bin\Debug\08.SearchProductsByName.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\08.SearchProductsByName\bin\Debug\08.SearchProductsByName.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\08.SearchProductsByName\obj\Debug\08.SearchProductsByName.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\08.SearchProductsByName\obj\Debug\08.SearchProductsByName.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\08.SearchProductsByName\obj\Debug\08.SearchProductsByName.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\SqlParameters\bin\Debug\SqlParametersDemo.exe.config
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\SqlParameters\bin\Debug\SqlParametersDemo.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\SqlParameters\bin\Debug\SqlParametersDemo.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\SqlParameters\obj\x86\Debug\SqlParametersDemo.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\SqlParameters\obj\x86\Debug\SqlParametersDemo.pdb

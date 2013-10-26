@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\MS-Access\bin\Debug\_4.MS_access.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\MS-Access\bin\Debug\_4.MS_access.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\MS-Access\obj\x86\Debug\_4.MS_access.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\MS-Access\obj\x86\Debug\_4.MS_access.pdb

@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\07.AppendNewRowToExcelFile\bin\Debug\07.AppendNewRowToExcelFile.exe.config
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\07.AppendNewRowToExcelFile\bin\Debug\07.AppendNewRowToExcelFile.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\07.AppendNewRowToExcelFile\bin\Debug\07.AppendNewRowToExcelFile.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\07.AppendNewRowToExcelFile\obj\Debug\07.AppendNewRowToExcelFile.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\07.AppendNewRowToExcelFile\obj\Debug\07.AppendNewRowToExcelFile.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\07.AppendNewRowToExcelFile\obj\Debug\07.AppendNewRowToExcelFile.pdb

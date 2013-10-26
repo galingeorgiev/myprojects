@@ -1,0 +1,10 @@
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\10.BooksDBSQLite\bin\Debug\10.BooksDBSQLite.exe.config
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\10.BooksDBSQLite\bin\Debug\x64\SQLite.Interop.dll
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\10.BooksDBSQLite\bin\Debug\x86\SQLite.Interop.dll
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\10.BooksDBSQLite\bin\Debug\10.BooksDBSQLite.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\10.BooksDBSQLite\bin\Debug\10.BooksDBSQLite.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\10.BooksDBSQLite\bin\Debug\System.Data.SQLite.dll
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\10.BooksDBSQLite\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\10.BooksDBSQLite\obj\Debug\10.BooksDBSQLite.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\10.BooksDBSQLite\obj\Debug\10.BooksDBSQLite.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\10.BooksDBSQLite\obj\Debug\10.BooksDBSQLite.pdb

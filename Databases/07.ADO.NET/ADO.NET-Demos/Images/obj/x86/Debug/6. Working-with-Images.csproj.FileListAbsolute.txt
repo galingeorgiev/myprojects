@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\Images\bin\Debug\_6.Images.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\Images\bin\Debug\_6.Images.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\Images\obj\x86\Debug\6. Working-with-Images.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\Images\obj\x86\Debug\_6.Images.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\Images\obj\x86\Debug\_6.Images.pdb

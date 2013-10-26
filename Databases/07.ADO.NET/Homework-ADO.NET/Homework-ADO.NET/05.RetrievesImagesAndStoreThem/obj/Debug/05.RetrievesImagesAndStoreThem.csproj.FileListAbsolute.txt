@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\05.RetrievesImagesAndStoreThem\bin\Debug\05.RetrievesImagesAndStoreThem.exe.config
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\05.RetrievesImagesAndStoreThem\bin\Debug\05.RetrievesImagesAndStoreThem.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\05.RetrievesImagesAndStoreThem\bin\Debug\05.RetrievesImagesAndStoreThem.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\05.RetrievesImagesAndStoreThem\obj\Debug\05.RetrievesImagesAndStoreThem.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\05.RetrievesImagesAndStoreThem\obj\Debug\05.RetrievesImagesAndStoreThem.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\05.RetrievesImagesAndStoreThem\obj\Debug\05.RetrievesImagesAndStoreThem.csprojResolveAssemblyReference.cache

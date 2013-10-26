@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\Command-and-DataReader\bin\Debug\_2._7.Data_Access_with_ADO.NET.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\Command-and-DataReader\bin\Debug\_2._7.Data_Access_with_ADO.NET.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\Command-and-DataReader\obj\x86\Debug\_2._7.Data_Access_with_ADO.NET.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\Command-and-DataReader\obj\x86\Debug\_2._7.Data_Access_with_ADO.NET.pdb

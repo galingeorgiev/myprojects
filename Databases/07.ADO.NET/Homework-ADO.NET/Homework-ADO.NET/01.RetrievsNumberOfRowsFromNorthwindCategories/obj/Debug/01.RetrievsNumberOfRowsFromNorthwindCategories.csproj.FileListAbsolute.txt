@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\01.RetrievsNumberOfRowsFromNorthwindCategories\bin\Debug\01.RetrievsNumberOfRowsFromNorthwindCategories.exe.config
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\01.RetrievsNumberOfRowsFromNorthwindCategories\obj\Debug\01.RetrievsNumberOfRowsFromNorthwindCategories.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\01.RetrievsNumberOfRowsFromNorthwindCategories\bin\Debug\01.RetrievsNumberOfRowsFromNorthwindCategories.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\01.RetrievsNumberOfRowsFromNorthwindCategories\bin\Debug\01.RetrievsNumberOfRowsFromNorthwindCategories.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\01.RetrievsNumberOfRowsFromNorthwindCategories\obj\Debug\01.RetrievsNumberOfRowsFromNorthwindCategories.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\01.RetrievsNumberOfRowsFromNorthwindCategories\obj\Debug\01.RetrievsNumberOfRowsFromNorthwindCategories.pdb

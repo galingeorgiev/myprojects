@@ -1,0 +1,502 @@
+--Task 1
+--Create a database with two tables: Persons(Id(PK), FirstName, LastName, SSN)
+--and Accounts(Id(PK), PersonId(FK), Balance). Insert few records for testing.
+--Write a stored procedure that selects the full names of all persons.
+
+create database PeopleAccounts
+
+GO
+
+use PeopleAccounts
+
+create table Persons
+(
+Id int primary key identity(1,1) not null,
+FirstName nvarchar(50) not null,
+LastName nvarchar(50) not null,
+SSN int not null
+)
+
+GO
+
+create table Accounts
+(
+Id int primary key identity(1,1) not null,
+PersonID int not null foreign key (PersonID) references Persons(Id),
+Balance int not null
+)
+
+GO
+
+insert into Persons(FirstName, LastName, SSN)
+values('Svetlin', 'Nakov', 12465),
+	('Nikolay', 'Kostov', 45354),
+	('Doncho', 'Minkov', 54645),
+	('Georgi', 'Georgiev', 80843),
+	('Ivan', 'Jekov', 12060),
+	('Pesho', 'Petrov', 47893),
+	('Petkan', 'Petkanov', 45347),
+	('Michail', 'Petrov', 90222)
+
+GO
+
+insert into Accounts(PersonID, Balance)
+values(1, 10000),
+	(2, 5000),
+	(3, 4000),
+	(4, 3000),
+	(5, 2000),
+	(6, 7000),
+	(7, 8000),
+	(8, 9000)
+
+GO
+
+create procedure usp_GetNames
+as
+select p.FirstName + ' ' + p.LastName as 'FullName'
+from Persons p
+
+GO
+
+exec usp_GetNames
+
+GO
+
+------------------------------------------------------------------------------
+--Task 2
+--Create a stored procedure that accepts a number as a parameter and 
+--returns all persons who have more money in their accounts than the
+--supplied number.
+
+use PeopleAccounts
+
+GO
+
+create procedure usp_GetPeopleWithMoreMoneyFrom @money int
+as
+select p.FirstName, p.LastName
+from Persons p
+join Accounts a
+on a.PersonID = p.Id
+where a.Balance >= @money
+
+GO
+
+--example
+use PeopleAccounts
+exec usp_GetPeopleWithMoreMoneyFrom 5000
+
+------------------------------------------------------------------------------
+--Task 3
+--Create a function that accepts as parameters – sum, yearly interest
+--rate and number of months. It should calculate and return the new sum.
+--Write a SELECT to test whether the function works as expected.
+
+use PeopleAccounts
+
+GO
+
+create function calcInterest(@sum int, @yearlyInterestRate int, @numberOfMonths int)
+returns numeric(10,2)
+as
+begin
+declare @result numeric(10,2)
+select @result = @sum + (@sum * (@yearlyInterestRate * (@numberOfMonths / 12))/100)
+return @result
+end
+
+--example
+use PeopleAccounts
+select dbo.calcInterest(100, 6, 12)
+
+------------------------------------------------------------------------------
+--Task 4
+--Create a stored procedure that uses the function from the previous 
+--example to give an interest to a person's account for one month. 
+--It should take the AccountId and the interest rate as parameters.
+
+use PeopleAccounts
+
+GO
+
+create procedure usp_AddMonthInterest @accountId int, @interestRate int
+as
+update Accounts
+set Balance = dbo.calcInterest(Balance, @interestRate, 1)
+where Id = @accountId
+
+GO
+
+--example
+use PeopleAccounts
+exec usp_AddMonthInterest 1, 48
+
+GO
+
+------------------------------------------------------------------------------
+--Task 5
+--Add two more stored procedures WithdrawMoney( AccountId, money)
+--and DepositMoney (AccountId, money) that operate in transactions.
+
+use PeopleAccounts
+
+GO
+
+create procedure usp_WithdrawMoney @accountId int, @money int
+as
+begin tran
+declare @currentBalance int
+
+update Accounts
+set Balance = Balance - @money
+where Id = @accountId
+
+select @currentBalance = (select a.Balance
+						 from Accounts a
+						 where a.Id = @accountId)
+
+if @currentBalance < 0
+begin
+rollback
+end
+else
+begin
+commit
+end
+
+GO
+
+create procedure usp_DepositMoney @accountId int, @money int
+as
+begin tran
+declare @currentBalance int
+
+update Accounts
+set Balance = Balance + @money
+where Id = @accountId
+
+select @currentBalance = (select a.Balance
+						 from Accounts a
+						 where a.Id = @accountId)
+
+if @currentBalance < 0 or @money < 0
+begin
+rollback
+end
+else
+begin
+commit
+end
+
+GO
+
+--example
+use PeopleAccounts
+exec usp_WithdrawMoney 1, 2000
+
+GO
+
+exec usp_WithdrawMoney 1, 100000 -- We have less than 100000
+
+GO
+
+exec usp_DepositMoney 2, 5000
+
+GO
+
+exec usp_DepositMoney 3, -500
+
+GO
+
+------------------------------------------------------------------------------
+--Task 6
+--Create another table – Logs(LogID, AccountID, OldSum, NewSum). 
+--Add a trigger to the Accounts table that enters a new entry 
+--into the Logs table every time the sum on an account changes.
+
+use PeopleAccounts
+
+GO
+
+create table Logs
+(
+LogID int primary key identity(1,1) not null,
+AccountID int not null foreign key(AccountID) references Accounts(Id),
+OldSum int null,
+NewSum int null
+)
+
+GO
+
+create trigger tr_BalanceChanged
+on Accounts
+for update
+as
+begin
+	insert into Logs(AccountID, OldSum, NewSum)
+	select ins.Id,
+		del.Balance,
+		ins.Balance
+	from inserted ins,
+		deleted del
+end
+
+GO
+
+--example
+use PeopleAccounts
+update Accounts
+Set Balance = 3500
+where Balance = (select max(Balance) from Accounts)
+
+GO
+
+------------------------------------------------------------------------------
+--Task 7
+--Define a function in the database TelerikAcademy that returns 
+--all Employee's names (first or middle or last name) and all 
+--town's names that are comprised of given set of letters. 
+--Example 'oistmiahf' will return 'Sofia', 'Smith', … 
+--but not 'Rob' and 'Guy'.
+
+
+use TelerikAcademy
+
+GO
+
+create function isTextContainesLeters(@text nvarchar(50), @letters nvarchar(50))
+returns bit
+as
+begin
+declare @containesLetters bit,
+	@currentLetter nvarchar(1),
+	@counter int
+set @counter = 1
+set @containesLetters = 1
+while(@counter <= len(@text))
+begin
+	set @currentLetter = substring(@text, @counter, 1)
+	set @counter = @counter + 1
+
+	if(charindex(@currentLetter,@letters) = 0)
+	begin
+		set @containesLetters = 0
+		break
+	end
+end
+
+return @containesLetters
+
+end
+
+GO
+
+select e.FirstName
+from Employees e
+where 1 = dbo.isTextContainesLeters(lower(e.FirstName), 'oistmiahf')
+
+GO
+
+select e.LastName
+from Employees e
+where 1 = dbo.isTextContainesLeters(lower(e.LastName), 'oistmiahf')
+
+GO
+
+select e.MiddleName
+from Employees e
+where 1 = dbo.isTextContainesLeters(lower(e.MiddleName), 'oistmiahf')
+
+GO
+
+select t.Name
+from Employees e
+join Addresses a
+on a.AddressID = e.AddressID
+join Towns t
+on t.TownID = a.TownID
+where 1 = dbo.isTextContainesLeters(lower(t.Name), 'oistmiahf')
+
+GO
+
+------------------------------------------------------------------------------
+--Task 8
+--Using database cursor write a T-SQL script that scans all employees
+--and their addresses and prints all pairs of employees that live in
+--the same town.
+
+use TelerikAcademy
+
+GO
+
+declare empCursor cursor read_only for
+    select e.FirstName, 
+		e.LastName, 
+		t.Name,
+		o.FirstName, 
+		o.LastName
+    from Employees e
+        INNER JOIN Addresses a
+        on a.AddressID = e.AddressID
+        INNER JOIN Towns t
+        on t.TownID = a.TownID,
+    Employees o
+	INNER JOIN Addresses a1
+    on a1.AddressID = o.AddressID
+    INNER JOIN Towns t1
+    on t1.TownID = a1.TownID               
+ 
+    open empCursor
+    declare @firstName1 nvarchar(50)
+    declare @lastName1 nvarchar(50)
+    declare @town nvarchar(50)
+    declare @firstName2 nvarchar(50)
+    declare @lastName2 nvarchar(50)
+    fetch next from empCursor
+            INTO @firstName1, @lastName1, @town, @firstName2, @lastName2
+ 
+    while @@FETCH_STATUS = 0
+		begin
+			print @firstName1 + ' ' + @lastName1 + ' ' + @town + ' ' + @firstName2 + ' ' + @lastName2
+				fetch next from empCursor
+                    into @firstName1, @lastName1, @town, @firstName2, @lastName2
+        end
+ 
+    close empCursor
+    deallocate empCursor
+
+GO
+
+------------------------------------------------------------------------------
+--Task 9
+--* Write a T-SQL script that shows for each town a list of all
+--employees that live in it.
+--Sample output:
+--Sofia -> Svetlin Nakov, Martin Kulov, George Denchev
+--Ottawa -> Jose Saraiva
+
+use TelerikAcademy
+
+GO
+
+declare EmployeesByTownCursor cursor read_only for
+select e.FirstName, e.LastName, t.Name
+from Employees e
+join Addresses a
+on a.AddressID = e.AddressID
+join Towns t
+on t.TownID = a.TownID
+order by t.Name
+
+open EmployeesByTownCursor
+declare @firstName nvarchar(50)
+declare @lastName nvarchar(50)
+declare @town nvarchar(50)
+declare @resultForCurrentTown nvarchar(1000)
+declare @oldTownName nvarchar(50)
+
+fetch next from EmployeesByTownCursor
+	into @firstName, @lastName, @town
+set @resultForCurrentTown = @town + ': '
+while(@@FETCH_STATUS = 0)
+begin
+	set @resultForCurrentTown = @resultForCurrentTown + @firstName + ' ' + @lastName + ', '
+	set @oldTownName = @town
+	fetch next from EmployeesByTownCursor
+		into @firstName, @lastName, @town
+	if(@oldTownName != @town)
+	begin
+		set @resultForCurrentTown = substring(@resultForCurrentTown, 1, len(@resultForCurrentTown) - 1)
+		print @resultForCurrentTown
+		set @resultForCurrentTown = @town + ': '
+	end
+end
+
+close EmployeesByTownCursor
+deallocate EmployeesByTownCursor
+
+GO
+
+--Change town to test result
+--select e.FirstName, e.LastName, t.Name
+--from Employees e
+--join Addresses a
+--on a.AddressID = e.AddressID
+--join Towns t
+--on t.TownID = a.TownID
+--where t.Name = 'Carnation'
+
+------------------------------------------------------------------------------
+--Task 10
+--Define a .NET aggregate function StrConcat that takes as input a 
+--sequence of strings and return a single string that consists of 
+--the input strings separated by ','. For example the following 
+--SQL statement should return a single string:
+--SELECT StrConcat(FirstName + ' ' + LastName)
+--FROM Employees
+
+IF OBJECT_ID('dbo.StrConcat') IS NOT NULL DROP Aggregate StrConcat 
+GO 
+
+IF EXISTS (SELECT * FROM sys.assemblies WHERE name = 'StrConcat_assembly') 
+       DROP assembly StrConcat_assembly; 
+GO      
+
+CREATE Assembly StrConcat_assembly 
+   AUTHORIZATION dbo 
+   --This dll will have difrent location to your computer. Please change location.
+   FROM 'D:\Telerik Academy\Telerik\Databases\06.Transact-SQL\Homework-Transact-SQL\StrConcat.dll'
+   WITH PERMISSION_SET = SAFE; 
+GO 
+
+CREATE AGGREGATE dbo.StrConcat (
+    @Value NVARCHAR(MAX) 
+  , @Delimiter NVARCHAR(4000)
+)
+RETURNS NVARCHAR(MAX) 
+EXTERNAL Name StrConcat_assembly.StrConcat;
+
+GO
+
+--Change some setings that enables execution of .net code
+sp_configure 'show advanced options', 1;
+
+GO
+
+reconfigure;
+
+GO
+
+sp_configure 'clr enabled', 1;
+
+GO
+
+reconfigure;
+
+GO
+
+use TelerikAcademy
+select dbo.StrConcat(FirstName + ' ' + LastName, ', ')
+from Employees
+
+GO
+
+--Restore default setings
+sp_configure 'show advanced options', 0;
+
+GO
+
+reconfigure;
+
+GO
+
+sp_configure 'clr enabled', 0;
+
+GO
+
+reconfigure;
+
+GO
+
+------------------------------------------------------------------------------

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\Dates\bin\Debug\_5.Dates.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\Dates\bin\Debug\_5.Dates.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\Dates\obj\x86\Debug\5. Working-with-Dates.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\Dates\obj\x86\Debug\_5.Dates.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\Dates\obj\x86\Debug\_5.Dates.pdb

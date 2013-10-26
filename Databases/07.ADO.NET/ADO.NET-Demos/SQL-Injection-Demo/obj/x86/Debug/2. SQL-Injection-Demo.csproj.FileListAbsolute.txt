@@ -1,0 +1,4 @@
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\SQL-Injection-Demo\bin\Debug\SQL-Injection-Demo.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\SQL-Injection-Demo\bin\Debug\SQL-Injection-Demo.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\SQL-Injection-Demo\obj\x86\Debug\SQL-Injection-Demo.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\ADO.NET-Demos\SQL-Injection-Demo\obj\x86\Debug\SQL-Injection-Demo.pdb

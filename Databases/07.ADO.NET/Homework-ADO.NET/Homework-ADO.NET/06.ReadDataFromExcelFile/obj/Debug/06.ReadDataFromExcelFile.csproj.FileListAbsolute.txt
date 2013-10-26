@@ -1,0 +1,6 @@
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\06.ReadDataFromExcelFile\bin\Debug\06.ReadDataFromExcelFile.exe.config
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\06.ReadDataFromExcelFile\bin\Debug\06.ReadDataFromExcelFile.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\06.ReadDataFromExcelFile\bin\Debug\06.ReadDataFromExcelFile.pdb
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\06.ReadDataFromExcelFile\obj\Debug\06.ReadDataFromExcelFile.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\06.ReadDataFromExcelFile\obj\Debug\06.ReadDataFromExcelFile.exe
+D:\Telerik Academy\Telerik\Databases\07.ADO.NET\Homework-ADO.NET\Homework-ADO.NET\06.ReadDataFromExcelFile\obj\Debug\06.ReadDataFromExcelFile.pdb

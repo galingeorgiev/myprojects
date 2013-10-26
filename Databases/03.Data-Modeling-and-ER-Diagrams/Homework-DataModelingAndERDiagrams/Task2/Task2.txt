@@ -1,0 +1,1 @@
+Fill some sample data in the tables with SQL Server Management Studio.

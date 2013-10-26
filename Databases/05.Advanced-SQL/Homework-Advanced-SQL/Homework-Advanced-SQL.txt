@@ -1,0 +1,590 @@
+--Task 1
+--Write a SQL query to find the names and salaries of 
+--the employees that take the minimal salary in the 
+--company. Use a nested SELECT statement.
+
+use TelerikAcademy
+select Employees.FirstName, Employees.LastName, Employees.Salary from Employees
+where Employees.Salary = (select min(Employees.Salary) from Employees)
+
+------------------------------------------------------------------------------
+--Task 2
+--Write a SQL query to find the names and salaries of the 
+--employees that have a salary that is up to 10% higher 
+--than the minimal salary for the company.
+
+use TelerikAcademy
+select Employees.FirstName, Employees.LastName, Employees.Salary 
+from Employees
+where Employees.Salary > (
+	select min(Employees.Salary) from Employees) + 
+	(select min(Employees.Salary) from Employees) * 0.1
+
+------------------------------------------------------------------------------
+--Task 3
+--Write a SQL query to find the full name, salary and department
+--of the employees that take the minimal salary in their 
+--department. Use a nested SELECT statement.
+
+use TelerikAcademy
+select e.FirstName + ' ' + e.LastName as 'FullName', 
+	e.Salary, d.Name
+from Employees e
+join Departments d
+	on d.DepartmentID = e.DepartmentID
+where e.Salary = (select min(Employees.Salary) from Employees
+	where Employees.DepartmentID = d.DepartmentID)
+
+------------------------------------------------------------------------------
+--Task 4
+--Write a SQL query to find the average salary in the department #1.
+
+use TelerikAcademy
+select AVG(Employees.Salary) as [Average salary in departmant 1] from Employees
+where Employees.DepartmentID = '1'
+
+------------------------------------------------------------------------------
+--Task 5
+--Write a SQL query to find the average salary  in the "Sales" department.
+
+use TelerikAcademy
+select AVG(Employees.Salary) as [Average salary in departmant 'Sales'] from Employees
+where Employees.DepartmentID = (select Departments.DepartmentID from Departments
+	where Departments.Name in ('Sales'))
+
+------------------------------------------------------------------------------
+--Task 6
+--Write a SQL query to find the number of employees in the "Sales" department.
+
+use TelerikAcademy
+select COUNT(*) as [Number of employees in 'Sales' departmant] from Employees
+where Employees.DepartmentID = (select Departments.DepartmentID from Departments
+	where Departments.Name in ('Sales'))
+
+------------------------------------------------------------------------------
+--Task 7
+--Write a SQL query to find the number of all employees that have manager.
+
+use TelerikAcademy
+select COUNT(*) as [Number of employees with manager] from Employees
+where Employees.ManagerID is not null
+
+------------------------------------------------------------------------------
+--Task 8
+--Write a SQL query to find the number of all employees that have no manager.
+
+use TelerikAcademy
+select COUNT(*) as [Number of employees without manager] from Employees
+where Employees.ManagerID is null
+
+------------------------------------------------------------------------------
+--Task 9
+--Write a SQL query to find all departments and the average salary for each of them.
+
+use TelerikAcademy
+select AVG(Employees.Salary) as [Average salary in each departmant], d.Name from Employees
+join Departments d
+	on d.DepartmentID = Employees.DepartmentID
+group by Employees.DepartmentID, d.Name
+
+------------------------------------------------------------------------------
+--Task 10
+--Write a SQL query to find the count of all employees in each department and for each town.
+
+use TelerikAcademy
+select d.Name, t.Name, COUNT(*) as [Number of employees]
+from Employees e
+join Addresses a
+on e.AddressID = a.AddressID
+join Towns t
+on t.TownID = a.TownID
+join Departments d
+on e.DepartmentID = d.DepartmentID
+group by d.Name, t.Name
+order by d.Name, t.Name
+
+------------------------------------------------------------------------------
+--Task 11
+--Write a SQL query to find all managers that have exactly
+--5 employees. Display their first name and last name.
+
+use TelerikAcademy
+select e.FirstName, e.LastName, e.EmployeeID
+from Employees e
+where 5 = (select count(*)
+	from Employees em
+	where e.EmployeeID = em.ManagerID)
+	
+------------------------------------------------------------------------------
+--Task 12
+--Write a SQL query to find all employees along
+--with their managers. For employees that do not 
+--have manager display the value "(no manager)".
+
+use TelerikAcademy
+select e.FirstName, 
+	e.LastName, 
+	coalesce(m.FirstName + ' ' + m.LastName, 'no manager') as [manager name]
+from Employees e
+left join Employees m
+on (e.ManagerID = m.EmployeeID)
+order by [manager name]
+
+------------------------------------------------------------------------------
+--Task 13
+--Write a SQL query to find the names of all employees 
+--whose last name is exactly 5 characters long. Use the 
+--built-in LEN(str) function.
+
+use TelerikAcademy
+select e.FirstName, e.LastName
+from Employees e
+where len(e.LastName) = 5
+
+------------------------------------------------------------------------------
+--Task 14
+--Write a SQL query to display the current date and time in 
+--the following format "day.month.year hour:minutes:seconds:milliseconds". 
+--Search in  Google to find how to format dates in SQL Server.
+
+use TelerikAcademy
+select convert(varchar, getdate(), 113) as [Current date and time]
+
+------------------------------------------------------------------------------
+--Task 15
+--Write a SQL statement to create a table Users. Users should 
+--have username, password, full name and last login time. 
+--Choose appropriate data types for the table fields. Define a 
+--primary key column with a primary key constraint. Define the 
+--primary key column as identity to facilitate inserting records. 
+--Define unique constraint to avoid repeating usernames. Define 
+--a check constraint to ensure the password is at least 5 
+--characters long.
+
+use TelerikAcademy
+create table Users
+(
+UserID int primary key identity(1,1) not null,
+Username nvarchar(50) not null,
+Password nvarchar(50) not null,
+FullName nvarchar(50) not null,
+LastLoginTime datetime ,
+constraint UniqueConstraint_UsernamePassword unique (Username, Password),
+constraint int check(datalength(Password) > 5)
+)
+
+------------------------------------------------------------------------------
+--Task 16
+--Write a SQL statement to create a view that displays the users 
+--from the Users table that have been in the system today. Test 
+--if the view works correctly.
+
+create view UsersView as
+select * from Users u
+where u.LastLoginTime >= getdate()
+
+--example:
+select * from UsersView
+
+------------------------------------------------------------------------------
+--Task 17
+--Write a SQL statement to create a table Groups. Groups 
+--should have unique name (use unique constraint). Define
+--primary key and identity column.
+
+create table Groups
+(
+UniqueIdentity int primary key identity(1,1) not null,
+Name nvarchar(50) unique not null
+)
+
+--example: 
+select * from Groups
+
+------------------------------------------------------------------------------
+--Task 18
+--Write a SQL statement to add a column GroupID to the table Users. 
+--Fill some data in this new column and as well in the Groups table. 
+--Write a SQL statement to add a foreign key constraint between 
+--tables Users and Groups tables.
+
+alter table Users
+add constraint FK_Users_Groups foreign key (UniqueIdentity)
+references Groups(UniqueIdentity)
+
+--example: 
+select u.FullName, g.Name
+from Users u
+join Groups g
+on g.UniqueIdentity = u.UniqueIdentity
+
+------------------------------------------------------------------------------
+--Task 19
+--Write SQL statements to insert several records in the Users and Groups tables.
+
+use TelerikAcademy
+insert into Users(Username, Password, FullName, LastLoginTime, UniqueIdentity)
+values('Bobi', 33333, 'Bobi Kostov', GETDATE(), 1),
+	('Mario', 33333, 'Mario Kostov', GETDATE(), 1),
+	('Vlado', 33333, 'Vlado Kostov', GETDATE(), 4),
+	('Doncho', 33333, 'Doncho Minkov', GETDATE(), 1),
+	('George', 33333, 'George Georgiev', GETDATE(), 1)
+
+go
+
+insert into Groups(Name, GroupID)
+values('TestGroup3', 44),
+	('TestGroup4', 55),
+	('TestGroup5', 66),
+	('TestGroup6', 77),
+	('TestGroup7', 88)
+
+go
+
+------------------------------------------------------------------------------
+--Task 20
+--Write SQL statements to update some of the records in 
+--the Users and Groups tables.
+
+use TelerikAcademy
+update Users
+set Password = 44444
+where Password = 33333
+
+go
+
+update Groups
+set Name = 'TestGroup2222'
+where Name = 'TestGroup2'
+
+go
+
+------------------------------------------------------------------------------
+--Task 21
+--Write SQL statements to delete some of the records 
+--from the Users and Groups tables.
+
+use TelerikAcademy
+delete from Users
+where Password = 44444
+
+go
+
+delete from Groups
+where Name = 'TestGroup2222'
+
+go
+
+------------------------------------------------------------------------------
+--Task 22
+--Write SQL statements to insert in the Users table the names of 
+--all employees from the Employees table. Combine the first and 
+--last names as a full name. For username use the first letter of 
+--the first name + the last name (in lowercase). Use the same for 
+--the password, and NULL for last login time.
+
+use TelerikAcademy
+insert into Users(Username, Password, FullName, LastLoginTime)
+select LOWER(LEFT(e.FirstName, 1) + e.LastName),
+	LOWER(LEFT(e.FirstName, 1) + e.LastName),
+	e.FirstName + e.LastName,
+	NULL
+from Employees e
+
+------------------------------------------------------------------------------
+--Task 23
+--Write a SQL statement that changes the password to NULL 
+--for all users that have not been in the system since 10.03.2010.
+
+use TelerikAcademy
+update Users
+set Password = null
+where LastLoginTime < CONVERT(Datetime, '2010-03-10 00:00:00', 120)
+
+check result example:
+select * from Users
+where password is null
+
+------------------------------------------------------------------------------
+--Task 24
+--Write a SQL statement that deletes all 
+--users without passwords (NULL password).
+
+delete from Users
+where password is null
+
+------------------------------------------------------------------------------
+--Task 25
+--Write a SQL query to display the average employee
+--salary by department and job title.
+
+use TelerikAcademy
+select d.Name, 
+	e.JobTitle, 
+	AVG(e.Salary) as [Average salary by departmants and towns]
+from Employees e
+join Addresses a
+on e.AddressID = a.AddressID
+join Departments d
+on e.DepartmentID = d.DepartmentID
+group by d.Name, e.JobTitle
+
+------------------------------------------------------------------------------
+--Task 26
+--Write a SQL query to display the minimal employee salary by 
+--department and job title along with the name of some of
+--the employees that take it.
+
+use TelerikAcademy
+select d.Name, 
+	e.JobTitle, 
+	min(e.FirstName), 
+	min(e.LastName), 
+	min(e.Salary) as [Minimum salary by departmants and towns]
+from Employees e
+join Addresses a
+on e.AddressID = a.AddressID
+join Departments d
+on e.DepartmentID = d.DepartmentID
+group by d.Name, e.JobTitle
+
+------------------------------------------------------------------------------
+--Task 27
+--Write a SQL query to display the town where 
+--maximal number of employees work.
+
+use TelerikAcademy
+select max([Employees count by towns]) as [Town with max count of employees]
+from (select count(*) as [Employees count by towns]
+from Employees e
+join Addresses a
+on e.AddressID = a.AddressID
+join Towns t
+on a.TownID = t.TownID
+group by t.Name) x
+
+------------------------------------------------------------------------------
+--Task 28
+--Write a SQL query to display the number of managers from each town.
+
+
+use TelerikAcademy
+select t.Name, count(*) as [Managers count by towns]
+from Employees e
+join Addresses a
+on e.AddressID = a.AddressID
+join Towns t
+on a.TownID = t.TownID
+where e.EmployeeID in (
+	select em.ManagerID
+	from Employees em
+	group by em.ManagerID)
+group by t.Name
+order by t.Name
+
+------------------------------------------------------------------------------
+--Task 29
+--Write a SQL to create table WorkHours to store work reports for 
+--each employee (employee id, date, task, hours, comments). 
+--Don't forget to define  identity, primary key and appropriate 
+--foreign key. 
+--Issue few SQL statements to insert, update and delete of 
+--some data in the table.
+--Define a table WorkHoursLogs to track all changes in 
+--the WorkHours table with triggers. For each change keep
+--the old record data, the new record data and the command 
+--(insert / update / delete).
+
+use TelerikAcademy
+create table WorkHours
+(
+WorkHoursID int identity(1,1) not null primary key,
+EmployeeID int not null,
+WorkHoursDate date not null,
+Task nvarchar(50) not null,
+WorkHours time not null,
+Comments nvarchar(200) null,
+foreign key (EmployeeID) references Employees(EmployeeID)
+)
+
+GO
+
+create table WorkHoursLogs
+(
+LogID int not null identity(1,1) primary key,
+CommandType nvarchar(10) null,
+OldWorkHoursID int null,
+OldEmployeeID int null,
+OldWorkHoursDate date null,
+OldTask nvarchar(50) null,
+OldWorkHours time null,
+OldComments nvarchar(200) null,
+NewWorkHoursID int null,
+NewEmployeeID int null,
+NewWorkHoursDate date null,
+NewTask nvarchar(50) null,
+NewWorkHours time null,
+NewComments nvarchar(200) null,
+)
+
+GO
+
+CREATE TRIGGER tr_WorkHoursLogDataUpdate
+ON WorkHours 
+FOR update
+AS
+	BEGIN
+      INSERT INTO WorkHoursLogs
+         (CommandType,
+		 OldWorkHoursID,
+         OldEmployeeID,
+         OldWorkHoursDate,
+         OldTask,
+         OldWorkHours,
+		 OldComments,
+		 NewWorkHoursID,
+         NewEmployeeID,
+         NewWorkHoursDate,
+         NewTask,
+         NewWorkHours,
+		 NewComments)
+         SELECT 'Update',
+			del.WorkHoursID,
+            del.EmployeeID,
+            del.WorkHoursDate,
+            del.Task,
+            del.WorkHours,
+			del.Comments,
+			ins.WorkHoursID,
+            ins.EmployeeID,
+            ins.WorkHoursDate,
+            ins.Task,
+            ins.WorkHours,
+			ins.Comments
+         FROM deleted del,
+		 inserted ins
+   END
+GO
+
+CREATE TRIGGER tr_WorkHoursLogDataDelete
+ON WorkHours 
+FOR delete
+AS
+	BEGIN
+      INSERT INTO WorkHoursLogs
+         (CommandType,
+		 oldWorkHoursID,
+         oldEmployeeID,
+         oldWorkHoursDate,
+         oldTask,
+         oldWorkHours,
+		 oldComments)
+         SELECT 'Delete',
+			del.WorkHoursID,
+            del.EmployeeID,
+            del.WorkHoursDate,
+            del.Task,
+            del.WorkHours,
+			del.Comments
+         FROM deleted del
+   END
+GO
+
+CREATE TRIGGER tr_WorkHoursLogDataInsert
+ON WorkHours 
+FOR insert
+AS
+	BEGIN
+      INSERT INTO WorkHoursLogs
+         (CommandType,
+		 NewWorkHoursID,
+         NewEmployeeID,
+         NewWorkHoursDate,
+         NewTask,
+         NewWorkHours,
+		 NewComments)
+         SELECT 'Insert',
+			ins.WorkHoursID,
+            ins.EmployeeID,
+            ins.WorkHoursDate,
+            ins.Task,
+            ins.WorkHours,
+			ins.Comments
+         FROM inserted ins
+   END
+GO
+
+--Examples:
+insert into WorkHours(EmployeeID, WorkHoursDate, Task, WorkHours, Comments)
+values(1, getdate(), 'TaskInsertTest', '00:00:00', 'Alabala')
+
+GO
+
+update WorkHours
+set Comments = 'Updated comment'
+where Comments = 'Alabala'
+
+GO
+
+delete from WorkHours
+where Comments = 'Updated comment'
+
+GO
+
+------------------------------------------------------------------------------
+--Task 30
+--Start a database transaction, delete all employees from the 'Sales'
+--department along with all dependent records from the pother tables.
+--At the end rollback the transaction.
+
+use TelerikAcademy
+BEGIN TRAN
+DELETE FROM Employees
+	SELECT d.Name
+	FROM Employees e JOIN Departments d
+	ON e.DepartmentID = d.DepartmentID
+	WHERE d.Name = 'Sales'
+	GROUP BY d.Name
+ROLLBACK TRAN
+
+------------------------------------------------------------------------------
+--Task 31
+--Start a database transaction and drop the table EmployeesProjects.
+--Now how you could restore back the lost table data?
+
+use TelerikAcademy
+BEGIN TRAN
+DROP TABLE EmployeesProjects
+ROLLBACK TRAN
+
+------------------------------------------------------------------------------
+--Task 32
+--Find how to use temporary tables in SQL Server. Using temporary 
+--tables backup all records from EmployeesProjects and restore them 
+--back after dropping and re-creating the table.
+
+use TelerikAcademy
+CREATE TABLE #TemporaryTable(
+	EmployeeID int NOT NULL,
+	ProjectID int NOT NULL
+)
+
+INSERT INTO #TemporaryTable
+	SELECT EmployeeID, ProjectID
+	FROM EmployeesProjects
+
+DROP TABLE EmployeesProjects
+
+CREATE TABLE EmployeesProjects(
+	EmployeeID int NOT NULL,
+	ProjectID int NOT NULL,
+	CONSTRAINT PK_EmployeesProjects PRIMARY KEY(EmployeeID, ProjectID),
+	CONSTRAINT FK_EP_Employee FOREIGN KEY(EmployeeID) REFERENCES Employees(EmployeeID),
+	CONSTRAINT FK_EP_Project FOREIGN KEY(ProjectID) REFERENCES Projects(ProjectID)
+)
+
+INSERT INTO EmployeesProjects
+SELECT EmployeeID, ProjectID
+FROM #TemporaryTable
+
+------------------------------------------------------------------------------
