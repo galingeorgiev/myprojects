@@ -1,0 +1,9 @@
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\14.File-Upload\Homework-FileUpload\FileUpload\bin\FileUpload.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\14.File-Upload\Homework-FileUpload\FileUpload\bin\FileUpload.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\14.File-Upload\Homework-FileUpload\FileUpload\obj\Debug\FileUpload.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\14.File-Upload\Homework-FileUpload\FileUpload\obj\Debug\FileUpload.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\14.File-Upload\Homework-FileUpload\FileUpload\obj\Debug\FileUpload.pdb
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\14.File-Upload\Homework-FileUpload\FileUpload\bin\Ionic.Zip.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\14.File-Upload\Homework-FileUpload\FileUpload\bin\Ionic.Zip.xml
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\14.File-Upload\Homework-FileUpload\FileUpload\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-Web-Forms\14.File-Upload\Homework-FileUpload\FileUpload\bin\EntityFramework.xml
