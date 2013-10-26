@@ -1,0 +1,31 @@
+﻿@model List<Northwind.Customer>
+@{
+    ViewBag.Title = "ShowCustomers";
+}
+
+<h2>ShowCustomers</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>CompanyName</th>
+            <th>Country</th>
+            <th>City</th>
+            <th>Address</th>
+            <th>PostalCode</th>
+            <td></td>
+        </tr>
+    </thead>
+
+    @foreach (var customer in Model)
+    {
+        <tr>
+            <td>@customer.CompanyName</td>
+            <td>@customer.Country</td>
+            <td>@customer.City</td>
+            <td>@customer.Address</td>
+            <td>@customer.PostalCode</td>
+            <td><a href="/Customers/CustomerDetails/@customer.CustomerID">Details</a></td>
+        </tr>
+    }
+</table>

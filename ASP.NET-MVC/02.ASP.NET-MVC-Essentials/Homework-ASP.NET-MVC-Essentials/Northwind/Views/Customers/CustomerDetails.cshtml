@@ -1,0 +1,20 @@
+﻿@model Northwind.Customer
+    @{
+        ViewBag.Title = "CustomerDetails";
+    }
+
+    <h2>CustomerDetails</h2>
+    <div class="span2">
+        <img src="http://thetransformedmale.files.wordpress.com/2011/06/bruce-wayne-armani.jpg" alt="" class="img-rounded">
+    </div>
+    <div class="span4">
+        <blockquote>
+            <p>@Model.CompanyName</p>
+            <small><cite title="Source Title">@Model.City, @Model.Country<i class="icon-map-marker"></i></cite></small>
+        </blockquote>
+        <p>
+            <i class="icon-envelope"></i> @Model.PostalCode <br>
+            <i class="icon-globe"></i> @Model.Phone <br>
+            <i class="icon-gift"></i> @Model.Fax
+        </p>
+    </div>

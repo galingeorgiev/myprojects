@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Twitter.Models.Tweet>
+@{
+    ViewBag.Title = "Search";
+}
+
+<h2>Search</h2>
+
+<ul>
+    @foreach (var tweet in Model)
+    {
+        <li><a href="/Tweets/Details/@tweet.Id">@tweet.Content</a> by <a href="/Users/Details/@tweet.User.Id">@tweet.User.UserName</a></li>
+    }
+</ul>
+

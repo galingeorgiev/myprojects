@@ -1,0 +1,28 @@
+﻿@model List<Northwind.Product>
+@{
+    ViewBag.Title = "ProductsById";
+}
+
+<h2>Products by category: @Model.FirstOrDefault().Category.CategoryName</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ProductName</th>
+            <th>Supplier name</th>
+            <th>UnitPrice</th>
+            <th>UnitsInStock</th>
+        </tr>
+    </thead>
+
+    @foreach (var product in Model)
+    {
+        <tr>
+            <td>@product.ProductName</td>
+            <td>@product.Supplier.CompanyName</td>
+            <td>@product.UnitPrice</td>
+            <td>@product.UnitsInStock</td>
+        </tr>
+    }
+</table>
+

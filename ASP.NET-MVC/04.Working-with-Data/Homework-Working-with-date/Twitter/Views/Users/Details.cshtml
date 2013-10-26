@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Twitter.Models.Tweet>
+
+@{
+    ViewBag.Title = "User details";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<fieldset>
+    <legend>TwitterUser</legend>
+    <dl>
+        <dt>
+            Username
+        </dt>
+
+        <dd>
+            @User.Identity.Name
+        </dd>
+
+    </dl>
+
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>@item.Content</li>
+        }
+    </ul>
+</fieldset>
+<p>
+    @Html.ActionLink("Back to List of Users", "Index")
+</p>

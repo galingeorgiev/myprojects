@@ -1,0 +1,1 @@
+Plaese check Northwind settings and restore nuget packeges if project does not work. I am using Visual Studio RC.

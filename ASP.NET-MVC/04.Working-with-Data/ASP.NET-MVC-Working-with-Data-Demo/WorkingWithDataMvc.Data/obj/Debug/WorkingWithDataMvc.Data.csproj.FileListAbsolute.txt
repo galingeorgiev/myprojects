@@ -1,0 +1,32 @@
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\WorkingWithDataMvc.Data.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\WorkingWithDataMvc.Data.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\WorkingWithDataMvc.Data.pdb
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\WorkingWithDataMvc.Models.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\WorkingWithDataMvc.Models.pdb
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\obj\Debug\WorkingWithDataMvc.Data.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\obj\Debug\WorkingWithDataMvc.Data.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\obj\Debug\WorkingWithDataMvc.Data.pdb
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\WorkingWithDataMvc.Data.dll.config
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\WorkingWithDataMvc.Data.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\WorkingWithDataMvc.Data.pdb
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\WorkingWithDataMvc.Models.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\WorkingWithDataMvc.Models.pdb
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\obj\Debug\WorkingWithDataMvc.Data.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\obj\Debug\WorkingWithDataMvc.Data.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\ASP.NET-MVC-Working-with-Data-Demo\WorkingWithDataMvc.Data\obj\Debug\WorkingWithDataMvc.Data.pdb

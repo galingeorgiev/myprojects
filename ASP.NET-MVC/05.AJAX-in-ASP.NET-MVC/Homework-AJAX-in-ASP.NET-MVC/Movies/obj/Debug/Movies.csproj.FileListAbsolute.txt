@@ -1,0 +1,51 @@
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\Movies.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\Movies.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\Movies.pdb
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\Antlr3.Runtime.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\Microsoft.Web.Infrastructure.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.Mvc.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.Optimization.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.Razor.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.WebPages.Deployment.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.WebPages.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.WebPages.Razor.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\WebGrease.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.Mvc.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.Razor.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.WebPages.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.WebPages.Deployment.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.WebPages.Razor.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\obj\Debug\Movies.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\obj\Debug\Movies.pdb
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\obj\Debug\Movies.Migrations.Addedattributes.resources
+D:\Telerik Academy\Telerik\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\obj\Debug\Movies.csproj.GenerateResource.Cache
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\Movies.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\Movies.pdb
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\Antlr3.Runtime.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\Microsoft.Web.Infrastructure.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.Mvc.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.Optimization.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.Razor.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.WebPages.Deployment.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.WebPages.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.WebPages.Razor.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\WebGrease.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.Mvc.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.Razor.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.WebPages.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.WebPages.Deployment.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\bin\System.Web.WebPages.Razor.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\obj\Debug\Movies.Migrations.Addedattributes.resources
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\obj\Debug\Movies.csproj.GenerateResource.Cache
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\obj\Debug\Movies.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\05.AJAX-in-ASP.NET-MVC\Homework-AJAX-in-ASP.NET-MVC\Movies\obj\Debug\Movies.pdb

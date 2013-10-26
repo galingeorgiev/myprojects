@@ -1,0 +1,102 @@
+﻿@model Movies.Models.Movie
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = null;
+}
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset class="form-horizontal">
+        <legend>Movie</legend>
+
+        @Html.HiddenFor(model => model.Id)
+        @Html.HiddenFor(model => model.LeadingMaleRole.Id)
+        @Html.HiddenFor(model => model.LeadingFemaleRole.Id)
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.Title, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.Title)
+                @Html.ValidationMessageFor(model => model.Title, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.Year, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.Year)
+                @Html.ValidationMessageFor(model => model.Year, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.StudioName, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.StudioName)
+                @Html.ValidationMessageFor(model => model.StudioName, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.StudioAddress, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.StudioAddress)
+                @Html.ValidationMessageFor(model => model.StudioAddress, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <p>Leading male role</p>
+        <div class="control-group">
+            @Html.LabelFor(model => model.LeadingMaleRole.Name, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.LeadingMaleRole.Name)
+                @Html.ValidationMessageFor(model => model.LeadingMaleRole.Name, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.LeadingMaleRole.Age, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.LeadingMaleRole.Age)
+                @Html.ValidationMessageFor(model => model.LeadingMaleRole.Age, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <p>Leading female role</p>
+        <div class="control-group">
+            @Html.LabelFor(model => model.LeadingFemaleRole.Name, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.LeadingFemaleRole.Name)
+                @Html.ValidationMessageFor(model => model.LeadingFemaleRole.Name, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.LeadingFemaleRole.Age, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.LeadingFemaleRole.Age)
+                @Html.ValidationMessageFor(model => model.LeadingFemaleRole.Age, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Save" class="btn" />
+        </div>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Home Page";  
+}
+
+<h2>Home page</h2>
+@Html.Partial("HomePageContent");
+
+@section LeftSideBar{
+        <ul class="nav nav-pills nav-stacked span3">
+            <li><a href="/Administration/Employee/EmployeeDetails">Administartion Employees</a></li>
+            <li><a href="/Customers/ShowCustomers">Customers</a></li>
+            <li><a href="/Categories/ShowAll">Categories</a></li>
+        </ul>
+    }

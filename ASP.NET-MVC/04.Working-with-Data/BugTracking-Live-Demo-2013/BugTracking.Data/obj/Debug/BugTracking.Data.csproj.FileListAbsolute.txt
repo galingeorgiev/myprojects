@@ -1,0 +1,16 @@
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\bin\Debug\BugTracking.Data.dll.config
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\bin\Debug\BugTracking.Data.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\bin\Debug\BugTracking.Data.pdb
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\bin\Debug\BugTracking.Models.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\bin\Debug\BugTracking.Models.pdb
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\obj\Debug\BugTracking.Data.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\obj\Debug\BugTracking.Data.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\BugTracking-Live-Demo-2013\BugTracking.Data\obj\Debug\BugTracking.Data.pdb

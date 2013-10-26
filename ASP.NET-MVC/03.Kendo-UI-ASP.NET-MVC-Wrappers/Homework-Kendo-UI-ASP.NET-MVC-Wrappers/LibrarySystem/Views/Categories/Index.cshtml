@@ -1,0 +1,59 @@
+﻿@using LibrarySystem.ViewModels;
+@model IEnumerable<LibrarySystem.ViewModels.CategoryViewModel>
+
+@{
+    ViewBag.Title = "Categories";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div id="error-messages"></div>
+
+@(Html.Kendo()
+    .Grid<CategoryViewModel>()
+    .Name("categories")
+    .Pageable()
+    .Sortable()
+    .Columns(columns =>
+    {
+        columns.Bound(c => c.Name);
+        columns.Command(command => 
+        { 
+            command.Edit();
+            command.Destroy(); 
+        });
+    })
+    .ToolBar(toolbar =>
+    {
+        toolbar.Create().Text("Create New Category");
+    })
+    .Editable(editable => editable.Mode(GridEditMode.InLine))
+    .DataSource(dataSource => dataSource
+        .Ajax()
+        .PageSize(5)
+        .Model(model => model.Id(c => c.Id))
+        .ServerOperation(true)
+        .Events(events => events.Error("error_handler"))
+            .Read(read => read.Action("GetCategories", "Categories"))
+            .Create(create => create.Action("Create", "Categories"))
+            .Update(update => update.Action("Edit", "Categories"))
+            .Destroy(destroy => destroy.Action("Delete", "Categories"))
+    )
+)
+
+<script type="text/javascript">
+    function error_handler(e) {
+        if (e.errors) {
+            var message = "Errors:\n";
+            $.each(e.errors, function (key, value) {
+                if ('errors' in value) {
+                    $.each(value.errors, function () {
+                        message += this + "\n";
+                    });
+                }
+            });
+            $("#error-messages").text(message);
+            alert(message);
+        }
+    }
+</script>

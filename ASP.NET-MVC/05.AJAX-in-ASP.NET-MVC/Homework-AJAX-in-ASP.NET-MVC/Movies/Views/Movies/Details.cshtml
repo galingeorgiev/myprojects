@@ -1,0 +1,81 @@
+﻿@model Movies.Models.Movie
+
+@{
+    ViewBag.Title = "Details";
+    Layout = null;
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Movie</legend>
+    <dl>
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Year)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Year)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StudioName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StudioName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StudioAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StudioAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LeadingMaleRole.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LeadingMaleRole.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LeadingMaleRole.Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LeadingMaleRole.Age)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LeadingFemaleRole.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LeadingFemaleRole.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LeadingFemaleRole.Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LeadingFemaleRole.Age)
+        </dd>
+
+    </dl>
+</fieldset>
+<p>
+    @Html.ActionLink("Hide details", "Index")
+</p>

@@ -1,0 +1,70 @@
+﻿@using LibrarySystem.ViewModels
+@model IEnumerable<LibrarySystem.ViewModels.CategoryViewModel>
+
+@{
+    ViewBag.Title = "Books";
+}
+
+<h2>Index</h2>
+
+<div id="error-messages"></div>
+
+@(Html.Kendo()
+    .Grid<BooksViewModel>()
+    .Name("books")
+    .Pageable()
+    .Sortable()
+    .Filterable()
+    .Groupable()
+    .Columns(columns =>
+    {
+        columns.Bound(c => c.Author).Width(100);
+        columns.Bound(c => c.Description).Width(100);
+        columns.Bound(c => c.Title).Width(100);
+        columns.Bound(c => c.ISBN).Width(100);
+        columns.Bound(c => c.WebSite).Width(100);
+        columns.Bound(p => p.Category).ClientTemplate("#: Category.Name #").Title("Category").Width(100);
+        columns.Command(command =>
+        {
+            command.Edit();
+            command.Destroy();
+        }).Width(100);
+    })
+    .ToolBar(toolbar =>
+    {
+        toolbar.Create().Text("Create New Book");
+    })
+    .Editable(editable => editable.Mode(GridEditMode.InLine))
+    .DataSource(dataSource => dataSource
+        .Ajax()
+        .PageSize(5)
+            .Model(model => 
+            { 
+                model.Id(c => c.Id);
+                model.Field(p => p.Category).DefaultValue(ViewData["defaultCategory"] as LibrarySystem.ViewModels.CategoryViewModel); 
+            })
+        .ServerOperation(true)
+        .Events(events => events.Error("error_handler"))
+            .Read(read => read.Action("GetBooks", "Books"))
+            .Create(create => create.Action("Create", "Books"))
+            .Update(update => update.Action("Edit", "Books"))
+            .Destroy(destroy => destroy.Action("Delete", "Books"))
+    )
+)
+
+<script type="text/javascript">
+    function error_handler(e) {
+        if (e.errors) {
+            var message = "Errors:\n";
+            $.each(e.errors, function (key, value) {
+                if ('errors' in value) {
+                    $.each(value.errors, function () {
+                        message += this + "\n";
+                    });
+                }
+            });
+            $("#error-messages").text(message);
+            alert(message);
+        }
+    }
+</script>

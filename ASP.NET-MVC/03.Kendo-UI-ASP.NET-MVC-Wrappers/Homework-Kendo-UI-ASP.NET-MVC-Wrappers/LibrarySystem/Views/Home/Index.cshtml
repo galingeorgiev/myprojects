@@ -1,0 +1,76 @@
+﻿@model IEnumerable<LibrarySystem.ViewModels.CategoryWithBooksViewModel>
+@{
+    ViewBag.Title = "Home Page";  
+}
+
+<form class="form-search" action="/Books/FindBooks" method="post">
+    <div class="input-append">
+        <input type="text" name="query" class="span2 search-query">
+        <button type="submit" class="btn">Search</button>
+    </div>
+</form>
+
+<form action="/" method="post"></form>
+
+<script type="text/x-kendo-tmpl" id="template">
+    <div class="books-list-item">
+        <h3>#:Name#</h3>
+        <ul>
+            # for (var i = 0; i < Books.length; i++) { #
+            <li>
+                <a href="/Books/Details/#= Books[i].Id #">#= Books[i].Title # by #= Books[i].Author #</a>
+            </li>
+            # } #
+        </ul>
+    </div>
+</script>
+
+<div class="container-section">
+    @(Html.Kendo()
+    .ListView<LibrarySystem.ViewModels.CategoryWithBooksViewModel>(Model)
+    .Name("listView")
+    .TagName("div")
+    .ClientTemplateId("template")
+    .DataSource(dataSource =>
+    {
+        dataSource.Read(read => read.Action("GetCategoriesDetails", "Categories"));
+        dataSource.PageSize(15);
+    })
+    .Pageable()
+    )
+</div>
+
+<style scoped>
+    .container-section {
+        padding: 30px;
+        width: 577px;
+    }
+
+    #listView {
+        padding: 10px;
+        margin-bottom: -1px;
+        min-width: 555px;
+        min-height: 510px;
+    }
+
+    .books-list-item {
+        float: left;
+        position: relative;
+        width: 32%;
+        height: 170px;
+        margin: 0;
+        padding: 0;
+    }
+
+        .books-list-item h3 {
+            margin: 0;
+            padding: 3px 5px 0 0;
+            max-width: 96px;
+            overflow: hidden;
+            line-height: 1.1em;
+            font-size: .9em;
+            font-weight: normal;
+            text-transform: uppercase;
+            color: #999;
+        }
+</style>

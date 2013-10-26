@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Twitter.Models.Tweet>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@(Html.Kendo()
+    .Grid<Twitter.Models.Tweet>()
+    .Name("grid")
+    .Columns(columns =>
+    {
+        columns.Bound(p => p.Content);
+        columns.Command(p => { p.Edit(); p.Destroy(); });
+    })
+    .DataSource(dataSource => dataSource
+        .Ajax()
+        .ServerOperation(true)
+        .PageSize(5)
+        .Model(model => model.Id(t => t.Id))
+        .Read(read => read.Action("AllTweets", "TweetsAdministartion"))
+        .Create(create => create.Action("Create", "TweetsAdministartion"))
+        .Update(update => update.Action("Edit", "TweetsAdministartion"))
+        .Destroy(destroy => destroy.Action("Delete", "TweetsAdministartion"))
+    )
+    .Groupable()
+    .Pageable()
+    .Filterable()
+    .Scrollable()
+    .Sortable()
+)
+

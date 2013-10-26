@@ -1,0 +1,109 @@
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\LibrarySystem.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\LibrarySystem.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\LibrarySystem.pdb
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Antlr3.Runtime.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Kendo.Mvc.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Google.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Newtonsoft.Json.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Owin.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.Mvc.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.Optimization.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.Razor.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.WebPages.Deployment.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.WebPages.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.WebPages.Razor.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\WebGrease.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.Mvc.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.Razor.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.WebPages.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.WebPages.Deployment.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.WebPages.Razor.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Google.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Newtonsoft.Json.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\obj\Debug\LibrarySystem.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\obj\Debug\LibrarySystem.pdb
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\obj\Debug\LibrarySystem.Migrations.init.resources
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.Cache
+D:\Telerik Academy\Telerik\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\obj\Debug\LibrarySystem.Migrations.RemovecategoryId.resources
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\LibrarySystem.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\LibrarySystem.pdb
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Antlr3.Runtime.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Kendo.Mvc.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Google.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Newtonsoft.Json.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Owin.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.Mvc.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.Optimization.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.Razor.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.WebPages.Deployment.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.WebPages.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.WebPages.Razor.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\WebGrease.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.Mvc.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.Razor.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.WebPages.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.WebPages.Deployment.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\System.Web.WebPages.Razor.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Google.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\bin\Newtonsoft.Json.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\obj\Debug\LibrarySystem.Migrations.init.resources
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\obj\Debug\LibrarySystem.Migrations.RemovecategoryId.resources
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.Cache
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\obj\Debug\LibrarySystem.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\03.Kendo-UI-ASP.NET-MVC-Wrappers\Homework-Kendo-UI-ASP.NET-MVC-Wrappers\LibrarySystem\obj\Debug\LibrarySystem.pdb

@@ -1,0 +1,28 @@
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\Twitter.Models.dll.config
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\Twitter.Models.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\Twitter.Models.pdb
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\obj\Debug\Twitter.Models.dll
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\obj\Debug\Twitter.Models.pdb
+D:\Telerik Academy\Telerik\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\obj\Debug\Twitter.Models.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\Twitter.Models.dll.config
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\Twitter.Models.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\Twitter.Models.pdb
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\obj\Debug\Twitter.Models.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\obj\Debug\Twitter.Models.dll
+D:\Telerik Academy\Telerik Projects\ASP.NET-MVC\04.Working-with-Data\Homework-Working-with-date\Twitter.Models\obj\Debug\Twitter.Models.pdb

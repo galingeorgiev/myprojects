@@ -1,0 +1,32 @@
+﻿@model List<Northwind.Employee>
+@{
+    ViewBag.Title = "EmployeeDetails";
+}
+
+<h2>Employees Details</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Country</th>
+            <th>City</th>
+            <th>Address</th>
+            <th>PostalCode</th>
+            <th>Region</th>
+        </tr>
+    </thead>
+
+    @foreach (var employee in Model)
+    {
+        <tr>
+            <td>@employee.FirstName</td>
+            <td>@employee.LastName</td>
+            <td>@employee.Country</td>
+            <td>@employee.City</td>
+            <td>@employee.Address</td>
+            <td>@employee.PostalCode</td>
+            <td>@employee.Region</td>
+        </tr>
+    }
+</table>

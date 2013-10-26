@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Northwind.Category>
+@{
+    ViewBag.Title = "ShowAll";
+}
+
+<h2>ShowAll</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </thead>
+
+    @foreach (var category in Model)
+    {
+        <tr>
+            <td>@category.CategoryName</td>
+            <td>@category.Description</td>
+            <td><a href="/Products/ProductsByCategory/@category.CategoryID">View products</a></td>
+        </tr>
+    }
+</table>

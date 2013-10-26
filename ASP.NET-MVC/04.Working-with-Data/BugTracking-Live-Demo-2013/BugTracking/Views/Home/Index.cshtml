@@ -1,0 +1,8 @@
+﻿@model IEnumerable<BugTracking.Models.Bug>
+@{
+    ViewBag.Title = "Home Page";  
+}
+@foreach (var bug in Model)
+{
+    <div>@bug.Title, @bug.Priority</div>
+}
