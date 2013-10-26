@@ -1,0 +1,6 @@
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\WcfServiceLibraryForStrings.Client\bin\Debug\WcfServiceLibraryForStrings.Client.exe.config
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\WcfServiceLibraryForStrings.Client\bin\Debug\WcfServiceLibraryForStrings.Client.exe
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\WcfServiceLibraryForStrings.Client\bin\Debug\WcfServiceLibraryForStrings.Client.pdb
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\WcfServiceLibraryForStrings.Client\obj\Debug\WcfServiceLibraryForStrings.Client.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\WcfServiceLibraryForStrings.Client\obj\Debug\WcfServiceLibraryForStrings.Client.exe
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\WcfServiceLibraryForStrings.Client\obj\Debug\WcfServiceLibraryForStrings.Client.pdb

@@ -1,0 +1,5 @@
+F:\Telerik Academy\Telerik\WebServices\03.WCF\WCF-Demos\WcfServiceCalculator.Console\bin\Debug\WcfServiceCalculator.Console.exe
+F:\Telerik Academy\Telerik\WebServices\03.WCF\WCF-Demos\WcfServiceCalculator.Console\bin\Debug\WcfServiceCalculator.Console.pdb
+F:\Telerik Academy\Telerik\WebServices\03.WCF\WCF-Demos\WcfServiceCalculator.Console\obj\x86\Debug\02. WcfServiceCalculator.Console.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\WebServices\03.WCF\WCF-Demos\WcfServiceCalculator.Console\obj\x86\Debug\WcfServiceCalculator.Console.exe
+F:\Telerik Academy\Telerik\WebServices\03.WCF\WCF-Demos\WcfServiceCalculator.Console\obj\x86\Debug\WcfServiceCalculator.Console.pdb

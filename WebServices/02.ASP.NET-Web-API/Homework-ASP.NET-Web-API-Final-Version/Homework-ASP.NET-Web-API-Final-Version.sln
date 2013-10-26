@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicLibrary", "MusicLibrary\MusicLibrary.csproj", "{494C7BA3-0654-4AAE-8A01-37532D766F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicLibrary.Client", "MusicLibrary.Client\MusicLibrary.Client.csproj", "{C978BE37-7586-4F17-BE88-82557A2651C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494C7BA3-0654-4AAE-8A01-37532D766F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494C7BA3-0654-4AAE-8A01-37532D766F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494C7BA3-0654-4AAE-8A01-37532D766F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494C7BA3-0654-4AAE-8A01-37532D766F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C978BE37-7586-4F17-BE88-82557A2651C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C978BE37-7586-4F17-BE88-82557A2651C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C978BE37-7586-4F17-BE88-82557A2651C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C978BE37-7586-4F17-BE88-82557A2651C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+F:\Telerik Academy\Telerik\WebServices\05.Consuming Web Services\ConsumingWebServices\SimpleHttpWebRequest\bin\Debug\SimpleHttpWebRequest.exe.config

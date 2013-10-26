@@ -1,0 +1,6 @@
+F:\Telerik Academy\Telerik\WebServices\03.WCF\WCF-Demos\CalculatorConsumer.Console\bin\Debug\CalculatorConsumer.Console.exe.config
+F:\Telerik Academy\Telerik\WebServices\03.WCF\WCF-Demos\CalculatorConsumer.Console\bin\Debug\CalculatorConsumer.Console.exe
+F:\Telerik Academy\Telerik\WebServices\03.WCF\WCF-Demos\CalculatorConsumer.Console\bin\Debug\CalculatorConsumer.Console.pdb
+F:\Telerik Academy\Telerik\WebServices\03.WCF\WCF-Demos\CalculatorConsumer.Console\obj\x86\Debug\04. CalculatorConsumer.Console.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\WebServices\03.WCF\WCF-Demos\CalculatorConsumer.Console\obj\x86\Debug\CalculatorConsumer.Console.exe
+F:\Telerik Academy\Telerik\WebServices\03.WCF\WCF-Demos\CalculatorConsumer.Console\obj\x86\Debug\CalculatorConsumer.Console.pdb

@@ -1,0 +1,1 @@
+F:\Telerik Academy\Telerik\WebServices\05.Consuming Web Services\ConsumingWebServices\JSON.NET.Serialization\bin\Debug\JSON.NET.Serialization.exe.config

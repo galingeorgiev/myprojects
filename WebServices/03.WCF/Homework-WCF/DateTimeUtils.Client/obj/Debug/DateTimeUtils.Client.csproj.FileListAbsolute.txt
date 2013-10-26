@@ -1,0 +1,6 @@
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\DateTimeUtils.Client\bin\Debug\DateTimeUtils.Client.exe.config
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\DateTimeUtils.Client\bin\Debug\DateTimeUtils.Client.exe
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\DateTimeUtils.Client\bin\Debug\DateTimeUtils.Client.pdb
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\DateTimeUtils.Client\obj\Debug\DateTimeUtils.Client.exe
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\DateTimeUtils.Client\obj\Debug\DateTimeUtils.Client.pdb
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\DateTimeUtils.Client\obj\Debug\DateTimeUtils.Client.csprojResolveAssemblyReference.cache

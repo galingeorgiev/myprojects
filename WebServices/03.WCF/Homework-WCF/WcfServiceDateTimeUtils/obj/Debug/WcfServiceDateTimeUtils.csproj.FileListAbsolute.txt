@@ -1,0 +1,5 @@
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\WcfServiceDateTimeUtils\obj\Debug\WcfServiceDateTimeUtils.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\WcfServiceDateTimeUtils\bin\WcfServiceDateTimeUtils.dll
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\WcfServiceDateTimeUtils\bin\WcfServiceDateTimeUtils.pdb
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\WcfServiceDateTimeUtils\obj\Debug\WcfServiceDateTimeUtils.dll
+F:\Telerik Academy\Telerik\WebServices\03.WCF\Homework-WCF\WcfServiceDateTimeUtils\obj\Debug\WcfServiceDateTimeUtils.pdb

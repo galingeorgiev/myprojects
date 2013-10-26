@@ -1,0 +1,5 @@
+F:\Telerik Academy\Telerik\WebServices\02.ASP.NET-Web-API\ASP.NET-Web-API-Demo\CodeFirst.Models\bin\Debug\CodeFirst.Models.dll
+F:\Telerik Academy\Telerik\WebServices\02.ASP.NET-Web-API\ASP.NET-Web-API-Demo\CodeFirst.Models\bin\Debug\CodeFirst.Models.pdb
+F:\Telerik Academy\Telerik\WebServices\02.ASP.NET-Web-API\ASP.NET-Web-API-Demo\CodeFirst.Models\obj\Debug\CodeFirst.Models.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\WebServices\02.ASP.NET-Web-API\ASP.NET-Web-API-Demo\CodeFirst.Models\obj\Debug\CodeFirst.Models.dll
+F:\Telerik Academy\Telerik\WebServices\02.ASP.NET-Web-API\ASP.NET-Web-API-Demo\CodeFirst.Models\obj\Debug\CodeFirst.Models.pdb
