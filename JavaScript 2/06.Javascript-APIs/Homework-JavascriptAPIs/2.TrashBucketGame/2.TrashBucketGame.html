@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+        <script src="2.TrashBucketGame.js"></script>
+        <style>
+            #result
+            {
+                float: right;
+                background-color: #e3e3e3;
+                padding: 10px;
+                width: 200px;
+                color: #08c;
+            }
+            
+            #getResult
+            {
+                width: 200px;
+                position: absolute;
+                left: 40%;
+                top: 40%;
+                display: none;
+            }
+        </style>
+    </head>
+    <body onload="moveTrash()">
+        <!-- Using the exercise with the bucket implement functionality for high-score
+        1. When the user cleans all the trash, he is asked for a nickname and his score is saved in the local storage
+        The score of the user is the time that took him to clean the trash
+        2. Implement a high-score board, that is visible on page load and shows the top 5 scores 
+        The 5 users that cleaned the trash fastest -->
+        
+        <p id="demo">Time: 0</p>
+        <div id="result"></div>
+        <div id="getResult">
+            <input id="playerName" type="text" name="name" value="Enter your name here." />
+            <button onclick="saveResult()">OK</button>
+        </div>
+    </body>
+</html>

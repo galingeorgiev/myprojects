@@ -1,0 +1,30 @@
+﻿body, div, ul, li {
+    margin:0;
+    padding:0;
+}
+
+ul{
+    list-style-type:none;
+    padding:10px;
+    background-color:#efefef;
+    border:1px solid #e0e0e0;
+    text-align:center;
+    min-width:250px;
+    max-width:400px;
+}
+
+li{
+    border-bottom:1px solid #e0e0e0;
+}
+
+ul ul{
+    display:none;
+}
+
+.show ul{
+    display:block;
+}
+
+.hide ul{
+    display:none;
+}

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Homework-JSEvents", "http://localhost:61042", "{1FBAEC9D-A8AC-458F-B211-29946D228E2C}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61042"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Telerik Academy\Telerik\JavaScript 2\05.JavaScript Event Model\Homework-JSEvents\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61042\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61042"
+		Release.AspNetCompiler.PhysicalPath = "D:\Telerik Academy\Telerik\JavaScript 2\05.JavaScript Event Model\Homework-JSEvents\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61042\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "D:\Telerik Academy\Telerik\JavaScript 2\05.JavaScript Event Model\Homework-JSEvents\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FBAEC9D-A8AC-458F-B211-29946D228E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBAEC9D-A8AC-458F-B211-29946D228E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

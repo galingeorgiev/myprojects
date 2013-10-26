@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Tree view</title>
+    <script src="TreeViewListMenu.js"></script>
+    <link href="TreeViewListMenu.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- *Create a TreeView component
+          Initially only the top items must be visible
+          On item click
+          If its children are hidden (collapsed), they must be made visible (expanded)
+          If its children are visible (expanded), they must be made hidden (collapsed) -->
+
+    <ul>
+        <li><a id="firstItem" onclick="showMenu(this.id)" href="#">Item1</a>
+            <ul>
+                <li><a id="firstSubItem" onclick="showMenu(this.id)" href="#">Subitem1</a>
+                    <ul>
+                        <li>Sub Sub Item 1</li>
+                        <li>Sub Sub Item 1</li>
+                    </ul>
+                </li>
+                <li><a  id="secondSubItem" onclick="showMenu(this.id)" href="#">Subitem2</a>
+                    <ul>
+                        <li>Sub Sub Item 1</li>
+                        <li>Sub Sub Item 1</li>
+                    </ul>
+                </li>
+                <li>Subitem1</li>
+            </ul>
+        </li>
+        <li><a id="secondItem" onclick="showMenu(this.id)" href="#">Item2</a>
+            <ul>
+                <li><a id="firstSubItem2" onclick="showMenu(this.id)" href="#">Subitem1</a>
+                    <ul>
+                        <li>Sub Sub Item 1</li>
+                        <li>Sub Sub Item 1</li>
+                    </ul>
+                </li>
+                <li>Subitem1</li>
+                <li>Subitem1</li>
+            </ul>
+        </li>
+        <li><a id="thirdItem" onclick="showMenu(this.id)" href="#">Item3</a>
+            <ul>
+                <li><a id="firstSubItem3" onclick="showMenu(this.id)" href="#">Subitem1</a>
+                    <ul>
+                        <li>Sub Sub Item 1</li>
+                        <li>Sub Sub Item 1</li>
+                    </ul>
+                </li>
+                <li>Subitem1</li>
+                <li>Subitem1</li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>

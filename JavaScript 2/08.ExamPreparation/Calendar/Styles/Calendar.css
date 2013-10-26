@@ -1,0 +1,29 @@
+﻿body {
+}
+
+.month{
+    border:1px solid #afafaf;
+    display:inline-block;
+}
+
+.month div:first-of-type{
+    text-align:center;
+}
+
+.day{
+    border:1px dotted #afafaf;
+    width:25px;
+    height:25px;
+    text-align:center;
+    padding:0;
+}
+
+.day a{
+    text-decoration:none;
+    padding:3px;
+    line-height:25px;
+}
+
+.day a:hover{
+    text-decoration:underline;
+}

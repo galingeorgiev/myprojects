@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<title>JavaScript Event Model - Event Attributes</title>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body onload="onBodyLoad()">    
+	<a href="#" onclick = "onButtonClick()">click me</a>
+	<img id="lamp-image" src="images/lamp-off.png" onmouseover="changeLampState('on')" onmouseout="changeLampState('off')"/>
+	<script type="text/javascript">
+		var clicksCount = 0;
+		var img = document.getElementById("lamp-image");
+
+		function onButtonClick(){
+			clicksCount++;
+			alert("clicked " + clicksCount + ((clicksCount==1)? " time": " times"));
+		}
+
+		function changeLampState(state){
+			img.src="images/lamp-"+state+".png";
+		}
+
+		function onBodyLoad(){
+			alert("body loaded");
+		}
+	</script>
+</body>
+</html>

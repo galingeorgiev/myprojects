@@ -1,0 +1,61 @@
+﻿body {
+}
+
+#grid-view-holder{
+    border:1px solid black;
+    display:inline-block;
+}
+
+.grid-header{
+    background-color:#efefef;
+}
+
+.header-element{
+    border:1px solid black;
+    display:inline-block;
+    width:150px;
+    text-align:center;
+}
+
+.grid-row{
+
+}
+
+.row-element{
+    border:1px solid black;
+    display:inline-block;
+    width:150px;
+    text-align:center;
+}
+
+/** Nested grid view */
+
+.nested-grid-view{
+    margin:5px auto 5px 5px;
+}
+
+.nested-grid-view .grid-header{
+    background-color:#fff;
+}
+
+.nested-grid-view .header-element{
+    width:140px;
+    background-color:#efefef;
+}
+
+.nested-grid-view .row-element{
+    width:140px;
+}
+
+/**Expand - collaps*/
+.grid-row.collapsed .nested-grid-view{
+    display:none;
+}
+
+.grid-row.expanded .nested-grid-view:first-of-type{
+    display:block;
+}
+
+#grid-view-holder-schools-test{
+    display:inline-block;
+}

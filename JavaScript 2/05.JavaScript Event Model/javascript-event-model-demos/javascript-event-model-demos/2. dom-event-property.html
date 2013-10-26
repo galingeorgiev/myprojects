@@ -1,0 +1,29 @@
+<html>
+<head>
+	<title>JavaScript Event Model - Event Property</title>
+	<script>
+		function onBodyLoaded(){
+			var onButtonClick = function onButtonClick(){
+				console.log("clicked");
+			}
+
+			var buttons = document.getElementsByTagName("a");
+			for(var i = 0, len = buttons.length; i < len; i+=1){
+				buttons[i].onclick=onButtonClick;
+			}
+		}
+	</script>
+</head>
+<body>
+	<a href="#" class="button">Button</a>
+	<a href="#" class="button">Button</a>
+	<a href="#" class="button">Button</a>
+	<a href="#" class="button">Button</a>
+	<script>
+		document.body.onload = function(){
+			alert("loaded");
+			onBodyLoaded();
+		}		
+	</script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<html>
+<head>
+	<title>JavaScript Event Model - addEventListener</title>
+	<script>
+		function onBodyLoaded(){
+			console.log("body loaded");
+			var onButtonClick = function onButtonClick(){
+				console.log("clicked");
+			}
+
+			var buttons = document.getElementsByTagName("a");
+			for(var i = 0, len = buttons.length; i < len; i+=1){
+				buttons[i].addEventListener("click",onButtonClick,false);
+			}
+		}
+	</script>
+</head>
+<body onload="onBodyLoaded()">
+	<a href="#" class="button">Button</a>
+	<a href="#" class="button">Button</a>
+	<a href="#" class="button">Button</a>
+	<a href="#" class="button">Button</a>
+</body>
+</html>

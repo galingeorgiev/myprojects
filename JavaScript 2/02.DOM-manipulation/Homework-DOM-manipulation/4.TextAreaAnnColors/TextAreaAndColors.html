@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Text Area And Colors</title>
+    <script src="TextAreaAndColors.js"></script>
+    <style>
+        textarea{
+            width:200px;
+            height:200px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Create a text area and two inputs with type="color"
+           Make the font color of the text area as the value of the first color input
+           Make the background color of the text area as the value of the second input -->
+
+    <label for="fontColor">Select font color: </label>
+    <input id="fontColor" type="color" name="name" value=" " />
+    <br />
+    <label for="backgroundColor">Select background color: </label>
+    <input id="backgroundColor" type="color" name="name" value=" " />
+    <br />
+    <button onclick="onChangeColors()">Set colors</button>
+    <br />
+    <textarea>content</textarea>
+</body>
+</html>

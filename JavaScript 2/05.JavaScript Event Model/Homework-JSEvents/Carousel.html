@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Carousel</title>
+    <script src="Carousel.js"></script>
+    <style>
+        div:after,
+        #left-arrow:after,
+        #right-arrow:after {
+            *zoom:1;
+            content:" ";
+            display:block;
+            clear:both;
+        }
+
+        div {
+            border:1px solid #efefef;
+            width:1010px;
+            margin:0 auto;
+        }
+
+        #left-arrow {
+            float:left;
+            margin-top:78px;
+        }
+
+        #right-arrow {
+            float:right;
+            margin-top:78px
+        }
+
+        .carousel-unvisible {
+            display:none;
+        }
+    </style>
+</head>
+<body onload="carousel()">
+    <!-- Create a Simple JS Carousel with N images and two arrows for image control -->
+    <div>
+        <img id="left-arrow" src="Images/arrows-left.png" width="50" height="50" onclick="goLeft()" onmouseout="makeButtonNormal()" />
+        <img id="right-arrow" src="Images/arrows-right.png" width="50" height="50" onclick="goRight()" onmouseout="makeButtonNormal()" />
+        <img class="carousel" src="Images/7.jpg" width="300" height="200" />
+        <img class="carousel" src="Images/6.jpg" width="300" height="200" />
+        <img class="carousel" src="Images/1.jpg" width="300" height="200" />
+        <img class="carousel" src="Images/10.jpg" width="300" height="200" />
+        <img class="carousel" src="Images/11.jpg" width="300" height="200" />
+        <img class="carousel" src="Images/12.jpg" width="300" height="200" />
+        <img class="carousel" src="Images/13.jpg" width="300" height="200" />
+        <img class="carousel" src="Images/2.jpg" width="300" height="200" />
+        <img class="carousel" src="Images/4.jpg" width="300" height="200" />
+        <img class="carousel" src="Images/5.jpg" width="300" height="200" />
+    </div>
+</body>
+</html>
