@@ -1,0 +1,39 @@
+﻿<html ng-app>
+<head>
+	<script src="Scripts/libs/underscore.js"></script>
+	<script src="Scripts/libs/angular.js"></script>
+	<script src="Scripts/app/posts-controller.js"></script>
+</head>
+<body ng-controller="PostsController">
+
+	<select ng-model="selectedCategory">
+		<option ng-repeat="category in categories" value="{{category}}">{{category}}
+		</option>
+	</select>
+
+	<div>
+		<h2>{{current.title}}</h2>
+		<p>{{current.content}}</p>
+	</div>
+	<ul>
+		<li ng-repeat="post in posts | filter:selectedCategory">
+			<strong>{{post.title}}</strong>
+		</li>
+	</ul>
+
+	<fieldset>
+		<label for="tb-title">Title:</label>
+		<input type="text" id="tb-title" ng-model="newPost.title" />
+		<br />															
+		<label for="tb-content">Content:</label>
+		<input type="text" id="tb-content" ng-model="newPost.content" />
+		<br />
+		<label for="tb-category">category:</label>
+		<input type="text" id="tb-category" ng-model="newPost.category" />
+		<br />
+
+		<a href="#" ng-click="addPost()">Add New</a>
+	</fieldset>
+
+</body>
+</html>

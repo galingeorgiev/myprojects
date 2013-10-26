@@ -1,0 +1,5 @@
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\06.Telerik-Everlive\JustTests\JustTestApp\JustTestApp\bin\JustTestApp.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\06.Telerik-Everlive\JustTests\JustTestApp\JustTestApp\bin\JustTestApp.pdb
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\06.Telerik-Everlive\JustTests\JustTestApp\JustTestApp\obj\Debug\JustTestApp.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\06.Telerik-Everlive\JustTests\JustTestApp\JustTestApp\obj\Debug\JustTestApp.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\06.Telerik-Everlive\JustTests\JustTestApp\JustTestApp\obj\Debug\JustTestApp.pdb

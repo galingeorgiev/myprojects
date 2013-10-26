@@ -1,0 +1,18 @@
+﻿<html ng-app>
+<head>
+	<script src="Scripts/libs/angular.js"></script>
+	<script src="Scripts/app/posts-controller.js"></script>
+</head>
+<body ng-controller="PostsController">
+
+	<div>
+		<h2>{{current.title}}</h2>
+		<p>{{current.content}}</p>
+	</div>																					
+	<ul>
+		<li ng-repeat="post in posts">
+			<strong>{{post.title}}</strong>
+		</li>
+	</ul>
+</body>
+</html>

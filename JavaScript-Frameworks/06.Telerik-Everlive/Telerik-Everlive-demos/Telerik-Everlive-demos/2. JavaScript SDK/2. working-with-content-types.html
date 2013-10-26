@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<script src="Scripts/jquery-2.0.3.js"></script>
+	<script src="Scripts/everlive.all.js"></script>
+	<script src="Scripts/mustache.js"></script>
+</head>
+<body>
+	<fieldset>
+		<legend>Everlive REST API Register</legend>
+		<label for="tb-username">Username</label>
+		<input type="text" id="tb-username" /><br />
+		<label for="tb-password">Password</label>
+		<input type="password" id="tb-password" /><br />
+		<button id="btn-register">Register</button>
+		<button id="btn-login">Login</button>
+	</fieldset>
+	<div id="users-holder"></div>
+	<a href="#" id="btn-get-users">Get users</a>
+
+	<script>
+		$(function () {
+			var everliveConfig = {
+				appKey: "5ea2iMpkmWF5AFhW",
+			};
+			var app = new Everlive(everliveConfig.appKey);
+
+			$("#btn-register").on("click", function () {
+				var user = {
+					username: $("#tb-username").val(),
+					password: $("#tb-password").val()
+				}
+
+				app.Users.register(user.username, user.password)
+					.then(function (data) {
+						console.log(data);
+					}, function (err) {
+						console.log(err);
+					});
+			});
+
+			$("#btn-login").on("click", function () {
+				var user = {
+					username: $("#tb-username").val(),
+					password: $("#tb-password").val()
+				}
+
+				app.Users.login(user.username, user.password)
+					.then(function (data) {
+						console.log(data);
+					}, function (err) {
+						console.log(err);
+					});
+			});
+
+			$("#btn-get-users").on("click", function () {
+				app.Users.get()
+					.then(function (data) {
+						//debugger;
+						var users = data.result;
+						var list = $('<ul class="users-list" />');
+						var template = Mustache.compile($("#user-template").html());
+						_.chain(users)
+							.each(function (user) {								
+								list.append(
+									$("<li />").html(template(user)));
+							});
+						$("#users-holder").html(list);
+					});
+			});
+
+		});
+	</script>
+
+	<script type="text/x-mustache-template" id="user-template">						 
+		<div>
+			<strong>{{Username}}</strong> registered at <time>{{CreatedAt}}</time>
+		</div>	
+	</script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="3cff1c72-67db-4922-a325-5780f0dab9c7">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>BlogSystem.Service/Content/themes/base/minified/jquery-ui.min.css</FileRelativePath>
+        <ProjectRelativePath>BlogSystem.Service/BlogSystem.Service.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>17064505958358012336</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>BlogSystem.Service/Content/themes/base/minified/jquery.ui.datepicker.min.css</FileRelativePath>
+        <ProjectRelativePath>BlogSystem.Service/BlogSystem.Service.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>13384481137087175592</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

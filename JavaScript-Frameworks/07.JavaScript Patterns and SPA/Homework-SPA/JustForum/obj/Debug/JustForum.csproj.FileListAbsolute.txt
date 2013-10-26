@@ -1,0 +1,5 @@
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\07.JavaScript Patterns and SPA\Homework-SPA\JustForum\bin\JustForum.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\07.JavaScript Patterns and SPA\Homework-SPA\JustForum\bin\JustForum.pdb
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\07.JavaScript Patterns and SPA\Homework-SPA\JustForum\obj\Debug\JustForum.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\07.JavaScript Patterns and SPA\Homework-SPA\JustForum\obj\Debug\JustForum.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\07.JavaScript Patterns and SPA\Homework-SPA\JustForum\obj\Debug\JustForum.pdb

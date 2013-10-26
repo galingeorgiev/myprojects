@@ -1,0 +1,8 @@
+﻿<div>
+    <label>Select category</label>
+    <select data-ng-model="categoryId">
+        <option data-ng-repeat="cat in categories" value="{{cat.id}}">{{cat.name}}</option>
+    </select>
+
+    <a href="#/categories/{{categoryId}}/posts">Get posts</a>
+</div>

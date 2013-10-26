@@ -1,0 +1,80 @@
+﻿.no-element {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    #wrapper {
+        font-size: 14px;
+        width: 960px;
+        max-width: 100%;
+        margin: 15px auto;
+        padding: 25px;
+        border: 1px solid #999;
+        border-radius: 5px;
+
+        & > header {
+            width: 100%;
+
+            h1 {
+                font-size: 2.3em;
+                text-align: center;
+            }
+        }
+
+        & > footer {
+            width: 100%;
+            border-top: 1px solid #999;
+
+            h1 {
+                font-size: 1.6em;
+                text-align: center;
+            }
+        }
+    }
+
+    fieldset {
+        border: 1px solid #eee;
+        border-radius: 15px;
+        padding: 15px;
+        display: inline-block;
+        text-align: right;
+
+        input {
+            padding: 5px 15px;
+        }
+
+        &:after {
+            clear: both;
+            display: block;
+            content: "";
+        }
+    }
+
+    .posts-list {
+        list-style-type: none;
+        margin: 15px;
+        padding: 0;
+
+        .post-item {
+            margin: 0;
+            display: inline-block;
+            padding: 5px 15px;
+            width: 250px;
+            border: 1px solid black;
+            border-radius: 15px;
+
+            a {
+                display: block;
+                text-decoration: none;
+                font-size: 1.3em;
+                margin: 5px 15px;
+                color: black;
+
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}

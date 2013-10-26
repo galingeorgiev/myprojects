@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="Scripts/libs/jquery-2.0.3.js"></script>
+    <script src="Scripts/libs/everlive.all.js"></script>
+    <script src="Scripts/libs/class.js"></script>
+    <script src="Scripts/libs/http-requester.js"></script>
+</head>
+<body>
+    <script>
+        var app = new Everlive('jPE4hN1ptabo8ct5');
+        app.Users.login('galin', 'galin').then(function (data) {
+            var query = new Everlive.Query();
+            query.where().eq('Username', 'galin').done().select('Id', 'Username', 'Marks');
+
+            app.Users.get(query)
+                .then(function (data) {
+                    console.log(data);
+                },
+                function (err) {
+                    console.log(err);
+                });
+
+
+            //console.log(data);
+            //var sampleMark = { Subject: 'C#', Value: 5 };
+
+            //app.data('Mark').create(sampleMark).then(function (data) {
+            //    console.log(data);
+            //},
+            //function (err) {
+            //    console.log(err);
+            //});
+
+            //app.Users.currentUser().then(function (user) {
+            //    //console.log(data.result[0]);
+            //    console.log(user);
+            //    app.data('Mark').get().then(function (marks) {
+            //        //app.Users.update({ Id: user.result.Id, Marks: marks.result[0] })
+            //        //    .then(function (data) {
+            //        //        console.log(data);
+            //        //    },
+            //        //    function (err) {
+            //        //        console.log(err);
+            //        //    });
+            //        console.log(marks);
+            //    });
+
+            //},
+            //function (err) {
+            //    console.log(err);
+            //});
+        },
+        function (err) {
+            console.log(err);
+        });
+        //app.Users.register('galin', 'galin')
+        //    .then(function (data) {
+        //        console.log(data)
+        //    },
+        //    function (err) {
+        //        console.log(err)
+        //    });
+
+
+
+
+        //el.Users.login('my_username',
+        //    'my_password')
+        //    .then(function () {
+        //        return el.data('Books').get();
+        //    })
+        //    .then(function (data) {
+        //        // data.result contains an array of ojbects
+        //        alert(JSON.stringify(data.result));
+        //    },
+        //    function (error) {
+        //        alert(error.message);
+        //    });
+    </script>
+</body>
+</html>

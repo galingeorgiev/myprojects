@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Telerik Everlive - Registering Users</title>
+	<script src="Scripts/rsvp.min.js"></script>
+	<script src="Scripts/mustache.js"></script>
+	<script src="Scripts/jquery-2.0.3.js"></script>
+	<script src="Scripts/http-request.js"></script>
+</head>
+<body>
+	<fieldset>
+		<legend>Everlive REST API Register</legend>
+		<label for="tb-username">Username</label>
+		<input type="text" id="tb-username" /><br />
+		<label for="tb-password">Password</label>
+		<input type="password" id="tb-password" /><br />
+		<button id="btn-register">Register</button>
+		<button id="btn-login">Login</button>
+	</fieldset>
+
+	<script>
+		$(function () {
+			var everliveConfig = {
+				appKey: "5ea2iMpkmWF5AFhW",
+				url: "https://api.everlive.com/v1/5ea2iMpkmWF5AFhW/"
+			};
+
+			$("#btn-register").on("click", function () {
+				var user = {
+					username: $("#tb-username").val(),
+					password: $("#tb-password").val()
+				}
+
+				request.post(everliveConfig.url + "Users", user)
+					.then(function (data) {
+						console.log(data);
+					}, function (err) {
+						console.log(err);
+					});
+			});
+
+			$("#btn-login").on("click", function () {
+				var user = {
+					username: $("#tb-username").val(),
+					password: $("#tb-password").val(),
+					grant_type: "password"
+				};
+
+				request.post(everliveConfig.url + "oauth/token", user)
+					.then(function (data) {
+						console.log(data);
+					}, function (err) {
+						console.log(err);
+					});
+			});
+
+		});
+	</script>
+
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\08.AngularJS\Homework-AngularJS\Homework-AngularJS-Client\BlogSystem.Client\bin\BlogSystem.Client.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\08.AngularJS\Homework-AngularJS\Homework-AngularJS-Client\BlogSystem.Client\bin\BlogSystem.Client.pdb
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\08.AngularJS\Homework-AngularJS\Homework-AngularJS-Client\BlogSystem.Client\obj\Debug\BlogSystem.Client.csprojResolveAssemblyReference.cache
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\08.AngularJS\Homework-AngularJS\Homework-AngularJS-Client\BlogSystem.Client\obj\Debug\BlogSystem.Client.dll
+F:\Telerik Academy\Telerik\JavaScript-Frameworks\08.AngularJS\Homework-AngularJS\Homework-AngularJS-Client\BlogSystem.Client\obj\Debug\BlogSystem.Client.pdb
