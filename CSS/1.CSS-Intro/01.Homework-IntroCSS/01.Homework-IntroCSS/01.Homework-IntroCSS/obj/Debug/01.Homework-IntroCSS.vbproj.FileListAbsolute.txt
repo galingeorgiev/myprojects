@@ -1,0 +1,8 @@
+D:\Telerik Academy\Telerik\CSS\01.CSS-Intro\01.Homework-IntroCSS\01.Homework-IntroCSS\01.Homework-IntroCSS\bin\01.Homework-IntroCSS.dll
+D:\Telerik Academy\Telerik\CSS\01.CSS-Intro\01.Homework-IntroCSS\01.Homework-IntroCSS\01.Homework-IntroCSS\bin\01.Homework-IntroCSS.pdb
+D:\Telerik Academy\Telerik\CSS\01.CSS-Intro\01.Homework-IntroCSS\01.Homework-IntroCSS\01.Homework-IntroCSS\bin\01.Homework-IntroCSS.xml
+D:\Telerik Academy\Telerik\CSS\01.CSS-Intro\01.Homework-IntroCSS\01.Homework-IntroCSS\01.Homework-IntroCSS\obj\Debug\_01.Homework_IntroCSS.Resources.resources
+D:\Telerik Academy\Telerik\CSS\01.CSS-Intro\01.Homework-IntroCSS\01.Homework-IntroCSS\01.Homework-IntroCSS\obj\Debug\01.Homework-IntroCSS.vbproj.GenerateResource.Cache
+D:\Telerik Academy\Telerik\CSS\01.CSS-Intro\01.Homework-IntroCSS\01.Homework-IntroCSS\01.Homework-IntroCSS\obj\Debug\01.Homework-IntroCSS.dll
+D:\Telerik Academy\Telerik\CSS\01.CSS-Intro\01.Homework-IntroCSS\01.Homework-IntroCSS\01.Homework-IntroCSS\obj\Debug\01.Homework-IntroCSS.xml
+D:\Telerik Academy\Telerik\CSS\01.CSS-Intro\01.Homework-IntroCSS\01.Homework-IntroCSS\01.Homework-IntroCSS\obj\Debug\01.Homework-IntroCSS.pdb

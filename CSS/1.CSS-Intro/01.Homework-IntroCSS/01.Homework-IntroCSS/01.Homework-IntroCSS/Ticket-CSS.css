@@ -1,0 +1,73 @@
+﻿body
+{
+}
+
+#ticket-body
+{
+    background-color:#898989;
+    color:rgb(124,153,172);
+    width:500px;
+}
+
+#ticket-body h1
+{
+    font-size:1.5em;
+    margin:10px 0px 0px 5px;
+}
+
+#ticket-body .left
+{
+    color:rgb(223,235,217);
+    float:left;
+    clear:right;
+    margin-right:15px;
+}
+
+    #ticket-body .right
+    {
+        
+    }
+#ticket-body .disbot
+{
+    margin-bottom:18px;
+}
+
+#ticket-body .right .color1
+{
+    color:rgb(223,234,174);
+}
+
+#ticket-body .right .color2
+{
+    color:rgb(180,174,155);
+}
+
+#ticket-body .right .color3
+{
+    color:rgb(216,106,51);
+}
+
+#ticket-body .right .red
+{
+    color:red;
+}
+
+li
+{
+    list-style-type:none;
+}
+
+ul
+{
+    padding-left:5px;
+}
+
+    ul #point
+    {
+        
+    }
+
+img
+{
+    margin-right:5px;
+}

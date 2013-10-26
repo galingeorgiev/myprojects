@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\CSS\5.LESS\LESS-demos\LESS-demos\LESSDemos\bin\LESSDemos.dll
+D:\Telerik Academy\Telerik\CSS\5.LESS\LESS-demos\LESS-demos\LESSDemos\bin\LESSDemos.pdb
+D:\Telerik Academy\Telerik\CSS\5.LESS\LESS-demos\LESS-demos\LESSDemos\obj\Debug\LESSDemos.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\CSS\5.LESS\LESS-demos\LESS-demos\LESSDemos\obj\Debug\LESSDemos.dll
+D:\Telerik Academy\Telerik\CSS\5.LESS\LESS-demos\LESS-demos\LESSDemos\obj\Debug\LESSDemos.pdb

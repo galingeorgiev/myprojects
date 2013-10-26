@@ -1,0 +1,17 @@
+body section div:first-of-type {
+  width: 860px;
+  height: 538px;
+  position: fixed;
+  top: 100px;
+  left: 10px;
+  display: block; }
+body div {
+  width: 860px;
+  height: 538px;
+  position: fixed;
+  top: 100px;
+  left: 10px;
+  display: none; }
+  body div:target {
+    display: block; }
+

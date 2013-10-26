@@ -1,0 +1,32 @@
+﻿body
+{
+}
+
+table
+{
+    border-spacing:0;
+}
+
+table tr td
+{
+    width:150px;
+    margin:0;
+    padding:5px;
+    border:1px solid rgb(230,229,218);
+}
+
+table tr:nth-child(2n)
+{
+    background-color:rgb(236,236,216);
+}
+
+thead #head
+{
+    color:#FFF;
+    background-color:rgb(86,185,6);
+}
+
+img
+{
+    margin-right:5px;
+}

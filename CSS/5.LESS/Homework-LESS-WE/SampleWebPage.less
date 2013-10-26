@@ -1,0 +1,197 @@
+﻿html {
+	margin:0;
+	padding:0;
+}
+    .bg-gradient(@from-color,@to-color,@start-from,@stop-to) {
+        background: @from-color; /* Old browsers */
+        background: -moz-linear-gradient(top, @from-color @start-from, @to-color @stop-to); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(@start-from,@from-color), color-stop(@stop-to,@to-color)); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top, @from-color @start-from,@to-color @stop-to); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(top, @from-color @start-from,@to-color @stop-to); /* Opera 11.10+ */
+        background: -ms-linear-gradient(top, @from-color @start-from,@to-color @stop-to); /* IE10+ */
+        background: linear-gradient(to bottom, @from-color @start-from,@to-color @stop-to); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@from-color', endColorstr='@to-color',GradientType=0 ); /* IE6-9 */
+    }
+
+    .clearfix() {
+        zoom: 1;
+
+        &:after {
+            display: block;
+            content: "";
+            height: 0;
+            clear: both;
+        }
+    }
+
+
+    @border: 1px solid black;
+    @border-radius: 10px;
+    @list-bg-color: #9215f2;
+
+body {
+    margin: 0;
+    padding: 0;
+    color: white;
+    .bg-gradient(#cd8ff8,#9215f2,5%,15%);
+
+
+    header {
+        margin-left: 10px;
+
+        div {
+            & > div {
+                display: inline-block;
+            }
+        }
+
+        #logo-container {
+            display: inline-block;
+        }
+
+        #reg-form-container {
+            float: right;
+            margin: 20px 150px 0 0;
+
+            input {
+                border-radius: @border-radius;
+                background-color: #b35ef3;
+                border: @border;
+            }
+
+            button {
+                border: @border;
+                border-radius: @border-radius;
+                background-color: #b35ef3;
+                color: white;
+            }
+        }
+
+        nav {
+            height: 30px;
+            width: 800px;
+            border: @border;
+            border-radius: @border-radius;
+            margin-left: 10px;
+
+            ul {
+                list-style-type: none;
+                position: absolute;
+                padding-top: 5px;
+                margin: 0;
+
+                li {
+                    display: inline-block;
+                    padding-right: 10px;
+
+                    a {
+                        text-decoration: none;
+                        color: white;
+                        font-size: 1.3em;
+                    }
+
+                    & > ul {
+                        display: none;
+                        padding: 5px;
+                        background-color: @list-bg-color;
+                        border: @border;
+                        border-radius: @border-radius;
+                    }
+
+                    &:hover {
+
+                        ul {
+                            display: block;
+
+                            li {
+                                display: block;
+
+                                &:hover {
+                                    text-decoration: underline;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    section {
+        display: inline-block;
+        width: 750px;
+        margin-top: 10px;
+
+        article {
+            border: @border;
+            border-radius: @border-radius;
+            margin-left: 10px;
+            margin-top: 10px;
+            padding: 10px;
+
+            h1 {
+                margin: 0;
+            }
+
+            footer {
+                p {
+                    text-align: right;
+
+                    a {
+                        text-decoration: none;
+                        color: #d4a3f8;
+                    }
+                }
+            }
+        }
+    }
+
+    aside {
+        display: inline-block;
+        width: 300px;
+        vertical-align: top;
+        margin: 10px 0 0 30px;
+
+        h2 {
+            margin: 0;
+        }
+
+        & > ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+
+            li {
+                border: @border;
+                border-radius: @border-radius;
+                margin-left: 10px;
+                margin-top: 10px;
+                padding: 10px;
+
+                a {
+                    text-decoration: none;
+                    color: #d4a3f8;
+                }
+
+                ul {
+                    list-style-image: url('li-dot.png');
+
+                    li {
+                        border: none;
+                        margin: 5px;
+                        padding: 0;
+                    }
+                }
+            }
+        }
+    }
+
+    & > footer {
+        .clearfix();
+
+        p {
+            text-align: center;
+        }
+    }
+}
+

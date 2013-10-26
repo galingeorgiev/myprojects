@@ -1,0 +1,162 @@
+﻿html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  color: white;
+  background: #cd8ff8;
+  /* Old browsers */
+
+  background: -moz-linear-gradient(top, #cd8ff8 5%, #9215f2 15%);
+  /* FF3.6+ */
+
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #cd8ff8), color-stop(15%, #9215f2));
+  /* Chrome,Safari4+ */
+
+  background: -webkit-linear-gradient(top, #cd8ff8 5%, #9215f2 15%);
+  /* Chrome10+,Safari5.1+ */
+
+  background: -o-linear-gradient(top, #cd8ff8 5%, #9215f2 15%);
+  /* Opera 11.10+ */
+
+  background: -ms-linear-gradient(top, #cd8ff8 5%, #9215f2 15%);
+  /* IE10+ */
+
+  background: linear-gradient(to bottom, #cd8ff8 5%, #9215f2 15%);
+  /* W3C */
+
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@from-color', endColorstr='@to-color', GradientType=0);
+  /* IE6-9 */
+
+}
+body header {
+  margin-left: 10px;
+}
+body header div > div {
+  display: inline-block;
+}
+body header #logo-container {
+  display: inline-block;
+}
+body header #reg-form-container {
+  float: right;
+  margin: 20px 150px 0 0;
+}
+body header #reg-form-container input {
+  border-radius: 10px;
+  background-color: #b35ef3;
+  border: 1px solid #000000;
+}
+body header #reg-form-container button {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  background-color: #b35ef3;
+  color: white;
+}
+body header nav {
+  height: 30px;
+  width: 800px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+body header nav ul {
+  list-style-type: none;
+  position: absolute;
+  padding-top: 5px;
+  margin: 0;
+}
+body header nav ul li {
+  display: inline-block;
+  padding-right: 10px;
+}
+body header nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.3em;
+}
+body header nav ul li > ul {
+  display: none;
+  padding: 5px;
+  background-color: #9215f2;
+  border: 1px solid #000000;
+  border-radius: 10px;
+}
+body header nav ul li:hover ul {
+  display: block;
+}
+body header nav ul li:hover ul li {
+  display: block;
+}
+body header nav ul li:hover ul li:hover {
+  text-decoration: underline;
+}
+body section {
+  display: inline-block;
+  width: 750px;
+  margin-top: 10px;
+}
+body section article {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding: 10px;
+}
+body section article h1 {
+  margin: 0;
+}
+body section article footer p {
+  text-align: right;
+}
+body section article footer p a {
+  text-decoration: none;
+  color: #d4a3f8;
+}
+body aside {
+  display: inline-block;
+  width: 300px;
+  vertical-align: top;
+  margin: 10px 0 0 30px;
+}
+body aside h2 {
+  margin: 0;
+}
+body aside > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+body aside > ul li {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding: 10px;
+}
+body aside > ul li a {
+  text-decoration: none;
+  color: #d4a3f8;
+}
+body aside > ul li ul {
+  list-style-image: url('li-dot.png');
+}
+body aside > ul li ul li {
+  border: none;
+  margin: 5px;
+  padding: 0;
+}
+body > footer {
+  zoom: 1;
+}
+body > footer:after {
+  display: block;
+  content: "";
+  height: 0;
+  clear: both;
+}
+body > footer p {
+  text-align: center;
+}

@@ -1,0 +1,5 @@
+D:\Telerik Academy\Telerik\CSS\4.SASS\Homework-SASS\SampleWebSite\bin\SampleWebSite.dll
+D:\Telerik Academy\Telerik\CSS\4.SASS\Homework-SASS\SampleWebSite\bin\SampleWebSite.pdb
+D:\Telerik Academy\Telerik\CSS\4.SASS\Homework-SASS\SampleWebSite\obj\Debug\SampleWebSite.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\Telerik\CSS\4.SASS\Homework-SASS\SampleWebSite\obj\Debug\SampleWebSite.dll
+D:\Telerik Academy\Telerik\CSS\4.SASS\Homework-SASS\SampleWebSite\obj\Debug\SampleWebSite.pdb

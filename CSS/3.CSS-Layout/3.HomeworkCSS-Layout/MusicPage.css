@@ -1,0 +1,70 @@
+﻿body, html {
+    width:100%;
+    height:100%;
+}
+
+section {
+    border:1px solid grey;
+    border-radius:7px;
+    background-color:#eeeeee;
+    width:50%;
+    margin:0 auto;
+}
+
+section > div {
+    border:1px solid grey;
+    width:84%;
+    margin:20px auto;
+    padding:3%;
+}
+
+.image {
+    border:1px solid grey;
+}
+
+section > div > div {
+    display:inline-block;
+    vertical-align:top;
+}
+
+.buttonContainer {
+    border:none;
+    width:180px;
+    height:30px;
+    margin:0;
+    margin-left:78%;
+    margin-right:5%;
+    display:inline;
+    padding:0;
+}
+
+.buttonContainer div, .buttonContainer img {
+    display:inline-block;
+    border:none;
+    margin:0;
+    padding:0;
+}
+
+.buttonListen {
+    position:relative;
+    left:0px;
+    top:0px;
+}
+
+.tetxListen {
+    position:relative;
+    left:-55px;
+    top:-6px;
+}
+
+.buttonAdd {
+    position:relative;
+    left:-43px;
+    top:2px;
+}
+
+.textAdd {
+    position:relative;
+    left:-86px;
+    top:-6px;
+}

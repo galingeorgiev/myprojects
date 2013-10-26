@@ -1,0 +1,146 @@
+﻿html
+{
+    width: 100%;
+    height: 100%;
+}
+body
+{
+    width: 100%;
+    height: 100%;
+    background-color: #f1f1f1;
+}
+
+body > div
+{
+    display: inline-block;
+    vertical-align: top;
+}
+
+/*Main Container*/
+
+.mainContainer
+{
+    width: 65%;
+    border: 1px solid grey;
+    background-color: #fff;
+    padding: 1%;
+}
+
+.mainContainer > div > div
+{
+    display: inline-block;
+}
+
+.mainContainer > div > div > p
+{
+    margin: 2px;
+    vertical-align: top;
+    font-weight:bold;
+}
+
+.mainContainer > div > div > a
+{
+    color: #ba6867;
+}
+
+.mainContainer > a
+{
+    color: #ba6867;
+    background-color:#fff;
+}
+
+.mainContainer > button
+{
+    width:120px;
+    height:25px;
+    border:1px solid black;
+    
+}
+
+    .mainContainer .previous {
+        background-image:url(pic/LeftArr.png);
+        background-repeat:no-repeat;
+        background-position:left center;
+        background-size:10%;
+    }
+
+    .mainContainer .next {
+        background-image:url(pic/RightArr.png);
+        background-repeat:no-repeat;
+        background-position:right center;
+        background-size:10%;
+    }
+
+.greyBackground
+{
+    background-color: #808080;
+    color: #fff;
+    padding-left: 5px;
+}
+
+/*Left Side Bar*/
+
+.leftSideBar
+{
+    width: 15%;
+}
+
+    .leftSideBar ul li:first-child {
+        font-weight:bold;
+        color:red;
+    }
+
+    .leftSideBar ul {
+        list-style-type:none;
+        padding-left:0;
+    }
+
+    .leftSideBar div img {
+        vertical-align:bottom;
+    }
+
+/*Right Side Bar*/
+
+.rightSideBar
+{
+    width: 15%;
+}
+
+.rightSideBar > div
+{
+    border: 1px solid grey;
+    margin: 1px;
+    background-color: #fff;
+}
+
+.rightSideBar > div > a
+{
+    color: #ba6867;
+    display:block;
+    text-align:center;
+}
+
+.rightSideBar .greyBackground
+{
+    text-align:center;
+    margin:0px;
+}
+
+.rightSideBar input {
+    margin:3% 1% 1% 7%;
+    width:70%;
+}
+
+.rightSideBar .button {
+    width:10%;
+    margin-left:0%;
+}
+
+.rightSideBar button {
+    width:70%;
+    height:40px;
+    margin:1% 15%;
+    background-color:#c0e6fa;
+    border:1px solid #75ccf9;
+    color:#1eacf6;
+}
