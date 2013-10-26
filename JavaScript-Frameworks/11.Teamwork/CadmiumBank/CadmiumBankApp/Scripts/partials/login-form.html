@@ -1,0 +1,12 @@
+﻿<form id="login-form">
+    <fieldset class="k-block k-shadow">
+        <legend>Login</legend>
+        <label class="c-label" for="tb-username">Username</label>
+        <input data-bind="value: username" type="text" id="tb-username" class="k-textbox" />
+        <br />
+        <label class="c-label" for="tb-password">Password</label>
+        <input data-bind="value: password" type="password" id="tb-password" class="k-textbox" />
+        <button data-bind="click: login" class="k-button">Login</button>
+        <span class="err-msg" data-bind="text: errMsg"></span>
+    </fieldset>
+</form>

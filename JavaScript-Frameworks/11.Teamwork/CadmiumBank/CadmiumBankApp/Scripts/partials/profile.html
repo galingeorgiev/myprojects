@@ -1,0 +1,12 @@
+﻿<fieldset class="k-block k-shadow">
+    <legend>Profile Details</legend>
+    <label for="tb-username"><strong>Username: </strong></label>
+    <span data-bind="text: profile.username" id="tb-username" ></span><br />
+    <label for="tb-firstName"><strong>First Name: </strong></label>
+    <span data-bind="text: profile.firstName" id="tb-firstName" ></span><br />
+    <label for="tb-lastName"><strong>Last Name: </strong></label>
+    <span data-bind="text: profile.lastName" id="lastName" ></span><br />
+    <label for="tb-role"><strong>Role: </strong></label>
+    <span data-bind="text: profile.role.Name" id="tb-role" ></span><br />
+    <div data-bind="text: errMsg" ></div>
+</fieldset>

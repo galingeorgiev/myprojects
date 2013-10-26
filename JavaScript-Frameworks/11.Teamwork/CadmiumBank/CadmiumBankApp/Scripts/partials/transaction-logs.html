@@ -1,0 +1,39 @@
+﻿<h4>Transactions</h4>
+<div data-role="grid"
+    data-sortable="true"
+    data-editable="true"
+    data-columns='[{
+                    field: "amount",
+                    width: "10%",
+                    title: "Ammount",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "currency",
+                    width: "10%",
+                    title: "Currency",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "timestamp",
+                    width: "15%",
+                    title: "Transaction date",
+                    type: "date",
+                    format: "{0:dd/MM/yyyy}",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "description",
+                    width: "20%",
+                    title: "Description",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "fromIban",
+                    width: "25%",
+                    title: "From IBAN",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "toIban",
+                    width: "25%",
+                    title: "To IBAN",
+                    attributes: { style: "text-align:center" }
+                    }]',
+                    data-bind="source: transactions">
+</div>

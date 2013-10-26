@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="4d8e3f51-c66d-49df-9377-45c32420b57d">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>CadmiumBankApp/Content/themes/base/minified/jquery-ui.min.css</FileRelativePath>
+        <ProjectRelativePath>CadmiumBankApp/CadmiumBankApp.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>17064505958358012336</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>CadmiumBankApp/Content/themes/base/minified/jquery.ui.datepicker.min.css</FileRelativePath>
+        <ProjectRelativePath>CadmiumBankApp/CadmiumBankApp.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>13384481137087175592</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>CadmiumBankApp/Scripts/kendo/2013.2.716/kendo.js</FileRelativePath>
+        <ProjectRelativePath>CadmiumBankApp/CadmiumBankApp.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>15914987773196497765</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>2510163345644675005</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>5562874942076243517</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>3875955632594656723</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>14649194601902766001</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>16309140775997390058</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>3411427862863193791</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>4790091000040888805</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

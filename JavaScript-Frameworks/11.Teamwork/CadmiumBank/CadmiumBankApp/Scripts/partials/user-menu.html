@@ -1,0 +1,15 @@
+﻿<div id="bank-menu-user">
+    <ul id="menu">
+        <li data-bind="click: accounts">Accounts</li>
+        <li data-bind="click: newAccount">New Account</li>
+        <li data-bind="click: transfer">Transfer</li>
+        <li data-bind="click: admin" id="admin">Admin</li>
+        <li data-bind="click: profile">Profile 
+            <ul> <!-- moving the UL to the next line will cause an IE7 problem -->
+                <li data-bind="click: logout">
+                    Logout
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>

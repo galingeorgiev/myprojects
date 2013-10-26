@@ -1,0 +1,28 @@
+﻿<fieldset class="k-block">
+    <legend>Selected Account</legend>
+    <div>IBAN: <span data-bind="text: myIban"></span></div>
+    <div>Balance: <span data-bind="text: myBalance"></span></div>
+</fieldset>
+
+<ul id="panelbar-current-account">
+    <li class="k-state-active">
+        <span class="k-link k-state-selected">To My Accounts</span>
+        <div>
+            <select data-bind="source: ToAccounts, value: ibanToMyAccounts" data-text-field="iban"  id="Select44" class="k-textbox"></select>
+            <input type="text" data-bind=" value: balance" class="k-textbox"/>
+
+            <input type="button" data-bind=" click: transferFromMyAccounts" value="Transfer" class="k-button"/>
+                        <div data-bind="text: errMsg" class="err-msg"></div>
+        </div>
+    </li>
+    <li>
+        <span>To Other Account</span>
+        <div>
+            <input type="text" data-bind=" value: ibanTo" placeholder="IBAN to Send to" class="k-textbox"/>
+            <input type="text" data-bind=" value: balance" class="k-textbox" />
+
+            <input type="button" data-bind=" click: transfer" value="Transfer" class="k-button"/>
+                        <div data-bind="text: errMsg" class="err-msg"></div>
+        </div>
+    </li>
+</ul>

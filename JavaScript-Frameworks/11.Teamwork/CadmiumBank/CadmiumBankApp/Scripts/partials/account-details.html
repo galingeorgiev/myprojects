@@ -1,0 +1,22 @@
+﻿<fieldset class="k-block k-shadow">
+    <legend><strong>Account details</strong></legend>
+
+    <label for="tb-iban"><strong>IBAN: </strong></label>
+    <span data-bind="text: account.iban" id="tb-iban" ></span>
+    <br />
+    <label for="tb-description"><strong>Description: </strong></label>
+    <span data-bind="text: account.description" id="tb-description" ></span>
+    <br />
+    <label for="tb-balance"><strong>Balance: </strong></label>
+    <span data-bind="text: account.balance" id="tb-balance" ></span>
+    <br />
+    <label for="tb-interestRate"><strong>Interest Rate: </strong></label>
+    <span data-bind="text: account.interestRate" id="tb-interestRate" ></span>
+    <br />
+    <label for="tb-currency"><strong>Currency: </strong></label>
+    <span data-bind="text: account.currency.name" id="tb-currency" ></span>
+    <br />
+    <label for="tb-type"><strong>Account Type: </strong></label>
+    <span data-bind="text: account.type.name" id="tb-type" ></span>
+    <br />
+</fieldset>

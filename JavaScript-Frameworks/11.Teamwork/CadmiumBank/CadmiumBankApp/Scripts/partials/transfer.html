@@ -1,0 +1,30 @@
+﻿<ul id="panelbar">
+    <li class="k-state-active">
+        <span class="k-link k-state-selected">From and To My Accounts</span>
+        <div>
+            <label for="Select2">From</label>
+            <select data-bind="source: FromMyAccounts, value: ibanFromMyAccounts" data-text-field="iban" id="Select2" class="k-textbox"></select>
+            <label for="Select3">To</label>
+            <select data-bind="source: ToAccounts, value: ibanToMyAccounts" data-text-field="iban" id="Select3" class="k-textbox"></select>
+            <label for="Select4">Amount</label>
+            <input type="text" data-bind=" value: balance" class="k-textbox" id="Select4" />
+
+            <input type="button" data-bind=" click: transferFromMyAccounts" value="Transfer" class="k-button" />
+            <div data-bind="text: errMsg" class="err-msg"></div>
+        </div>
+    </li>
+    <li>
+        <span>From My Account to Another Account</span>
+        <div>
+            <label for="Select1">From</label>
+            <select data-bind="source: FromAccounts, value: ibanFrom" data-text-field="iban" id="Select1" class="k-textbox"></select>
+            <label for="to-iban">To</label>
+            <input type="text" data-bind=" value: ibanTo" placeholder="IBAN to Send to" class="k-textbox" id="to-iban" />
+            <label for="amount">Amount</label>
+            <input type="text" data-bind=" value: balance" class="k-textbox" id="amount" />
+
+            <input type="button" data-bind=" click: transfer" value="Transfer" class="k-button" />
+            <div data-bind="text: errMsg" class="err-msg"></div>
+        </div>
+    </li>
+</ul>

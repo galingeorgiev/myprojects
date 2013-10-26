@@ -1,0 +1,49 @@
+﻿<h4>Your accounts</h4>
+<div data-role="grid"
+    data-sortable="true"
+    data-selectable="true"
+    data-pageable="{pageSize: '5'}"
+    data-columns='[
+    {
+                    field: "iban",
+                    width: "25%",
+                    title: "IBAN",
+                    attributes: { style: "text-align:center" }
+                    },{
+                    field: "description",
+                    width: "15%",
+                    title: "Description",
+                    attributes: { style: "text-align:left" }
+                    }, {
+                    field: "currency.name",
+                    width: "10%",
+                    title: "Currency",
+                    attributes: { style: "text-align:center" }
+                    }, {
+                    field: "type.name",
+                    width: "20%",
+                    title: "Type",
+                    attributes: { style: "text-align:center" }
+                    },  {
+                    "command": [{name: "Details", click: kmodel.ShowDetails, text: "Show Details"},
+                             {name: "Transfer", click: kmodel.Transfer, text: "Transfer"}]},
+                    ]',
+    data-bind="source: account">
+</div>
+
+<script>
+    var kmodel = new kendo.observable({
+        ShowDetails: function (e) {
+            e.preventDefault();
+
+                    var dataItem = this.dataItem($(e.currentTarget).closest("tr"));
+                    window.location.href = "#/accounts/" + dataItem.id;
+        },
+        Transfer: function (e) {
+            e.preventDefault();
+
+            var dataItem = this.dataItem($(e.currentTarget).closest("tr"));
+            window.location.href = "#/accounts/" + dataItem.id + "/transfer";
+        }
+    });
+</script>

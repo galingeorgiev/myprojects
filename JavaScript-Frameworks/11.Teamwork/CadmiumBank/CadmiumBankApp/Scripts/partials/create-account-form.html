@@ -1,0 +1,19 @@
+﻿<fieldset id="create-account-form" class="k-block k-shadow">
+    <legend>Create account</legend>
+    <label class="c-label" for="tb-description">Description</label>
+    <input type="text" data-bind="value: description" id="tb-description" class="k-textbox" />
+    <br />
+    <label class="c-label" for="tb-balance">Balance</label>
+    <input type="text" data-bind="value: balance" id="tb-balance" class="k-textbox" />
+    <br />
+    <label class="c-label" for="tb-type">Type</label>
+    <select data-bind="source: types, value: type" data-value-field="id" data-text-field="name" id="tb-type" class="k-textbox" required="required"></select>
+    <br />
+    <label class="c-label" for="tb-currency">Currency</label>
+    <select data-value-field="id" data-text-field="name" data-bind="source: currencies, value: currency" id="tb-currency" class="k-textbox" required="required"></select>
+    <br />
+    <br />
+    <input type="checkbox" data-bind="checked: agreed" name="terms" />I agree with the terms
+    <input type="button" data-bind="enabled: agreed, click: createAccount" value="Create account" />
+    <div class="err-msg" data-bind="text: errMsg"></div>
+</fieldset>

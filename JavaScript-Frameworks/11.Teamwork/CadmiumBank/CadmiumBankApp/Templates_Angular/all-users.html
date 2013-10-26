@@ -1,0 +1,6 @@
+﻿<div id="users" class="k-block k-success-colored">
+    <div class="k-block" data-ng-repeat="user in users">
+        <a class="k-button" href="#/users/{{ user.id }}">User number {{ user.id }}</a>
+        <span>First name: <strong>{{user.firstName}}</strong> Last name: <strong>{{user.lastName}}</strong> Type: <strong>{{user.role.Name}} account</strong></span>
+    </div>
+</div>
